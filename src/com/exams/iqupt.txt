@@ -1,0 +1,2100 @@
+﻿1. KİS-in resurslarının mühafizəsi üçün hansı texnoloğiyalardan istifadə olunur?
+A) ADSL
+B)Wi-Fi 
+C) İnformasiyanın məxfiliyi, tamlığı və həqiqiliyinin təmin olunması üçün verilənlərin kriptoqrafik mühafizəsi
+D) Ethernet
+E) DATA MINING
+C
+2. İnformasiyanın mühafizəsi nədir?
+A) Barəsində qarşıya qoyulmuş informasiya mühafizəsi məqsədinə uyğun, mühafizəsi təmin olması vacib olan  informasiya, informasiya daşıyıcısı və ya informasiya prosesidir.
+B) İnformasiya mühafizəsinin nəticələrinin qarşıya qoyulmuş məqsədlərə uyğunluq dərəcəsidir.
+C) Mühafizə olunan informasiyanın nəzarətsiz sayda informasiya alıcılarına icazəsiz ötürülməsinə qarşı fəaliyyətdir.
+D) Mühafizə olunan informasiyanın itkisinin, mühafizə olunan informasiyaya icazəsiz və qərəzsiz təsirlərin  qarşısını almaq üzrə fəaliyyətdir.
+E) İnformasiyanın qeyri-qanuni ələ keçirilməsinin, dəyişdirilməsinin və məhv edilməsinin mühafizəsi, və həmçinin informasiya resurslsrının, onların işləkliyinin pozulmasına yönəlmiş təsirlərdən mühafizə olunması.
+D
+3. Mühafizə obyekti nədir?
+A) Kompüter sisteminin ixtiyari qurğusu.
+B) Kompüter sisteminin istifadəçiləri, proqramları və prosesləri.
+C) Kompüter sistemində istifadə olunan yalnız verilənlər.
+D) Kompüter sistemində istifadə olunan yalnız informasiya daşıyıcıları.
+E) Barəsində qarşıya qoyulmuş informasiya mühafizəsi məqsədinə uyğun, mühafizəsi təmin olması vacib olan  informasiya, informasiya daşıyıcısı və ya informasiya prosesi.
+E
+4. İnformasiya mühafizəsinin məqsədi nədir?
+A) İnformasiyanın mülkiyyətçisinə, sahibinə, istifadəçisinə informasiyanın mümkün itkisi və/və ya informasiyaya icazəsiz və qərəzsiz təsirlərin nəticəsində  dəyən ziyanın qarşısını almaq.
+B) İnformasiya mühafizəsinin nəticələrinin qarşıya qoyulmuş məqsədlərə uyğunluq dərəcəsidir.
+C) Mühafizə olunan informasiyanın nəzarətsiz yayılaraq onun açılmasına,   icazəsiz daxilolmaya (İOD) və bədniyyətlinin əldə etməsinin qarşısının alınması üzrə fəaliyyətdir. 
+D) Mühafizə olunan informasiyanın nəzarətsiz sayda informasiya alıcılarına icazəsiz ötürülməsinə qarşı fəaliyyətdir.
+E) Maraq göstərən  subyektin mühafizə olunan informasiyanı, ona daxilolmanın hüquqi sənədlərlə və ya informasiyanın mülkiyyətçisi  ya da sahibi tərəfindən müəyyən edilmiş hüquq və ya qaydaların pozulması ilə, əldə edilməsinə qarşı fəaliyyətdir.
+A
+5. İnformasiya mühafizəsinin effektivliyi nədir?
+A) Mühafizə olunan informasiyanın itkisinin, mühafizə olunan informasiyaya icazəsiz və qərəzsiz təsirlərin  qarşısını almaq üzrə fəaliyyətdir.
+B) İnformasiya mühafizəsinin nəticələrinin qarşıya qoyulmuş məqsədlərə uyğunluq dərəcəsidir.
+C) Mühafizə olunan informasiyanın nəzarətsiz sayda informasiya alıcılarına icazəsiz ötürülməsinə qarşı fəaliyyətdir.
+D) Mühafizə olunan informasiyanın nəzarətsiz yayılaraq onun açılmasına,   icazəsiz daxilolmaya (İOD) və bədniyyətlinin əldə etməsinin qarşısının alınması üzrə fəaliyyətdir.
+E) İnformasiyanın mülkiyyətçisinə, sahibinə, istifadəçisinə informasiyanın mümkün itkisi və/və ya informasiyaya icazəsiz və qərəzsiz təsirlərin nəticəsində  dəyən ziyanın qarşısını almaq.
+B
+6. İnformasiyanın itkiyə qarşı mühafizəsi nədir?
+A) Maraq göstərən  subyektin mühafizə olunan informasiyanı, ona daxilolmanın hüquqi sənədlərlə və ya informasiyanın mülkiyyətçisi  ya da sahibi tərəfindən müəyyən edilmiş hüquq və ya qaydaların pozulması ilə, əldə edilməsinə qarşı fəaliyyətdir.
+B) Mühafizə olunan informasiyanın nəzarətsiz sayda informasiya alıcılarına icazəsiz ötürülməsinə qarşı fəaliyyətdir.
+C) Mühafizə olunan informasiyanın nəzarətsiz yayılaraq onun açılmasına,   icazəsiz daxilolmaya (İOD) və bədniyyətlinin əldə etməsinin qarşısının alınması üzrə fəaliyyətdir.
+D) İnformasiyanın qeyri-qanuni ələ keçirilməsinin, dəyişdirilməsinin və məhv edilməsinin mühafizəsi, və həmçinin informasiya resurslsrının, onların işləkliyinin pozulmasına yönəlmiş təsirlərdən mühafizə olunmasıdır.
+E) İnformasiya mühafizəsinin nəticələrinin qarşıya qoyulmuş məqsədlərə uyğunluq dərəcəsidir.
+C
+7. İnformasiyanın açılmasının mühafizəsi nədir?
+A) İnformasiyanın qeyri-qanuni ələ keçirilməsinin, dəyişdirilməsinin və məhv edilməsinin mühafizəsi, və həmçinin informasiya resurslsrının, onların işləkliyinin pozulmasına yönəlmiş təsirlərdən mühafizə olunmasıdır.
+B) Mühafizə olunan informasiyanın nəzarətsiz sayda informasiya alıcılarına icazəsiz ötürülməsinə qarşı fəaliyyətdir.
+C) İnformasiya mühafizəsinin nəticələrinin qarşıya qoyulmuş məqsədlərə uyğunluq dərəcəsidir.
+D) Maraq göstərən  subyektin mühafizə olunan informasiyanı, ona daxilolmanın hüquqi sənədlərlə və ya informasiyanın mülkiyyətçisi  ya da sahibi tərəfindən müəyyən edilmiş hüquq və ya qaydaların pozulması ilə, əldə edilməsinə qarşı fəaliyyətdir.
+E) Mühafizə olunan informasiyanın nəzarətsiz yayılaraq onun açılmasına,   icazəsiz daxilolmaya (İOD) və bədniyyətlinin əldə etməsinin qarşısının alınması üzrə fəaliyyətdir.
+B
+8. İnformasiyanın icazəsiz daxilolmadan (İOD) mühafizəsi nədir? 
+A) İnformasiyaya yalnız məxfilik nişanının mənimsədilməsi. 
+B) İnformasiyanın  yalnız  müəllifinin həqiqiliyinin yoxlanması.
+C) Mühafizə olunan informasiyanın nəzarətsiz sayda informasiya alıcılarına icazəsiz ötürülməsinə qarşı fəaliyyətdir.
+D) Mühafizə olunan informasiyanın nəzarətsiz yayılaraq onun açılmasına,   icazəsiz daxilolmaya (İOD) və bədniyyətlinin əldə etməsinin qarşısının alınması üzrə fəaliyyətdir.
+E) Maraq göstərən  subyektin mühafizə olunan informasiyanı, ona daxilolmanın hüquqi sənədlərlə və ya informasiyanın mülkiyyətçisi  ya da sahibi tərəfindən müəyyən edilmiş hüquq və ya qaydaların pozulması ilə, əldə edilməsinə qarşı fəaliyyətdir.
+E
+9. İnformasiya mühafizə sistemi nədir?
+ A) İnformasiyanın qeyri-qanuni ələ keçirilməsinin, dəyişdirilməsinin və məhv edilməsinin mühafizəsi, və həmçinin informasiya resurslsrının, onların işləkliyinin pozulmasına yönəlmiş təsirlərdən mühafizə olunmasıdır.
+B) Bir-biri ilə əlaqəli və verilənlər mübadiləsi aparan, müxtəlif  muxtariyyat səviyyəsinə malik olan çoxlu sayda komponentlərdən ibarət olan mürəkkəb sistemdir.
+C) Qəbul olunmuş təhlükəsizlik siyasətinə uyğun, KS-də informasiya mühafizəsini təmin edən hüquqi normaların, təşkilati tədbirlərin, texniki, proqram və kriptoqrafik vasitələrin vahid kompleksidir.
+D) Bir və ya bir neçəsi proqrama uyğun hərəkət edərək verilənlərin avtomatlaşdırılmış emalını həyata keçirən ixtiyari qurğu və ya bir biri ilə əlaqəli və ya yanaşı qurğular.
+E) Hesablama prosesini həyata keçirən texniki vasitələlərin idarə olunmasını təmin edən proqramlar toplusu.
+C
+10. İnformasiya təhlükəsizliyi nədir?
+A) İnformasiyanın qeyri-qanuni ələ keçirilməsinin, dəyişdirilməsinin və məhv edilməsinin mühafizəsi, və həmçinin informasiya resurslsrının, onların işləkliyinin pozulmasına yönəlmiş təsirlərdən mühafizə olunması. 
+B) Maraq göstərən  subyektin mühafizə olunan informasiyanı, ona daxilolmanın hüquqi sənədlərlə və ya informasiyanın mülkiyyətçisi  ya da sahibi tərəfindən müəyyən edilmiş hüquq və ya qaydaların pozulması ilə, əldə edilməsinə qarşı fəaliyyətdir.
+C) Mühafizə olunan informasiyanın nəzarətsiz yayılaraq onun açılmasına,   icazəsiz daxilolmaya (İOD) və bədniyyətlinin əldə etməsinin qarşısının alınması üzrə fəaliyyətdir.
+D) Mühafizə olunan informasiyanın nəzarətsiz sayda informasiya alıcılarına icazəsiz ötürülməsinə qarşı fəaliyyətdir.
+E) İnformasiya mühafizəsinin nəticələrinin qarşıya qoyulmuş məqsədlərə uyğunluq dərəcəsidir.
+A
+11. İnformasiyanın emalının müasir avtomatlaşdırılmış sistemi nədir?
+A) Hesablama prosesini həyata keçirən texniki vasitələlərin idarə olunmasını təmin edən proqramlar toplusu.
+B) Qəbul olunmuş təhlükəsizlik siyasətinə uyğun, KS-də informasiya mühafizəsini təmin edən hüquqi normaların, təşkilati tədbirlərin, texniki, proqram və kriptoqrafik vasitələrin vahid kompleksidir.
+C) Bir və ya bir neçəsi proqrama uyğun hərəkət edərək verilənlərin avtomatlaşdırılmış emalını həyata keçirən ixtiyari qurğu və ya bir biri ilə əlaqəli və ya yanaşı qurğular.
+D) Bir-biri ilə əlaqəli və verilənlər mübadiləsi aparan, müxtəlif  muxtariyyat səviyyəsinə malik olan çoxlu sayda komponentlərdən ibarət olan mürəkkəb sistemdir.
+E) Qarşıya qoyulan məqsədə nail olmaq üçün informasiyanın toplanması, saxlanması, axtarışı, emalı və istifadəçilərə çatdırılması proseslərini yerinə yetirən informasiya texnologiyaları vasitələrinin və metodlarının qarşılıqlı əlaqəli və nizamlı toplusudur.
+D
+12. İnformasiyanın emalının müasir avtomatlaşdırılmış sisteminin komponentləri hansılardır?
+A) aparat vasitələri, proqram təminatı, əməliyyat sistemi və sistem proqramları, verilənlər, şəbəkələr;
+B) aparat vasitələri, proqram təminatı, telekommunikasiya vasitələri, verilənlər, personaı;
+C) proqram təminatı, telekommunikasiya vasitələri, şəbəkələr, əməliyyat sistemi və sistem proqramları, personal;
+D) telekommunikasiya vasitələri, İnternet, personal, aparat vasitələri, verilənlər;
+E) aparat vasitələri, proqram təminatı, əməliyyat sistemi və sistem proqramları, verilənlər, personal.
+E
+13. Avtomatlaşdırılmış sistemdə informasiyanın təsviri üçün kompüter mühitinin hansı fiziki qurğuları  uyğundur?
+A) informasiyanı saxlayan, qəbul edən və ya göndərən, sistemin passiv komponentləri;
+B) informasiyanın obyektdən subyektə axınına və ya sistemin vəziyyətinin dəyişməsinə səbəb ola bilən, sistemin aktiv komponentləri;
+C) kompüter sisteminin xarici qurğuları (terminallar, çap qurğuları, müxtəlif yaddaş daşıyıcıları, rabitə xəttləri və kanalları), əməli yaddaş, fayllar, yazılar və s.  şəklində informasiyanın maşın daşıyıcıları;
+D) videokart, displey;
+E) telekommunikasiya vasitələri, lokal şəbəkə və İnternet.
+C
+14. Avtomatlaşdırılmış sistemdə obyektlərə kompüter mühitinin hansı fiziki qurğuları uyğundur?
+A) telekommunikasiya vasitələri, lokal şəbəkə və İnternet;
+B) informasiyanı saxlayan, qəbul edən və ya göndərən, sistemin passiv komponentləri;
+C) informasiyanın obyektdən subyektə axınına və ya sistemin vəziyyətinin dəyişməsinə səbəb ola bilən, sistemin aktiv komponentləri;
+D) kompüter sisteminin xarici qurğuları (terminallar, çap qurğuları, müxtəlif yaddaş daşıyıcıları, rabitə xəttləri və kanalları), əməli yaddaş, fayllar, yazılar və s.  şəklində informasiyanın maşın daşıyıcıları;
+E) videokart, displey.
+B
+15. Avtomatlaşdırılmış sistemdə subyektlərə kompüter mühitinin hansı fiziki qurğuları uyğundur?
+A) kompüter sisteminin xarici qurğuları (terminallar, çap qurğuları, müxtəlif yaddaş daşıyıcıları, rabitə xəttləri və kanalları), əməli yaddaş, fayllar, yazılar və s.  şəklində informasiyanın maşın daşıyıcıları;
+B) videokart, displey;
+C) informasiyanı saxlayan, qəbul edən və ya göndərən, sistemin passiv komponentləri;
+D) telekommunikasiya vasitələri, lokal şəbəkə və İnternet;
+E) informasiyanın obyektdən subyektə axınına və ya sistemin vəziyyətinin dəyişməsinə səbəb ola bilən, sistemin aktiv komponentləri.
+ E
+16. Verilənlərin məxfiliyi nədir?
+A) informasiyanın ötürmə və saxlama prosesində öz strukturunu və/və ya məzmununu saxlaması xassəsidir;
+B) subyektin, həçinin texniki vasitələrin köməyi ilə,  informasiya ilə tanış olma imkanını almasıdır;
+C) informasiyanın xassəsi olub, onun mənbəsi olan subyektə, ya da bu informasiyanın qəbul olunduğu subyektə  ciddi mənsub olmasında ifadə olunur;
+D) verilənlərin təyin olunmuş statusu olub, onların lazımi mühafizə dərəcəsini təyin edir;
+E) istifadəçilərin verilənlərə daxilolma imkanı.
+D
+17. Verilənlərin tamlığı nədir?
+A) istifadəçilərin verilənlərə daxilolma imkanı;
+B) informasiyanın ötürmə və saxlama prosesində öz strukturunu və/və ya məzmununu saxlaması xassəsidir;
+C) verilənlərin təyin olunmuş statusu olub, onların lazımi mühafizə dərəcəsini təyin edir;
+D) informasiyanın xassəsi olub, onun mənbəsi olan subyektə, ya da bu informasiyanın qəbul olunduğu subyektə  ciddi mənsub olmasında ifadə olunur;
+E) subyektin, həçinin texniki vasitələrin köməyi ilə,  informasiya ilə tanış olma imkanını almasıdır.
+B
+18. İnformasiyanın həqiqiliyi nədir?
+A) informasiyanın xassəsi olub, onun mənbəsi olan subyektə, ya da bu informasiyanın qəbul olunduğu subyektə  ciddi mənsub olmasında ifadə olunur;
+B) verilənlərin təyin olunmuş statusu olub, onların lazımi mühafizə dərəcəsini təyin edir;
+C) subyektin, həçinin texniki vasitələrin köməyi ilə,  informasiya ilə tanış olma imkanını almasıdır;
+D) istifadəçilərin verilənlərə daxilolma imkanı;
+E) informasiyanın ötürmə və saxlama prosesində öz strukturunu və/və ya məzmununu saxlaması xassəsidir.
+A
+19. Verilənlərə əlyetərlik nədir?
+A) subyektin, həçinin texniki vasitələrin köməyi ilə,  informasiya ilə tanış olma imkanını almasıdır;
+B) informasiyanın ötürmə və saxlama prosesində öz strukturunu və/və ya məzmununu saxlaması xassəsidir;
+C) istifadəçilərin verilənlərə daxilolma imkanı;
+D) subyektin, həçinin texniki vasitələrin köməyi ilə,  informasiya ilə tanış olma imkanını almasıdır;
+E) informasiyanın xassəsi olub, onun mənbəsi olan subyektə, ya da bu informasiyanın qəbul olunduğu subyektə  ciddi mənsub olmasında ifadə olunur.
+C
+20.  İnformasiyaya daxil olma nədir?
+A) subyektin, həçinin texniki vasitələrin köməyi ilə,  informasiya ilə tanış olma imkanını almasıdır;
+B) istifadəçilərin verilənlərə daxilolma imkanı;
+C) informasiyanın ötürmə və saxlama prosesində öz strukturunu və/və ya məzmununu saxlaması xassəsidir;
+D) subyektin, həçinin texniki vasitələrin köməyi ilə,  informasiya ilə tanış olma imkanını almasıdır;
+E) informasiyanın xassəsi olub, onun mənbəsi olan subyektə, ya da bu informasiyanın qəbul olunduğu subyektə  ciddi mənsub olmasında ifadə olunur.
+A
+21. İdentifikator nədir?
+A) subyektin həqiqi adıdır;
+B) subyektin rəqəm informasiyasından ibarət olan nömrəsidir;
+C) subyektin həqiqiliyini yoxlama prosesidir;
+D) obyektlə əlaqələndirilən  müəyyən informasiyadır (rəqəm, simvol sətri);
+E) sistemin (şəbəkənin) hər bir subyektini identifikasiya edən və onunla əlaqələndirilən müəyyən informasiyadır (rəqəm, simvol sətri).
+E
+22. Subyektin identifikasiyası nədir?
+A) subyektin  identifikatoruna görə həqiqi olmasının yoxlanmasıdır;
+B) subyektin onun identifikatoruna görə tanınması prosesidir;
+C) subyektə sistemin (şəbəkənin) uyğun səlahiyyətlərinin  və  əlyetər resurslarının təqdim olunması prosedurudur;
+D) subyektə sistemdə (şəbəkədə) identifikatorun mənimsədilməsi prosedurudur;
+E) subyektə sistemdə (şəbəkədə) qeydiyyat yazısının mənimsədilməsi prosedurudur.
+B
+23. Subyektin autentifikasiyası nədir?
+A) subyektə sistemdə (şəbəkədə) qeydiyyat yazısının mənimsədilməsi prosedurudur;
+B) subyektə sistemin (şəbəkənin) uyğun səlahiyyətlərinin  və  əlyetər resurslarının təqdim olunması prosedurudur;
+C) subyektin  identifikatoruna görə həqiqi olmasının yoxlanmasıdır;
+D) subyektin onun identifikatoruna görə tanınması prosesidir;
+E) subyektə sistemdə (şəbəkədə) identifikatorun mənimsədilməsi prosedurudur.
+C
+24. Subyektin avtorizasiyası nədir?
+A) subyektə sistemin (şəbəkənin) uyğun səlahiyyətlərinin  və  əlyetər resurslarının təqdim olunması prosedurudur;
+B) subyektə sistemdə (şəbəkədə) identifikatorun mənimsədilməsi prosedurudur;
+C) subyektə sistemdə (şəbəkədə) qeydiyyat yazısının mənimsədilməsi prosedurudur;
+D) subyektin  identifikatoruna görə həqiqi olmasının yoxlanmasıdır;
+E) subyektin onun identifikatoruna görə tanınması prosesidir.
+A
+25. KİS-in resurslarının mühafizəsi üçün hansı texnoloğiyalardan istifadə olunur?
+A) ADSL; 
+B)Wi-Fi; 
+C) Ethernet;
+D) şəbəkənin istifadəçilərinin və obyektlərinin həqiqiliyinin yoxlanması üçün autentifikasiya texnologiyaları;
+E) DATA MINING.
+D
+26. Kompüter sisteminə hücum nədir?
+A) bədniyyətlinin kompüter sisteminin zəif nöqtələrinin bilməsidir;
+B) bədniyyət tərəfindən kompüter sisteminin bu və ya digər zəif nöqtələrinin axtarış və /və ya istifadəsidir;
+C) kompüter sisteminə identifikasiya və autentifikasiya proseslərini keçməklə daxil olmaq;
+D) kompüter sisteminin qurğularını ələ keçirmək;
+E) kompüter sistemini tamamilə ələ keçirmək.
+B
+27. Avtomatlaşdırılmış sistemin  (AS) təhlükəsizliyinə təhdid  dedikdə nə başa düşülür?
+A) AS-in qurğularının və ya proqram təminatının mənəvi cətətdən köhnəlməsi;
+B) AS-in inzibatçının nəzarətindən kənar olması;
+C) AS-in istifadəçilərinin səviyyəsinin aşağı olması;
+D) AS-in təhlükəsizlik siyasətinin düzgün yerinə yetirilməməsi;
+E) AS-in təhlükəsizliyinə düzünə və ya dolayısı  ilə  xətər gətirə biləcək, AS-ə təsir imkanı.
+E
+28. Baş vermə təbiətinə görə təhdid hansıdır?
+A) personalın səhvi və ya səhlənkarlığı nəticəsində yaranan təhdidlər;
+B) təbii mühit;
+C) AS-ə obyektiv fiziki proseslərin və ya təbiət təzahürlərinin təsirinin nəticəsində yaranan, təbii təhdidlər;
+D) qərəzli hərəkətlərin nəticəsində yaranan təhdidlər;
+E) AS-in nəzarət zonasından kənar təhdidlər.
+C
+29. Təzahürün qərəzlilik dərəcəsinə görə təhdid hansıdır?
+A) insan fəaliyyətinin   nəticəsində yaranan, süni təhdidlər;
+B) qərəzli hərəkətlərin nəticəsində yaranan təhdidlər;
+C) icazə verilən proqram-aparat vasitələri ilə yaranan təhdidlər;
+D) AS-in aktivliyindən asılı olmayaraq yaranan təhdidlər;
+E) realizə edilməsi zamanı AS-in strukturunda və məzmununda heç bir dəyişiklik etməyən passiv təhdidlər. 
+B
+30. Bilavasitə təhdid mənbəyi hansıdır?
+A) insan;
+B) AS-in nəzarət zonası əhatəsində yaranan təhdidlər;
+C) təsiri zamanı AS-in strukturuna və məzmununa  dəyişiklik edən  aktiv təhdidlər;
+D) AS-in resurslarına daxilolma etapında üzə çıxan təhdidlər;
+E) AS-in resurslarına standart yolla daxilolmanı istifadə edərək həyata keçirən təhdidlər. 
+A
+31. Təhdid mənbəyinin yeri hansıdır?
+A) yalnız verilənlərin emalı prosesində yaranan təhdidlər;
+B) AS -in resurslarına daxilolmaya icazə verildikdən sonra həyata keçirilən təhdidlər;
+C) AS-in resurslarına gizli standart olmayan yolla daxilolmanı istifadə edərək həyata keçirən təhdidlər;
+D) xarici yaddaş qurğularında yerləşən informasiyaya daxil olma təhdidləri;
+E) bilavasitə AS.
+E
+32. AS-in aktivliyindən asıllılıq dərəcəsinə görə təhdid hansıdır?
+A) AS-in resurslarına gizli standart olmayan yolla daxilolmanı istifadə edərək həyata keçirən təhdidlər;
+B) əməli yaddaşda yerləşən informasiyaya daxil olma təhdidləri;
+C) AS-in aktivliyindən asılı olmayaraq yaranan təhdidlər;
+D) icazə verilməyən proqram-aparat vasitələri ilə yaranan təhdidlər;
+E) insan fəaliyyətinin   nəticəsində yaranan, süni təhdidlər.
+C
+33. AS-ə təsir səviyyəsinə görə təhdid hansıdır?
+A) rabitə xəttlərində dövr edən informasiyaya daxil olma təhdidləri;
+B) AS-ə obyektiv fiziki proseslərin və ya təbiət təzahürlərinin təsirinin nəticəsində yaranan, təbii təhdidlər;
+C) yalnız verilənlərin emalı prosesində yaranan təhdidlər;
+D) realizə edilməsi zamanı AS-in strukturunda və məzmununda heç bir dəyişiklik etməyən passiv təhdidlər;
+E) AS-in resurslarına daxil olma etapında üzə çıxan təhdidlər.
+D
+34. AS-in resurslarına istifadəçilərin və ya proqramların daxil olma etaplarına görə təhdid hansıdır?
+A) terminalda əks olunan və ya printerdə çap olunan  informasiyaya daxil olma təhdidləri;
+B) AS-in resurslarına daxilolma etapında üzə çıxan təhdidlər;
+C) AS-in nəzarət zonasından kənar  yaranan təhdidlər;
+D) təbii mühitdə yaranan təhdidlər;
+E) personalın səhvi və ya səhlənkarlığı nəticəsində yaranan təhdidlər.
+B
+35. AS-in resurslarına daxil olma üsuluna görə təhdid hansıdır?
+A) qərəzli hərəkətlərin nəticəsində yaranan təhdidlər;
+B) icazə verilməyən proqram-aparat vasitələridə yaranan təhdidlər;
+C) AS-in resurslarına standart yolla daxil olmanı istifadə edərək həyata keçirən təhdidlər;
+D) təsiri zamanı AS-in strukturuna və məzmununa  dəyişiklik edən  aktiv təhdidlər;
+E) icazə verilən proqram-aparat vasitələri ilə yaranan təhdidlər. 
+C
+36. AS-də saxlanılan və emal olunan informasiyanın, cari yerləşdiyi yerə görə təhdid hansıdır?
+A) xarici yaddaş qurğularında yerləşən informasiyaya daxil olma təhdidləri;
+B) AS-in nəzarət zonası əhatəsində  yaranan təhdidlər;
+C) AS-in aktivliyindən asılı olmayaraq  yaranan təhdidlər;
+D) realizə edilməsi zamanı AS-in strukturunda və məzmununda heç bir dəyişiklik etməyən passiv təhdidlər;
+E) AS-in resurslarına standart yolla daxilolmanı istifadə edərək həyata keçirən təhdidlər. 
+A
+37. KİS-in resurslarının mühafizəsi üçün hansı texnoloğiyalardan istifadə olunur?
+A) ADSL; 
+B)Wi-Fi; 
+C) Ethernet;
+D) DATA MINING;
+E) kütləvi rabitə şəbəkələrinə qoşularkən korporativ şəbəkəni xarici təhlükələrdən mühafizə etmək üçün şəbəkəarası ekran texnologiyaları.
+E
+38. AS-in istismarı zamanı aşağıda göstərilənlərdən hansı təsadüfi təsirlərin səbəbinə aid deyil?
+A) təbii fəlakət və elektrik cərəyanının söndürülməsi səbəbi ilə qəza situasiyaları;
+B) proqram təminatının səhvi;
+C) aparatların işləməməsi və nasazlığı;
+D) pozucunun məqsədəyönlü hərəkətləri;
+E) xidməti personalın və istifadəçilərin işində səhvlər.
+D
+39. Baş vermə təbiətinə görə təhdid hansıdır?
+A) AS-in resurslarına daxil olmaya icazə verildikdən sonra həyata keçirilən təhdidlər;
+B) xarici yaddaş qurğularında yerləşən informasiyaya daxil olma təhdidləri;
+C) insan fəaliyyətinin   nəticəsində yaranan, süni təhdidlər;  
+D) AS-in nəzarət zonasından kənarda yaranan təhdidlər;
+E) AS-in aktivliyindən asılı olmayaraq yaranan təhdidlər.
+C
+40. Təzahürün qərəzlilik dərəcəsinə görə təhdid hansıdır?
+A) yalnız verilənlərin emalı prosesində yaranan təhdidlər;
+B) personalın səhvi və ya səhlənkarlığı nəticəsində yaranan təhdidlər;
+C) AS-in nəzarət zonası əhatəsində yaranan təhdidlər;
+D) əməli yaddaşda yerləşən informasiyaya daxil olma təhdidləri;
+E) AS-in resurslarına daxil olma etapında üzə çıxan təhdidlər.
+B
+41. Bilavasitə təhdid mənbəyi hansıdır?
+A) təsiri zamanı AS-in strukturuna və məzmununa  dəyişiklik edən  aktiv təhdidlər;
+B) təbii mühit;
+C) xarici yaddaş qurğularında yerləşən informasiyaya daxil olma təhdidləri;
+D) AS-in resurslarına daxil olmaya icazə verildikdən sonra həyata keçirilən təhdidlər;
+E) AS-ə obyektiv fiziki proseslərin və ya təbiət təzahürlərinin təsirinin nəticəsində yaranan, təbii təhdidlər.
+B
+42. Təhdid mənbəyinin yeri hansıdır?
+A) AS-in nəzarət zonasından kənar;
+B) icazə verilməyən proqram-aparat vasitələri;
+C) icazə verilən proqram-aparat vasitələri;
+D) təbii mühit;
+E) insan.
+A
+43. AS-in aktivliyindən asıllılıq dərəcəsi hansıdır?
+A) realizə edilməsi zamanı AS-in strukturunda və məzmununda heç bir dəyişiklik etməyən passiv təhdidlər;
+B) qərəzli hərəkətlərin nəticəsində yaranan təhdidlər;
+C) bilavasitə AS;
+D) yalnız verilənlərin emalı prosesində;
+E) rabitə xəttlərində dövr edən informasiyaya daxilolma təhdidləri.
+D
+44. AS-ə təsir səviyyəsinə görə təhdid hansıdır?
+A) AS-in resurslarına standart yolla daxilolmanı istifadə edərək həyata keçirən təhdidlər;
+B) terminalda əks olunan və ya printerdə çap olunan  informasiyaya daxilolma təhdidləri;
+C) təsiri zamanı AS-in strukturuna və məzmununa  dəyişiklik edən  aktiv təhdidlər;
+D) insan fəaliyyətinin   nəticəsində yaranan, süni təhdidlər;
+E) personalın səhvi və ya səhlənkarlığı nəticəsində yaranan təhdidlər.
+C
+45. AS-in resurslarına istifadəçilərin və ya proqramların daxil olma etaplarına görə təhdid hansıdır?
+A) AS-in resurslarına gizli standart olmayan yolla daxilolmanı istifadə edərək həyata keçirən təhdidlər;
+B) əməli yaddaşda yerləşən informasiyaya daxilolma təhdidləri;
+C) AS-in resurslarına daxil olmaya icazə verildikdən sonra həyata keçirilən təhdidlər;
+D) terminalda əks olunan və ya printerdə çap olunan  informasiyaya daxilolma təhdidləri;
+E) bilavasitə AS-də yaranan təhdidlər.
+C
+46. AS-in resurslarına daxil olma üsuluna görə təhdid hansıdır?
+A) xarici yaddaş qurğularında yerləşən informasiyaya daxil olma təhdidləri;
+B) əməli yaddaşda yerləşən informasiyaya daxilolma təhdidləri;
+C) rabitə xəttlərində dövr edən informasiyaya daxilolma təhdidləri;
+D) AS-in resurslarına daxil olmaya icazə verildikdən sonra həyata keçirilən təhdidlər;
+E) AS-in resurslarına gizli standart olmayan yolla daxilolmanı istifadə edərək həyata keçirən təhdidlər.
+E
+47. AS-də saxlanılan və emal olunan informasiyanın, cari yerləşdiyi yer hansıdır?
+A) AS-in nəzarət zonasından kənar;
+B) AS-in nəzarət zonası əhatəsi; 
+C) bilavasitə AS;
+D) təbii mühit;
+E) rabitə xəttlərində dövr edən informasiyaya daxil olma təhdidləri.
+E
+48. KİS-in resurslarının mühafizəsi üçün hansı texnoloğiyalardan istifadə olunur?
+A) ADSL; 
+B)Wi-Fi; 
+C) informasiyanın açıq kanallarla ötürülməsi zamanı onun qorunması üçün virtual mühafizə olunan kanallar  və VPN səbəkələr  texnologiyaları;
+D) DATA MINING;
+E) Ethernet;
+C
+49. Təşkilatın təhlükəsizlik siyasəti nədir?
+A) sənədləşdirilmiş idarəetmə qərarlarının  toplusudur  ki, onlar informasiyanın  və onunla əlaqəli resursların qorunmasına yönəlmişlər;
+B) müəyyən mövzu sahəsində qərarların qəbul edilməsi üçün istifadə olunan proqramlar toplusudur;
+C) yalnız daxilolma qərarlarını özündə cəmləşdirən sənəddir;
+D) təşkilatın biznes fəaliyyətini mühafizə edən siyasətdir;
+E) təşkilatın daxili qanunlarını və qaydalarını özündə birləşdirən sənəddir.
+A
+50. Təhlükəsizlik siyasəti nəyin əsasında qurulur?
+A) təşkilatın biznes-planına dəyə biləcək ziyanların təhlili əsasında;
+B) təşkilatın informasiya sistemi üçün qəbul edilən real risklərin təhlili əsasında;
+C) təşkilatda mövcud olan texniki və proqram vasitələrinin istifadəsinin təhlili əsasında;
+D) təşkilatın mənfəətinə dəyə biləcək ziyanların təhlili əsasında;
+C) personalın təhlükəsizliyinin təmin edilməsinin  təhlili əsasında.
+B
+51. Təhlükəsizlik siyasətini yerinə yetirmək üçün nə tərtib olunur?
+A) adi sənəd;
+B) proqram;
+C) rəhbərliyin cərəncamı;
+D) təqdimat;
+C) məruzə.
+B
+52. Təhlükəsizlik siyasəti sənədinə hansı bölmə daxil deyil?
+A) problemin təsviri;
+B) tətbiq sahəsi;
+C) təşkilatın mövqeyi;
+D) mövcud texniki və proqram vasitələri;
+E) rolların və vəzifələrin bölüşdürülməsi.
+D
+53. Problemin təsviri sənədində nə əks olunur?
+A) bütün aparat, proqram və informasiya resursları;
+B) verilənlərin tamlığının, əlyetərliyinin və   məxfiliyinin, həmçinin onların dolğunluğunun və aktuallığının təmin edilməsi;
+C) gücləndirilmiş təhlükəsizlik tədbirləri;
+D) şəbəkənin müvafiq məsul şəxslərinin və istifadəçilərinin vəzifələri;
+E) sanksiyalar.
+C
+54. Tətbiq sahəsi sənədində nə əks olunur?
+A) sanksiyalar;
+B) şəbəkənin müvafiq məsul şəxslərinin və istifadəçilərinin vəzifələri;
+C) verilənlərin tamlığının, əlyetərliyinin və   məxfiliyinin, həmçinin onların dolğunluğunun və aktuallığının təmin edilməsi;
+D) gücləndirilmiş təhlükəsizlik tədbirləri;
+E) bütün aparat, proqram və informasiya resursları.
+E
+55. Təşkilatın mövqeyi sənədində əsas məqsədlər kimi nə əks olunur?
+A) şəbəkənin müvafiq məsul şəxslərinin və istifadəçilərinin vəzifələri;
+B) gücləndirilmiş təhlükəsizlik tədbirləri;
+C) bütün aparat, proqram və informasiya resursları;
+D) verilənlərin tamlığının, əlyetərliyinin və   məxfiliyinin, həmçinin onların dolğunluğunun və aktuallığının təmin edilməsi;
+E) normativ sənədlərə uyğun, təhlükəsizlik səviyyəsinin təmin edilməsi.
+D
+56. Rolların və vəzifələrin bölüşdürülməsi sənədində nə əks olunur?
+A) şəbəkənin müvafiq məsul şəxslərinin və istifadəçilərinin vəzifələri;
+B) gücləndirilmiş təhlükəsizlik tədbirləri;
+C) sanksiyalar;
+D) qoruyucu tədbirlərin seçilməsində iqtisadi məqsədəuyğunluğa əməl olunması;
+E) verilənlərin tamlığının, əlyetərliyinin və   məxfiliyinin, həmçinin onların dolğunluğunun və aktuallığının təmin edilməsi.
+A
+57. Sanksiyalar sənədində nə əks olunur?
+A) gücləndirilmiş təhlükəsizlik tədbirləri;
+B) personal tərəfindən təhlükəsizliyin pozulması hallarında rəhbərlik tərəfindən intizam tədbirləri;
+C) şəbəkənin müvafiq məsul şəxslərinin və istifadəçilərinin vəzifələri;
+D) verilənlərin tamlığının, əlyetərliyinin və   məxfiliyinin, həmçinin onların dolğunluğunun və aktuallığının təmin edilməsi;
+E) lokal şəbəkənin hər bir funksional sahəsində təhlükəsizliyin təmin edilməsi.
+B
+58. Bölmələrin rəhbərlərinin vəzifəsi hansıdir?
+A) lokal şəbəkənin avadanlıqlarının, o cümlədən digər şəbəkələr  ilə interfeyslərin, qorunmasını təmin etmək;
+B) xidmət göstərdiyi obyektlərə istifadəçilərin daxilolma hüquqlarını idarə etmək;
+C) bu təşkilatda qəbul olunmuş qanunları, qaydaları,  təhlükəsizlik siyasətini,  təhlükəsizlik prosedurlarını  bilmək və əməl etmək, öz informasiyasının məxfiliyi və tamlığını təmin etmək üçün mövcud mühafizə  mexanizmlərindən  istifadə etmək;
+D)mütəmadi olaraq  fayl serverlərdə saxlanılan informasiyanın ehtiyat surətini çıxarmaq;
+E) istifadəçilərə  təhlükəsizlik siyasətinin müddəalarını  çatdırmaq və onlarla əlaqə.
+E
+59. Lokal şəbəkənin inzibatçılarının vəzifəsi hansıdir?
+A) istifadəçilərə  təhlükəsizlik siyasətinin müddəalarını  çatdırmaq və onlarla əlaqə;
+B) gizli təhlükəyə səbəb olan  hadisələrə operativ və effektiv reaksiya vermək, təhdidlərin dəf edilməsində,  pozucuların aşkar edilməsində  və onların cəzalandırılması üçün informasiyanın təqdim olunmasında  kömək etmək;
+C) gizli təhlükəyə səbəb olan  hadisələrə operativ və effektiv reaksiya vermək, mühafizənin pozulması cəhdləri barədə servis inzibatçılarına  məlumat vermək;
+D) faylların mühafizə  mexanizmini istifadə etmək və lazımınca daxilolma hüquqlarını vermək;
+E) şəbəkə təhlükəsizlik qaydalarını pozan istifadəçiləri cəzalandırmaq.
+C
+60. İstifadəçilərin vəzifəsi hansıdır?
+A) təhlükəsizliyin pozuntularlı və digər şübhəli hallarda administratorlara və ya rəhbərliyə məlumat vermək;
+B) istifadəçilərə  təhlükəsizlik siyasətinin müddəalarını  çatdırmaq və onlarla əlaqə;
+C) auditin  və şübhəli halların aşkar edilməsi  üçün sınanmış vasitələrdən istifadə etmək,  hər gün ümumilikdə şəbəkəyə və  xüsusilə fayl serverlərinə aid qeydiyyat məlumatları təhlil etmək;
+D) mütəmadi olaraq servis tərəfindən emal olunan informasiyanın ehtiyat surətini çıxarmaq;
+E) istifadəçilərə  təhlükəsizlik siyasətinin müddəalarını  çatdırmaq və onlarla əlaqə.
+C
+61. KİS-in resurslarının mühafizəsi üçün hansı texnoloğiyalardan istifadə olunur?
+A) ADSL; 
+B)Wi-Fi; 
+C) DATA MINING;
+D) token (smart-kart, touch-memory, USB-portlar üçün açarlar və s.) və digər autentifikasiya vasitələrini tətbiq etməklə istifadəçilərin zəmanətli identifikasiyası;
+E) Ethernet;
+D
+62. Təşkilatın təhlükəsizlik siyasətinə hansı strukturlar daxildir?
+A) fərdi təhlükəsizlik siyasəti, baza təhlükəsizlik siyasəti, təhlükəsizlik prosedurları;
+B) təşkilatın biznes-planı, ixtisaslaşdırılmış təhlükəsizlik siyasətləri, təhlükəsizlik prosedurları;
+C) baza təhlükəsizlik siyasəti, ixtisaslaşdırılmış təhlükəsizlik siyasətləri, təhlükəsizlik prosedurları;
+D) təşkilatın biznes-planı, daxili nizam-intizam qaydaları, baza təhlükəsizlik siyasəti;
+E) baza təhlükəsizlik siyasəti, ixtisaslaşdırılmış təhlükəsizlik siyasətləri, daxili nizam-intizam qaydaları.
+C
+63. Təhlükəsizlik siyasətinin məqsədini hansı sənəd təsvir edir?
+A) baza təhlükəsizlik siyasətinin təsviri;
+B) təhlükəsizlik siyasətinin icmalı;
+C) təhlükəsizlik arxitekturası üzrə rəhbərlik;
+D) yuxarı təşkilatlardan alınan sərəncam;
+E) istifadəçilərin vəzifələrini əks etdirən sənəd.
+B
+64. İcazə verilmiş və qadağan olunmuş hərəkətləri müəyyən edən sənəd hansıdır?
+A) təhlükəsizlik arxitekturası üzrə rəhbərlik;
+B) yuxarı təşkilatlardan alınan sərəncam;
+C) təhlükəsizlik siyasətinin icmalı;
+D) baza təhlükəsizlik siyasətinin təsviri;
+E) istifadəçilərin vəzifələrini əks etdirən sənəd.
+D
+65. Arxitektura  komponentlərində təhlükəsizlik mexanizmlərinin  realizə olunmasını hansı sənəd təsvir edir?
+A) istifadəçilərin vəzifələrini əks etdirən sənəd;
+B) baza təhlükəsizlik siyasətinin təsviri;
+C) yuxarı təşkilatlardan alınan sərəncam;
+D) təhlükəsizlik siyasətinin icmalı;
+E) təhlükəsizlik arxitekturası üzrə rəhbərlik.
+E
+66. Baza təhlükəsizlik siyasəti nədir?
+A) təşkilatın informasiyanın necə emal etməsini, ona kimin daxil olmasını və bunun necə edilə biləcəyini  müəyyən edir;
+B) icazə verilən istifadə siyasətidir;
+C) parolların və s. mühafizəsi siyasətidir;
+D) şəbəkələrarası ekranlarım  konfiqurasiyası siyasətidir;
+E) VPN virtual mühafizə olunmuş  şəbəkələrinin təhlükəsizlik siyasətidir.
+A
+67. İxtisaslaşdırılmış təhlükəsizlik siyasəti nədir?
+A) resursları necə mühafizə etməyi və  siyasəti həyata keçirmək üçün hansı  mexanizmlərin olmasını, yəni təhlükəsizlik siyasətini necə realizə olunmasını, müəyyən edir;
+B) təşkilatın informasiyanın necə emal etməsini, ona kimin daxil olmasını və bunun necə edilə biləcəyini  müəyyən edir;
+C) icazə verilən istifadə siyasətidir;
+D) parolların və s. mühafizəsi siyasətidir;
+E) şəbəkə avadanlıqlarının və proqramlarının istifadəsi qaydalarını müəyyən edir.
+D
+68. Aşağıdakılardan hansı  ixtisaslaşdırılmış təhlükəsizlik siyasətinə aid deyil?
+A) icazə verilən istifadə siyasəti;
+B) təşkilatın informasiyanın necə emal etməsini, ona kimin daxil olmasını və bunun necə edilə biləcəyini  müəyyənləşdirən siyasət;
+C) şəbəkə resurslarına uzaqdan daxilolma siyasəti;
+D) informasiya mühafizəsi siyasəti;
+E) parolların və s. mühafizəsi siyasəti.
+B
+69. Aşağıdakılardan hansı  ixtisaslaşdırılmış təhlükəsizlik siyasətinə aid deyil?
+A) şəbəkələrarası ekranların  konfiqurasiyası siyasəti;
+B) şifrləmə və kriptoaçarların  idarə edilməsi üzrə siyasət;
+C) VPN virtual mühafizə olunmuş  şəbəkələrinin təhlükəsizlik siyasəti;
+D) simsiz şəbəkə avadanlığı və s. üzrə siyasət;
+E) resursları necə mühafizə etməyi və  siyasəti həyata keçirmək üçün hansı  mexanizmlərin olmasını, yəni təhlükəsizlik siyasətini necə realizə olunmasını müəyyən edən siyasət.
+E
+70. Təhlükəsizlik prosedurları nədir?
+A) simsiz şəbəkə avadanlığı və s. üzrə siyasətdir;
+B) VPN virtual mühafizə olunmuş  şəbəkələrinin təhlükəsizlik siyasətidir;
+C) informasiya mühafizəsi siyasətidir;
+D) resursları necə mühafizə etməyi və  siyasəti həyata keçirmək üçün hansı  mexanizmlərin olmasını, yəni təhlükəsizlik siyasətini necə realizə olunmasını müəyyən edir;
+E) şəbəkə resurslarına uzaqdan daxilolma siyasəti.
+D
+71. Kriptoqrafiya sözünün mənası nədir?
+A) "açıq yazı"
+B) "açıq oxu"
+C) "gizli yazı"
+D) "gizli oxu"
+E) "gizli ötürmə"
+C
+72. Kriptoqrafiyanın  mahiyyəti nədir?
+A) verilənləri mühafizə etməyə istiqamətlənən, onları qeyri-qanuni istifadəçilər üçün faydasız edən,  verilənlərin çevrilmə metodları yığımıdır;
+B) verilənlərin gizli ötürməsi metodları yığımıdır;
+C) verilənlərin kompüter sisteminə düzgün  daxil edilməsi metodları yığımıdır;
+D) sözlərin düzgün yazılışı haqqında elm;
+C) sözlərin düzgün tələffüsü haqqında elm.
+A
+73. Verilənlərin çevrilməsi verilənlərin mühafizəsinin hansı üç əsas problemini həll edir?
+A) sürətli ötürməni, emalın asanlığını, məxfiliyi;
+B) məxfilik, tamlıq, həqiqilik;
+C) tamlıq, emalın asanlığı, həqiqilik;
+D) sürətli ötürməni, tamlıq, həqiqilik;
+E) məxfilik, emalın asanlığını, tamlıq.
+C
+74. Verilənlərin təhlükəsizliyini təmin etmək üçün  hansı üç əsas funksiyanı himayə etmək lazımdır?
+A) ötürülən və ya yaddaşda saxlanılan verilənlərin məxfiliyinin mühafizəsi, sistemə daxil olan zaman istifadəçilərin avtorizasiyası, verilənlərin tamlığının və həqiqiliyinin təsdiqi;
+B) verilənlərin tamlığının və həqiqiliyinin təsdiqi, sistemə daxil olan zaman və birləşməni quranda abonentlərin autentifikasiyası, sistemə daxil olan zaman istifadəçilərin avtorizasiyası;
+C) ötürülən və ya yaddaşda saxlanılan verilənlərin məxfiliyinin mühafizəsi, sistemə daxil olan zaman və birləşməni quranda abonentlərin autentifikasiyası, sistemə daxil olan zaman istifadəçilərin avtorizasiyası;
+D) verilənlərin tamlığının və həqiqiliyinin təsdiqi, kompüter sisteminin qurğularının düzgün işləməsinin təsdiqi, sistemə daxil olan zaman və birləşməni quranda abonentlərin autentifikasiyası;
+E) ötürülən və ya yaddaşda saxlanılan verilənlərin məxfiliyinin mühafizəsi, verilənlərin tamlığının və həqiqiliyinin təsdiqi, sistemə daxil olan zaman və birləşməni quranda abonentlərin autentifikasiyası;
+E
+75. Təhlükəsizlik funksiyalarını realizə etmək üçün hansı kriptoqrafik texnologiyalardan istifadə olunur?
+A)Wi-Fi, Ehernet, elektron imza;
+B) ADSL, Plug and Play, şifrləmə;
+C) autentifikasiya, Ehernet, elektron imza;
+D) şifrləmə, elektron imza, autentifikasiya;
+E) Plug and Play, elektron imza, autentifikasiya.
+D
+76.Şifr nədir?
+A) açıq informasiyanın (ilkin mətnin) şifrlənmiş mətnə (şifrmətn və ya kriptoqramma)  çevrilməsi prosesi;
+B) şifrləmə açarına görə informasiyanın şifrlənməsi və deşifrlənməsi üçün istifadə olunan  kriptoqrafik çevirmələrin prosedur və qaydalarının məcmusu;
+C) kriptoqrammaya görə şifrləmə açarının istifadəsi ilə ilkin mətnin bərpası prosesi;
+D) kriptoqrafik çevirməni ilkin mətnə tətbiq etdikdən sonra alınan yeni məzmun;
+E) kriptoqrafik çevirməni yerinə yetirmək üçün istifadə olunan açardır.
+B
+77. İnformasiyanın şifrlənməsi dedikdə nə başa düşülür?
+A) açıq informasiyanın (ilkin mətnin) şifrlənmiş mətnə (şifrmətn və ya kriptoqramma)  çevrilməsi prosesi;
+B) kriptoqrafik çevirməni yerinə yetirmək üçün istifadə olunan açar;
+C) şifrləmə açarına görə informasiyanın şifrlənməsi və deşifrlənməsi üçün istifadə olunan  kriptoqrafik çevirmələrin prosedur və qaydalarının məcmusu;
+D) kriptoqrammaya görə şifrləmə açarının istifadəsi ilə ilkin mətnin bərpası prosesi;
+E) kriptoqrafik çevirməni ilkin mətnə tətbiq etdikdən sonra alınan yeni məzmun.
+A
+78. İnformasiyanın deşifrlənməsi dedikdə nə başa düşülür?
+A) kriptoqrafik çevirməni ilkin mətnə tətbiq etdikdən sonra alınan yeni məzmun;
+B) şifrləmə açarına görə informasiyanın şifrlənməsi və deşifrlənməsi üçün istifadə olunan  kriptoqrafik çevirmələrin prosedur və qaydalarının məcmusu;
+C) kriptoqrammaya görə şifrləmə açarının istifadəsi ilə ilkin mətnin bərpası prosesi;
+D) açıq informasiyanın (ilkin mətnin) şifrlənmiş mətnə (şifrmətn və ya kriptoqramma)  çevrilməsi prosesi;
+E) kriptoqrafik çevirməni yerinə yetirmək üçün istifadə olunan açar;
+C
+79. Əgər M-ilkin mətn, E- şifrləmə funksiyası, D - deşifrləmə funksiyası, C- şifrmətn, k1 - şifrləmə açarı, k2 -deşifrləmə açarı olarsa şifrləmə çevirməsi hansıdır?
+A) M = Dk2(C);
+B) C =  Dk2(M);
+C) M = Ek1(C);
+D) C = Ek1(M);
+E) k1=k2 , M=D.
+D
+80. Əgər M-ilkin mətn, E- şifrləmə funksiyası, D - deşifrləmə funksiyası, C- şifrmətn, k1 - şifrləmə açarı, k2 -deşifrləmə açarı olarsa deşifrləmə çevirməsi hansıdır?
+A) M = Ek1(C);
+B) k1=k2 , M=D;
+C) C =  Dk2(M);
+D) C = Ek1(M);
+E) M =Dk 2(C).
+E
+81. Şifrləmə açarı nədir?
+A) elə elementdir ki, o ilkin mətnə əlavə olunaraq onun məzmunu dəyişir;
+B) elə elementdir ki, onun köməyi ilə yalnız şifrmətni deşifrləmək olar;
+C) elə elementdir ki, onun köməyi ilə yalnız mətni şifrləməl  olar;
+D) elə elementdir ki, onun köməyi ilə kriptoqrafik çevirmənin nəticəsinin şəklini dəyişmək olar.
+E) parolları əvəz edən elementdir.
+D
+82. Şifrləmə çevirməsi deşifrləmə prosesinə nisbətən hansı üsullarda ola bilər?
+A) simmetrik və asinxron;
+B) simmetrik və asimmetrik;
+C) asinxron və asimmetrik;
+D) sinxron və asinxron;
+E) simmetrik və sinxron.
+B
+83. Hansı kriptosistemlər mövcuddur?
+A) asinxron kriptosistemlər və sinxron kriptosistemlər;
+B) simmetrik kriptosistemlər və asinxron kriptosistemlər;
+C) simmetrik kriptosistemlər və asimmetrik kriptosistemlər;
+D) sinxron kriptosistemlər və asimmetrik kriptosistemlər;
+E) metrik  kriptosistemlər və simmetrik kriptosistemlər.
+C
+84. Simmetrik şifrləmə kriptosistemlərində informasiyanın şifrlənməsi  və deşifrlənməsi üçün neçə açar istifadə olunur?
+A) iki;
+B) üç;
+C) heç bir açar istifadə olunmur;
+D) bir;
+E) şifrləmə üçün bir, deşifrləmə üçün iki. 
+D
+85. Simmetrik şifrləmə kriptosistemlərində açar informasiyası necə saxlanmalıdır?
+A) şifrləmə açarı yalnız məlumat ünvanlanan şəxsə məlum olmalıdır; 
+B) bəyan edilməlidir;
+C) tamamilə gizli saxlanmalıdır;
+D) gizli saxlanmasının və ya bəyan edilməsinin heç bir fərqi yoxdur;
+C) şifrləmə açarını yalnız şifrləməni yerinə yetirən bilməlidir.
+A
+86. Simmetrik kriptosistemlərin xarekterik cəhəti nədir?
+A) aşağı şifrləmə sürətinə malikdirlər;
+B) yüksək şifrləmə sürətinə malikdirlər;
+C) ötürülən informasiyanın məxfiliyi, həqiqiliyi və tamlığı təmin olunmur;
+D) etibarlığı aşağıdır;
+E) sındırılma ehtimalı böyükdür.
+B
+87. Simmetrik kriptosistemlərdə həqiqilik nəyin hesabına təmin olunur?
+A) ötürülən verilənlərə məxfi açardan alınan xüsusi kodun (imitasiya yerləşdirməsi) birləşdirilməsi ilə;
+B) şifrləmə açarının məlum olması ilə;
+C) simmetrik kriptosistemlər üçün verilənlərin həqiqiliyi təmin olunmr;
+D) elektron imzanı tətbiq etməklə;
+E) kriptoqrafik bağlı informasiyanı əvvəlcədən  deşifrləmədən praktiki olaraq mənaya görə modifikasiya və saxtakarlıq etmək mümkün deyil, məxfi açarı bilmədən saxta məlumat düzgün şifrlənə bilməz.
+E
+88. Simmetrik kriptosistemlərdə məlumatı göndərənin k1 məxfi açarı ilə məlumatı alanın k2 məxfi açarı arasında münasibət necə olmalıdır.
+A) k1 != k2 ;
+B) k1 = k2 ;
+C) k1 > k2 ;
+D) k1 < k2 ;
+E)  k1 <= k2.
+B
+89. Simmetrik kriptosistemlərdə verilənlərin tamlığı nəyin hesabına təmin olunur?
+A) şifrləmə açarının məxfi qalması hesabına;
+B) elektron imzanı tətbiq etməklə;
+C) ötürülən verilənlərə məxfi açardan alınan xüsusi kodun (imitasiya yerləşdirməsi) birləşdirilməsi ilə;
+D) simmetrik kriptosistemlər üçün verilənlərin tamlığı  təmin olunmr;
+E) şifrləmə açarının məlum olması ilə;
+C
+90. Simmetrik kriptosistemlərin əsas problemi nədir?
+A) Simmetrik kriptosistemlərin işləmə sürəti aşağıdır?
+B) Simmetrik kriptosistemlərdə iki və ya daha çox açar istifadə olunur;
+C) Simmetrik kriptosistemlərdə verilənlərin tamlığı və həqiqiliyi yoxlanmır;
+D) Simmetrik kriptosistemlərdə istifadəçilər arasında şifrləmə açarlarının paylanması;
+E) Simmetrik kriptosistemlərin qiyməti olduqca bahadır.
+D
+91. Simmetrik kriptosistemlərdə N sayda istifadəçi olan şəbəkədə nə qədər açar paylamaq lazımdır?
+A) N2 ;
+B) N(N-2)/2;
+C) N(N-1);
+D) N2 (N-1);
+E) N(N-1)/2.
+E
+92. KİS-in resurslarının mühafizəsi üçün hansı texnoloğiyalardan istifadə olunur?
+A) istifadəçi səviyyəsində daxilolmanın idarə olunması və informasiyaya icazəsiz daxilolmanın mühafizəsi;
+B)Wi-Fi; 
+C) DATA MINING;
+D) ADSL;
+E) Ethernet;
+A
+93. Tarixən birinci hansı kriptosistem yaranıb?
+A) asimmetrik kriptosistemlər;
+B) simmetrik və asimmetrik kriptosistemlər eyni zamanda yaranıb;
+C) simmetrik və asimmetrik kriptosistemlərin yaranma tarixləri məlum deyil;
+D) simmetrik kriptosistemlər;
+E) simmetrik kriptosistemlər asimmetrik kriptosistemlərdən sonra yaranıb.
+D
+94. Asimmetrik kriptosistemlərin simmetrik kriptosistemlərdən prinsipial fərqi nədədir?
+A) asimmetrik kriptosistemlər ilə simmetrik kriptosistemlərin heç bir fərqi yoxdur;
+B) asimmetrik kriptosistemlərdə informasiyanın şifrlənməsi üçün bir açar, simmetrik kriptosistemlərdə isə iki açar istifadə olunur;
+C) asimmetrik kriptosistemlərdə informasiyanın şifrlənməsi üçün iki açar, simmetrik kriptosistemlərdə isə bir açar istifadə olunur;
+D) asimmetrik kriptosistemlərin işləmə sürəti böyük, simmetrik kriptosistemlərin işləmə sürəti isə kiçikdir;
+E) asimmetrik kriptosistemlərin işləmə sürəti kiçik, simmetrik kriptosistemlərin işləmə sürəti isə böyükdür.
+C
+95. Asimmetrik kriptosistemdə ötürülən informasiyanın şifrlənməsi və deşifrlənməsi hansı açarlarla yerinə yetirilir?
+A) verilənlər məxfi açarla şifrlənir, açıq açarla deşifrlənir;
+B) verilənlər açıq açarla şifrlənir, məxfi açarla deşifrlənir;
+C) verilənlər məxfi açarla həm şifrlənir, həm də deşifrlənir;
+D) verilənlər açıq açarla həm şifrlənir, həm də deşifrlənir;
+E) verilənlərin şifrlənməsində və deşifrlənməsində açar istifadə olunmur.
+B
+96. Asimmetrik kriptosistem üçün açıq və məxfi açarlar kimdə olmalıdır?
+A) açıq açar şifrmətni göndərəndə, məxfi açar isə şifrmətni alanda olmalıdır;
+B) açıq və məxfi açar həm şifrmətni göndərəndə, həm də alanda olmalıdır;
+C) şifrmətni həm göndərən həm də alan yalnız açıq açara malik olmalıdırlar;
+D) şifrmətni həm göndərən həm də alan yalnız məxfi açara malik olmalıdırlar;
+E) açıq açarın surəti (nüsxəsi) kriptoqrafik şəbəkənin hər bir abonentində, məxfi açar isə onun sahibində qalmalıdır.
+E
+97. Asimmetrik kriptosistemdə şifrlənmiş informasiyanın ötürülməsi üçün hazırlıq etapında hansı proses yerinə yetirilir (A abonenti şifrmətni göndərən, B abonenti isə şifrmətni alandır)?
+A) - B abonenti kB məxfi açarı generasiya edir; - kB məxfi açarı A abonentinə və digər abonentlərə göndərilir; 
+B) - B abonenti KB açıq açarı generasiya edir; - KB açıq açarı A abonentinə və digər abonentlərə göndərilir;
+C) - B abonenti bir cüt açar generasiya edir: kB məxfi açarı və KB açıq açarı; - KB açıq açarı A abonentinə və  digər abonentlərə göndərilir;
+D) -A abonenti kA məxfi açarı generasiya edir; - kA məxfi açarı B abonentinə və digər abonentlərə göndərilir;
+E) - A abonenti KA açıq açarı generasiya edir; - KA açıq açarı B abonentinə və digər abonentlərə göndərilir.
+C
+98. Asimmetrik kriptosistemdə A abonenti şifrmətni göndərən, B abonenti isə şifrmətni alandırsa onlar arasında informasiya mübadiləsi necə gedir?
+A) - A abonenti B abonentinin KB açıq açarının köməyi ilə məlumatı şifrləyir və şifrmətni B abonentinə göndərir; - B abonenti özünün kB məxfi açarının köməyi ilə məlumatı deşifrləyir;
+B) - B abonenti A abonentinin KA açıq açarının köməyi ilə məlumatı şifrləyir və şifrmətni A abonentinə göndərir;  A abonenti özünün kB məxfi açarının köməyi ilə məlumatı deşifrləyir;
+C) - A abonenti B abonentinin kB məxfi açarının köməyi ilə məlumatı şifrləyir və şifrmətni B abonentinə göndərir;  B abonenti özünün KB açıq açarının köməyi ilə məlumatı deşifrləyir;
+D) - A abonenti B abonentinin kB məxfi açarının köməyi ilə məlumatı şifrləyir və şifrmətni B abonentinə göndərir; B abonenti özünün kB məxfi açarının köməyi ilə məlumatı deşifrləyir;
+E) - A abonenti B abonentinin KB açıq açarının köməyi ilə məlumatı şifrləyir və şifrmətni B abonentinə göndərir;  B abonenti özünün KB açıq açarının köməyi ilə məlumatı deşifrləyir;
+A
+99. Asemmetrik kriptosistemin xarakterik xüsusiyyətləri hansılardır?
+A) KB açıq açarı və C kriptoqramı mühafizə olunmuş kanalla göndərilməli, EB : M→C,      DB : C→M şifrləmə  və deşifrləmə alqoritmləri açıqdır;
+B) KB açıq açarı və C kriptoqramı mühafizə olunmuş kanalla göndərilməli, EB : M→C,      DB : C→M şifrləmə  və deşifrləmə alqoritmləri məxfidir;
+C) KB açıq açarı və C kriptoqramı mühafizə olunmamış kanallarla göndərilə bilər,               EB : M→C, DB : C→M şifrləmə  və deşifrləmə alqoritmləri məxfidir;
+D) KB açıq açarı və C kriptoqramı mühafizə olunmamış kanallarla göndərilə bilər,               EB : M→C, DB : C→M şifrləmə  və deşifrləmə alqoritmləri açıqdır;
+E) KB açıq açarı və C kriptoqramı mühafizə olunmamış kanallarla göndərilə bilər,               EB : M→C, şifrləmə alqoritmi açıq,  DB : C→M  deşifrləmə alqoritmləri isə məxfidir.
+D
+100.  KİS-in resurslarının mühafizəsi üçün hansı texnoloğiyalardan istifadə olunur?
+A) Ethernet;
+B)Wi-Fi; 
+C) DATA MINING;
+D) ADSL;
+E) PKİ (Public-key infrastructure) açıq açarların idarə olunması infrastrukturunun dəstəklənməsi.
+E
+101. Aşağıdakılardan hansı asimmetrik kriptosistemlərin təhlükəsizliyini təmin etmək üçün U.Diffi və M. Hellman tələblərinə aiddir?
+A) B məlumat alan tərəfindən (KA, kA ) açar cütünün hesablanması sadə olmalıdır;
+B) B məlumat alan tərəfindən (KB, kB ) açar cütünün hesablanması sadə olmalıdır;
+C) A məlumat göndərən kB məxfi açarı və M məlumatını bilərək, kriptoqramı asanlıqla hesablaya bilər: C = 𝐸𝑘𝐵 (𝑀);
+D) B məlumat alan, KB açıq açarı və C kriptoqrammasını istifadə edərək ilkin məlumatı asanlıqla bərpa edə bilər: M = 𝐷𝐾𝐵 (C ) ;
+E) Düşmən KB açıq açarı bilərək, kB məxfi açarı hesablamağa səy etsə heç bir hesablama problemi ilə üzləşməyəcək.
+B
+102. Aşağıdakılardan hansı asimmetrik kriptosistemlərin təhlükəsizliyini təmin etmək üçün U.Diffi və M. Hellman tələblərinə aiddir?
+A) B məlumat alan tərəfindən (KA, kA ) açar cütünün hesablanması sadə olmalıdır;
+B) A məlumat göndərən kB məxfi açarı və M məlumatını bilərək, kriptoqramı asanlıqla hesablaya bilər: C = 𝐸𝑘𝐵 (𝑀);
+C) A məlumat göndərən KB açıq açarı və M məlumatını bilərək, kriptoqramı asanlıqla hesablaya bilər: C = 𝐸𝐾𝐵 𝑀 ;
+D) Düşmən (KB, C ) cütünü bilərək, ilkin M məlumatını hesablamağa səy etsə heç bir hesablama problemi ilə üzləşməyəcək;
+E) B məlumat alan, KB açıq açarı və C kriptoqrammasını istifadə edərək ilkin məlumatı asanlıqla bərpa edə bilər: M = 𝐷𝐾𝐵 (C ) .
+C
+103. İxtisaslaşdırılmış təhlükəsizlik siyasətinə hansı aiddir?
+A) icazə verilən istifadə siyasəti;
+B) şəbəkə resurslarına uzaqdan daxil olma siyasəti;
+C) informasiya mühafizəsi siyasəti;
+D) parolların və s. mühafizəsi siyasəti;
+E) yuxarıda göstərilənlərin hamısı.
+E
+104. Açıq açarlı asimmetrik kriptoqrafik sistem konsepsiyası hansı funksiyaların tətbiqinə əsaslanıb?
+A) qarşılıqlı;
+B) biristiqamətli;
+C) əks istiqamətli;
+D) heç birinə.
+E) ikiistiqamətli;
+B		
+105. Biristiqamətli F(X) funksiyası hansı xassələrə malik olmalıdır?
+A) Y=F(X) funksiyasının qiymətini hesablayan alqoritm mövcuddur; F funksiyasını çevirən (inversiya edən) effektiv alqoritm mövcud deyil (yəni X-ə görə F(X)=Y tənliyinin həlli yoxdur);
+B) Y=F(X) funksiyasının qiymətini hesablayan alqoritm mövcuddur; F funksiyasını çevirən (inversiya edən) alqoritm mövcuddur (yəni X-ə görə F(X)=Y tənliyinin həlli var);
+C) Y=F(X) funksiyasının qiymətini hesablayan alqoritm mövcud deyil; F funksiyasını çevirən (inversiya edən) effektiv alqoritm mövcud deyil (yəni X-ə görə F(X)=Y tənliyinin həlli yoxdur);
+D) Y=F(X) funksiyasının qiymətini hesablayan alqoritm mövcud deyil; F funksiyasını çevirən (inversiya edən) effektiv alqoritm mövcuddur (yəni X-ə görə F(X)=Y tənliyinin həlli var);
+E) yuxarda göstərilənlərdən heç biri biristiqamətli funksiyanın xassəsi deyil.
+A
+106. Asimmetrik kriptoqrafik sistemlərin köməyi ilə göndərilən informasiyanın hansı təhlükəsizlik funksiyaları təmin olunur?
+A) yalnız verilənlərin tamlığı və məxfiliyi;
+B) yalnız verilənlərin həqiqiliyi və tamlığı;
+C) yalnız verilənlərin məxfiliyi və həqiqiliyi;
+D) yalnız verilənlərin məxfiliyi;
+E) verilənlərin məxfiliyi, həqiqiliyi və tamlığı.
+E
+107. Məlumatın həqiqiliyi və tamlığı necə təmin olunur?
+A) məlumatın məxfiləşdirilməsi ilə;
+B) açıq məlumata rəqəmsal imzanın əlavə olunması ilə;
+C) məlumatın rəqəmsal imzasının yaradılması və məlumatın şifrlənmiş şəkildə rəqəmsal imza ilə birlikdə göndərilməsi ilə;
+D) məlumatın açıq şəkildə göndərilməsi ilə;
+E) açıq məlumatın mühafizə olunmuş rabitə kanalı ilə göndərilməsi ilə;
+C
+108. Asimmetrik kriptoqrafik sistemlərin simmetrik kriptoqrafik sistemlərdən üstün cəhəti hansıdır?
+A) asimmetrik kriptoqrafik sistemlər simmetrik kriptoqrafik sistemlərdən daha tez işləyir;
+B) asimmetrik kriptoqrafik sistemlərdə bir, simmetrik kriptoqrafik sistemlərdə isə iki açar istifadə olunur;
+C) asimmetrik alqoritmlərdə istifadə olunan funksiyaların çevrilməməzli riyazi isbat olunub;
+D) asimmetrik kriptosistemlərdə istifadəçilər arasında açarların paylanması kimi mürəkkəb problem həll olunub;
+E) açıq açarların dəyişdirilməməsi üçün mühafizəsinin vacibliyi.
+D
+109. İxtisaslaşdırılmış təhlükəsizlik siyasətinə hansı aiddir?
+A) aşağıda göstərilənlərin hamısı;
+B) şəbəkələrarası ekranların konfiqurasiyası siyasəti;
+C) şifrləmə və kriptoaçarların idarə edilməsi üzrə siyasət;
+D) VPN virtual mühafizə olunmuş şəbəkələrinin təhlükəsizlik siyasəti;
+E) simsiz şəbəkə avadanlığı və s. üzrə siyasət.
+A
+110. Aşağıdakılardan hansı asimmetrik kriptosistemlərin təhlükəsizliyini təmin etmək üçün U.Diffi və M. Hellman tələblərinə aiddir?
+A) A məlumat göndərən kB məxfi açarı və M məlumatını bilərək, kriptoqramı asanlıqla hesablaya bilər: C = 𝐸𝑘𝐵 (𝑀);
+B) Düşmən KB açıq açarı bilərək, kB məxfi açarı hesablamağa səy etsə heç birhesablama problemi ilə üzləşməyəcək. 
+C) Düşmən (KB, C ) cütünü bilərək, ilkin M məlumatını hesablamağa səy etsə heç bir hesablama problemi ilə üzləşməyəcək;
+D) B məlumat alan, kB məxfi açarı və C kriptoqrammasını istifadə edərək ilkin məlumatı asanlıqla bərpa edə bilər: M = 𝐷𝑘𝐵 (C ) ;
+E) B məlumat alan tərəfindən (KA, kA ) açar cütünün hesablanması sadə olmalıdır.
+D
+111. Asimmetrik kriptoqrafik sistemlərin simmetrik kriptoqrafik sistemlərdən üstün cəhəti hansıdır?
+A) asimmetrik alqoritmlərdə istifadə olunan funksiyaların çevrilməməzli riyazi isbat olunub;
+B) açarların sayının istifadəçilərin sayından kvadratik asıllığı yox olur;
+C) açıq açarların dəyişdirilməməsi üçün mühafizəsinin vacibliyi;
+D) asimmetrik kriptoqrafik sistemlər simmetrik kriptoqrafik sistemlərdən daha tez işləyir;
+E) asimmetrik kriptoqrafik sistemlərdə bir, simmetrik kriptoqrafik sistemlərdə isə iki açar istifadə olunur.
+B
+112. Asimmetrik kriptoqrafik sistemlərin çatışmayan cəhəti nədir?
+A) asimmetrik kriptosistemlərdə istifadəçilər arasında açarların paylanması kimi mürəkkəb problem həll olunmayıb;
+B) açarların sayı istifadəçilərin sayından kvadratik asılıdır;
+C) asimmetrik kriptosistemlər bir-birinə inanmayan tərəflər arasında qarşılıqlı əlaqə protokollarını realizə etməyə imkan vermir;
+D) açıq açarların dəyişdirilməməsi üçün mühafizə vacib deyil;
+E) hal-hazırda asimmetrik alqoritmlərdə istifadə olunan funksiyaların çevrilməməzliyin riyazi isbatı yoxdur.
+E
+113. KİS-in resurslarının mühafizəsi üçün hansı texnoloğiyalardan istifadə olunur?
+A) Ethernet;
+B) informasiya resurslarının mühafizəsinin aktiv tədqiqi üçün soxulmaların aşkar edilməsi (Intrusion Detection) texnologiyaları;
+C) DATA MINING;
+D) ADSL;
+E) Wi-Fi; 
+B
+114. Aşağıdakılardan hansı asimmetrik kriptosistemlərin təhlükəsizliyini təmin etmək üçün U.Diffi və M. Hellman tələblərinə aiddir?
+A) Düşmən KB açıq açarı bilərək, kB məxfi açarı hesablamağa səy etsə keçilməz hesablama problemi ilə üzləşir;
+B) A məlumat göndərən kB məxfi açarı və M məlumatını bilərək, kriptoqramı asanlıqla hesablaya bilər: C = 𝐸𝑘𝐵 (𝑀);
+C) B məlumat alan tərəfindən (KA, kA ) açar cütünün hesablanması sadə olmalıdır;
+D) Düşmən (KB, C ) cütünü bilərək, ilkin M məlumatını hesablamağa səy etsə heç bir hesablama problemi ilə üzləşməyəcək;
+E) B məlumat alan, kA məxfi açarı və C kriptoqrammasını istifadə edərək ilkin məlumatı asanlıqla bərpa edə bilər: M = 𝐷𝑘𝐴 (C ) .
+A
+115.Asimmetrik kriptoqrafik sistemlərin simmetrik kriptoqrafik sistemlərdən üstün cəhəti hansıdır?
+A) asimmetrik kriptoqrafik sistemlərdə bir, simmetrik kriptoqrafik sistemlərdə isə iki açar istifadə olunur;
+B) asimmetrik kriptoqrafik sistemlər simmetrik kriptoqrafik sistemlərdən daha tez işləyir;
+C) asimmetrik kriptosistemlər bir-birinə inanmayan tərəflər arasında qarşılıqlı əlaqə protokollarını realizə etməyə imkan verirlər;
+D) açıq açarların dəyişdirilməməsi üçün mühafizəsinin vacibliyi;
+E) asimmetrik alqoritmlərdə istifadə olunan funksiyaların çevrilməməzli riyazi isbat olunub.
+C
+116.Asimmetrik kriptoqrafik sistemlərin çatışmayan cəhəti nədir?
+A) asimmetrik kriptosistemlər bir-birinə inanmayan tərəflər arasında qarşılıqlı əlaqə protokollarını realizə etməyə imkan vermir;
+B) açıq açarların dəyişdirilməməsi üçün mühafizə vacib deyil;
+C) açarların sayı istifadəçilərin sayından kvadratik asılıdır;
+D) asimmetrik şifrləmə simmetrikə nisbətən kifayyət qədər yavaşdır;
+E) asimmetrik kriptosistemlərdə istifadəçilər arasında açarların paylanması kimi mürəkkəb problem həll olunmayıb;
+D
+117. Elektron rəqəm imzası nə üçün istifadə olunur?
+A) məlumatların identidikasiyası üçün;
+B) məlumatların sertifikasiyası üçün;
+C) məlumatların avtorizasiyası üçün;
+D) məlumatların kommunikasiyası üçün;
+E) məlumatların autentifikasiyası üçün.
+E
+118. Telekommunukasiya kanalları vasitəsi ilə sənəd mübadiləsi zamanı hansı problem üzə çıxır?
+A) sənədlərin emalı və saxlanması xərcləri əhəmiyyətli dərəcədə artır;
+B) sənədlərin axtarış sürəti azalır;
+C) sənədlə bağlı işlərin əmək məhsuldarlığı aşağı düşür;
+D) elektron sənədin müəllifinin və sənədin özünün autentifikasiya olunma problemi;
+E) sənədin yalnız bir istiqamətdə göndərilmə məhdudiyyəti.
+D
+119. Elektron sənədlərin autentifikasiyasının məqsədi nədir?
+A) sənədin yalnız müəllifini təsdiq etmək;
+B) sənədi mümkün bədniyyət əməl növlərindən mühafizə etməkdir;
+C) sənəddə yalnız dəyişikliklərin olmasını müəyyənləşdirmək;
+D) sənədin əslinin nüsxəsi ilə üst-üstə düşməsini yoxlamaq;
+E) sənədin nəzarət cəminin hesablanması.
+B
+120. Aşağıdakılardan hansı bədniyyət əməl növünə aid deyil?
+A) soxulma;
+B) aktiv ələkeçirmə;
+C) maskarad;
+D) dönüklük;
+E) təkrar.
+A
+121. "Aktiv ələkeçirmə" -də pozucunun hərəkətləri nədən ibarətdir?
+A) C abonenti (pozucu) B abonentinə A abonenti adından sənəd göndərir;
+B) A abonenti bəyan edir ki, B abonentinə məlumat göndərməyib, amma əslində isə göndərib;
+C) pozucu, şəbəkəyə qoşularaq, sənədləri (faylları) ələ küçirir və onları dəyişdirir;
+D) B abonenti (pozucu) sənədi dəyişir və ya yenisini yaradır və bəyan edir ki, onu A abonentindən alıb;
+E) A abonentinin B abonentinə əvvəlcə göndərdiyi sənədi C abonenti (pozucu) təkrar edir.
+C
+122. "Maskarad" -də pozucunun hərəkətləri nədən ibarətdir?
+A) pozucu, şəbəkəyə qoşularaq, sənədləri (faylları) ələ küçirir və onları dəyişdirir;
+B) A abonentinin B abonentinə əvvəlcə göndərdiyi sənədi C abonenti (pozucu) təkrar edir;
+C) A abonenti (pozucu) bəyan edir ki, B abonentinə məlumat göndərməyib, amma əslində isə göndərib;
+D) B abonenti (pozucu) sənədi dəyişir və ya yenisini yaradır və bəyan edir ki, onu A abonentindən alıb;
+E) C abonenti (pozucu) B abonentinə A abonenti adından sənəd göndərir.
+E
+123. "Dönüklük" -də pozucunun hərəkətləri nədən ibarətdir?
+A) B abonenti (pozucu) sənədi dəyişir və ya yenisini yaradır və bəyan edir ki, onu A abonentindən alıb;
+B) C abonenti (pozucu) B abonentinə A abonenti adından sənəd göndərir;
+C) pozucu, şəbəkəyə qoşularaq, sənədləri (faylları) ələ küçirir və onları dəyişdirir;
+D) A abonenti (pozucu) bəyan edir ki, B abonentinə məlumat göndərməyib, amma əslində isə göndərib;
+E) A abonentinin B abonentinə əvvəlcə göndərdiyi sənədi C abonenti (pozucu) təkrar edir.
+D
+124. "Dəyişmə" -də pozucunun hərəkətləri nədən ibarətdir?
+A) A abonentinin B abonentinə əvvəlcə göndərdiyi sənədi C abonenti (pozucu) təkrar edir;
+B) B abonenti (pozucu) sənədi dəyişir və ya yenisini yaradır və bəyan edir ki, onu A abonentindən alıb;
+C) A abonenti (pozucu) bəyan edir ki, B abonentinə məlumat göndərməyib, amma əslində isə göndərib;
+D) C abonenti (pozucu) B abonentinə A abonenti adından sənəd göndərir;
+E) pozucu, şəbəkəyə qoşularaq, sənədləri (faylları) ələ küçirir və onları dəyişdirir.
+B
+125. "Təkrar" -da pozucunun hərəkətləri nədən ibarətdir?
+A) A abonenti (pozucu) bəyan edir ki, B abonentinə məlumat göndərməyib, amma əslində isə göndərib;
+B) pozucu, şəbəkəyə qoşularaq, sənədləri (faylları) ələ küçirir və onları dəyişdirir;
+C) A abonentinin B abonentinə əvvəlcə göndərdiyi sənədi C abonenti (pozucu) təkrar edir;
+D) B abonenti (pozucu) sənədi dəyişir və ya yenisini yaradır və bəyan edir ki, onu A abonentindən alıb;
+E) C abonenti (pozucu) B abonentinə A abonenti adından sənəd göndərir.
+C
+126. Aşağıdakılardan hansı bədniyyət əməl növünə aid deyil?
+A) dönüklük;
+B) maskarad;
+C) dəyişmə;
+D) köçürmə;
+E) aktiv ələkeçirmə.
+D
+127. Məlumatın tamlığının və müəllifin həqiqiliyinin yoxlanması problemi hansı vasitələrlə həll olunur?
+A) məlumatın və müəllifin rekvizitlərinin məxfiləşdirilməsi ilə;
+B) məlumatın və müəllifin rekvizitlərinin açıq şəkildə göndərilməsi ilə;
+C) mühafizə olunmuş kanallardan istifadə etməklə;
+D) sındırmaya qarşı davamlı olan alqoritmlərdən istifadə etməklə;
+E) elektron rəqəm imzası metodologiyasından istifadə etməklə.
+E
+128. Rəqəm imzası adi əl imzasının hansı yaxşı cəhətlərinə malikdir?
+A) imzalanmış mətnin, imzasını qoymuş şəxsdən gəldiyini təsdiq edir;
+B) imzalanmış mətnin, imzasını qoymuş şəxsdən gəldiyini təsdiq edir; bu şəxsin özünə, mətnin imzalanması ilə əlaqədar öhdəliklərdən imtina etmə imkanını vermir; imzalanmış mətnin tamlığına zəmanət verir;
+C) imzalanmış mətnin, imzasını qoymuş şəxsdən gəldiyini təsdiq edir; bu şəxsin özünə, mətnin imzalanması ilə əlaqədar öhdəliklərdən imtina etmə imkanını vermir;
+D) bu şəxsin özünə, mətnin imzalanması ilə əlaqədar öhdəliklərdən imtina etmə imkanını vermir; imzalanmış mətnin tamlığına zəmanət verir;
+E) imzalanmış mətnin tamlığına zəmanət verir.
+B
+129. Elektron rəqəm imzası nəyə əsaslanıb?
+A) asimmetrik şifrlərin çevrilməsinə, və həmçinin məlumatın, imzanın özünün və açar cütünün qarşılıqlı əlaqəsinə;
+B) simmetrik şifrlərin çevrilməsinə, və həmçinin məlumatın, imzanın özünün və açarın qarşılıqlı əlaqəsinə;
+C) məlumatın, imzanın özünün və açar cütünün qarşılıqlı əlaqəsinə;
+D) asimmetrik şifrlərin çevrilməsinə;
+E) simmetrik şifrlərin çevrilməsinə.
+A
+130. Rəqəm imzanın yaradılması prosedurunun hazırlıq etapında A abonenti hansı işi görür?
+A) kA məxfi açarı generasiya edir;
+B) KA açıq açarı generasiya edir;
+C) kA məxfi açar və KA açıq açar cütünü generasiya edir;
+D) göndərilən məlumatın heş-qiymətini (daycesti) hesablayır;
+E) göndərilən məlumatı şifrləyir.
+C
+131.KA açıq açarı necə hesablanır?
+A) tamamilə müstəqil olaraq hesablanır;
+B) ona tay olan kA məxfi açarından hesablanır;
+C) ilkin mətnə istinad olaraq hesablanır;
+D) məlumatı alan onu A istifadəçisinə göndərir;
+E) heş-funksiyasının köməyi ilə hesablanır.
+B
+132. Rəqəm imzanı yaratmaq üçün A göndərəni əvvəlcə hansı işi görür?
+A) imzalanan M mətnini kA məxfi açarı ilə şifrləyir;
+B) rəqəm imzasını göndərilən məlumata daxil edir;
+C) kA məxfi açar və KA açıq açar cütünün heş-funksiyanın köməyi ilə qiymətlərini hesablayır;
+D) imzalanan M mətninin h(M) heş-funksiyanın qiymətini hesablayır;
+E) imzalanan M mətnini KA açıq açarı ilə şifrləyir.
+D
+133. Daycest nədir?
+A) ilkin mətnin simvollarının rəqəm kodlarının cəmi;
+B) kiçik sayda fiksə olunmuş bitlərdən ibarət, ilkin mətni tamlıqla xarakterizə edən qiymət;
+C) ilkin mətnin şifrləndikdən sonra alınmış nəticəsi;
+D) kA məxfi açar və KA açıq açar cütünün heş-funksiyanın köməyi ilə hesablanan qiymətidir;
+E) ilkin mətnin sıxılmasından alınan həcmin qiymətidir.
+B
+134. Rəqəm imzanı yaradılmasında A göndərəninin ilkin mətnin daycestini aldıqdan sonra işi nədən ibarət olur?
+A) A göndərəni ilkin mətnin daycestini özünün kA məxfi açarı ilə şifrləyir;
+B) A göndərəni ilkin mətnin daycestini özünün KA açıq açarı ilə şifrləyir;
+C) A göndərəni ilkin mətnin daycestini alna göndərir;
+D) A göndərəni ilkin mətnin daycestinə özünün kA məxfi açarını əlavə edir;
+E) A göndərəni ilkin mətnin daycestinə özünün KA açıq açarını əlavə edir.
+A
+135. KİS-in resurslarının mühafizəsi üçün hansı texnoloğiyalardan istifadə olunur?
+A) süni intelekt texnologiyaları;
+B) xüsusiləşdirilmiş antivirus profilaktikası və mühafizəsi komplekslərinin istifadəsi ilə virusdan mühafizə texnologiyaları;
+C) DATA MINING;
+D) təsvirlərin tanınması texnologiyaları;
+E) Wi-Fi.
+B
+136. Rəqəm imzanı nəyin köməyi ilə yoxlamaq olar
+A) məlumatı göndərənin kA məxfi açarının köməyi ilə;
+B) məlumatı alanın öz KB açıq açarının köməyi ilə;
+C) məlumatı göndərənin KA açıq açarının köməyi ilə;
+D) məlumatı alanın öz kB məxfi açarının köməyi ilə;
+E) alınmış açıq mətni şifrləyib daycestlə müqaisə etməklə.
+C
+137. Rəqəm imzanın yoxlanması zamanı deşifrlənmiş daycestin qiyməti m' ilə məlumatın hesablanmış daycestinin qiyməti m arasında münasibət necə olmalıdır?
+A) m > m';
+B) m < m';
+C) m ≠ m';
+D) m = m';
+E) m ≤ m'.
+D
+138.Elektron rəqəm imzasının strukturu sənədi birmənalı identifikasiya edən hansı əlavə informasiyaya malik olur?
+A) imzalama tarixi, açarın fəaliyyətinin qutarma müddəti, faylı imzalamış şəxs haqqında informasiya, imzalayanın identifikatoru (açıq açarın adı)
+B) imzalanan mətnin həcmi, imzalanan mətnin yaradılma tarixi, açarın fəaliyyətə başlama tarixi, imzanı alan şəxs haqqında informasiya, imzanı alanın identifikatoru;
+C) imzalama tarixi, imzalanan mətnin həcmi, açarın fəaliyyətinin qutarma müddəti, açarın fəaliyyətə başlama tarixi, imzanı alanın identifikatoru;
+D) imzalanan mətnin yaradılma tarixi, açarın fəaliyyətə başlama tarixi, faylı imzalamış şəxs haqqında informasiya, imzanı alan şəxs haqqında informasiya, imzanı alanın identifikatoru;
+E) açarın fəaliyyətinin qutarma müddəti, imzalanan mətnin yaradılma tarixi, açarın fəaliyyətə başlama tarixi, imzanı alan şəxs haqqında informasiya, imzanı alanın identifikatoru.
+A
+139. Elektron rəqəm imzasının açıq açarlarının dəyişdirilmədən mühafizə etmək üçün nədən istifadə olunur?
+A) şəbəkə serverlərindən;
+B) smart-kartlardan;
+C) USB fləş-kartlardan;
+D) dəmir seyflərdən;
+E) rəqəm sertifikatlarından.
+E
+140. Heş-funksiya (heşləmə funksiyası) nəyə deyilir?
+A) daxil edilmiş M məlumatının simvollarının rəqəm qiymətlərinin cəmini hesablayan funksiyadır;
+B) girişinə sabit uzunluqlu M məlumatı verilən, çıxışda h(M) dəyişən uzunluqda sətr olan çevirmədir;
+C) girişinə dəyişən uzunluqlu M məlumatı verilən, çıxışda h(M) fiksə olunmuş uzunluqda sətr olan çevirmədir;
+D) girişinə dəyişən uzunluqlu M məlumatı verilən, çıxışda h(M) dəyişən uzunluqda sətr olan çevirmədir;
+E) daxil edilmiş M məlumatının simvollarının sayını hesablayan funksiyadır.
+C
+141. Sənədin heş-qiymətinin başqa adı necədir?
+A) sayt;
+B) daycest;
+C) heşinq;
+D) dataset;
+E) dayset.
+B
+142. Heş-funksiyasının riyazi təsviri necədir?
+A) H=h(M);
+B) h=H(M);
+C) M= h(H);
+D) H=M(h);
+E) M=H(h).
+A
+143. Heşləmə funksiyaları M məlumatını neçə bitə kimi sıxmağa imkan verir? 
+A) 1024;
+B) 512;
+C) 128;
+D) 2048;
+E) 16.
+C
+144. Aşağıdakılardan hansı heşləmə funksiyasının xassələrınə aiddir?
+A) heş-funksiyanın çıxış qiyməti fiksə olunmuş ölçüyə malik deyil;
+B) heş-funksiya ixtiyari ölçülü arqumentə tətbiq oluna bilər;
+C) heş-funksiyanın hesablama sürəti elə olmalıdır ki, heş-funksiyanın istifadəsi ilə ERİ- nın yaradılması və yoxlanması sürəti, məlumatın özünün istifadəsindən çox kiçik olmalıdır;
+D) heş-funksiya M mətnində mümkün dəyişikliklərə həssas olmaya bilər;
+E) iki müxtılif sənədin (onların uzunluğundan asılı olmayaraq) heş-funksiyalarının qiymətlərinin üst-üstə düşmə ehtimalı, olduqca böyük olmalıdır.
+B
+145. Aşağıdakılardan hansı heşləmə funksiyasının xassələrınə aiddir?
+A) heş-funksiya biristiqamətli olmamalıdır;
+B) heş-funksiyanın hesablama sürəti elə olmalıdır ki, heş-funksiyanın istifadəsi ilə ERİ- nın yaradılması və yoxlanması sürəti, məlumatın özünün istifadəsindən çox kiçik olmalıdır;
+C) heş-funksiya M mətnində mümkün dəyişikliklərə həssas olmaya bilər;
+D) heş-funksiyası məhdud ölçülü arqumentə tətbiq oluna bilər;
+E) heş-funksiyanın çıxış qiyməti fiksə olunmuş ölçüyə malikdir.
+E
+146. Aşağıdakılardan hansı heşləmə funksiyasının xassələrınə aiddir?
+A) iki müxtılif sənədin (onların uzunluğundan asılı olmayaraq) heş-funksiyalarının qiymətlərinin üst-üstə düşmə ehtimalı, olduqca böyük olmalıdır;
+B) heş-funksiyası məhdud ölçülü arqumentə tətbiq oluna bilər;
+C) heş-funksiyanın çıxış qiyməti fiksə olunmuş ölçüyə malik deyil;
+D) heş-funksiyanın hesablama sürəti elə olmalıdır ki, heş-funksiyanın istifadəsi ilə ERİ- nın yaradılması və yoxlanması sürəti, məlumatın özünün istifadəsindən çox böyük olsun;
+E) heş-funksiya biristiqamətli olmamalıdır.
+D
+147. Heş-funksiyası nə üçün istifadə olunur?
+A) məlumatın müəllifinin təyin olunması istifadəçilərin identifikasiyası üçün;
+B) məlumatın identifikasiya kodunun yaradılması üçün;
+C) məlumatda dəyişikliklərin aşkar edilməsi və istifadəçilərin autentifikasiyası üçün;
+D) məlumatın həcmini azaltmaq və istifadəçilərin autentifikasiyası üçün;
+E) məlumatın şifrlənməsi və deşifrlənməsi üçün.
+C
+148. Aşağıdakılardan hansı heşləmə funksiyasının xassələrınə aiddir?
+A) heş-funksiya M mətnində mümkün dəyişikliklərə həssas olmalıdır;
+B) heş-funksiya biristiqamətli olmamalıdır;
+C) heş-funksiyası məhdud ölçülü arqumentə tətbiq oluna bilər;
+D) iki müxtılif sənədin (onların uzunluğundan asılı olmayaraq) heş-funksiyalarının qiymətlərinin üst-üstə düşmə ehtimalı, olduqca böyük olmalıdır;
+E) heş-funksiyanın çıxış qiyməti fiksə olunmuş ölçüyə malik deyil.
+A
+149. Aşağıdakılardan hansı heşləmə alqoritmlərinə aiddir?
+A) RSA, DES, MD4;
+B) ECB, CBC, OFB;
+C) AES, RC5. İDEA;
+D) MD5, SHA-1, CRC;
+E) FEAL, SHA-256, DES.
+D
+150. Aşağıdakılardan hansı heşləmə funksiyasının xassələrınə aiddir?
+A) heş-funksiyası məhdud ölçülü arqumentə tətbiq olunmalıdır;
+B) heş-funksiya biristiqamətli olmalıdır;
+C) iki müxtılif sənədin (onların uzunluğundan asılı olmayaraq) heş-funksiyalarının qiymətlərinin üst-üstə düşmə ehtimalı, olduqca böyük olmalıdır;
+D) heş-funksiyanın çıxış qiyməti dəyişən ölçüyə malik olmalıdır;
+E) heş-funksiya M mətnində mümkün dəyişikliklərə həssas olmamalıdır.
+B
+151. Aşağıdakılardan hansı heşləmə funksiyasının xassələrınə aiddir?
+A) heş-funksiyanın çıxış qiyməti dəyişən ölçüyə malik olmalıdır;
+B) heş-funksiya M mətnində mümkün dəyişikliklərə həssas olmamalıdır;
+C) heş-funksiyası məhdud ölçülü arqumentə tətbiq olunmalıdır;
+D) heş-funksiyası biristiqamətli olmamalıdır;
+E) iki müxtılif sənədin (onların uzunluğundan asılı olmayaraq) heş-funksiyalarının qiymətlərinin üst-üstə düşmə ehtimalı, olduqca kiçik olmalıdır.
+E
+152. Açar informasiyası nəyə deyilir?
+A) yalnız istifadəçidə olan və məlumatın şifrlənməsi və deşifrlənməsi üçün istifadə olunan açara;
+B) kriptoqrafik sistemə mənsub olan şifrləmə və deşifrləmə alqoritminə;
+C) kriptoqrafik sistem vasitəsi ilə açıq mətnin şifrlənməsindən sonra alınmış şifrmətnə;
+D) heş-funksiyanın istifadəsi ilə alınan məlumatın daycestinə;
+E) bütün informasiya şəbəkəsində və ya sistemində qüvvədə olan bütün açarların məcmusuna.
+E
+153. Açarların idarə olunmasına hansı funksiyalar daxildir?
+A) açarların generasiyası;
+B) açarların generasiyası və saxlanması;
+C) açarların generasiyası, saxlanması və paylanması;
+D) açarların saxlanması və paylanması;
+E) açarların generasiyası və paylanması.
+C
+154. Açarların idarə olunmasının ən məsuliyyətli prosesi hansıdır?
+A) paylanması;
+B) generasiyası;
+C) saxlanması;
+D) generasiyası və saxlanması;
+E) heç biri.
+A
+155. Açarların mübadiləsi və ya paylanması dedikdə nə başa düşülür?
+A) açarların kuryer tərəfindən istifadəçilərə çatdırılması;
+B) açarların mühafizə olunmamış kanalla göndərilməsi;
+C) açarların şəxsən istifadəçilərin bir-birinə verməsi;
+D) sesiya açarlarının razılaşdırılması prosesi;
+E) açarların paylayıcı təşkilat tərəfindən istifadəçilərə göndərilməsi.
+D 
+156. Açarların paylanması zamanı hansı tələb irəli sürülür?
+A) paylanmanın sürətliyi;
+B) paylanmanın operativliyi və dəqiqliyi;
+C) paylanmanın etibarlığı;
+D) paylanma üçün açıq kanalların istifadəsi;
+E) paylanan açarların dəyişdirilməməsinə səmanət.
+B
+157. Açarların paylanması zamanı hansı tələb irəli sürülür?
+A) paylanmanın etibarlığı;
+B) paylanan açarların dəyişdirilməməsinə səmanət;
+C) paylanan açarların məxfiliyi və tamlığı;
+D) paylanma üçün açıq kanalların istifadəsi;
+E) paylanmanın yalnız kuryer tərəfindən aparılması.
+C
+158. Kompüter şəbəkələrinin istifadəçiləri arasında açarların paylanmasının hansı üsulları rətbiq olunur?
+A) kompüter şəbəkələrinin ümumi resurslarında açarların nüsxələrinin yerləşdirilməsi;
+B) kuryerin vasitəsi ilə kompüter şəbəkəsinin istifadəçilərinə açarların çatdırılması;
+C) yalnız açarların paylanmasının bir və ya bir neçə mərkəzinin istifadəsi;
+D) yalnız şəbəkənin istifadəçiləri arasında açarların birbaşa mübadiləsi;
+E) açarların paylanmasının bir və ya bir neçə mərkəzinin istifadəsi; şəbəkənin istifadəçiləri arasında açarların birbaşa mübadiləsi.
+E
+159. Açarların paylanmasının bir və ya bir neçə mərkəzinin istifadəsi zamanı hansı proble üzə çıxır?
+A) şəbəkənin subyektlərinin həqiqiliyinə möhkəm əminlik yoxdur;
+B) açarların paylanma mərkəzinə kimə və hansı açarların paylanması məlum deyil, bu isə paylanmanın operativliyinə və dəqiqliyinə mənfi təsir göstərir;
+C) açarların paylanma mərkəzi operativ təşkilat olmadığına görə, açarların çatdırılmasında ləngimələr olur;
+D) açarların paylanma mərkəzinə kimə və hansı açarların paylanması məlumdur, və bu şəbəkə ilə ötürülən bütün məlumatları oxumağa imkan verir;
+E) açarların paylanmasında bir-neçə mərkəz iştirak edirsə açarların çatdırılması prosesi xeyli ləngiyir.
+D
+160. Şəbəkənin istifadəçiləri arasında açarların birbaşa mübadiləsi zamanı hansı problem üzə çıxır?
+A) şəbəkənin subyektlərinin həqiqiliyinə möhkəm əminlik yoxdur;
+B) açarların paylanma mərkəzinə kimə və hansı açarların paylanması məlumdur, və bu şəbəkə ilə ötürülən bütün məlumatları oxumağa imkan verir;
+C) şəbəkənin texniki vasitələrinin etibarlığlna möhkəm əminlik yoxdur;
+D) şəbəkənin istifadəçiləri arasında açarların birbaşa mübadiləsi zamanı sistemlərə hücum ehtimalı çoxalır;
+E) yuxarıda göstərilənlərdən heç biri problemi əks etdirmir.
+A
+161. Açarların paylanması protokolu hansı funksiyaları təmin edir?
+A) ötürülən verilənlərin məxfiliyinin təmin olunmas; seansın iştirakçılarının həqiqiliyinin qarşılıqlı təsdiqi; açarların mübadiləsi zamanı maksimal sayda məlumatlardan istifadə;
+B) seansın iştirakçılarının həqiqiliyinin qarşılıqlı təsdiqi; seansın həqiqiliyinin təsdiqi; açarların mübadiləsi zamanı minimal sayda məlumatlardan istifadə;
+C) seansın iştirakçılarının qarşılıqlı identifikasiyası; seansın identifikasiyası; açarların mübadiləsi zamanı minimal sayda məlumatlardan istifadə;
+D) seansın iştirakçılarının məxfiliyinin qarşılıqlı təsdiqi; seansın məxfiliyinin təsdiqi; açarların mübadiləsi zamanı minimal sayda məlumatlardan istifadə;
+E) seansın iştirakçılarının həqiqiliyinin qarşılıqlı təsdiqi; seansın məxfiliyinin təsdiqi; açarların mübadiləsi zamanı maksimal sayda məlumatlardan istifadə.
+B
+162. Seansın həqiqiliyinin təsdiqi problemini həll etmək üçün hansı üsullardan isfifadə olunur?
+A) asimmetrik kriptosistemin məxfi açarını mühafizə etmək üçün məxfi açarlı simmetrik kriptosistemin istifadəsi; asimmetrik kriptosistemlərin təhlükəsizliyini təmin etmək üçün U.Diffi və M. Hellman tələbləri;
+B) simmetrik kriptosistemin məxfi açarını mühafizə etmək üçün açıq açarlı asimmetrik kriptosistemin istifadəsi; açarların açıq paylanmasının Diffi-Hellman sisteminin istifadəsi;
+C) asimmetrik kriptosistemin məxfi açarını mühafizə etmək üçün məxfi açarlı simmetrik kriptosistemin istifadəsi; açarların açıq paylanmasının Diffi-Hellman sisteminin istifadəsi;
+D) asimmetrik kriptosistemin məxfi açarını mühafizə etmək üçün məxfi açarlı simmetrik kriptosistemin istifadəsi; simmetrik kriptosistemin məxfi açarını mühafizə etmək üçün açıq açarlı asimmetrik kriptosistemin istifadəsi;
+E) asimmetrik kriptosistemlərin təhlükəsizliyini təmin etmək üçün U.Diffi və M. Hellman tələbləri; açarların açıq paylanmasının Diffi-Hellman sisteminin istifadəsi.
+B
+163. U. Diffi və M.Hellmanın açarların açıq paylanması metodunun məqsədi nədir?
+A) istifadəçilərə mühafizə olunan kanalla açarları mübadilə etmə imkanı vermək;
+B) istifadəçilərə kuryerin köməyi ilə açarları mübadilə etmə imkanı vermək;
+C) istifadəçilərə mühafizə olunmayan kanalla açarları mübadilə etmə imkanı vermək;
+D) istifadəçilər arasında açarların paylanması zamanı rabitə kanallarından istifadə etməmək imkanını vermək;
+E) açarların mübadiləsinin operativliyini artırmaq.
+C
+164. Açarların paylanmasının Diffi-Helman metodunun ilkin etapında A və B istifadəçiləri hansı işi yerinə yetirir?
+A) özlərinin təsadüfi kA və kB məxfi açarlarını generasiya edirlər;
+B) özlərinin təsadüfi KA və KB açıq açarlarını generasiya edirlər;
+C) kA və kB məxfi açarlarını mübadilə edirlər;
+D) KA və KB açıq açarlarını mübadilə edirlər;
+E) özlərinin təsadüfi kA və kB məxfi açarlarını şifrləyirlər.
+A
+165. Açarların paylanmasının Diffi-Helman metodunun ikinci etapında A və B istifadəçiləri hansı işi yerinə yetirir?
+A) kA və kB məxfi açarlarını mübadilə edirlər;
+B) KA və KB açıq açarlarını mübadilə edirlər;
+C) özlərinin təsadüfi kA və kB məxfi açarlarını generasiya edirlər;
+D) özlərinin kA və kB məxfi açarları əsasında KA və KB açıq açarlarını hesablayırlar;
+E) generasiya olunmuş kA və kB məxfi açarları şifrləyirlər.
+D
+166. A və B istifadəçiləri özlərinin KA və KB açıq açarlarını hesablayarkən hansı alqoritmdən istifadə edirlər?
+A) KA = gkB(mod N) , KB = gkA (mod N); 
+B) KA = kA(mod N) , KB = kB (mod N);
+C) KA = g(mod N) , KB = g (mod N);
+D) KA = (mod N) , KB = KB (mod N); 
+E) KA = gkA(mod N) , KB = gkB (mod N);
+E
+167. A və B istifadəçiləri özlərinin KA və KB açıq açarlarını hesablayarkən g və N ədədləri necə seçilməlidir?
+A) g və N kiçik və tam ədədlər olmalıdırlar;
+B) g ədədi böyük və tam, N ədədi isə kiçik və sadə olmalıdır;
+C) g ədədi kiçik və sadə, N ədədi isə böyük və tam olmalıdır;
+D) g və N ədədləri kiçik, rasional və mürəkkəb ədədlər olmalıdırlar;
+E) g və N ədədləri böyük, tam və sadə ədədlər olmalıdırlar.
+E
+168. g və N ədədləri necə saxlanmalıdır?
+A) g və N ədədləri gizli saxlanmalıdır;
+B) g və N ədədləri açıq saxlanıla bilər;
+C) g ədədi gizli saxlanmalı, N isə açıq saxlanıla bilər;
+D) g ədədi açıq saxlanıla bilər, N isə gizli saxlanmalıdır;
+E) g və N ədədlərinin gizli və ya açıq saxlanmasının fərqi yoxdur.
+B
+169. Açarların paylanmasının Diffi-Helman metodunun üçüncü etapında A və B istifadəçiləri hansı işi yerinə yetirir?
+A) A və B istifadəçiləri özlərinin KA və KB açıq açarlarını mühafizə olunan kanalla mübadilə edirlər;
+B) A və B istifadəçiləri özlərinin kA və kB məxfi açarlarını mühafizə olunmayan kanalla mübadilə edirlər;
+C) A və B istifadəçiləri özlərinin KA və KB açıq açarlarını mühafizə olunmayan kanalla mübadilə edirlər;
+D) A və B istifadəçiləri özlərinin kA və kB məxfi açarlarını mühafizə olunan kanalla mübadilə edirlər;
+E) A və B istifadəçiləri özlərinin KA və KB açıq açarlarını kuryerin vasitəsi ilə mübadilə edirlər.
+C
+170. A və B istifadəçiləri ümumi sesiya açarını hansı alqoritmlə hesablayırlar? 
+A) A istifadəçisi: K = (KB)kA mod N ; B istifadəçisi: K′  = (KA)kB  mod N ;
+B) A istifadəçisi: K = (KA)kA mod N ; B istifadəçisi: K′ = (KB)kB mod N ;  
+C) A istifadəçisi: K = (KA)kBmod N ; B istifadəçisi: K′ = (KB)kA mod N ;
+D) A istifadəçisi: K = KB mod N ; B istifadəçisi: K′ = KA mod N ;
+E) A istifadəçisi: K = (K𝐵)kA; B istifadəçisi: K′ = (KA)kB.
+A
+171. A və B istifadəçilərinin hesabladıqları K və K' ümumi sesiya açarları arasında münasibət necə olmalıdır? 
+A) K < K';
+B) K > K';
+C) K ≤ K';
+D) K = K';
+E) K ≠ K'.
+D
+172. Açarların paylanmasının Diffi-Helman metodunun unikallığı nədədir?
+A) abonent cütü, açıq şəbəkə ilə məxfi açarları göndərərək, yalnız onlara məlum olan açıq ədədi alırlar;
+B) abonent cütü, bağlı şəbəkə ilə açıq açarları göndərərək, yalnız onlara məlum olan məxfi ədədi alırlar;
+C) abonent cütü, bağlı şəbəkə ilə məxfi açarları göndərərək, yalnız onlara məlum olan açıq ədədi alırlar;
+D) abonent cütü, heç bir informasiya göndərmədən, yalnız onlara məlum olan məxfi ədədi alırlar;
+E) abonent cütü, açıq şəbəkə ilə açıq açarları göndərərək, yalnız onlara məlum olan məxfi ədədi alırlar.
+E
+173. Şifr nədir?
+A) verilmiş açar və kriptoqrafik çevirmə alqoritmi vasitəsi ilə, açıq verilənlər çoxluğunu şifrlənmiş verilənlər çoxluğuna çevirən, dönməyən (tərsi olmayan) çevirmələr məcmusudur;
+B) verilmiş açar və kriptoqrafik çevirmə alqoritmi vasitəsi ilə, açıq verilənlər çoxluğunu şifrlənmiş verilənlər çoxluğuna çevirən, dönən (tərsi olan) çevirmələr məcmusudur;
+C) verilmiş açar vasitəsi ilə, açıq verilənlər çoxluğunu şifrlənmiş verilənlər çoxluğuna çevirən, dönən (tərsi olan) çevirmələr məcmusudur;
+D) kriptoqrafik çevirmə alqoritmi vasitəsi ilə, açıq verilənlər çoxluğunu şifrlənmiş verilənlər çoxluğuna çevirən, dönən (tərsi olan) çevirmələr məcmusudur;
+E) kriptoqrafik çevirmə alqoritmi vasitəsi ilə, açıq verilənlər çoxluğunu şifrlənmiş verilənlər çoxluğuna çevirən, dönməyən (tərsi olmayan) çevirmələr məcmusudur.
+B
+174. Kriptoqrafik alqoritmlərdə istifadə olunan açarların sayına görə təsnifata aşağıdakılardan hansı uyğundur?
+A) biraçarlı, ikiaçarlı;
+B) açarsız, biraçarlı,
+C) açarsız, biraçarlı, ikiaçarlı;
+D) açarsız, ikiaçarlı;
+E) biraçarlı, ikiaçarlı, üçaçarlı.
+C
+175. Kriptoqrafik alqoritmlərin təsnifatına görə biraçarlı alqoritmlərə hansılar aiddir?
+A) heşləmə, asimmetrik şifrləmə;
+B) simmetrik şifrləmə, asimmetrik şifrləmə;
+C) asimmetrik şifrləmə, elektron imza; 
+D) heşləmə, simmetrik şifrləmə;
+E) heşləmə, elektron imza.
+D
+176. Kriptoqrafik alqoritmlərin təsnifatına görə ikiaçarlı alqoritmlərə hansılar aiddir?
+A) heşləmə, elektron imza;
+B) asimmetrik şifrləmə, elektron imza;
+C) heşləmə, simmetrik şifrləmə;
+D) simmetrik şifrləmə, asimmetrik şifrləmə;
+E) heşləmə, asimmetrik şifrləmə.
+B
+177. Kriptoqrafik alqoritmlərin təsnifatına görə simmetrik alqoritmlərin növləri hansılardır?
+A) bloklu, axınlı;
+B) bloklu, bitli;
+C) süzgəcli, bloklu;
+D) axınlı, baytlı.
+E) bitli, baytlı;
+A
+178. KİS-in resurslarının mühafizəsi üçün hansı texnoloğiyalardan istifadə olunur?
+A) süni intelekt texnologiyaları;
+B) təsvirlərin tanınması texnologiyaları;
+C) DATA MINING;
+D) müəssisənin vahid təhlükəsizlik siyasəti bazası əsasında İTS-in mərkəzləşdirilmiş idarəsi;
+E) Wi-Fi.
+D
+179. Bloklu şifrləmə nə ilə xarakterizə olunur?
+A) informasiya fiksə olunmamış hissələrə bölünür;
+B) informasiyanın bloklara bölünməsinin qeyri-mümkünlüyü;
+C) informasiya əvvəlcə fiksə olunmuş uzunluqda (məsələn 64 və ya 128 bit) bloklara bölünür;
+D) şifrlənəcək açıq məlumatın həcminin həddən böyük olması ilə;
+E) şifrlənmənin yüksək sürəti ilə.
+C
+180. Bloklu şifrləmədə "ilişmə" metodunun mahiyyəti nədir?
+A) cari verilənlər blokunun şifrlənməsinin nəticəsi əvvəlki blokun qiymətindən və ya əvvəlki blokun sifrlənməsinin nəticəsindən asılı olmur;
+B) cari verilənlər blokunun şifrlənməsinin nəticəsi əvvəlki blokun qiymətindən və ya əvvəlki blokun sifrlənməsinin nəticəsindən asılı olur;
+C) cari verilənlər blokunun şifrlənməsinin nəticəsi sonrakı blokun qiymətindən və ya sonrakı blokun sifrlənməsinin nəticəsindən asılı olur;
+D) cari verilənlər blokunun şifrlənməsinin nəticəsi əvvəlki və sonrakı blokun qiymətindən asılı olur;
+E) cari verilənlər blokunun şifrlənməsinin nəticəsi əvvəlki və sonrakı blokun sifrlənməsinin nəticəsindən asılı olur.
+B
+181. Axın şifrləmə nə vaxt tətbiq olunur?
+A) informasiyanı bloklara bölmək mümkün olduqda;
+B) şifrlənəcək açıq məlumatın həcmi həddən böyük olduqda;
+C) şifrlənəcək açıq məlumatın həcmi həddən kiçik olduqda;
+D) açıq mətndə sözləri ayrı-ayrı şifrləmək lazım olduqda;
+E) informasiyanı bloklara bölmək mümkün olmadıqda.
+E
+182. Axın şifr alqoritmləri verilənləri necə şifrləyir?
+A) hər bir baytı ayrı-ayrı;
+B) bit-bit və ya simvol-simvol;
+C) hər bir kilobaytı ayrı-ayrı;
+D) hər bir bloku ayrı-ayrı.
+E) bir faylı tam;
+B
+183. Simmetrik kriptoalqoritmlər əsasında qurulmuş simmetrik kriptosistemlər hansı həcmdə fayllara tətbiq oluna bilər? 
+A) ixtiyari uzunluqlu fayllara;
+B) yalnız məhdud uzunluqlu fayllara;
+C) yalnız kiçik həcmdə olan fayllara;
+D) yalnız böyük həcmdə olan fayllara;
+E) simmetrik kriptosistemlər fayllara tətbiq olunmur.
+A
+184. Simmetrik blok şifrinin iş sxemi hansı funksiyalarla təsvir olunur? Burada M - ilkin (açıq) verilənlər bloku, C - şifrlənmiş verilənlər bloku, K-açardır.
+A) EK = C(M)  və  DK = M(C ) ;
+B) C = K(M) və M = K(C ) ;
+C) C = EK(M)  və  M = DK(C ) ;
+D) C = M(EK) və M = C(DK);
+E) EK =M(C ) və DK =C(M).
+C
+185. Simmetrik kriptoalqoritmlərdə M ilkin verilən bloku ilə C şifrlənmiş blok arasında münasibət necə olur?
+A) C>M;
+B) C=M;
+C) C<M;
+D) C≠M;
+E) C≤ M.
+B
+186. Simmetrik kriptoalqoritmlərdə M ilkin verilən bloku ilə K açarının uzunluğu arasında münasibət necə ola bilər?
+A) K=M;
+B) K≠M;
+C) K>M;
+D) K<M;
+E) K≤M.
+B
+187. Simmetrik kriptoalqoritmlərdə verilənlər paketinin nəzarət cəminin hesablanmasında və parolların heşlənməsində nədən istifadə olunur?
+A) blok şifrinin giriş axınının bitləri arasında statistik korrelyasiyanın olmamasından;
+B) blok şifrinin çıxış axınının bitləri arasında statistik korrdinasiyanın olmamasından;
+C) blok şifrinin çıxış axınının baytları arasında statistik korrelyasiyanın olmamasından;
+D) blok şifrinin çıxış axınının bitləri arasında statistik korrelyasiyanın olmamasından;
+E) blok şifrinin çıxış axınının bitləri arasında statistik korreksiyanın olmamasından.
+D
+188. Simmetrik kriptoalqoritm nə vaxt ideal dayanıqlı hesab olunur?
+A) şifrlənmiş verilənlər blokunun oxunması üçün deşifrlənmiş məlumat məna kəsb edənə kimi bütün mümkün açarların seçilməsi lazım olsun;
+B) şifrlənmiş verilənlər blokunun oxunması üçün deşifrlənmiş məlumat məna kəsb edənə kimi bütün mümkün açarların seçilməsi lazım olmasın;
+C) şifrlənmiş verilənlər blokunun oxunması üçün deşifrlənmiş məlumat məna kəsb etməyənə kimi bütün mümkün açarların seçilməsi lazım olsun;
+D) şifrlənmiş verilənlər blokunun oxunması üçün deşifrlənmiş məlumat məna kəsb etməyənə kimi bütün mümkün açarların seçilməsi lazım olmasın;
+E) şifrlənmiş verilənlər blokunun oxunması üçün deşifrlənmiş məlumat məna kəsb edənə kimi bütün mümkün mətnlərin seçilməsi lazım olsun.
+A
+189. Simmetrik kriptoalqoritmdə blok şifrinin dayanıqlığı nədən asılıdır?
+A) yalnız blokun uzunluğundan asılıdır və onun artması ilə eksponensial artır;
+B) yalnız açıq mətnin uzunluğundan;
+C) yalnız açarın uzunluğundan asılıdır və onun artması ilə eksponensial artır;
+D) açıq mətnin və blokun üzunluğundan;
+E) açıq mətnin, blokun və açarın üzunluğundan.
+C
+190. Simmetrik kriptoalqoritmdə əgər blokun ilkin və şifrlənmiş qiymətləri məlumdursa, bu çevirməni yerinə yetirən açarı necə tapmaq olar?
+A) açarın qiymətini tapmaq mümkün deyil;
+B) bütün mümkün açar qiymətlərinin yarısını seçməklə;
+C) ilkin blokun və onun şifrlənmiş qiymətindən bir çevirmə ilə;
+D) yalnız açarın bütün qiymətlərini seçməklə;
+E) ilkin blokun və onun şifrlənmiş qiymətini tədqiq etməklə.
+D
+191. DES alqoritmində blokun və açarın uzunluğu nəyə bərabərdir?
+A) blokun uzunluğu 64 bit, açarın uzunluğu 56 bit;
+B) blokun uzunluğu 64 bit, açarın uzunluğu 64 bit;
+C) blokun uzunluğu 128 bit, açarın uzunluğu 64 bit;
+D) blokun uzunluğu 64 bit, açarın uzunluğu 32 bit;
+E) blokun uzunluğu 128 bit, açarın uzunluğu 32 bit;
+B
+192. DES alqoritminin şifrləmə prosesinə hansı aiddir?
+A) 64-bitlik blokun bitlərinin başlanğıc əvəzetməsi, şifrləmənin 16 dövrü (raundu), bitlərin son yerdəyişməsi;
+B) şifrləmənin 16 dövrü (raundu), 64-bitlik blokun bitlərinin başlanğıc yerdəyişməsi, bitlərin son əvəzetməsi.
+C) 64-bitlik blokun bitlərinin başlanğıc yerdəyişməsi, şifrləmənin 32 dövrü (raundu), bitlərin son əvəzetməsi.
+D) ) 64-bitlik blokun bitlərinin başlanğıc əvəzetməsi, şifrləmənin 32 dövrü (raundu), bitlərin son yerdəyişməsi;
+E) 64-bitlik blokun bitlərinin başlanğıc yerdəyişməsi, şifrləmənin 16 dövrü (raundu), bitlərin son əvəzetməsi.
+E
+193. DES alqoritminin əsas üstün cəhətlərinə aid olmayan hansıdır?
+A) uzunluğu 56 bit olan yalnız bir açar istifadə olunur;
+B) alqoritmin nisbi sadəliyi emalın yüksək sürətini təmin edir;
+C) DES alqoritmi indiki zamana qədər sındırılmayıb;
+D) məlumatı bir paket proqramı köməyi ilə şifrləyib, deşifrləmə üçün DES alqoritminə uyğun, ixtiyari digər paket proqramını istifadə etmək olar;
+E) alqoritmin kriptodayanıqlığı əksər kommersiya tətbiqlərinin informasiya təhlükəsizliyini təmin etmək üçün kifayyət edir.
+C
+194. Dayanıqlığı artırmaq məqsədi ilə DES alqoritmi hansı alqoritmlə əvəz olunur?
+A) 2-DES;
+B) 3 -SED;
+C) 4-DES;
+D) 3-ESD;
+E) 3-DES.
+E
+195. Hal-hazırda ABŞ-ın yeni kriptostandartı hansıdır?
+A) AES;
+B) DES;
+C) 3-DES;
+D) CRC;
+E) MD5.
+A
+196. Simmetrik kriptoalqoritmlərdə istifadə olunan iş rejimi hansıdır?
+A) DES (Data Encryption Standard - verilənlərin şifrlənməsi standartı);
+B) ECB (Electronic Code Book - elektron kod kitabı);
+C) AES (Advanced Encryption Standard - ABŞ-ın simmetrik blok şifrləmə alqoritm standartı);
+D) AES-hash rejimi;
+E) KFB (Key Feed Back Modu).
+B
+197. Simmetrik kriptoalqoritmlərdə istifadə olunan iş rejimi hansıdır?
+A) AES-hash rejimi;
+B) KFB (Key Feed Back Modu);
+C) DES (Data Encryption Standard - verilənlərin şifrlənməsi standartı);
+D) CBC (Cipher Block Chaining - şifr blokların ilişməsi);
+E) AES (Advanced Encryption Standard - ABŞ-ın simmetrik blok şifrləmə alqoritm standartı).
+D
+198. Simmetrik kriptoalqoritmlərdə istifadə olunan iş rejimi hansıdır?
+A) KFB (Key Feed Back Modu);
+B) AES (Advanced Encryption Standard - ABŞ-ın simmetrik blok şifrləmə alqoritm standartı);
+C) CFB (Cipher Feed Back - şifrmətn üzrə əks əlaqə);
+D) DES (Data Encryption Standard - verilənlərin şifrlənməsi standartı);
+E) AES-hash rejimi.
+C
+199. Simmetrik kriptoalqoritmlərdə istifadə olunan iş rejimi hansıdır?
+A) OFB (Output Feed Back - çıxış üzrə əks əlaqə);
+B) DES (Data Encryption Standard - verilənlərin şifrlənməsi standartı);
+C) AES-hash rejimi;
+D) AES (Advanced Encryption Standard - ABŞ-ın simmetrik blok şifrləmə alqoritm standartı);
+E) KFB (Key Feed Back Modu).
+A
+200. KİS-in resurslarının mühafizəsi üçün hansı texnoloğiyalardan istifadə olunur?
+A) Wi-Fi;
+B) texnologiyaların və informasiya mühafizəsi vasitələrinin rasional uyğunluğunu təmin edən, informasiya təhlükəsizliyi təminatına kompleks yanaşma;
+C) DATA MINING;
+D) təsvirlərin tanınması texnologiyaları;
+E) süni intelekt texnologiyaları.
+B
+201. RSA kriptoalqoritminin müəllifləri kimlərdir?
+A) R. Rivest, A. Şadelman və A. Akelman;
+B) R. Raymon, A. Şaxenberq və A. Ayzman;
+C) R. Rikyaver, A. Şaxno və A. Adleman;
+D) R. Rayvest, A. Şadelman və A. Akelman;
+E) R. Rayvest, A. Şamir və A. Adleman.
+E
+202. RSA kriptoalqoritmi hansı rejimlərdə işləyə bilər?
+A) verilənlərin heşlənməsi və elektron rəqəm imzası;
+B) verilənlərin heşlənməsi və şifrlənməsi;
+C) verilənlərin şifrlənməsi və elektron rəqəm imzası;
+D) yalnız verilənlərin şifrlənməsi və deşifrlənməsi;
+E) yalnız elektron rəqəm imzası.
+C
+203. RSA alqoritminin etibarlığı nəyə əsaslanıb?
+A) böyük ədədlərin faktorizasiya (vuruqlarına ayrılma) məsələsinin çətinliyinə və sonlu meydanda diskret loqorifmin hesablanması çətinliyinə;
+B) böyük ədədlərin faktorizasiya (vuruqlarına ayrılma) məsələsinin çətinliyinə və sonlu meydanda diskret loqorifmin hesablanması asanlığına;
+C) sadə ədədlərin vuruqlarına ayrılmaması məsələsinə və sonlu meydanda diskret loqorifmin hesablanması çətinliyinə;
+D) sadə ədədlərin vuruqlarına ayrılmaması məsələsinə və sonlu meydanda diskret loqorifmin hesablanması asanlığına;
+E) kiçik ədədlərin faktorizasiya (vuruqlarına ayrılma) məsələsinin asanlığına və sonlu meydanda diskret loqorifmin hesablanması asanlığına.
+A
+204. RSA alqoritmində KB açıq açarı, kB məxfi açarı, M məlumatı və C kriptoqramı hansı ədədlər çoxluğuna mənsubdurlar?
+A) Q - rasional ədədlər çoxluğu;
+B) R - həqiqi ədədlər çoxluğu;
+C) N - natural ədədlər çoxluğu
+D) ZN - tam ədədlər çoxluğu;
+E) C - kompleks ədədlər çoxluğu.
+D
+205. RSA alqoritmində modul necə hesablanır?
+A) N=p/q;
+B) N=pxq;
+C) N=p+q;
+D) N=p-q;
+E) N=pq .
+B
+206. RSA alqoritmində p və q ədədləri necə olmalıdır?
+A) təsadüfi böyük mürəkkəb ədədlərdir;
+B) təsadüfi böyük sadə ədədlərdir;
+C) qeyri-təsadüfi böyük sadə ədədlərdir;
+D) təsadüfi kiçik mürəkkəb ədədlərdir;
+E) təsadüfi böyük rasional ədədlərdir;
+B
+207. RSA alqoritmində KB açıq açarı təsadüfi yolla seçilərkən hansı şərti ödəməlidir?
+A) φ (N)   < KB  ≤ 1 ;	
+B) 1≤ KB  ≤ φ  N;
+C) 1< KB ≤ φ N ;
+D) 1< KB  ≤ N ;
+E) N < KB ≤ 1.
+C
+208. RSA alqoritmində KB açıq açarı ilə φ N - Eyler funksiyasının qarşılıqlı sadə olması necə göstərilir?
+A) ƏKOB  KB , φ  N    = 1;
+B) ƏBOB KB , φ N = 0;
+C) ƏKOB  KB , φ  N    = 0;
+D) ƏBOB KB , φ N ≠ 1; 
+E) ƏBOB KB , φ N = 1.
+E
+209. RSA alqoritmində Eyler funksiyası necə hesablanır?
+A) φ N = (P + 1) (Q + 1) ;
+B) φ N = (P – 1) (Q + 1) ;	
+C) φ N = (P + 1) (Q − 1 );
+D) φ N = (P – 1) (Q – 1) ;
+E) φ N = P𝒙Q.
+D
+210. RSA alqoritmində genişlənmiş Evklid alqoritmi istifadə edilərək kB məxfi açarı hesablanarkən hansı şərt ödənməlidir?
+A) kB ∙ KB ≡ 1(mod φ  N );
+B) kB ∙ KB = 1(mod φ N ); 
+C) kB =K−1 mod (P + 1) (Q + 1) ;
+D) kB / KB ≡ 1(mod φ  N );
+E) kB / KB = 1(mod φ N ); 
+A
+211. RSA alqoritmində verilənlərin şifrlənməsi proseduru hansı formula ilə yerinə yetirilir? 
+A) M = DkB (C) = CkB mod N ;
+B) C = Ek (M) = MkB mod N ;
+C) C = EKB (N) = NKB mod N ;
+D) C = EKB (M) = MKB mod N .
+E) C = EK (M) = MKB mod M ;
+D
+212. RSA alqoritmində verilənlərin şifrlənməsi proseduru hansı formula ilə yerinə yetirilir?
+A) C = EKB (M) = MKB (mod N) .
+B) M = DkB (C) = CkB (mod N) .
+C) M = Dk (N) = NkB (mod N);
+D) M = Dk (C) = CKB (mod N).
+E) M = DK (C) = CkB (mod N);
+B
+213. Hal-hazırda RSA alqoritmi üçün təhlükəsizlik açar uzunluğu neçə bit qəbul olunur?
+A) 1024;
+B) 2048;
+C) 512;
+D) 256;
+E) 4096.
+A
+214. Kompüter sistemində subyekti birmənalı identifikasiya etmək üçün hansı informasiya istifadə olunur?
+A) şəkil;
+B) səs;
+C) ədəd və ya simvollar sətri;
+D) video görüntü;
+E) barmaq izləri.
+C
+215. Kompüter sistemində subyekti birmənalı identifikasiya etmək üçün istifadə olunan ədəd və simvollar sətri necə adlanır?
+A) autentifikator;
+B) simulyator;
+C) interpretator;
+D) informator.
+E) identifikator;
+E
+216. İdentifikasiya prosesi nəyə deyilir?
+A) elan edilmiş istifadəçinin, prosesin və ya qurğunun həqiqiliyinin yoxlanmasına;
+B) sistemdə subyektə müəyyən səlahiyyətlərin və resursların təqdim olunmasına;
+C) şəbəkədə istifadəçinin, onun resurslara daxilolma səyləri daxil olmaqla, hərəkətlərinin qeydə alınmasına;
+D) istifadəçini onun identifikatoruna (adına) görə tanınmasına;
+E) obyektin onun identifikatoruna (adına) görə tanınmasına.
+D
+217. Autentifikasiya prosesi nəyə deyilir?
+A) elan edilmiş istifadəçinin, prosesin və ya qurğunun məxfiliyinin yoxlanmasına;
+B) elan edilmiş istifadəçinin, prosesin və ya qurğunun həqiqiliyinin yoxlanmasına;
+C) istifadəçini onun identifikatoruna (adına) görə tanınmasına;
+D) sistemdə subyektə müəyyən səlahiyyətlərin və resursların təqdim olunmasına;
+E) şəbəkədə istifadəçinin, onun resurslara daxilolma səyləri daxil olmaqla, hərəkətlərinin qeydə alınmasına.
+B
+218. Avtorizasiya prosesi nəyə deyilir?
+A) şəbəkədə istifadəçinin, onun resurslara daxilolma səyləri daxil olmaqla, hərəkətlərinin qeydə alınmasına.
+B) obyektin onun identifikatoruna (adına) görə tanınmasına;
+C) elan edilmiş istifadəçinin, prosesin və ya qurğunun həqiqiliyinin yoxlanmasına;
+D) elan edilmiş istifadəçinin, prosesin və ya qurğunun məxfiliyinin yoxlanmasına;
+E) sistemdə subyektə müəyyən səlahiyyətlərin və resursların təqdim olunmasına.
+E
+219. İstifadəçilərin hərəkətlərinin inzibatçılığı proseduru nəyə deyilir?
+A) sistemdə subyektə müəyyən səlahiyyətlərin və resursların təqdim olunmasına;
+B) istifadəçini onun identifikatoruna (adına) görə tanınmasına;
+C) elan edilmiş istifadəçinin, prosesin və ya qurğunun həqiqiliyinin yoxlanmasına;
+D) şəbəkədə istifadəçinin, onun resurslara daxilolma səyləri daxil olmaqla, hərəkətlərinin qeydə alınmasına 
+E) obyektin onun identifikatoruna (adına) görə tanınmasına.
+D
+220. Verilənlərin ötürülməsi kanallarının mühafizəsi zamanı hansı proses yerinə yetirilməlidir?
+A) subyektlərin qarşılıqlı autentifikasiyası;
+B) subyektlərin qarşılıqlı identifikasiyası;
+C) subyektlərin qarşılıqlı avtorizasiyası;
+D) obyektlərin qarşılıqlı autentifikasiyası;
+E) obyektlərin qarşılıqlı identifikasiyası.
+A
+221. Autentifikasiya üçün subyektin təqdim etdiyi mahiyyətlər hansılardır?
+A) nəyisə yaxın tanışında saxlamaq;
+B) hansısa yaxın tanışının xarakteristikaları;
+C) nəyisə bilmək, nəyəsə malik olmaq, hansısa ayrılmaz xarakteristikalar;
+D) heç bir mahiyyətə malik olmaya bilər;
+E) inzibatçıya aid olan ixtiyari mahiyyətlər.
+C
+222. Nəyisə bilmək mahiyyətinə aid olmayan hansıdır?
+A) parol;
+B) açıq açar;
+C) PİN-kod;
+D) plastik kart.
+E) məxfi açar;
+D
+223. Nəyəsə malik olmaq mahiyyətinə aid olmayan hansıdır?
+A) maqnit kartı;	
+B) parol;	
+C) smart-kart;
+D) sertifikat;
+E) touch memory.
+B
+224. Hansısa ayrılmaz xarakteristikalar mahiyyətinə aid olmayan hansıdır?
+A) PİN-kod
+B) səs;
+C) gözün qüzehi qişası;
+D) barmaqların izi;
+E) ovucun həndəsəsi.
+A
+225. Parol nədir?
+A) odur ki, onu qarşılıqlı əlaqənin istifadəçisi bilir, digər iştirakçı isə bilmir;
+B) odur ki, onu qarşılıqlı əlaqənin istifadəçisi və digər iştirakçısı bilir;
+C) odur ki, onu qarşılıqlı əlaqənin istifadəçisi bilmir, digər iştirakçısı isə bilir;
+D) odur ki, onu qarşılıqlı əlaqənin istifadəçisi və digər iştirakçısı bilmir;
+E) odur ki, onu qarşılıqlı əlaqənin istifadəçisi və digər iştirakçısı bilir.
+B
+226. PİN(Personal İdentification Number) -kod nədir?
+A) elə paroldur ki, o bir dəfə istifadə olunduqdan sonra bir daha istifadə olunmur;
+B) plastik kart və ya smart-kart sahibinin identifikasiya üsuludur;
+C) odur ki, onu qarşılıqlı əlaqənin istifadəçisi və digər iştirakçısı bilir;
+D) təmas kart sahibinin autentifikasiya üsuludur;
+E) plastik kart və ya smart-kart sahibinin autentifikasiya üsuludur.
+E
+227. Dinamik parol nədir?
+A) elə paroldur ki, onun istifadə müddəti məhdud deyil;
+B) elə paroldur ki, onun istifadə sayı əvvəlcədən müəyyənləşdirilir;
+C) elə paroldur ki, o bir dəfə istifadə olunduqdan sonra bir daha istifadə olunmur;
+D) odur ki, onu qarşılıqlı əlaqənin istifadəçisi və digər iştirakçısı bilir;
+E) plastik kart və ya smart-kart sahibinin autentifikasiya üsuludur.
+C
+228. Sorğu-cavab sistemlərində autentifikasiya prosesinə birinci tərəf necə başlayır?
+A) tərəflərdən biri digər tərəfə unikal və öncədən bilinən "sorğu" qiyməti göndərir;
+B) tərəflərdən biri digər tərəfə unikal olmayan və öncədən bilinməyən "sorğu" qiyməti göndərir;
+C) tərəflərdən biri digər tərəfə unikal olmayan və öncədən bilinən "sorğu" qiyməti göndərir;
+D) tərəflərdən biri digər tərəfə unikal və öncədən bilinməyən "sorğu" qiyməti göndərir;
+E) tərəflərdən biri digər tərəfə unikal və öncədən bilinməyən "cavab" qiyməti göndərir.
+D
+229. Sorğu-cavab sistemlərində autentifikasiya prosesində qarşı tərəf nə iş görür?
+A) "sorğu" və açıq qiymətin köməyi ilə hesablanmış, cavab göndərir;
+B) "sorğu"  və məxfi qiymətin köməyi ilə hesablanmış, cavab göndərir;
+C) digər tərəfə unikal və öncədən bilinməyən "sorğu" qiyməti göndərir;
+D) digər tərəfə unikal və öncədən bilinməyən "cavab" qiyməti göndərir;
+E) "sorğu" və məxfi qiymətin köməyi ilə hesablanmış, yeni "sorğu" göndərir.
+B
+230. Autentifikasiya üçün sertifikat istifadə olunursa, sertifikata nə tətbiq olunmalıdır?
+A) rəqəm imza;
+B) parol;	
+C) açiq açar;
+D) xüsusi nişan.
+E) məxfi açar;
+A
+231. Sertifikatlar kim tərəfindən verilir?
+A) informasiya mübadiləsinə girən qarşı tərəfdən;
+B) serverin administratoru tərəfindən;
+C) təşkilatın müdiri tərəfindən;
+D) ixtiyari səlahiyyətli şəxs tərəfindən;
+E) istifadəçinin təşkilatında məsul şəxs, sertifikatlar serveri və ya xarici etibarlı təşkilat tərəfindən.
+E
+232. Aşağıdakılardan hansı autentifikasiya proseslərinin tipinə aiddir?
+A) kriptoqrafik metod və vasitələrin istifadəsinə əsaslanmayan autentifikasiya;
+B) təsvirlərə əsaslanan autentifikasiya;
+C) parolları və PİN-kodları istifadə edən autentifikasiya;
+D) uzaqdan tanıma ilə autentifikasiya;
+E) əl yazısına görə autentifikasiya.
+C
+233. Aşağıdakılardan hansı autentifikasiya proseslərinin tipinə aiddir?
+A) təsvirlərə əsaslanan autentifikasiya;
+B) əl yazısına görə autentifikasiya;
+C) uzaqdan tanıma ilə autentifikasiya;
+D) kriptoqrafik metod və vasitələrin istifadəsinə əsaslanan ciddi autentifikasiya;
+E) kriptoqrafik metod və vasitələrin istifadəsinə əsaslanmayan autentifikasiya.
+D
+234. Aşağıdakılardan hansı autentifikasiya proseslərinin tipinə aiddir?
+A) əl yazısına görə autentifikasiya;
+B) istifadəçilərin biometrik autentifikasiyası;
+C) kriptoqrafik metod və vasitələrin istifadəsinə əsaslanmayan autentifikasiya;
+D) təsvirlərə əsaslanan autentifikasiya.
+E) uzaqdan tanıma ilə autentifikasiya;
+B
+235. Müasir əməliyyat sistemləri istifadəçiləri autentifikasiya xidmətindən keşirərkən nədən istifadə edir?
+A) verilənlər bazasının idarəetmə sistemindən;
+B) biliklər bazasından;	
+C) verilənlər bankından;
+D) informasiya sistemindən;	
+E) verilənlər bazasından.
+E
+236. Verilənlər bazasında nə saxlanılır?
+A) istifadəçilərin identifikatorları və parolları daxil olmaqla, şəbəkə istifadəçilərinin qeydiyyat yazıları, və həmçinin digər informasiya;
+B) istifadəçilərin qovluqları, faylları və digər informasiyası;
+C) istifadəçilərin sistemlə işlədiyi müddətdə təhlükəsizlik parametrlərinin pozulmarı haqda informasiya;
+D) yalnız istifadəçilərin identifikatorları və parolları;
+E) istifadəçilərin İnternetdə işlədikləri zaman veb-saytların siyahısı.
+A
+237. Aşağıdakılardan hansı sadə autentifikasiya proseduruna aid deyil?
+A) istifadəçi şəbəkəyə məntiqi daxilolmaya səy edərkən öz identifikatorunu və parolunu yığır;
+B) istifadəçinin yığdığı verilənlər identifikasiya serverinə daxil olur;
+C) autentifikasiya serverinə saxlanılan VB-də, istifadəçinin identifikatoruna görə uyğun yazı tapılır;
+D) istifadəçi yazısından parol ayrılır və istifadəçi daxil etdiyi parolla müqaisə olunur;
+E) parollar üst-üstə düşürlərsə, onda autentifikasiya müvəffəqiyyətlə keçir.
+B
+238. İstifadəçi şəbəkədə autentifikasiya prosedurunu müvəffəqiyyətlə keçdikdən sonra nə əldə edir?
+A) leqal statusunu alır, lakin heç bir şəbəkə hüquq və resursları əldə etmir;
+B) leqal statusunu alır və avtorizasiya sisteminin onun statusu üçün təyin etdiyi inzibatçı hüquqlarını və resurslarını əldə edir;
+C) leqal statusunu alır və avtorizasiya sisteminin onun statusu üçün təyin etdiyi şəbəkə hüquqlarını və resurslarını əldə edir;
+D) yalnız leqal statusunu alır;
+E) kompüter sisteminə gaxilolmanın mümkünsüzlüyü ona bildirilir.
+C
+239. İstifadəçinin parolu və identifikatoru açıq (şifrlənməmiş) mühafizə olunmamış formada ötürülə bilərmi?
+A) heç cür ötürülə bilməz, buna təhlükəsizlik qaydaları icazə vermir;
+B) ötürülə bilər, əgər parolların və identifikatorların yaradılması qaydalarına riayət olunubsa;
+C) yalnız lokal şəbəkə daxilində otürülə bilər;
+D) yalnız İnternet birləşməsi vasitəsi ilə otürülə bilər;
+E) ötürülə bilər, məsələn PAP (Password Authentication Protocol) parol autentifikasiyası protokoluna uyğun olaraq. 
+E
+240. İstifadəçinin parolu və identifikatoru mühafizə olunmuş şəkildə ötürülməsi dedikdə nə başa düşülür?
+A) rabitə xətlərinin mühafizə olunması;
+B) bütün ötürülən verilənlərin biristiqamətli funksiyalar vasitəsi ilə mühafizə olunması;
+C) bütün ötürülən verilənlərin şifrlənməsi;
+D) bütün ötürülən verilənlərin şifrləmə və biristiqamətli funksiyalar vasitəsi ilə mühafizə olunması;
+E) rabitə xətlərinin və ötürülən verilənlərinin təhlükəsizlik protokollarından istifadəsi.
+D
+241. A istifadəçisinin həqiqiliyinin təsdiqi üçün onun göndərdiyi PA parolu ilə autentifikasiya serverində saxlanılan 𝑃′ parolu arasında münasibət necə olmalıdır?
+A) PA ≠ 𝑃PA′ ;
+B) PA >𝑃PA′ ;
+C) PA = PA′ ;
+D) PA < PA′ ;
+E) PA ≡ PA′ .
+C
+242. Çoxistifadəli parollar əsasında sadə autentifikasiya sistemləri nə üçün zəif dayanıqlığa malikdirlər?
+A) autentifikasiya informasiyasının uzun müddət istifadə olunduqlarına görə;
+B) autentifikasiya informasiyası üçün yalnız bir əlifbadan istifadə olunduğuna görə;
+C) çoxistifadəli parollar əsasında sadə autentifikasiya sistemləri birdəfəlik parollar əsasında autentifikasiyadan daha dayanıqlıdır;
+D) çoxistifadəli parolların istifadəçilərinin sayı çox olduğuna görə;
+E) autentifikasiya informasiyasının seçimi nisbətən az sayda sözlərdən götürüldüyünə görə.
+E
+243. Birdəfəlik yoxsa çoxistifadəli parollar əsasında autentifikasiya daha etibarlıdır?
+A) birdəfəlik;	
+B) çoxistifadəli;	
+C) eyni etibarlığa malikdirlər;
+D) heç biri;
+E) onları müqaisə etmək mümkün deyil.
+A
+244. Birdəfəlik parol sxeminin mahiyyəti nədir?
+A) daxilolma zamanı eyni parollun istifadəsidir;
+B) daxilolma zamanı hər yeni sorğuda müxtəlif parolların istifadəsidir;
+C) daxilolma zamanı bir parollun müəyyən sayda istifadəsindən sonra yenisi ilə dəyişdirilməsidir;
+D) daxilolma zamanı bir parollun müəyyən zaman müddətindən sonra yenisi ilə dəyişdirilməsidir;
+E) sorğu-cavab sistemində parolların istifadəsi.
+B
+245. Birdəfəlik parolların generasiyası hansı üsul ilə həyata keçirilə bilər?
+A) yalnız aparat üsulu ilə;
+B) aparat və ya proqram üsulu ilə;
+C) yalnız proqram üsulu ilə;
+D) aparat və ya proqram vasitələri istifadə edilməməklə;
+E) sorğu-cavab sisteminin vasitəsi ilə.
+B
+246. Vaxt sinxronlaşmasının istifadəsi ilə autentifikasiya sxemi nəyə əsaslanıb?
+A) müəyyən vaxt intervalından əvvəl təsədüfi ədədlərin generasiyası alqoritminə;
+B) müəyyən vaxt intervalından sonra təsədüfi olmayan ədədlərin generasiyası alqoritminə;
+C) qeyri-müəyyən vaxt intervalından sonra təsədüfi ədədlərin generasiyası alqoritminə;
+D) müəyyən vaxt intervalından sonra təsədüfi ədədlərin generasiyası alqoritminə;
+E) qeyri-müəyyən vaxt intervalından sonra təsədüfi olmayan ədədlərin generasiyası alqoritminə.
+D
+247. Vaxt sinxronlaşmasının istifadəsi ilə autentifikasiya sxemində hansı parametrlər istifadə olunur?
+A) açıq açar və cari vaxtın qiyməti;
+B) məxfi açar və məxfi açarın yaradılma vaxtının qiyməti;
+C) məxfi açar və cari vaxtın qiyməti;
+D) açıq açar və açıq açarın yaradılma vaxtının qiyməti;
+E) məxfi və açıq açarların yaradılma vaxtının qiyməti.
+C
+248. Uzaq məsafəli istifadəçi şəbəkəyə məntiqi daxilolma cəhdini etdikdə o hansı ədədləri daxil etməlidir?
+A) dörd onluq ədəddən ibarət olan, şəxsi identifikasiya PİN-kodunu, və aparat açarının displeyində bu an görünən təsadüfi ədədin altı rəqəmini;
+B) dörd onluq ədəddən ibarət olan, şəxsi identifikasiya PİN-kodunu, və aparat açarının displeyində bu an görünən təsadüfi ədədin səkkiz rəqəmini;
+C) səkkiz onluq ədəddən ibarət olan, şəxsi identifikasiya PİN-kodunu, və aparat açarının displeyində bu an görünən təsadüfi ədədin dörd rəqəmini;
+D) dörd ikilik ədəddən ibarət olan, şəxsi identifikasiya PİN-kodunu, və aparat açarının displeyində bu an görünən təsadüfi ədədin səkkiz rəqəmini;
+E) dörd onaltılıq ədəddən ibarət olan, şəxsi identifikasiya PİN-kodunu, və aparat açarının displeyində bu an görünən təsadüfi ədədin altı rəqəmini.
+A
+249. Uzaq məsafəli istifadəçi şəbəkəyə məntiqi daxil olarkən PİN-kodu və təsadüfi ədədi daxil etdikdən sonra autentifikasiya serverinin işi nədən ibarətdir?
+A) daxil edilmiş təsadüfi ədədi istifadə edərək server VB-dən istifadəçinin məxfi açarını çıxarır və parametrlər kimi çıxarılmış məxfi açar və cari vaxtın qiymətini istifadə edərək, təsadüfi ədədin generasiya alqoritmini yerinə yetirir;
+B) daxil edilmiş PİN-kodu istifadə edərək server VB-dən istifadəçinin açıq açarını çıxarır və parametrlər kimi çıxarılmış açıq açar və cari vaxtın qiymətini istifadə edərək, təsadüfi ədədin generasiya alqoritmini yerinə yetirir;
+C) daxil edilmiş PİN-kodu istifadə edərək server VB-dən istifadəçinin məxfi açarını çıxarır və parametrlər kimi çıxarılmış məxfi açar qiymətini istifadə edərək, təsadüfi ədədin generasiya alqoritmini yerinə yetirir;
+D) daxil edilmiş təsadüfi ədədi istifadə edərək server VB-dən istifadəçinin məxfi açarını çıxarır və parametrlər kimi cari vaxtın qiymətini istifadə edərək, təsadüfi ədədin generasiya alqoritmini yerinə yetirir;
+E) daxil edilmiş PİN-kodu istifadə edərək server VB-dən istifadəçinin məxfi açarını çıxarır və parametrlər kimi çıxarılmış məxfi açar və cari vaxtın qiymətini istifadə edərək, təsadüfi ədədin generasiya alqoritmini yerinə yetirir.
+E
+250. Uzaq məsafəli istifadəçinin şəbəkəyə məntiqi daxil olmasının icazə verilməsi üçün hansı şərt ödənməlidir?
+A) serverdə generasiya olunmuş ədəd istifadəçinin daxil etdiyi ədəddən böyük olarsa;
+B) serverdə generasiya olunmuş ədədlə istifadəçinin daxil etdiyi ədəd üst-üstə düşərsə;
+C) serverdə generasiya olunmuş ədədlə istifadəçinin daxil etdiyi ədəd üst-üstə düşməzsə;
+D) serverdə generasiya olunmuş ədəd istifadəçinin daxil etdiyi ədəddən kiçik olarsa; 
+E) serverdə generasiya olunmuş ədəd istifadəçinin daxil etdiyi ədəddən böyük-bərabər olarsa;
+B
+251. PİN-kod və təsadüfi ədədin daxil edilməsi ilə autentifikasiya sxemini həyata keçirərkən nə tələb olunur?
+A) istifadəçinin kompüter sistemindəki vaxt ilə serverin vaxtının sinxronlaşdırılması;
+B) aparat açarı ilə serverdəki PİN-kodun sinxronlaşdırması;
+C) aparat açarı ilə serverin sərt vaxt sinxronlaşdırması;
+D) istifadəçinin daxil etdiyi PİN-kodla serverin generasiya etdiyi təsadüfi ədədin sinxronlaşdırması;
+E) aparat açarı ilə serverin generasiya etdiyi təsadüfi ədədin sinxronlaşdırması.
+C
+252. İnternet-də standartlaşdırılmış birdəfəlik parollar əsasında autentifikasiya protokolu hansıdır?
+A) HTTP;
+B) FTP;
+C) SMTP;
+D) S/Key (RFC 1760);
+E) POP3.
+D
+253. PİN-kod (Personal İdentification Number - fərdi identifikasiya kodu) harda istifadə olunur?
+A) plastik kartların və smart-kartların sahiblərinin identifikasiya metodunda;
+B) plastik kartların və smart-kartların sahiblərinin autentifikasiya metodunda;
+C) plastik kartların və smart-kartların sahiblərinin avtorizasiya metodunda;
+D) şəxsiyyət vəsiqəsi sahiblərinin autentifikasiya metodunda;
+E) biometrik autentifikasiya metodunda.
+B
+254. Plastik kartların və smart-kartların itirilməsi, oğurlanması və ya saxtalaşdırılması zamanı icazəsiz daxilolmaya qarşı hansı tədbir görülür?
+A) PİN-kodun açıq qiymətinin olması;
+B) PİN-koddan istifadə olunmaması;
+C) PİN-kodun qiymətinin böyüdülməsi;
+D) PİN-kodun məxfi qiymətinin olması;
+E) PİN-koddan uzun müddət istifadə edilməməsi.
+D
+255. PİN-kodun uzunluğu İSO 9564-1 standartına ğörə nə qədər olmalıdır?
+A) 4-dən 12-yə qədər hərf-rəqəm simvollarından ibarət olmalıdır;
+B) 8-dən 16-yə qədər hərf-rəqəm simvollarından ibarət olmalıdır;
+C) 10-dən 20-yə qədər hərf-rəqəm simvollarından ibarət olmalıdır;
+D) 4-dən 7-yə qədər hərf-rəqəm simvollarından ibarət olmalıdır;
+E) 6-dən 10-yə qədər hərf-rəqəm simvollarından ibarət olmalıdır.
+A
+256. İstifadəçinin biometrik autentifikasiyası nədir?
+A) istifadəçinin malik olduğu məxfi informasiyaya (parol, fərdi identifikator, gizli açar və s.) daxil etməklə onun autentifikasiyası;
+B) istifadəçinin biometrik parametrlərinin (çəkisi, hündürlüyü, ayaqqabısının ölçüsü və s.) daxil edilməsi ilə onun autentifikasiyası;
+C) insanın fizioloji parametrlərini və xarakteristikalarını, onun davranış xüsusiyyətlərini ölçmək yolu ilə potensial istifadəçini əminliklə autentifikasiyası;
+D) istifadəçiyə xas olan xüsusiyyətləri (nəzakətliyi, çalışqanlığı, etibarlığı və s.) daxil etməklə onun autentifikasiyası;
+E) istifadəçinin heç bir informasiya daxil etmədən onun təsvirinə görə autentifikasiyası.
+C
+257. Biometrik autentifikasiya metodların əsas yaxşı cəhəti hansıdır?
+A) biometrik əlamətlərin işləməyə qabil olmayan şəxsdən ayrılmazlığı;
+B) biometrik əlamətlərin saxtalaşdırılmasının mümkünsüzlüyü.
+C) biometrik əlamətlərə görə autentifikasiyanın yüksək sürəti;
+D) biometrik əlamətlərə görə autentifikasiyanın istifadəçilərə daha rahat olması;
+E) biometrik əlamətlərə görə autentifikasiyanın yüksək həqiqilik dərəcəsi (unikallıq olduğuna görə);
+E
+258. Biometrik autentifikasiya metodların əsas yaxşı cəhəti hansıdır?
+A) biometrik əlamətlərə görə autentifikasiyanın istifadəçilərə daha rahat olması;
+B) biometrik əlamətlərin işləməyə qabil olan şəxsdən ayrılmazlığı;
+C) biometrik əlamətlərin işləməyə qabil olmayan şəxsdən ayrılmazlığı;
+D) istifadəçi ilə autentifikasiya sistemi arasında əlavə qurğunun olmaması;
+E) biometrik əlamətlərə görə autentifikasiyanın yüksək sürəti; 
+B
+259. Biometrik autentifikasiya metodların əsas yaxşı cəhəti hansıdır?
+A) biometrik əlamətlərə görə autentifikasiyanın yüksək sürəti;
+B) biometrik əlamətlərin işləməyə qabil olmayan şəxsdən ayrılmazlığı;
+C) istifadəçi ilə autentifikasiya sistemi arasında əlavə qurğunun olmaması;
+D) biometrik əlamətlərin saxtalaşdırılmasının çətinliyi;
+E) biometrik əlamətlərə görə autentifikasiyanın istifadəçilərə daha rahat olması;
+D
+260. Aşağıdakılardan hansı biometrik əlamət kimi istifadə olunmur?
+A) barmaqların izi;
+B) əlin biləyinin həndəsi forması;
+C) insanın çəkisi;
+D) üzün forma və ölçüsü;
+E) səsin xüsusiyyətləri.
+C
+261. Aşağıdakılardan hansı biometrik əlamət kimi istifadə olunmur?
+A) yol yerişi;
+B) gözün əlvan təbəqəsinin və tor qişasının naxışı;
+C) səsin xüsusiyyətləri;
+D) əlin biləyinin həndəsi forması;	
+E) barmaqların izi.
+A
+262. Biometrik autentifikasiya altsistemində qeydiyyatdan keçən istifadəçi nə etməlidir?
+A) istifadəçi özünə aid olan identifikasiya və autentifikasiya məlumatını daxil etməlidir;
+B) istifadəçi heç bir iş görməməlidir;
+C) istifadəçi özünün xarakterik olmayan biometrik əlamətlərini bir və ya bir neçə dəfə göstərməlidir;
+D) istifadəçi özünün xarakterik biometrik əlamətlərini dəfələrlə göstərməlidir;
+E) istifadəçi özünün xarakterik biometrik əlamətlərini bir və ya bir neçə dəfə göstərməlidir.
+E
+263. Qeydiyyat zamanı göstərilmiş əlamətlər necə adlanır?
+A) qanuni istifadəçinin PİN-kodu;
+B) qanuni istifadəçinin nəzarət "obrazı" (biometrik imzası);
+C) qanuni istifadəçinin elektron imzası;
+D) qanuni istifadəçinin parolu;
+E) qanuni istifadəçinin şəxsi imzası.
+B
+264. Biometrik autentifikasiya zamanı qanuni istifadəçinin həqiqiliyi necə yoxlanır?
+A) daxil edilən PİN-kod və ya parol nəzarət obrazında qeyd olunanlarla üst-üstə düşdükdə təqdim edən qanuni və ya qeyri-qanuni (üst-üstə düşmədikdə) istifadəçi hesab olunur;
+B) təqdim olunan əlamətlər yığımının nəzarət obrazında qeyd olunanlarla üst-üstə düşmədikdə təqdim edən qanuni və ya qeyri-qanuni (üst-üstə düşdükdə) istifadəçi hesab olunur;
+C) təqdim olunan əlamətlər yığımının nəzarət obrazında qeyd olunanlarla oxşardırsa təqdim edən qanuni və ya qeyri-qanuni (oxşar deyilsə) istifadəçi hesab olunur;
+D) təqdim olunan əlamətlər yığımının nəzarət obrazında qeyd olunanlarla üst-üstə düşdükdə təqdim edən qanuni və ya qeyri-qanuni (üst-üstə düşmədikdə) istifadəçi hesab olunur;
+E) təqdim olunan əlamətlər yığımı nəzarət obrazında qeyd olunanlardan üstündürsə təqdim edən qanuni və ya qeyri-qanuni (üstün deyilsə) istifadəçi hesab olunur.
+D
+265. Müştəri nöqteyi nəzərdən biometrik autentifikasiya sisteminin effektivliyi hansı iki parametrlə xarakterizə olunur?
+A) doğru cavabların əmsalı TRR(true-reject rate) və döğru təsdiqlərin əmsalı TAR (true-alarm rate);
+B) doğru cavabların əmsalı TRR(true-reject rate) və səhv rəddlərin əmsalı FRR (false- reject rate);
+C) doğru cavabların əmsalı TRR(true-reject rate) və səhv təsdiqlərin əmsalı FAR (false-alarm rate);
+D) səhv rəddlərin əmsalı FRR (false-reject rate) və səhv təsdiqlərin əmsalı FAR (false- alarm rate);
+E) döğru təsdiqlərin əmsalı TAR (true-alarm rate) və səhv təsdiqlərin əmsalı FAR (false-alarm rate).
+D
+266. Səhv rədd nə vaxt meydana çıxır?
+A) sistem qanuni istifadəçinin şəxsiyyətini təsdiq etmədikdə;
+B) sistem qeyri-qanuni istifadəçinin şəxsiyyətini təsdiq edəndə;
+C) sistem qanuni istifadəçinin şəxsiyyətini təsdiq edəndə;
+D) sistem qeyri-qanuni istifadəçinin şəxsiyyətini təsdiq etmədikdə;
+E) sistem qanuni istifadəçi ilə qeyri-qanuni istifadəçi arasında fərqi təsdiq edə bilməyəndə.
+A
+267. Səhv təsdiq nə vaxt meydana gəlir?
+A) sistem qanuni istifadəçi ilə qeyri-qanuni istifadəçi arasında fərqi təsdiq edə bilməyəndə;
+B) sistem qeyri-qanuni istifadəçinin şəxsiyyətini təsdiq etmədikdə;
+C) sistem qeyri-qanuni istifadəçinin şəxsiyyətini təsdiq edəndə;
+D) sistem qanuni istifadəçinin şəxsiyyətini təsdiq etmədikdə;
+E) sistem qanuni istifadəçinin şəxsiyyətini təsdiq edəndə.
+C
+268. Mükəmməl biometrik sistemdə hər iki səhv parametri nəyə bərabər olmalıdır?
+A) birə;
+B) sıfırdan kiçik ədədə;
+C) sıfıra;
+D) sıfırdan böyük ədədə;
+E) sonsuzluğa.
+C
+269. Daktiloskopik autentifikasiya sistemləri nədir?
+A) gözün əlvan təbəqəsinə görə;
+B) əlin biləyinə və ovucun formasına görə;
+C) səsə görə;
+D) üzün forması və ölçüsünə görə; 
+E) barmaq izlərinə görə autentifikasiyadır; 
+E
+270. Daktiloskopik autentifikasiya sisteminin əsas elementləri hansılardır?
+A) printer, identifikasiya PT, autentifikasiya PT;
+B) skaner, identifikasiya PT, autentifikasiya PT;
+C) video-kamera, skaner, autentifikasiya PT;
+D) qrafik planşet, video-kamera, identifikasiya PT;
+E) klaviatura , video-kamera, skaner.
+B
+271. Ovuc formasını skan edən qurğular necə işləyir?
+A) barmaqların uzunluğunu, ovuc sahəsinin qalınlığını və səthini ölcərək ədədi informasiyanı VB-də saxlayırlar;
+B) barmaqlarda, ovucun səthində qan damarlarının izini VB-də yadda saxlayırlar;
+C) barmaqların enini, ovuc sahəsinin nazikliyini və səthini ölcərək ovucun üç ölçülü təsvirini yaradırlar;
+D) yalnız ovuc sahəsinin qalınlığını və səthini ölcərək ovucun üç ölçülü təsvirini yaradırlar;
+E) barmaqların uzunluğunu, ovuc sahəsinin qalınlığını və səthini ölcərək ovucun üç ölçülü təsvirini yaradırlar.
+E
+272. Üz cizgilərinə və səsə görə autentifikasiya sistemləri daha çox harada istifadə olunur?
+A) telekommunikasiya şəbəkələrində daxilolma subyektinin uzaq məsafəli identifikasiyası zamanı;
+B) lokal şəbəkədə subyektin identifikasiyası zamanı;
+C) şəxsi kompüterdə istifadəçinin autentifikasiyası zamanı;
+D) korporativ şəbəkədə istifadəçinin autentifikasiyası zamanı;
+E) telekommunikasiya şəbəkələrində daxilolma subyektinin yaxın məsafəli identifikasiyası zamanı.
+A
+273. Kompüter virusu nədir?
+A) elə bir proqramdır ki, kompüter sisteminin qurğularının işini dəyişdirir, özüdə bu proqram sonradan çoxalmaq qabliyyətini saxlayır;
+B) elə bir proqramdır ki, kompüter sistemindəki sənədlərə özünün dəyişdirilmiş nüsxələrini əlavə edir, lakin bu proqram sonradan çoxalmaq qabliyyətinə malik olmur;
+C) elə bir bioloji virusdur ki, kompüter sistemində olan sənədlərə və proqramlara yoluxaraq onların düzgün işləməsinə mane olur;
+D) elə bir proqramdır ki, digər proqramları, onlara özünün yəqin ki, dəyişdirilmiş sürətlərini əlavə etmək yolu ilə, modifikasiya edərək yoluxdura bilər, özüdə bu proqram sonradan çoxalmaq qabliyyətini saxlayır;
+E) elə bir proqramdır ki, digər proqramları, onlara özünün yəqin ki, dəyişdirilmiş sürətlərini əlavə etmək yolu ilə, modifikasiya etmədən yoluxdura bilər, özüdə bu proqram sonradan çoxalmaq qabliyyətini saxlayır;
+D
+274. Kompüter virusu dedikdə hansı xassələrə malik proqram kodu başa düşülür?
+A) orjinalla üst-üstə düşməsi mütləq olan, öz sürətlərini yaratmaq qabliyyəti və hesablama sisteminin yerinə yetirilən obyektlərinə yaradılan sürətlərin daxil edilməsini təmin etməyən mexanizmin olması;
+B) orjinalla üst-üstə düşməsi mütləq olmayan, həmçinin orjinallın xassələrinə (öz- özünü yaratmaq) malik olmayan, öz sürətlərini yaratmaq qabliyyətinə malik olan və hesablama sisteminin yerinə yetirilən obyektlərinə yaradılan sürətlərin daxil edilməsini təmin edən mexanizmin olması;
+C) orjinalla üst-üstə düşməsi mütləq olmayan, lakin orjinallın xassələrinə (öz-özünü yaratmaq) malik olan, öz sürətlərini yaratmaq qabliyyəti və hesablama sisteminin yerinə yetirilən obyektlərinə yaradılan sürətlərin daxil edilməsini təmin edən mexanizmin olması;
+D) hesablama sisteminin qurğularının işinə mexaniki xətər gətirmək və ya onların işində nasazlıqlar yaratmaq;
+E) destruktivlik və gizlilik xassələrinə malik olmaması.
+C
+275. Aşağıdakılardan hansı virus sinifinə aid deyil?
+A) məskunlaşma mühitinə görə;	
+B) fayl sisteminə görə;
+C) əməliyyat sisteminə (ƏS) görə;	
+D) alqoritmin işləmə xüsusiyyətlərinə görə;
+E) destruktiv imkanlarına görə.
+B
+276. Aşağıdakılardan hansı virusların məskunlaşma mühiti qrupuna aid deyil?
+A) mikroviruslar;
+B) fayl;
+C) yüklənən;
+D) makroviruslar;
+E) şəbəkə.
+A
+277. Fayl virusları necə fəaliyyət göstərirlər?
+A) ya müxtəlif üsullarla yerinə yetirilən fayllara yeridilir, ya oxşar-fayllar yaradırlar, ya da fayl sisteminin təşkilinin xüsusiyyətlərini istifadə edirlər;
+B) özlərini ya diskin yükləyici sektoruna (boot-sektoru), ya da sərt diskin sistem yükləyicisini (Master Boot Record) saxlayan sektora yazırlar;
+C) makrodillərin imkanlarını istifadə edir və onların köməyi ilə özlərini bir yoluxmuş fayldan digərinə aparırlar;
+D) özlərinin yayılması üçün kompüter şəbəkələrinin və elektron poçtun protokollarını və ya əmrlərini iasifadə edirlər;
+E) ya müxtəlif üsullarla sənəd fayllarına yeridilir, ya oxşar olmayan-fayllar yaradırlar, ya da fayl sisteminin təşkilinin xüsusiyyətlərini bloklayırlar;
+A
+278. Infirmasiya ikilik kodlaşdırma prinsipində verilənlər və əmrlər hansı rəqəmlərlə kodlaşdırılır ?
+A) üçlük rəqəmlərlə
+B) ikilik və üçlük rəqəmlərlə
+C) 0 və 1ikilik rəqəmlərlə
+D) 01 və 11 ikilik rəqəmlərlə
+E) 00 və 10 ikilik rəqəmlərlə
+C
+279. Viruslardan qorunmaq üçün hansı profilaktik üsullar var?
+A) Qanuni yol ilə alınan proqram məhsulların istifadəsi;
+B) İnformasiyanın nüsxələnməsi;
+C) Təzə informasiya daşıyıcılarını skaner proqramları ilə yoxlamaq;
+D) Antivirus proqramların istifadəsi;
+E) Cavabların hamısı düzdür; 
+D
+280. Müasir dövürdə informasiya sistemlərinə və kompüter sistemlərinin təhlükəsizliyinə yönəlmiş təhlükələr necə adlanır?
+A) Hiperkub
+B) Hipercinayətkarlıq
+C) Hiperkompüter
+D) Hiperxaker
+E) Hipersupermen
+B
+281. Ümumi yaddaşlı hesablama sistemlərində qurğulararası qarşılıqlı əlaqəlilik hansı qurğu ilə təmin olunur?
+A) ümumi şinlə
+B) GÇQ ilə
+C) çıxış portları ilə
+D) kommunikasiya şəbəkəsi ilə
+E) giriş portları ilə
+D
+282. Falsifikasiya hücumu hansıdır?
+A) Bir şəxsiyyətin özünü ayrı şəxsiyyətin əvəzinə təqdim etməsidir;
+B) Bədniyyət insan bütün xəbərləri tutur;
+C) Göndərilən xəbərin ya məzmunu dəyişir ya da ardıcıllığı:
+D) Bədniyyət insan informasiyanı oxuya bilir, lakin onu dəyişə bilmir;
+E) Məlumatın passiv ələ keçirilməsi və sonradan təkrar göndərilməsi;
+A
+283. Təkrar istifadə nədir (replay – hücum )?
+A) Bədniyyət insan informasiyanı oxuya bilir, lakin onu dəyişə bilmir;
+B) Bədniyyət insan bütün xəbərləri tutur;
+C) Məlumatın passiv ələ keçirilməsi və sonradan təkrar göndərilməsi;
+D) Bir şəxsiyyətin özünü ayrı şəxsiyyətin əvəzinə təqdim etməsidir;
+E) Göndərilən xəbərin ya məzmunu dəyişir ya da ardıcıllığı.
+C
+284. Verilənlər axınının modifikasiyası nədir (man in the middle)?
+A) Bir şəxsiyyətin özünü ayrı şəxsiyyətin əvəzinə təqdim etməsidir;
+B) Bədniyyət insan bütün xəbərləri tutur;
+C) Bədniyyət insan informasiyanı oxuya bilir, lakin onu dəyişə bilmir;
+D) Göndərilən xəbərin ya məzmunu ya da ardıcıllığı dəyişir;
+E) Məlumatın passiv ələ keçirilməsi və sonradan təkrar göndərilməsi.
+C
+285. Passiv hücum nədir?
+A) Bədniyyət insan informasiyanı oxuya bilir, lakin onu dəyişə bilmir;
+B) Bədniyyət insan bütün xəbərləri tutur;
+C) Göndərilən xəbərin ya məzmunu dəyişir ya da ardıcıllığı:
+D) Bir şəxsiyyətin özünü ayrı şəxsiyyətin əvəzinə təqdim etməsidir;
+E) Məlumatın passiv ələ keçirilməsi və sonradan təkrar göndərilməsi
+A
+286. Simmetrik çoxprosessorlu sistemlər ümumiləşdirilmiş neçə funksional blokdan ibarətdir?
+A) dörd
+B) iki	
+C) üç
+D) altı
+E) beş 
+C
+287. Şifratorun əsas funksiyası nədən ibarətdir?
+A) şimvolları şifrələmək
+B) şifrəni yazmaq
+C) şifrəni nömrələmək
+D) şifrəni ötürmək
+E) şifrəni deşifrələmək 
+A
+288. Deşifratorun əsas funksiyası nədən ibarətdir?
+A) ünvanı düzmək
+B) hərfləri düzmək
+C) informasiyanı ötürmək
+D) işərələri kodlaşdırmaq
+E) rəqəmləri düzmək
+D
+289. Blokların şifrlənməsi və deşifrlənməsində istifadə edilən   x1 + x2 ifadənin məntiqi təsviri hansıdır?.
+A) x1 ˅ x2
+B) x1 + x2 ;
+C) (x1 * x2) ˅ (¬x1 * ¬x2)
+D) (x1 * x2) ˄ (¬x1 * ¬x2)
+E) x1 – x2
+A
+290. İnformasiyanın kodlaşdırma təsvirləri necə qəbul edilmişdir?
+A) ikilik, 8-lik və 16-lıq formalarda
+B) vahiddən kiçik formada
+C) sabit nöqtəli
+D) ixtiyari
+E) digər formalarda 
+A
+291. İnformasiyanın şifrlənməsi və deşifrlənməsində əsasən hansı kodlaşdırma istifadə edilir?
+A) ancaq düz kod
+B) düz və əks kodlaşdırma
+C) ancaq əks kod
+D) heç bir kodlaşdırmadan
+E) düz-tamamlanmış
+B
+292. A və B informasiyaların ikilik modulda əks toplanması hansıdır?
+A) A ˅ B
+B) A ^ B
+C) A + B
+D) ¬A + ¬B 
+E) ¬A ^ ¬B
+D
+293. İnformasiya təhlükəsizliyində maskalaşdırma (maskirovka) hansıdır?
+A) kardioqramma	
+B) stenoqramma
+C) etnoqramma
+D) dioqramma
+E) deltaqramma
+C
+294. İnformasiya təhlükəsizliyində gizliliyin təmin edilməsi bunlardan hansıdır?
+A) etnoqramma
+B) stenoqramma
+C) kriptoqrafiya
+D) dioqramma
+E) kralogiya
+C
+295.Kriptoqrafiya hansı xalqın sözündən götrülmüşdür?
+A) Alman
+B) Rus
+C) Fransız
+D) Yunan
+E) İspan
+D
+296. Kriptoqrafiya hansı sözlərin birləşməsidir?
+A) kontrol və qrafo
+B) ktyptos və qrapho
+C) kontrol  və qralos
+D) kontrol  və patrol
+E) ktyptos və faro
+B
+297. Simmetrik kriptosistemlərdə açarlar hansı blokdan alınır?
+A) Açarlar registirindən
+B) Açarlar generatorundan
+C) heç birindən
+D) Açarların silinməsindən
+E) Açarlar şifratorundan
+B
+298. Simmetrik kriptosistemləri başqa cür necə adlandırmaq olar?
+A) Beş açarlı
+B) Bir açarlı
+C) heç biri
+D) İki açarlı
+E) Üç açarlı 
+B
+299.Asimmetrik kriptosistemləri başqa cür necə adlandırmaq olar?
+A) Asimmetrik açarlı
+B) İki və daha çox açarlı
+C) Gizli açarlı
+D) Heç biri
+E) Bir açarlı
+B
+300. Pleyferin kvadrat şifrləməsində yazılmış SALAMN açar sözünə görə verilmişdir. CI biqramına hansı həriflər biqramı uyğundur? \n SALAM \n NBCDF\n HK	IOP \nQRETU\nVWXYZ
+A) BKW
+B) DTR
+C) CU
+D) KO
+E) IE
+E

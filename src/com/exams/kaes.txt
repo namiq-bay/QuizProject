@@ -1,0 +1,3500 @@
+﻿1.ƏS-nin virtual yaddaş mexanizmi istifadəçiyə hansı imkanı verir?
+A)	məhdud RAM yaddaşı ilə işlədiyi təsüratını yaradır;
+B)	qeyri-məhdud disk yaddaşı ilə işlədiyi təsüratını yaradır;
+C)	qeyri-məhdud RAM yaddaşı ilə işlədiyi təsüratını yaradır;
+D)	tək məsələli rejimdə işləmək imkanı verir;
+E)	paket rejimində işləmək imkanı verir;
+C
+2.	ƏS-nin hansı mexanizmi hesabına məhdud həcmli RAM halında çoxməsələli rejimin gerçəkləşməsi mümkündür?
+A) giriş/çıxış alt sistemi hesabına;	
+B) yaddaşa birbaşa müraciət hesabına ;
+C) kəsilməyə xidmət proqramları hesabına;	
+D) yaddaşın mühafizəli təşkili hesabına; 
+E) yaddaşın virtual təşkili mexanizmi hesabına;
+E
+3.	BİOS proqramının təyinatı nədir?
+A)	ƏS-nin tam hissəsinin HD-dən RAM-ə köçürərək kompüterdə ilkin inisializasiya prosesini yerinə yetirir;
+B)	ƏS-nin nüvə hissəsinin HD-dən RAM-ə köçürərək kompüterdə ilkin inisializasiya prosesini yerinə yetirir;
+C)	ƏS-nin nüvə hissəsinin RAM -də n HD -ə köçürərək kompüterdə ilkin inisializasiya prosesini yerinə yetirir;
+D)	məlumtın daxil edilib çıxarılması əməliyyatını yerinə yetirir;
+E)	ƏS-nin səhifələnmə proqramlarını yerinə yetirir; 
+B
+4.BİOS proqramları hansı tip yaddaşda saxlanılır?
+A) disk yaddaşında;	
+B) enerjidən asılı yaddaşda;	
+C) keş yaddaşda; 
+D) enerjidən asılı olmayan yaddaşda;	
+E) SRAM yaddaşında;
+D
+5.ƏS-nin 2-səviyyəli səhifələnmə mexanizmində hansı cədvəllər istifadə edilir?
+A) lokal seqment deskriptorı cədvəlləri;	
+B) istifadəçinin PD və PT cədvəlləri;
+C) qlobal seqment deskriptorı cədvəlləri;	
+D) sistemli PD və PT cədvəlləri;
+E) kəsilmə deskriptorlar cədvəlləri;
+D
+6. CPU-nın ümumi istifadəli hansı registrləri var?
+A) 8/16/32 bitli A,B,C,D registrləri;	
+B) 8/16bitli A,B,C,D registrləri;
+C) 8/16/32 bitli FLAGS,İP registrləri;	
+D) 8/32 bitli CS,DS və SS registrləri;
+E) 8/16/32 bitli A,B,Dİ,Sİ registrləri;
+A
+7. 16 bitli ümumi istifadəli B registri necə işarə edilir?
+A) EBX;	
+B) BH;	
+C) BX;	
+D) BL;	
+E) EBL;
+C
+8. 32 bitli ümumi istifadəli C registri necə işarə edilir?
+A) CL;	
+B) ECX;	
+C) CXL;	
+D) ECH;	
+E) CW;
+B
+9.	FLAGS registri hansı tipli sinfə aiddir və nəyi yadda saxlayır?
+A)	ümumi istifadəli olub icra edilən proqramın ünvan kodunu yadda saxlayır;
+B)	Xüsusi təyinatlı olub kəsilmə vektorunun ünvanını yadda saxlayır;
+C)	Xüsusi təyinatlı olub yaddaş seqmentinə müraciət qaydasını yadda saxlayır;
+D)	ümumi istifadəli olub icra edilən proqramın vəziyyətlər sözünü yadda saxlayır; 
+E) Xüsusi təyinatlı olub icra edilən proqramın vəziyyətlər sözünü yadda saxlayır;
+E
+10.	İP registri hansı tip registrlərə aiddir və məzmunu nəyi göstərir?
+A)	Xüsusi təyinatlı olub icra edilən proqramda kəsilmə əmrini göstərir;
+B)	ümumi istifadəli olub icra edilən proqramda növbəti əmrin daxili ünvanını göstərir; 
+C) Xüsusi təyinatlı olub icra edilən proqramda növbəti əmrin daxili ünvanını göstərir;
+D)	məlumatın giriş/çıxışı üçün portun 8 bitli ünvan kodunu göstərir;
+E)	proqram kodunun saxlanıldığı kod seqmentinin başlanğıc ünvanını göstərir;
+C
+11.	ƏS-nin səhifələnmə mexanizmində virtual ünvan kodunun “direktoriya” hissəsi nəyi təyin edir?
+A) sistemli PT cədvəlindəki PDE elementinin sıra nömrəsini təyin edir; 
+B) sistemli PD cədvəlindəki PDE elementinin sıra nömrəsini təyin edir;
+C) sistemli PD cədvəlindəki PTE elementinin sıra nömrəsini təyin edir;
+D) RAM-dəki fiziki səhifə daxilindəki ünvanı təyin edir;
+E) sistemli PD cədvəlinin başlanğıc ünvanını təyin edir;
+B
+12.	ƏS-nin səhifələnmə mexanizmində sistemli PD cədvəlindəki PDE elementlərinin maksimal sayı nə ilə təyin edilir?
+A)	virtual ünvan kodunda “səhifə cədvəli” hissəsi üçün ayrılmış bitlərin n sayı ilə;
+B)	virtual ünvan kodunda “direktoriya” hissəsi üçün ayrılmış bitlərin n sayı ilə 2n kimi;
+C)	virtual ünvan kodunda “direktoriya” hissəsi üçün ayrılmış bitlərin n sayı ilə 2/n kimi;
+D)	virtual ünvan kodunda “direktoriya” hissəsi üçün ayrılmış bitlərin n sayı ilə 2n kimi;
+E)	virtual ünvan kodunda “sürüşmə ünvanı” hissəsi üçün ayrılmış bitlərin sayı ilə;
+D
+13.	ƏS-nin səhifələnmə mexanizmində sistemli PD cədvəli neçə ədəd olmaqla istifadə edilir? 
+A) 1 ədəd;	
+B) 4 ədəd;	
+C) PTE elementlərinin sayı qədər;	
+D) 2 ədəd;	
+E) 4 ədəd;
+B
+14.	ƏS-nin səhifələnmə mexanizmində PT cədvəllərinin sayı nə ilə təyin edilir?
+A)	virtual ünvan kodundakı “direktoriya” sahəsindəki bitlərin sayı ilə;
+B)	fiziki səhifədəki elementlərin sayı ilə;
+C)	virtual ünvan kodundakı sahələrin sayı ilə;
+D)	PT cədvəlindəki PTE elementlərinin sayı ilə; 
+E) PD cədvəlindəki PDE elementlərinin sayı ilə;
+E
+15. Yaddaşın səhifələnməsi mexanizmində PD cədvəlinin başlanğıc ünvanı nəyə əsasən təyin edilir?
+A) ümumi istifadəli CR3 registrinin məzmunu ilə;
+B) sistemli CS registrinin məzmunu ilə; 
+C) sistemli CR3 registrinin məzmunu ilə; 
+D) seqment deskriptorunun baza ünvanı ilə; 
+E) kəsilmə vektorunun məzmunu ilə;
+C
+16.ƏS-nin səhifələnmə mexanizmində PT cədvəllərinin başlanğıc ünvanı nəyə əsasən təyin edilir?
+A)	fiziki səhifənin başlanğıc ünvanı ilə;
+B)	virtual ünvan kodunun “direktoriya” sahəsi ilə;
+C)	virtual ünvan kodunun PT sahəsi ilə;
+D)	32 bitli PDE elementinin 20 bitli hissəsi ilə;
+E)	16bitli PDE elementinin 10 bitli hissəsi ilə;
+D
+17.	ƏS-nin səhifələnmə mexanizmində fiziki səhifənin başlanğıc ünvanı nəyə əsasən təyin edilir?
+A) 32 bitli PTE elementinin 20 bitli hissəsi ilə;	
+B) 32 bitli PDE elementinin 20 bitli hissəsi ilə ;
+C) virtual ünvan kodundakı “sürüşmə” ünvanı ilə;	
+D) DS registrinin məzmunu ilə; 
+E)EAX registrinin məzmunu ilə ;
+A
+18.	ƏS-nin səhifələnmə mexanizmində fiziki səhifənin daxilindəki oyuq ünvanı nəyə əsasən təyin edilir?
+A)	emaledici proqramlar mühitini;
+B)	BP registrinin məzmunu ilə ;
+C)	virtual ünvan kodundakı “direltoriya” hissəsindəki kodla;
+D)	virtual ünvan kodundakı PT hissəsindəki kodla; 
+E) virtual ünvan kodundakı “sürüşmə” ünvanı ilə;
+E
+19.	MOV AX,DX əmrinin neçə icra edildiyini açıqlamalı
+A) D registrindən 4B-ın A registrinə ötürülməsi; 
+B) D registrindən 2B-ın A registrinə ötürülməsi;
+C)	A registrindən 2B-ın D registrinə ötürülməsi;
+D)	D registrindən 1B-ın A registrinə ötürülməsi;
+E)	A və D registrlərinin məzmununun toplanması ;
+B
+20.	MOV əmrində təyinat kimi verilən operand harada göstərilir?
+A)	akkumulyator registrində olduğu nəzərdə tutulur;
+B)	İP registrində olduğu nəzərdə tutulur;
+C)	2-ci operand kimi vergüldən sonra; 
+D) 1-ci operand kimi vergüldən əvvəl;
+E) 1-ci operand kimi vergüldən sonra;
+D
+21.	MOV əmrində mənbə kimi verilən operand harada göstərilir?
+A)	seqment registrində olduğu nəzərdə tutulur;
+B)	1-ci operand kimi vergüldən əvvəl; 
+C) 2-ci operand kimi vergüldən sonra;
+D)	MOV işarəsindən əvvəl göstərilir;
+E)	BX registrində olduğu nəzərdə tutulur;
+C
+22.	MOV EBX,ECX əmrinin əmrinin neçə icra edildiyini açıqlamalı
+A)	C registrindən 4B-ın B registrinə ötürülməsi;
+B)	B registrindən 4B-ın C registrinə ötürülməsi;
+C)	C registrindən 2B-ın B registrinə ötürülməsi;
+D)	C registrindən 1B-ın B registrinə ötürülməsi;
+E)	EBX və ECX registrlərinin məzmununun cəmlənməsi;
+A
+23.	Müasir CPU əmrlərində verilənlərin ünvanlaşdırılmasının əsas üsulları hansılardır?
+A)	addımlı,birbaşa,bilavasitə,dolayı-registrli ;
+B)	registrli,daxili ünvanlı ,bilavasitə,dolayı-registrli;
+C)	registrli,birbaşa,bilavasitə,qısa ünvanlı;
+D)	stekli,birbaşa,bilavasitə,dolayı-registrli; 
+E) registrli,birbaşa,bilavasitə,dolayı-registrli;
+E
+24.	Verilənlərin birbaşa ünvanlaşdırılması üsulunda birbaşa ünvan kodu nəyi göstərir?
+A)	RAM yaddaşında müraciət edilən oyuqların sayını;
+B)	RAM yaddaşında seqmentin başlanğıc ünvanını;
+C)	RAM yaddaşında seqmentin daxili(sürüşmə) ünvanını;
+D)	Disk yaddaşında seqmentin daxili(sürüşmə) ünvanını;
+E)	əmrdə emal edilən operandin qiymətini;
+C
+25.	Verilənlərin bilavasitə ünvanlaşdırılması üsulunda əmrin ünvan sahəsində nə göstərilə bilər?
+A) əmrdə emal edilən operandin sürüşmə ünvanı; 
+B) əmrdə emal edilən operandin qiyməti;
+C)	əmrdə emal edilən operandların aid olduğu seqmentin başlanğıc ünvanını ;
+D)	operandların saxlanıldığı ümumi istifadəli registrlərin adı;
+E)	operandların saxlanıldığı xüsusi təyinatlı registrlərin adı;
+B
+26.	Verilənlərin dolayı-registrli ünvanlaşdırılması üsulunda əmrin ünvan sahəsində nə göstərilə bilər?
+A)	məzmunu ilə operandın aid olduğu seqmentin başlanğıc ünvanı təyin edilən registrin adı ;
+B)	məzmunu ilə operandın aid olduğu səhifənin başlanğıc ünvanı təyin edilən registrin adı;
+C)	əmrdə emal edilən operandın saxlanıldığı registrin adı;
+D)	məzmunu ilə operandın RAM-dəki sürüşmə ünvanı təyin edilən registrin adı;
+E)	əmrdə emal edilən operandın qiyməti;
+D
+27.	MOV [ECX],DX əmrinin əmrinin neçə icra edildiyini açıqlamalı
+A)	2B-ın D registrindən RAM-nin (DS*1016 +ECX) ünvanlı oyuğuna yazılması;
+B)	RAM-nin (DS*1016  +ECX) ünvanlı oyuğundan 2B-ın D registrinə yazılması;
+C)	1B-ın D registrindən RAM-nin (DS*1016  +ECX) ünvanlı oyuğuna yazılması;
+D)	4B-ın D registrindən RAM-nin (DS*1016  +ECX) ünvanlı oyuğuna yazılması;
+E)	1B-ın D registrindən RAM-nin (DS*1016 +ECX) ünvanlı oyuğuna yazılması; 
+A
+28.Ədədlərin dəyişən vergüllü formatda daxili təsvirinin üstünlüyü nədir?
+A)	vergülün yerini dəyişməklə qarışıq ədədlərin təsviri üçün bitlərin sayının azaldılması;
+B)	vergülün yerini dəyişməklə ədədlərin emal sürətinin artırılması;
+C)	ədədlərin dəyişmə zolağının daralması;
+D)	saxlanılması üçün tələb edilən yaddaş oyuqlarının sayının azaldılması;
+E)	vergülün yerini dəyişməklə qarışıq ədədlərin təsvir dəqiqliyinin vədiapozonunun artırılması;
+E
+29.	X10=72.99 ədədini 16-lıq koda çevirərək dəyişən vergüllü formatda təsvir etməli
+A) R10 =3+64=67 və Mx 16 =0.38AD7; 
+B) R10 =1+64=65 və Mx 16 =0.2A3F;
+C) R10 =2+64=66 və Mx 16 =0.48FD7;
+D) R10 =4+64=68 və Mx 16 =0.48FD7;
+E) R10 =6+64=70 və Mx 16 =0.18FD9;
+C
+30.	Kompüter arxitekturunda kəsilməyə xidmət proqramının başlanğıc ünvanı nəyə əsasən təyin edilir ?
+A) 2B-lıq kəsilmə vektoruna,yaxud 8B-lıq kəsilmə deskriptoruna əsasən; 
+B) 4B-lıq kəsilmə vektoruna,yaxud 8B-lıq kəsilmə deskriptoruna əsasən ;
+C)	4B-lıq kəsilmə vektoruna,yaxud 2B-lıq kəsilmə deskriptoruna əsasən;
+D)	4B-lıq kəsilmə vektoruna,yaxud kəsilmə deskriptoruna əsasən;
+E)	8B-lıq kəsilmə vektoruna,yaxud kəsilmə deskriptoruna əsasən;
+B
+31.	Yaddaşın məntiqi ünvan kodundakı”Page table entry” hissəəsi 8 bitli olarsa, “Page table entry” cədvəlində neçə ədəd PTE elementi olar?
+A) 8;	
+B) 246;	
+C) 128;	
+D) 256;	
+E) 16;
+D
+32.“Page table entry” cədvəlinin başlanğıc ünvanı nəyə əsasən təyin edilir?
+A) 32 bitli PTE elementinin 20 biti ilə;	
+B) 32 bitli PDE elementinin 20 biti ilə;
+C) 30 bitli PDE elementinin 20 biti ilə;	
+D) 32 bitli PD elementinin 20 biti ilə;
+E) 32 bitli PDE elementinin 10 biti ilə;
+B
+33.Yaddaşın virtual ünvan kodundakı”Page table entry” hissəəsindəki kod nyi göstərir?
+A)	PD cədvəlindəki PTE elementinin sıra nömrəsini;
+B)	Page table cədvəlindəki PDE elementinin sıra nömrəsini;
+C)	Page table cədvəlindəki PT elementinin sıra nömrəsini; 
+D) Page table cədvəlindəki PTE elementinin sıra nömrəsini;
+E) Page table cədvəlindəki PTE elementininmaksimal sayını;
+D
+34.“Page Directory” cədvəlindəki PDE elementlərində hansı məlumatlar saxlanılır?
+A)	Page table cədvəlinin başlanğıc ünvanı haqda 20 bitli məlumat kodu;
+B)	PD cədvəlinin başlanğıc ünvanı haqda 20 bitli məlumat kodu;
+C)	Page table cədvəlinin başlanğıc ünvanı haqda 10 bitli məlumat kodu;
+D)	Page table cədvəlinin başlanğıc ünvanı haqda 32 bitli məlumat kodu;
+E)	Page table cədvəllərinin başlanğıc ünvanı haqda 20 bitli məlumat kodu; 
+A
+35.X10=0.08 ədədinin 16-lıq kodda qiyməti necə göstərilər?
+A) X16=1.14716; 
+B) X16=0.17716; 
+C) X16=0.14716; 
+D) X16=3.14716; 
+E) X16=10.14716;
+C
+36.“Page Directory” cədvəlinin başlanğıc ünvanı nəyə əsasən təyin edilir?
+A)	CR3xüsusi təyinatlı registrin məzmunu ilə;
+B)	CR1 sistemli registrin məzmunu ilə;
+C)	CR3ümumi təyinatlı registrin məzmunu ilə;
+D)	CR3 proqramla müraciregistrin məzmunu ilə; 
+E) CR3 sistemli regiət edilən strin məzmunu ilə;
+E
+37.X=00,0010 və Y= 00,1110 halında Z=X+Y cəmini tapmalı və daşmanı təyin etməli
+A) Z=00.10000, nəticə mənfidir və daşma var; 
+B) Z=00.10000, nəticə müsbətdir və daşma var;
+C)	Z=11.10000, nəticə müsbətdir və daşma var;
+D)	Z=00.10000, nəticə müsbətdir və daşma yoxdur;
+E)	Z=01.10000, nəticə müsbətdir və daşma var;
+B
+38.“Page table entry” cədvəlindəki PTE elementlərində hansı məlumatlar saxlanılır?
+A)	Fiziki səhifənin başlanğıc ünvanı haqda 32 bitli məlumat;
+B)	virtual səhifənin başlanğıc ünvanı haqda 20 bitli məlumat;
+C)	Fiziki səhifənin başlanğıc ünvanı haqda 10 bitli məlumat; 
+D) Fiziki səhifənin başlanğıc ünvanı haqda 20 bitli məlumat;
+E) məntiqi səhifənin başlanğıc ünvanı haqda 20 bitli məlumat;
+D
+39.	X= 00,1010 və Y= -0,0101 halında Z=X+Y cəmini tapmalı və daşmanı təyin etməli 
+A)  Z=00.0101,nəticə müsbətdir və daşma yoxdur;
+B)	Z=00.0101,nəticə mənfidir və daşma yoxdur;
+C)	Z=00.0101,nəticə müsbətdir və daşma var;
+D)	Z=11.0101,nəticə müsbətdir və daşma yoxdur;
+E)	Z=010.0101,nəticə müsbətdir və daşma var;
+A
+40.	X= -0.0110 və Y= -0.1101 halında Z=X+Y cəmini tapmalı və daşmanı təyin etməli
+A)	Z=11.10011 ,nəticə mənfidir və daşma yoxdur;
+B)	Z=11.10011 ,nəticə müsbətdir və daşma var; 
+C) Z=11.10011 ,nəticə mənfidir və daşma var;
+D)	Z=10.10011 ,nəticə mənfidir və daşma var;
+E)	Z=01.10011 ,nəticə mənfidir və daşma var;
+C
+41.	X= -0.1101 və Y= -0.0111 halında Z=X+Y cəmini tapmalı və daşmanı təyin etməli
+A)	Z=11.10100 ,nəticə mənfidir və daşma yoxdur;
+B)	Z=10.10100 ,nəticə mənfidir və daşma var;
+C)	Z=10.10100 ,nəticə mənfidir və daşma var;
+D)	Z=11.10100 ,nəticə mənfidir və daşma yoxdur; 
+E)         Z=11.10100 ,nəticə mənfidir və daşma var;
+E
+42.	X10=32.19 ədədinin 16-lıq kodda qiyməti necə olar?
+A) X16=10.35;	
+B) X16=20.35;	
+C) X16=40.35; 
+D) X16=20.15; 
+E) X16=22.35;
+B
+43.	X= -1001 və Y= -1000 halında Z=X+Y cəmini tapmalı və daşmanı təyin etməli
+A)	Z=11.01111 ,nəticə mənfidir və daşma var;
+B)	Z=12.01111 ,nəticə mənfidir və daşma var;
+C)	Z=11.01111 ,nəticə mənfidir və daşma yoxdur;
+D)	Z=11.01111 ,nəticə müsbətdir və daşma var;
+E)	Z=10.01111 ,nəticə mənfidir və daşma var;
+A
+44.	X10=-30 ədədinin 16-lıq kodda qiyməti necə olar?
+A) X16=1F;	
+B) X16=2E; 
+C) X16=1A; 
+D) X16=1E; 
+E) X16=1B;
+D
+45.	Yaddaşın məntiqi ünvan kodundakı”Directory” hissəəsi 12 bitli olarsa, “Page Directory” cədvəlində neçə ədəd PDE elementi olar?
+A) 2x1024qədər;	
+B) 8x1024qədər; 
+C) 4x1024qədər;	
+D) 4x2024qədər; 
+E) 4x4024qədər; 
+C
+46.Yaddaşın məntiqi ünvan kodundakı “sürüşmə ” hissəəsi nəyi təyin edir?
+A) virtual səhifənin daxili ünvanını;	
+B) diskdəki səhifənin daxili ünvanını;
+C) Fiziki səhifənin başlanğıc ünvanını;	
+D) məntiqi səhifənin daxili ünvanını; 
+E) Fiziki səhifənin daxili ünvanını;
+E
+47.Yaddaşın fiziki səhifəsinin başlanğıc ünvanı nəyə əsasən təyin edilir?
+A) PD cədvəlində PTE elementinin 20 bitli kodu ilə; 
+B) PT cədvəlində PTE elementinin 20 bitli kodu ilə;
+C)	PT cədvəlində PDE elementinin 20 bitli kodu ilə;
+D)	PT cədvəlində PTE elementinin 32 bitli kodu ilə;
+E)	PT cədvəlində PTE elementinin 10 bitli kodu ilə; 
+B
+48.X10= -0.25 ədədinin 16-lıq kodda qiyməti necə olar?
+A) X16=0.4;	
+B) X16=1.4;	
+C) X16=0.5;	
+D) X16=4.4;	
+E) X16=2.4;
+A
+49.	Yaddaşın səhifələnməsi cədvəlləri harada saxlanılır ?
+A) xarici  yaddaşda;		
+B) disk yaddaşda;	
+C) qeyri-əsas yaddaşda; 
+D) əsas yaddaşda;	
+E) FLASH yaddaşda;
+D
+50.	X=00,11102 və Y= 00,01012 halında Z=X+Y cəmini tapmalı və daşmanı təyin etməli
+A) Z=00.10011 ,nəticə müsbətdir və daşma yoxdur;	
+B) Z=00.10011 ,nəticə müsbətdir və daşma var;
+C) Z=11.10011 ,nəticə müsbətdir və daşma var;	
+D) Z=00.10011 ,nəticə mənfidir və daşma var;
+E) Z=01.10011 ,nəticə müsbətdir və yoxdur;
+B
+51.	CPU-da registrlərin ümumi halda hansı tipləri mövcuddur?
+A)	proqramla müraciət edilən və xüsusi təyinatlı;
+B)	universal təyinatlı və xüsusi təyinatlı;
+C)	proqramla müraciət edilən, proqramla müraciət edilməyən ;
+D)	proqramla müraciət edilməyən və universal təyinatlı;
+E)	proqramla müraciət edilən, proqramla müraciət edilməyən və universal təyinatlı, xüsusi təyinatlı;
+C
+52.	CPU-da GPR registrlərinin 16 bitli formatı necə ifadə olunur?
+A)	A,B,C,D registrlərinin adının sonunda E simvolunu göstərilməklə ;
+B)	A,B,C,D registrlərinin adının əvvəlində E və sonunda X simvolları göstərilməklə;
+C)	A,B,C,D registrlərinin adının əvvəlində X simvolu göstərilməklə ;
+D)	A,B,C,D registrlərinin adının əvvəlində E simvolu göstərilməklə ; 
+E) A,B,C,D registrlərinin adının sonunda X simvolları göstərilməklə ;
+E
+53.	CPU-da GPR registrlərinin 8 bitli formatı necə ifadə olunur?
+A)	A,B,C,D registrlərinin adının sonunda H və ya L simvollarını göstərilməklə ;
+B)	A,B,C,D registrlərinin adının əvvəlində E və sonunda X simvolları göstərilməklə ;
+C)	A,B,C,D registrlərinin adının sonunda H və ya Y simvollarını göstərilməklə ;
+D)	A,B,C,D registrlərinin adının sonunda X simvolları göstərilməklə ;
+E)	A,B,C,D registrlərinin adının sonunda G və ya L simvollarını göstərilməklə ; 
+A
+54.GPR ilə SPR registrlərinin fərqi nədir?
+A)	SPR -lərdə istənilən tipdə yalnız 8 bitli məlumat saxlanıla bilər , GPR -də müxtəlif uzunluqlu məlumat saxlanılır ;
+B)	SPR -lərdə yalnız 32 bitli , GPR -də isə 16/32 bitli məlumat saxlanılır;
+C)	GPR-lərdə istənilən tipdə 32 bitli, GPR -də isə təyin olunmuş tipdə16/32 bitli məlumat saxlanılır
+D)	GPR-lərdə istənilən tipdə və məzmunda məlumat saxlanıla bilər ,SPR-də isə təyin olunmuş tipdə və məzmunda məlumat saxlanılır;
+E)	GPR-lərdə istənilən tipdə 8/16 bitli, GPR -də isə təyin olunmuş tipdə16 bitli məlumat saxlanılır; 
+D
+55.SPR registrlərinə misal olaraq hansılar aid edilir və onlar hansı formatlarda olur?
+A) FLAGS,AX ,Dİ/Sİ misal ola bilər və onlar 16/32 bitli formatlarda olur ; 
+B) FLAGS,SP ,Dİ/Sİ misal ola bilər və onlar 16/32 bitli formatlarda olur ;
+C)	EBX,SP ,Dİ/Sİ misal ola bilər və onlar 16/32 bitli formatlarda olur ;
+D)	FLAGS,SP ,Dİ/Sİ misal ola bilər və onlar 8/16/32 bitli formatlarda olur ;
+E)	FLAGS,SP ,Dİ/Sİ misal ola bilər və onlar 8 bitli formatda olur
+B
+56.	STEK yaddaşına müraciət üçün hansı SPR registri istifadə olunur və onun qiyməti necə dəyişir?
+A)	BP	registri	istifadə	olunur	və	onun	qiyməti   STEK	yaddaşına	müraciət	zamanı inkrement/dekrement edilir;
+B)	SP registri istifadə olunur və onun qiyməti STEK yaddaşına müraciət zamanı inkrement edilir; 
+C) SP registri istifadə olunur və onun qiyməti STEK yaddaşına müraciət zamanı inkrement/dekrement edilir;
+D)	SP registri istifadə olunur və onun qiyməti STEK yaddaşına müraciət zamanı dekrement edilir;
+E)	İP	registri	istifadə	olunur	və	onun	qiyməti	STEK	yaddaşına	müraciət	zamanı inkrement/dekrement edilir;
+C
+57.	Massivin elementlərinin indeksləşdirilməsi üçün hansı registrlər və hansı formatda istifadə olunur?
+A)	DX/Sİ registrləri 16/32 bitli formatda istifadə olunur;
+B)	İP/Sİ registrləri 16/32 bitli formatda istifadə olunur;
+C)	Dİ/Sİ registrləri 16 bitli formatda istifadə olunur;
+D)	Dİ/CS registrləri 16/32 bitli formatda istifadə olunur; 
+E) Dİ/Sİ registrləri 16/32 bitli formatda istifadə olunur;
+E
+58.	CPU-da icra edilən proqramın növbəti əmrinin daxili ünvanı hansı registrdə göstərilir?
+A) İP registrində;	
+B) AX registrində;	
+C) FLAGS registrində;
+D) BP registrində;	
+E) SS registrində;
+A
+59.	CPU-da FLAGS registrinin təyinatı və formatları necədir?
+A)	əlamətlər bayraqlarını yadda saxlayır və 16 bitli formatdadır;
+B)	əlamətlər bayraqlarını yadda saxlayır və 32 bitli formatdadır;
+C)	seqmentin başlanğıc ünvanını yadda saxlayır və 16/32 bitli formatlardadır; 
+D) əlamətlər bayraqlarını yadda saxlayır və 16/32 bitli formatlardadır;
+E) massivin indeksini yadda saxlayır və 16/32 bitli formatlardadır;
+D
+60.	FLAGS registrində C biti nəyi göstərir və onun qiyməti nə vaxt təyin edilir?
+A)	yüksək bitdən köçürmənin olmasını göstərir və onun qiyməti bölmə əməliyyatı zamanı təyin edilir;
+B)	yüksək bitdən köçürmənin olmasını göstərir və onun qiyməti toplama əməliyyatı zamanı təyin edilir;
+C)	aşağı bitdən köçürmənin olmasını göstərir və onun qiyməti toplama əməliyyatı zamanı təyin edilir;
+D)	tetradan köçürmənin olmasını göstərir və onun qiyməti toplama əməliyyatı zamanı təyin edilir;
+E)	yüksək bitdən köçürmənin olmasını göstərir və onun qiyməti vurma əməliyyatı zamanı təyin edilir
+B
+61.	FLAGS registrində A biti nəyi göstərir və onun qiyməti nə vaxt təyin edilir?
+A)	sonrakı tetradan köçürmənin olmasını göstərir və onun qiyməti onluq-ikilik toplama əməliyyatı zamanı təyin edilir;
+B)	əvvəlki tetradan köçürmənin olmasını göstərir və onun qiyməti ikilik toplama əməliyyatı zamanı təyin edilir ;
+C)	əvvəlki tetradan köçürmənin olmasını göstərir və onun qiyməti onluq-ikilik toplama əməliyyatı zamanı təyin edilir;
+D)	əvvəlki bitdən köçürmənin olmasını göstərir və onun qiyməti onluq-ikilik toplama əməliyyatı zamanı təyin edilir ;
+E)	axırıncı tetradan köçürmənin olmasını göstərir və onun qiyməti onluq-ikilik toplama əməliyyatı zamanı təyin edilir ;
+C
+62.	FLAGS registrində Z biti nəyi göstərir və hansı əməliyyatda istifadə olunur?
+A)	əvvəlki əməliyyatın nəticəsində köçürmə olduğunu göstərir və bölmə əməliyyatı icra edilərkən istifadə olunur;
+B)	sonrakı əməliyyatın nəticəsinin sıfır olmasını göstərir və bölmə əməliyyatı icra edilərkən istifadə olunur;
+C)	əvvəlki əməliyyatın nəticəsində daşma olmasını göstərir və bölmə əməliyyatı icra edilərkən istifadə olunur;
+D)	əvvəlki əməliyyatın nəticəsinin mənfi olmasını göstərir və bölmə əməliyyatı icra edilərkən istifadə olunur;
+E)	əvvəlki əməliyyatın nəticəsinin sıfır olmasını göstərir və bölmə əməliyyatı icra edilərkən istifadə olunur;
+E
+63.	FLAGS registrində S biti nəyi göstərir və hansı əməliyyatda istifadə olunur?
+A)	əvvəlki əməliyyatın nəticəsinin işarəsini göstərir və bölmə əməliyyatı icra edilərkən istifadə olunur;
+B)	əvvəlki əməliyyatın nəticəsinin müsbət olduğunu göstərir vəstekə müraciət əməliyyatı icra edilərkən istifadə olunur;
+C)	əvvəlki əməliyyatın nəticəsinin müsbət olduğunu göstərir və yaddaşa müraciət əməliyyatı icra edilərkən istifadə olunur;
+D)	əvvəlki əməliyyatın nəticəsinin müsbət olduğunu göstərir və bölmə əməliyyatı icra edilərkən istifadə olunur;
+E)	əvvəlki əməliyyatın nəticəsində daşma olduğunu göstərir və bölmə əməliyyatı icra edilərkən istifadə olunur;
+A
+64.	FLAGS registrində İ biti nəyi göstərir və nə vaxt istifadə edilir?
+A)	DMA-ya icazə əlaməti olub MP tərəfindən İNTA siqnalı hasil edilərkən istifadə edilir;
+B)	əvvəlki əməliyyatın nəticəsinin işarəsini göstərir və bölmə əməmliyyatında istifadə edilir;
+C)	əvvəlki əməliyyatın nəticəsininsıfır olması əlaməti olub bölmə əməmliyyatında istifadə edilir;
+D)	kəsilməyə icazə əlaməti olub MP tərəfindən İNTA siqnalı hasil edilərkən istifadə edilir;
+E)	kəsilməyə icazə əlaməti olub MP tərəfindən İNTR siqnalı hasil edilərkən istifadə edilir; 
+B
+65.FLAGS registrində O biti nəyi göstərir və O=1 halında nə baş verir?
+A) Toplama əməliyyatında işarə əlamətidir və O=1 halında toplamanın nəticəsi korreksiya edilir; 
+B) Toplama əməliyyatında daşma əlamətidir və O=1 halında toplamanın nəticəsi korreksiya edilir;
+C)	Toplama əməliyyatında daşma əlamətidir və O=1 halında toplamanın nəticəsi sıfırlanır;
+D)	Toplama əməliyyatında daşma əlamətidir və O=1 halında toplamanın nəticəsi 1 edilir;
+E)	Toplama əməliyyatında köçürmə əlamətidir və O=1 halında toplamanın nəticəsi korreksiya edilir;
+B
+66.	Kompüterin yaddaşı hansı tip seqmentlərə bölünür və onun başlanğıc ünvanı real rejimdə hansı registrlərlə təyin edilir?
+A)	kod,verilənlər seqmentlərinə bölünür və onun başlanğıc ünvanı real rejimdə seqment registrlərinin məzmunu ilə təyin edilir;
+B)	kod,verilənlər ,stek seqmentlərinə bölünür və onun başlanğıc ünvanı real rejimdə seqment deskriptoru ilə təyin edilir;
+C)	kod,verilənlər ,stek seqmentlərinə bölünür və onun başlanğıc ünvanı real rejimdə seqment registrlərinin məzmunu ilə təyin edilir;
+D)	verilənlər ,stek seqmentlərinə bölünür və onun başlanğıc ünvanı real rejimdə seqment registrlərinin məzmunu ilə təyin edilir;
+E)	kod,verilənlər ,stek seqmentlərinə bölünür və onun başlanğıc ünvanı real rejimdə FLAGS registrinin məzmunu ilə təyin edilir;
+C
+67.	CPU-da əsas seqment registrləri hansılardır və hansı formatlarda olur?
+A)	CS, DS,SS registrləridir və yalnız 8 bitli formatda olur;
+B)	CS, DS,SS registrləridir və yalnız 32 bitli formatda olur;
+C)	DS,SS registrləridir və yalnız 16bitli formatda olur;
+D)	CS, DS registrləridir və yalnız 16bitli formatda olur;
+E)	CS, DS,SS registrləridir və yalnız 16 bitli formatda olur;
+E
+68.	Kompüterdə yaddaşın iş rejimləri hansılardır və ünvanlaşdırılan yaddaş həcmi necədir?
+A)	real və mühafizə olunan rejimlərdir və ünvanlaşdırılan yaddaş həcmi uyğun olaraq ≤1MB və
+B)	real və mühafizə olunan rejimlərdir və ünvanlaşdırılan yaddaş həcmi uyğun olaraq >1MB və
+C)	PİO və mühafizə olunan rejimlərdir və ünvanlaşdırılan yaddaş həcmi uyğun olaraq ≤1MB və
+D)	real və DMA rejimlərdir və ünvanlaşdırılan yaddaş həcmi uyğun olaraq ≤1MB və >1MB ola bilər;
+E)	real və mühafizə olunan rejimlərdir və ünvanlaşdırılan yaddaş həcmi uyğun olaraq ≤100MB və
+A
+69.	Kompüterdə yaddaşın real iş rejimlərinin əsas xüsusiyyətləri hansılardır?
+A)	1MB-dan böyük ünvanlaşdırılan yaddaş həcmi hər biri 64KB olan seqmentlərə bölünür ;
+B)	1MB-a qədər ünvanlaşdırılan yaddaş həcmi hər biri 64B olan seqmentlərə bölünür ;
+C)	10MB-a qədər ünvanlaşdırılan yaddaş həcmi hər biri 64KB olan seqmentlərə bölünür; 
+D) 1MB-a qədər ünvanlşdırılan yaddaş həcmi hər biri 64KB olan seqmentlərə bölünür ;
+E) 100MB-a qədər ünvanlaşdırılan yaddaş həcmi hər biri 64KB olan seqmentlərə bölünür; 
+D
+70.DS=3000 halında real yaddaşın verilənlər seqmentinin başlanğıc ünvanı necə olar?
+A) 3000+10 kimi;	
+B) 3000x10 kimi;	
+C) 3000x100 kimi; 
+D) 3000-10 kimi;	
+E) 3000/10 kimi
+B
+71.Real yaddaş seqmentinin maksimal həcmi neçədir və onun daxili ünvanının maksimal qiyməti neçə olar?
+A)	64KB-dır və seqmentin daxili ünvanının maksimal qiyməti FFFFFH olar;
+B)	64B-dır və seqmentin daxili ünvanının maksimal qiyməti FH olar;
+C)	64KB-dır və seqmentin daxili ünvanının maksimal qiyməti FFFFH olar;
+D)	64KB-dır və seqmentin daxili ünvanının maksimal qiyməti 1FFFH olar;
+E)	64KB-dır və seqmentin daxili ünvanının maksimal qiyməti FFFH olar; 
+C
+72.DS=5000 və daxili ünvan 12A olan oyuğun icraedici ünvanı necə olar?
+A) 5000x10+12A00H;	
+B) 5000x1+012AH;	
+C) 5000x10-0012AH; 
+D) 5000/10+0012AH;	
+E) 5000x10+0012AH;
+E
+73.	Kod seqmentinin başlanğıc ünvanı 10000 olduğu halda proqramda cari əmrin ünvanı hansı ifadəyə əsasən tapılır?
+A) 10000x10+İP;	
+B) 10000x10+SP;	
+C) 10000/10+İP;	
+D) 10000x10+BP;	
+E) 10000x10-İP;
+A
+74.	Stek seqmentində başlanğıc ünvan 1F00 olduğu halda stekə müraciət edilən oyuğun ünvanı nə ilə təyin edilir?
+A) 1F00x10+İP;	
+B) 1F00x10+BP;	
+C) 1F00/10+SP;   
+D) 1F00x10+SP ;	
+E) 1F00x10- SP;
+D
+75.	CS=1AB20 və İP=FFFH halında proqramın cari əmrinin ünvanını necə tapmalı?
+A) 1AB20x10-000FFFH;	
+B) 1AB20x10+000FFFH;
+C) 1AB20x10+00FFF0H;	
+D) 1AB20x10+0FFF00H;	
+E) 1AB20x10+FFF000H;
+B
+76.	Mühafizə olunan rejimdə MP tərəfindən ünvanlaşdırılan yaddaş həcmi necədir və seqmentin başlanğıc ünvanı haradan tapılır?
+A)	ünvanlaşan	yaddaş	həcmi	≤ 0.5MB-dır və	seqmentin başlanğıc ünvanı seqment deskriptorundan tapılır;
+B)	ünvanlaşan yaddaş həcmi ≥1MB-dır və seqmentin başlanğıc ünvanı seqment registrinin məzmununa =-dir ;
+C)	ünvanlaşan yaddaş həcmi ≥1MB-dır və seqmentin başlanğıc ünvanı seqment deskriptorundan tapılır;
+D)	ünvanlaşan yaddaş həcmi ≥1MB-dır və seqmentin başlanğıc ünvanı kəsilmə deskriptorundan tapılır;
+E)	ünvanlaşan yaddaş həcmi ≤ 1MB-dır və seqmentin başlanğıc ünvanı seqment deskriptorundan tapılır;
+C
+77.	Müasir kompüterdə sistemli yaddaşın həcmi necədir və əsas iş rejimi hansıdır ?
+A)	həcmi MB-larla ölçülür və əsas iş rejimi mühafizə olunandır;
+B)	həcmi GB-larla ölçülür və əsas iş rejimi realdır;
+C)	həcmi MB-larla ölçülür və əsas iş rejimi mühafizə olunan və realdır;
+D)	həcmi KB-larla ölçülür və əsas iş rejimi mühafizə olunandır; 
+E) həcmi TB-larla ölçülür və əsas iş rejimi mühafizə olunandır;
+E
+78.	Mühafizə olunan rejimdə selektor kodunun və ayrı-ayrı sahələrinin təyinatını açıqlamalı.
+A)	seqment deskriptorunun yeri haqda məlumat verir və onun sahələri seqmentin üstünlük dərəcəsi, seqment deskriptor cədvəlinin tipi,bu cədvəl daxilindəindeksi göstərir
+B)	seqment deskriptorunun yeri haqda məlumat verir və onun sahələri seqmentin həcmini, seqment deskriptor cədvəlinin tipi,bu cədvəl daxilində indeksi göstərir ;
+C)	seqment deskriptorunun yeri haqda məlumat verir və onun sahələri seqmentin üstünlük dərəcəsi, seqment deskriptor cədvəlinin həcmini,bu cədvəl daxilindəindeksi göstərir
+D)	kəsilmə deskriptorunun yeri haqda məlumat verir və onun sahələri seqmentin üstünlük dərəcəsi, seqment deskriptor cədvəlinin tipi,bu cədvəl daxilində indeksi göstərir
+E)	seqment deskriptorunun yeri haqda məlumat verir və onun sahələri seqmentin üstünlük dərəcəsi, seqment deskriptor cədvəlinin tipi,bu cədvəlin başlangıc ünvanını göstərir ;
+A
+79.	Seqment deskriptorları nədir və hansı rejimdə istifadə olunur?
+A)	səhifə haqda ümumi məlumatdır və mühafizə olunan rejimdə istifadə olunur ;
+B)	Seqment haqda ümumi məlumatdır və real rejimdə istifadə olunur ;
+C)	Seqment haqda ümumi məlumatdır və kəsilmə rejimində istifadə olunur ;
+D)	seqment haqda ümumi məlumatdır və mühafizə olunan rejimdə istifadə olunur ;
+E)	Seqment haqda səthi məlumatdır və mühafizə olunan rejimdə istifadə olunur ; 
+D
+80.Seqment deskriptoru neçə baytdan ibarətdir və haradan oxuna bilər?
+A) 8 baytdan ibarətdir və ümumi cədvəldən oxuna bilər; 
+B) 8 baytdan ibarətdir və sistemli cədvəldən oxuna bilər;
+C)	2 baytdan ibarətdir  və xüsusi cədvəldən oxuna bilər;
+D)	8 baytdan ibarətdir  və ROM yaddaşdan oxuna bilər;
+E)	4 baytdan ibarətdir və xüsusi cədvəldən oxuna bilər
+B
+81.Seqment deskriptorları üçün hansı cədvəllər var və onların seçimi nəyə əsasən aparılır?
+A)	Daxili,xarici cədvəllər var və onların seçimi selektor kodunun Tİ sahəsinə əsasən aparılır;
+B)	Lokal ,qlobal cədvəllər var və onların seçimi selektor kodunun indeks sahəsinə əsasən aparılır; 
+C) Lokal ,qlobal cədvəllər var və onların seçimi selektor kodunun Tİ sahəsinə əsasən aparılır;
+D)	Lokal ,qlobal cədvəllər var və onların seçimi selektor kodunun PL sahəsinə əsasən aparılır;
+E)	sadə,mürəkkəb cədvəllər var və onların seçimi selektor kodunun Tİ sahəsinə əsasən aparılır ; 
+C
+82.Deskriptorlar cədvəlindən tələb olunan seqment deskriptoru nəyə əsasən seçilir?
+A) proqram kodunun indeks sahəsinə əsasən;	
+B) ünvan kodunun indeks sahəsinə əsasən;
+C) selektor kodunun Tİ sahəsinə əsasən;	
+D) selektor kodunun PL sahəsinə əsasən; 
+E) selektor kodunun indeks sahəsinə əsasən;
+E
+83.Mühafizə olunan rejimdə xətti ünvan necə təyin olunur?
+A)	seqment registrinin məzmunu 10H-a vurulur və üzərinə başlanğıc ünvan əlavə edilir;
+B)	seqment registrinin məzmunu 10H-a vurulur və üzərinə əmrin ünvanı əlavə;
+C)	seqment registrinin məzmunu 40H-a vurulur və üzərinə sürüşmə ünvanı əlavə edilir;
+D)	seqment deskriptorundakı baza ünvanı üzərinə 32 bitli sürüşmə ünvanı əlavə edilir edilir;
+E)	seqment registrinin məzmunu 20H-a vurulur və üzərinə sürüşmə ünvanı əlavə edilir; 
+A
+84.Çoxməsələli rejimdə resursların mühafizəsi hansı mexanizmlə tənzimlənir?
+A)	müraciət edən məsələnin proqram kodu ilə seqmentin üstünlük dərəcəsi müqayisə edilir və seqmentə müraciət qaydası nəzərə alınır;
+B)	müraciət edən məsələnin üstünlük dərəcəsi ilə kəsilmənin üstünlük dərəcəsi müqayisə edilir və seqmentə müraciət qaydası nəzərə alınır;
+C)	müraciət edən məsələnin kəsilmə dərəcəsi ilə seqmentin üstünlük dərəcəsi müqayisə edilir və seqmentə müraciət qaydası nəzərə alınır;
+D)	müraciət edən məsələnin üstünlük dərəcəsi ilə seqmentin üstünlük dərəcəsi müqayisə edilir və seqmentə müraciət qaydası nəzərə alınır;
+E)	müraciət edən məsələnin üstünlük dərəcəsi ilə seqmentin üstünlük dərəcəsi müqayisə edilir və seqmentin həcmi nəzərə alınır;
+D
+85.Çoxməsələli rejimdə üstünlük dərəcəsi PL=0 olan proqramlar hansılar ola bilər və digər proqramların resurslarına müdaxilə imkanları necədir?
+A) Windows proqramları ola bilər və digər proqramların resurslarına müdaxilə imkanları vardır; 
+B) MS DOS proqramları ola bilər və digər proqramların resurslarına müdaxilə imkanları vardır;
+C)	Tətbiqi proqramlar ola bilər və digər proqramların resurslarına müdaxilə imkanları vardır;
+D)	MS DOS proqramları ola bilər və digər proqramların resurslarına müdaxilə imkanları yoxdur;
+E)	Word proqramları ola bilər və digər proqramların resurslarına müdaxilə imkanları vardır
+B
+86.Çoxməsələli rejimdə üstünlük dərəcəsi PL=1 olan proqramlar hansılar ola bilər və digər proqramların resurslarına daxil olma imkanları necədir?
+A)	MS DOS proqramları ola bilər və PL>1 olan proqramların resurslarına müdaxilə imkanları vardır;
+B)	MS DOS üzərində yaradılan ƏS örtük proqramları ola bilər və PL>1 olan proqramların resurslarına müdaxilə imkanları vardır;
+C)	İxtiyari proqramlar ola bilər və PL>1 olan proqramların resurslarına müdaxilə imkanları vardır;
+D)	Tətbiqi proqramlar ola bilər və PL>2 olan proqramların resurslarına müdaxilə imkanları vardır; 
+E) Windows proqramları ola bilər və PL≤1 olan proqramların resurslarına müdaxilə imkanları vardır;
+E
+87.Çoxməsələli rejimdə üstünlük dərəcəsi PL=2 olan proqramlar nəyə aiddir və digər proqramların resurslarına daxil olma imkanları necədir?
+A)	Windows proqramlarına aiddir və PL>2 olan proqramların resurslarına daxil olma imkanları vardır;
+B)	MS DOS mühitində yazılmış proqramlardır və PL>2 olan proqramların resurslarına daxil olma imkanları                                                                                                                             vardır; 
+C) Windows mühitində yazılmış proqramlardır və PL>2 olan proqramların resurslarına daxil olma imkanları vardır;
+D)	Windows mühitində yazılmış proqramlardır və PL>1 olan proqramların resurslarına daxil olma imkanları vardır;
+E)	Windows mühitində yazılmış proqramlardır və PL=0 olan proqramların resurslarına daxil olma imkanları vardır;
+C
+88.Çoxməsələli rejimdə üstünlük dərəcəsi PL=3 olan proqramlar nəyə aiddir və digər proqramların resurslarına daxil olma imkanları necədir?
+A)	Tətbiqi proqramlara aiddir və digər proqramların resurslarına daxil olma imkanları yoxdur;
+B)	Tətbiqi proqramlara  aiddir  və  MS DOS proqramlarının	resurslarına daxil olma imkanları vardır;
+C)	Bütün  proqramlara aiddir və digər proqramların resurslarına daxil olma imkanları yoxdur;
+D)	Tətbiqi proqramlara aiddir və digər proqramların resurslarına daxil olma imkanları vardır;
+E)	MS DOS proqramlara aiddir və digər proqramların resurslarına daxil olma imkanları vardır;
+A
+89.	Mühafizə  olunan  yaddaş rejimində  məsələnin,  əsasən hansı resursları	və nədən mühafizə edilir?
+A)	məsələnin seqmentləridir və yüksək üstünlüklü məsələnin icazəsiz müdaxiləsindən mühafizə edilir;
+B)	seqment deskriptorlarıdır və aşağı üstünlüklü məsələnin icazəsiz müdaxiləsindən mühafizə edilir ;
+C)	kəsilmə vektorlarıdır və yüksək üstünlüklü məsələnin icazəsiz müdaxiləsindən mühafizə edilir
+D)	məsələnin seqmentləridir və aşağı üstünlüklü məsələnin icazəsiz müdaxiləsindən mühafizə edilir ;
+E)	məsələnin seqmentləridir və aşağı üstünlüklü məsələnin icazəli müdaxiləsindən mühafizə edilir
+D
+90.	Mühafizə olunan yaddaş rejimində seqmentin sərhədlərinə necə nəzarət edilir?
+A) 32 bitli sürüşmə ünvanı deskriptordakı seqmentin baza ünvanı ilə müqayisə edilir ; 
+B) 32 bitli sürüşmə ünvanı deskriptordakı seqment hədləri ilə müqayisə edilir ;
+C)	16 bitli sürüşmə ünvanı deskriptordakı seqment hədləri ilə müqayisə edilir ;
+D)	8 bitli sürüşmə ünvanı deskriptordakı seqment hədləri ilə müqayisə edilir;
+E)	32 bitli sürüşmə ünvanı deskriptordakı seqmentə müraciət qaydası ilə müqayisə edilir ; 
+B
+91.Mühafizə olunan yaddaş rejimində seqmentə müraciət qaydası necə təmin edilir?
+A)	seqmentin üstünlük dərəcəsi müraciət əməliyyatının üstünlük dərəcəsi ilə müqayisə edilir ;
+B)	seqmentin tipi müraciət əməliyyatının tipi ilə müqayisə edilir;
+C)	seqmentin tipi müraciət əməliyyatının üstünlük dərəcəsi ilə müqayisə edilir ;
+D)	seqmentin üstünlük dərəcəsi müraciət əməliyyatının tipi ilə müqayisə edilir ;
+E)	seqmentin tipi və üstünlük dərəcəsi müraciət əməliyyatının tipi və üstünlük dərəcəsi ilə müqayisə edilir	;
+E
+92.CPU-da kəsilməyə aid olan hansı siqnallar var?
+A) İNTR,HLDA,NMİ;	
+B) HOLD,İNTA,NMİ;	
+C) İNTR,İNTA,NMİ;
+D) İNTR,İNTA,HOLD;	
+E) HLDA ,İNTA, ,NMİ 
+C
+93.CPU-da İNTR,İNTA siqnallarının təyinatı nədir?
+A)	Ümumi kəsilmə sorğusu və ona icazə siqnallarıdır;
+B)	Seqmentə müraciət və ona icazə siqnallarıdır;
+C)	PİO rejimi sorğusu və ona icazə siqnallarıdır;
+D)	DMA sorğusu və ona icazə siqnallarıdır;
+E)	DMA intervalının sonu və onun təsdiqi siqnallarıdır; 
+A
+94.CPU-da DMA rejimi üçün hansı siqnallar var?
+A) İNTR, HLDA;	
+B) HOLD,İNTA;	
+C) HOLD,MRD; 
+D) HOLD,HLDA; 
+E) HOLD,İORD ;
+D
+95.	Kompüter arxitekturunda DMA rejiminin təyinatı nədir?
+A)	CPU-nın bilavasitə iştirakı olmadan kiçik həcmli məlumat bloklarının portlar ilə RAM arasında sürətli ötürülməsi üçündür;
+B)	CPU-nın bilavasitə iştirakı olmadan boyük həcmli məlumat bloklarının portlar ilə RAM arasında sürətli ötürülməsi üçündür;
+C)	CPU-nın bilavasitə iştirakı olmadan boyük həcmli məlumat bloklarının portlar ilə RAM arasında aşağı sürətlə ötürülməsi üçündür;
+D)	CPU-nın bilavasitə iştirakı ilə boyük həcmli məlumat bloklarının portlar ilə RAM arasında sürətli ötürülməsi üçündür;
+E)	CPU-nın bilavasitə iştirakı olmadan boyük həcmli məlumat bloklarının portlar arasında sürətli ötürülməsi üçündür;
+B
+96.	CPU-nın ünvan və verilənlər şinlərinin multipleksləşdirilməməsi nə deməkdir?
+A)	ünvan və verilənlərin ötürülməsi üçün ayr-ayri məlumat xətləri istifadə edilir;
+B)	ünvan və verilənlər ümumi məlumat xətlərilə eyni zamanda ötürülə bilir;
+C)	ünvan ardıcıl , verilənlər isə paralel olaraq ümumi məlumat xətlərilə ötürülür;
+D)	ünvan paralel , verilənlər isə ardıcıl olaraq ümumi məlumat xətlərilə ötürülür; 
+E) ünvan və verilənlərin ötürülməsi üçün ümumi məlumat xətləri istifadə edilir;
+E
+97.	CPU-nın ünvan və verilənlər şinlərinin multipleksləşdirilməməsində məqsəd nə olmuşdur?
+A)	Verilənlər və ünvan kodlarının eyni zamanda ötürülməsi;
+B)	CPU-nın pinlərinin sayının maxsimuma çatdırılması; 
+C) CPU-nın pinlərinin sayının minimuma endirilməsi;
+D)	Verilənlər və ünvan kodlarının sürətli ötürülməsi;
+E)	CPU-nın daxili şinlərinin sayının minimuma endirilməsi;
+C
+98.	CPU-nın ünvan və verilənlər şinlərinin multipleksləşdirilməməsi hansı nəsil kompüter arxitekturunda tətbiq edilmişdir?
+A)	CPU 8 və 16 bitli olan1-ci və 2-ci nəsil kompüter arxitekturunda;
+B)	bütün nəsillərdən olan kompüter arxitekturlarında;
+C)	CPU 32 bitli olan 3-cü nəsil kompüter arxitekturunda;
+D)	CPU 32 və 16 bitli 2-ci və 3-cü nəsil kompüter arxitekturunda;
+E)	kompüter arxitekturunun heç bir nəslində tətbiq edilməmişdir 
+A
+99.Prosessorların hansı tipində çox funksiyalı çıxıntılar tətbiq edilməkdədir?
+A)	PLİS tipli ixtisaslaşdırılmış MP-da;
+B)	universal təyinatlı müasir MP-da;
+C)	mikrokontroller tipli siqnalların rəqəmli emalı prosessorlarında; 
+D) mikrokontroller tipli ixtisaslaşdırılmış MP-da ;
+E) mikrokontroller tipli universal təyinatlı MP-da ;
+D
+100.Prosessorların OSC girişinə hansı siqnallar və haradan verilə bilər?
+A)    DMA    sorğusu     siqnalları     kəsilmə     kontrollerindən; 
+B) CLK sinxronlaşdırma siqnalları takt siqnalları generatorundan ;
+C)	kəsilmə sorğusu siqnalları kəsilmə kontrollerindən ;
+D)	DMA sorğusu siqnalları DMA kontrollerindən;
+E)	CLK sinxronlaşdırma siqnalları qida mənbəyindən; 
+B
+101.Prosessorların OSC girişinə verilən CLK siqnalların təyinatı nədir?
+A)	Prosessorların kəsilmə sorğusu siqnalıdır;
+B)	Prosessorların DMA sorğusu siqnalıdır;
+C)	Prosessorların qidalandırılması üçün siqnaldır;
+D)	Prosessorların sinxronlaşdırma üçün çıxış siqnallarıdır; 
+E) Prosessorların sinxronlaşdırma üçün giriş siqnallarıdır ;
+E
+102.	Müasir prosessorların nüvəsinin qida gərginliyi necədir?
+A) 3.5V ; 
+B) 5.5V ; 
+C) 1.5V ; 
+D) 12V ; 
+E) 3.3V;
+C
+103.	Müasir prosessorların qidalanması üçün hansı gərginlik mənbəyi istifadə edilir?
+A) sabit gərginlik mənbəyi; 
+B) düzbucaqlı siqnallar mənbəyi ;
+C) Sin-dal siqnallar mənbəyi ; 
+D) dəyişən gərginlik mənbəyi ; 
+E) mişarvari siqnallar mənbəyi;
+A
+104.	Müasir universal təyinatlı prosessorların hansı tip gövdələrdə gerçəkləşdirilir?
+A) LGA tipli iynəvari pinli ;	
+B) PGA tipli iynəvari pinli; 
+C) DİP tipli lentvari pinli; 
+D) LGA tipli silindrik pinli ;	
+E) PGA tipli silindrik pinli ;
+D
+105.	PENTİUM MP-da xarici verilənlər şini neçə bitlidir?
+A) 16bitli;	
+B) 64bitli;	
+C) 8bitli;	
+D) 32bitli;	
+E) 128bitli;
+B
+106.	Mühafizə olunan yaddaş rejimində verilənlər seqmentinə hansı tip məlumat üçün müraciət etmək olar?
+A) verilənlər və əmrlər üçün ;	
+B) stek məlumatı üçün ; 
+C) ünvan üçün ;
+D) əmrlər üçün ;	
+E) verilənlər məlumatı üçün ;
+E
+107.	Prosessorun hansı şinləri və nə məqsədlə multipleksləşdirilə bilər?
+A)	daxili ünvan və verilənlər şinləri multipleksləşdirilə bilər, prosessorun çıxıntılarının sayını azaltmaq üçün;
+B)	əmr və verilənlər şinləri multipleksləşdirilə bilər, prosessorun çıxıntılarının sayını azaltmaq üçün ;
+C)	xarici ünvan və verilənlərin şinləri multipleksləşdirilə bilər, prosessorun çıxıntılarının sayını azaltmaq üçün;
+D)	idarəedici və verilənlər şinləri multipleksləşdirilə bilər, prosessorun çıxıntılarının sayını azaltmaq üçün ;
+E)	ünvan və idarəedici şinlər multipleksləşdirilə bilər, prosessorun çıxıntılarının sayını azaltmaq üçün;
+C
+108.	Kompüter arxitekturunda DMA rejimində məlumat mübadiləsi hansı şinlərlə yerinə yetirilə bilər?
+A)	Özəl DMA kanalı,yaxud CPU-nın xarici şinlərilə;
+B)	PCİ genişlənmə şinləri ilə ;	
+C) yalnız özəl DMA kanalı ilə ;
+D) yalnız CPU-nın xarici şinlərilə ;	
+E) PCİ Ex şinləri ilə 
+A
+109.Kompüter arxitekturunda DMA rejiminin tətbiqinin əsas məqsədi nədir?
+A)	aşağı sürətli CPU-nın işi ilə eyni zamanda məlumat mübadiləsinin yerinə yetirilməsi;
+B)	CPU-nın yüksək sürətli işini təmin etmək ;
+C)	CPU-nın yüksək sürətli hesablamalıarın yerinə yetirilməsini təmin etmək;
+D)	yüksək sürətli CPU-nın işi ilə eyni zamanda məlumat mübadiləsinin yerinə yetirilməsi;
+E)	CPU vasitəsilə sürətli məlumat mübadiləsinin yerinə yetirilməsi;
+D
+110.	Kompüter arxitekturunda DMA rejiminin icra müddəti nə ilə məhdudlaşdırılır?
+A) kəsilmə sorğusu siqnalları ilə   ;	
+B) DMA-nın zaman kvantları ilə;
+C) MP-nin takt siqnalları ilə;	
+D) növbəti DMA sorğusu siqnalı ilə;
+E) MP-nin əmr dövrü ilə
+B
+111.	Kompüter arxitekturunda yaddaşın banklara bölünməsində hansı məqsəd güdülür?
+A)	yaddaşa ardıcıl müraciətlər ərzində çoxbitli məlumatların ötürülməsi üçün;
+B)	yaddaş həcminin artırılması üçün;
+C)	ünvan kodunun uzunluğunun azaldılması üçün;
+D)	ünvan    və    verilənlərin    eyni    zamanda    ötürülməsi    üçün; 
+E) yaddaşa 1 müraciət ərzində çoxbitli məlumatların ötürülməsi üçün;
+E
+112. Müasir kompüter arxitekturunda yaddaşın neçə baytına eyni zamanda müraciət etmək mümkündür?
+A) 4 baytına ; 
+B) 2 baytına; 
+C) 8 baytına ;
+D) 1 baytına ; 
+E) 6 baytına
+C
+113.	Kompüter arxitekturunda DDR DRAM tipli yaddaş sxemlərinin fəqli cəhəti nədir?
+A) 1 takt dövründə 2 paketin ötürülməsi;	
+B) 1 müraciət zamanı 2 paketin ötürülməsi;
+C) 1 əmr dövründə 2 paketin ötürülməsi;	
+D) 1 takt dövründə 4 paketin ötürülməsi ;
+E)  eyni zamanda 4 paketin ötürülməsi
+A
+114.İlk 32 bitli prosessorlarda ünvan şininin eni nə qədər olmuşdur və ünvanlaşdırılan yaddaşın ən axırıncı ünvanı necə göstərilə bilər?
+A) 32 bitlidir və FFFFFH;	
+B) 16 bitlidir və FFFFFH;	
+C) 32 bitlidir və FFFFH; 
+D) 32 bitlidir və FFFFFFFFH;	
+E) 32 bitlidir və FFFFFFFH;
+D
+115.	Kompüter arxitekturunda DDR DRAM tipli yaddaşda məlumatın ötürülməsi sürəti nəyin hesabına yüksəlir?
+A)  takt  siqnalının  ön  cəbhə   müddətində   məlumatın  ötürülməsi   hesabına   ; 
+B) takt siqnalının ön və arxa cəbhə müddətlərində məlumatın ötürülməsi hesabına ;
+C)	takt siqnalının arxa cəbhə müddətində məlumatın ötürülməsi hesabına;
+D)	əmr dövrünün ön və arxa cəbhə müddətlərində məlumatın ötürülməsi hesabına;
+E)	takt siqnalının fasilə müddətində məlumatın ötürülməsi hesabına;
+B
+116.	Kompüter arxitekturunda DDR DRAM tipli yaddaşda məlumatın ötürülməsi sürəti hansı ifadə ilə hesablanır?
+A) V=4xFxn ;  
+B) V=Fxn;	
+C) V=8xFxn ; 
+D) V=6xFxn ; 
+E) V=2xFxn; 
+E
+117.Kompüter arxitekturunda kəsilmə sisteminin təyinatı nədir?
+A)	MP-nin xaricində baş verən hadisələrə cavab vermək;
+B)	MP-nin daxilində baş verən hadisələrə cavab vermək;
+C)	MP-nin daxilində və xaricində baş verən hadisələrə cavab vermək;
+D)	MP-nin sürətini artırmaq; 
+E) MP-ə qoşulan yaddaş həcmini artırmaq 
+C
+118.Kompüter arxitekturunda kəsilmə baş verərkən hansı əməliyyatlar yerinə yetirilir?
+A)	cari proqram dayandırılır, kəsilməyə xidmət proqramı icra edildikdən sonra yenidən əsas proqrama qayıdılır;
+B)	cari proqram dayandırılır, kəsilməyə xidmət proqramı icra edilir;
+C)	cari proqram dayandırılır və yenidən əsas proqrama qayıdılır ;
+D)	cari proqram sona çatdırılır, kəsilməyə xidmət proqramı icra edildikdən sonra yenidən əsas proqrama qayıdılır ;
+E)	cari proqramla birgə kəsilməyə xidmət proqramı icra edilir;
+A
+119.	Prosessor kəsilmənin hansı növlərinə xidmət edir?
+A) daxili və xarici;	
+B) aparatlı və proqramlı; 
+C) xarici və aparatlı; 
+D) daxili və xarici,aparatlı və proqramlı ;	
+E) daxili və proqramlı;
+D
+120.	Kompüter arxitexturunda aparatlı kəsilmənin tipləri və bunlara aid sorğu siqnalları hansılardır?
+A) maskalanan ,maskalanmayan və İNTR,HLDA; 
+B) şərti, şərtsiz və İNTR,NMİ;
+C) maskalanan ,maskalanmayan və İNTR, NMİ; 
+D) maskalanan ,maskalanmayan və İNTA,NMİ;
+E) maskalanan , şərtsiz və İNTR,NMİ;
+B
+121.	Prosessorun İNTR siqnalının təyinatı nədir və haradan verilir?
+A)	kəsilmə sorğusuna cavab siqnalıdır və kəsilmə kontrollerinin çıxışından verilir;
+B)	ümumi kəsilmə sorğusu siqnalıdır və DMA kontrollerinin çıxışından verilir;
+C)	ümumi kəsilmə sorğusu siqnalıdır və deşifratorun çıxışından verilir;
+D)	kəsilməyə icazə siqnalıdır və kəsilmə kontrollerinin çıxışından verilir;
+E)	ümumi kəsilmə sorğusu üçün giriş siqnalıdır və kəsilmə kontrollerinin çıxışından verilir; 
+E
+122.Prosessorun İNTA siqnalının təyinatı nədir və nəyə əsasən hasil edilir?
+A)	kəsilmə sorğusuna cavab siqnalıdır və Flags registrindəki Z bitinin qiymətinə əsasən hasil edilir;
+B)	kəsilmə sorğusuna cavab siqnalıdır və Flags registrindəki S bitinin qiymətinə əsasən hasil edilir; 
+C) kəsilmə sorğusuna cavab siqnalıdır və Flags registrindəki İ bitinin qiymətinə əsasən hasil edilir;
+D)	kəsilmə sorğusu siqnalıdır və Flags registrindəki İ bitinin qiymətinə əsasən hasil edilir;
+E)	maskalanmayan kəsilmə sorğusu siqnalıdır və Flags registrindəki İ bitinin qiymətinə əsasən hasil edilir;
+C
+123.	Prosessorun İNTR siqnalı hansı tip kəsilməyə aiddir?
+A) maskalanan aparatlı kəsilməyə;	
+B) daxili kəsilməyə;
+C) maskalanan proqramlı kəsilməyə; 
+D) maskalanmayan aparatlı kəsilməyə;
+E) xarici maskalanmayan kəsilməyə;
+A
+124.	Prosessorun maskalanmayan kəsilmə sorğusu siqnalı hansıdır? 
+A)İNTR;	
+B)İNTA;	
+C) İNTO;	
+D) NMİ;	
+E) BOUND;
+D
+125.	Kəsilməyə aid FLAGS registrində hansı bitlər vardır və nə üçün istifadə edilir?
+A) C və T bitləri vardır və onlar kəsilməyə icazə siqnalının hasil edilməsində nəzərə alınır; 
+B) İ və T bitləri vardır və onlar kəsilməyə icazə siqnalının hasil edilməsində nəzərə alınır;
+C)	İ və O bitləri vardır və onlar kəsilməyə icazə siqnalının hasil edilməsində nəzərə alınır;
+D)	İ və T bitləri vardır və onlar kəsilmədən qayıdış üşün istifadə edilir;
+E)	İ və T bitləri vardır və onlar kəsilməyə xidmət proqramında istifadə edilir ; 
+B
+126.Kompüter arxitekturunda kəsilmə vektorunun təyinatı və strukturu necədir?
+A)	stek seqmentinin başlanğıc ünvanının təyini üçündür və 4 B-dan ibarətdir ;
+B)	kəsilməyə xidmət proqramının başlanğıc ünvanının təyini üçündür və 8 B-dan ibarətdir;
+C)	kəsilməyə xidmət proqramının başlanğıc ünvanının təyini üçündür və 2 B-dan ibarətdir ;
+D)	verilənlər seqmentinin başlanğıc ünvanının təyini üçündür və 4 B-dan ibarətdir ;
+E)	kəsilməyə xidmət proqramının başlanğıc ünvanının təyini üçündür və 4 B-dan ibarətdir ; 
+E
+127.Kompüter arxitekturunda kəsilmə vektorunda hansı məlumatlar saxlanılır?
+A)	əsas proqramının yerləşdiyi seqmentin başlanğıc ünvanı və sürüşmə kodu;
+B)	kəsilməyə xidmət proqramının yerləşdiyi seqmentin başlanğıc ünvanı ;
+C)	kəsilməyə xidmət proqramının yerləşdiyi seqmentin başlanğıc ünvanı və sürüşmə kodu;
+D)	kəsilməyə xidmət proqramının yerləşdiyi seqmentin başlanğıc ünvanı və selektor kodu;
+E)	kəsilməyə xidmət proqramının yerləşdiyi stek ünvanı və sürüşmə kodu;
+C
+128.İNTEL prosessorları üçün neçə ədəd kəsilmə vektoru nəzərdə tutulmuşdur və onlardan hansılar sistemli hesab edilir?
+A)	256 ədəd kəsilmə vektoru nəzərdə tutulmuşdur və onlardan 132 ədədi sistemli hesab edilir;
+B)	256 ədəd kəsilmə vektoru nəzərdə tutulmuşdur və onlardan 0-15 ədədi sistemli hesab edilir;
+C)	128 ədəd kəsilmə vektoru nəzərdə tutulmuşdur və onlardan 0-31 sistemli hesab edilir;
+D)	256 ədəd kəsilmə vektoru nəzərdə tutulmuşdur və onlardan 0-31 ədədi sistemli hesab edilir;
+E)	56 ədəd kəsilmə vektoru nəzərdə tutulmuşdur və onlardan 0-31 ədədi sistemli hesab edilir 
+D
+129.Kəsilmə vektorları sistemli yaddaşın hansı hissəsində saxlanılır?
+A) son 1024KB-lıq sahəsində;	
+B) ilk 1024B-lıq sahəsində ;
+C) ilk 1024KB-lıq sahəsində;	
+D) ilk 1024MB-lıq sahəsində; 
+E) son 1024B-lıq sahəsində; 
+B
+130.Kompüter arxitekturunda kəsilmənin rolu nədir?
+A) cari proqramın icrasını sürətləndirmək; 
+B) xarici hadisələrə vaxtında cavab vermək;
+C) hesablama prosesini sürətləndirmək;	
+D) daxili hadisələrə vaxtında cavab vermək; 
+E) daxili və xarici hadisələrə vaxtında cavab vermək;
+E
+131.	Kompüter arxitekturunda kəsilməyə xidmət proqramı hansı alqoritmi gerşəkləşdirir ?
+A) yaddaşa müraciət alqoritmini ;	
+B) giriş-çıxış alqoritmini ;
+C) kəsilməni törədən hadisəyə cavab alqoritmini;	
+D) yaddaşa birbaşa müraciət alqoritmini ;
+E) cari proqramın icrası alqoritmini;
+C
+132.	Kəsilməyə xidmət proqramlarının sonu hansı əmrlə bitir?
+A) İRET  əmri ilə;	
+B) RETURN əmri ilə;	
+C) BOUND əmri ilə;
+D) İNT n əmri ilə;	
+E) İNTO əmri ilə; 
+A
+133.Proqramlı kəsilmə hansı əmrlərlə yerinə yetirilir?
+A) INS,İNTO,BOUND,İRET;	
+B) INTR,İNTO,BOUND,İRET;
+C) INTn,İN,BOUND,İRET;	
+D) INTn,İNTO,BOUND,İRET;
+E) INTn,İNTA,BOUND,İRET; 
+D
+134.İNT <n> əmri necə yerinə yetirilir?
+A)	2xn ünvanlı kəsilmə vektorunda verilən ünvan üzrə kəsilməyə xidmət proqramı icra edilir;
+B)	4xn ünvanlı kəsilmə vektorunda verilən ünvan üzrə kəsilməyə xidmət proqramı icra edilir;
+C)	6xn ünvanlı kəsilmə vektorunda verilən ünvan üzrə kəsilməyə xidmət proqramı icra edilir;
+D)	4xn ünvanlı kəsilmə vektorunda verilən kod yaddaşa yazılır;
+E)	n ünvanlı kəsilmə vektorunda verilən ünvan üzrə kəsilməyə xidmət proqramı icra edilir; 
+B
+135.İNTO hansı tip kəsilmədir və necə yerinə yetirilir?
+A)	şərti kəsilmə əmri olub FLAGS registrində Z biti 1 olan halda 4 saylı kəsilmə icra edilir;
+B)	şərti kəsilmə əmri olub FLAGS registrində İ biti 1 olan halda 4 saylı kəsilmə icra edilir;
+C)	şərti kəsilmə əmri olub FLAGS registrində C biti 1 olan halda 4 saylı kəsilmə icra edilir;
+D)	şərtsiz kəsilmə əmri olub FLAGS registrində O biti 1 olan halda 4 saylı kəsilmə icra edilir; 
+E) şərti kəsilmə əmri olub FLAGS registrində O biti 1 olan halda 4 saylı kəsilmə icra edilir
+E
+136.BAUND hansı tip kəsilmədir və necə yerinə yetirilir?
+A)	şərti kəsilmə əmri olub yoxlanılan ədədin qiymətinin burada göstərilən interval daxilində olduğu halda 5 saylı kəsilmə icra edilir;
+B)	şərti kəsilmə əmri olub yoxlanılan ədədin qiymətinin müsbət olduğu halda 5 saylı kəsilmə icra edilir;
+C)	şərti kəsilmə əmri olub yoxlanılan ədədin qiymətinin burada göstərilən interval daxilində olmadığı halda 5 saylı kəsilmə icra edilir;
+D)	şərtsiz kəsilmə əmri olub yoxlanılan ədədin qiymətinin burada göstərilən interval daxilində olduğu halda 5 saylı kəsilmə icra edilir;
+E)	şərti kəsilmə əmri olub yoxlanılan ədədin qiymətinin burada göstərilən interval daxilində olmadığı halda 0 saylı kəsilmə icra edilir;
+C
+137.İRET hansı tip kəsilmədir və necə yerinə yetirilir?
+A)	Şərtsiz kəsilmə olub,STEK-dən əsas proqramın vəziyyətini bərpa edərək əsas proqrama qayıdır;
+B)	Şərti kəsilmə olub,STEK-dən əsas proqramın vəziyyətini bərpa edərək əsas proqrama qayıdır;
+C)	Şərtsiz kəsilmə olub,STEK-dəki əmirləri bərpa edir və proqrama qayıdır;
+D)	Şərtsiz kəsilmə olub,STEK-ə əmirləri yazır və proqrama qayıdır;
+E)	Şərtsiz kəsilmə olub,STEK-ə verilənləri yazır və proqrama qayıdır; 
+A
+138.Proqramda kəsilmə baş verərkən hansı registrlərin məzmunu stekə köçürülür?
+A) FLAGS,İP,AX,BX registrləri;	
+B) FLAGS,İP,CX,DX registrləri;
+C) AX,BX, FLAGS registrləri;	
+D) FLAGS,İP,seqment registrləri;
+E) AX,BX registrləri;
+D
+139.Mühafizə olunan rejimdə kəsilmə deskriptorları neçə baytlıdır və yaddaşın hansı hissəsində saxlanılır?
+A) 4B-dır və yaddaşın sistemli deskriptorlar cədvəlində saxlanılır; 
+B) 8B-dır və yaddaşın giriş/şıxış sistemli sahəsində saxlanılır;
+C)	8B-dır və yaddaşın sistemli vektorlar cədvəlində saxlanılır;
+D)	2B-dır və yaddaşın sistemli deskriptorlar cədvəlində saxlanılır;
+E)	8B-dır və yaddaşın sistemli deskriptorlar cədvəlində saxlanılır 
+B
+140.İNT<n> əmrində kəsilmə vektorunun başlanğıcı necə təyin edilir?
+A) 4-n;	
+B)2xn;	
+C)8xn;	
+D) 4/n;	
+E)4xn 
+E
+141.Kompüter arxitekturunda keş yaddaşın təyinatı nədir?
+A)	giriş/çıxış əməliyyatlarının sürətini artırmaq;
+B)	CPU-da DRAM yaddaşının həcmini artırmaq;
+C)	CPU-da hesablama sürətini və effektivliyini yüksəltmək;
+D)DMA rejimini sürətləndirmək;	
+E) kəsilmələrə vaxtında cavab vermək
+C
+142.	Kompüter	arxitekturunda	keş	yaddaşın	hansı	səviyyələri	vardır	və	onlar	harada gerçəkləşdirilir?
+A)	L1 və L2,L3 səviyyələri vardır və onlar uyğun olaraq nüvələr və prosessor gövdəsi daxilində gerçəkləşdirilir;
+B)	L1,L2.L3 səviyyələri vardır və onlar çipset daxilində gerçəkləşdirilir;
+C)	L1,L2 səviyyələri vardır və onlar uyğun olaraq nüvələr və prosessor gövdəsi daxilində gerçəkləşdirilir;
+D)	L1,L2,L3,L4 səviyyələri vardır və onlar uyğun olaraq nüvələr və prosessor gövdəsi daxilində gerçəkləşdirilir;
+E)	L1 səviyyəsi vardır və nüvə daxilində gerçəkləşdirilir
+A
+143.	Kompüter arxitekturunda L1 keş yaddaşın həcmi nə qədər ola bilər? 
+A) 16/32Kb;   
+B) 16/32MB;	
+C) 16/32GB;	
+D) 16/32KB; 
+E) 4GB
+D
+144.	Kompüter arxitekturunda L2 keş yaddaşın həcmi hansı vahidlərlə ölçülür?
+A)  Mb ;	
+B) MB;	
+C) GB  ;	
+D) Kb;	
+E) B
+E
+145.	Kompüter arxitekturunda L3 keş yaddaşın həcmi nə qədər ola bilər? 
+A) < 1MB ; 
+B) < 4KB; 
+C) ≥ 4GB; 
+D) < 32KB; 
+E) ≥ 8MB
+B
+146.	Kompüter arxitekturunda keş yaddaşın ümumi daxili strukturu hansı hissələrdən ibarətdir?
+A) ünvan  və əmr kodundan ;	
+B) Tag və əlamət bitlərindən;
+C) Tag  və məlumat sətirləri;	
+D) əməliyyat kodu və məlumat sətirləri; 
+E) bufer və idarəedici 
+C
+147.Kompüter arxitekturunda keş yaddaşın Tag hissəsində hansı məlumat saxlanılır?
+A)	keşləşdirilən RAM bloku yaddaşı haqda məlumat;
+B)	keşləşdirilməyən RAM bloku yaddaşı haqda məlumat;
+C)	bufer və idarəedici məlumatlar; 
+D)əməliyyat kodu və məlumat sətirləri;
+E) ünvan və əmr kodları ;
+A
+148.	Kompüter arxitekturunda keş yaddaşın sətirlərində hansı məlumat saxlanılır?
+A) keşləşdirilməyən RAM blokları;	
+B) SRAM yaddaşı blokları haqda məlumat;
+C) bufer və idarəedici məlumatlar;	
+D) keşləşdirilən RAM blokları;
+E) əməliyyat kodu və məlumat sətirləri
+D
+149.	Kompüter arxitekturunda keş yaddaşın sətirləri hansı həcmdə ola bilər?
+A) 16MB ; 
+B) 4KB; 
+C) 32KB; 
+D) 16KB-256KB ; 
+E) 16B-256B;
+E
+150.	Kompüter arxitekturunda keş yaddaşa hər müraciət zamanı nə qədər məlumat oxunub/yazıla bilər?
+A) 4B;	
+B) tam keş sətri qədər;	
+C)10B;	
+D) keş sətirləri hissələri qədər; 
+E) 2B; 
+B
+151.USART interfeysinin asinxron iş rejimin əsas üstünlüyü nədir?
+A)	verilənlərin ötürülməsi 1 ədəd xətlə olur və maniyələrin ötürülməsi imkanı artır;
+B)	verilənlərin ötürülməsi 1 ədəd xətlə olur və verilənlər sinxronlaşdırma siqnalları ilə müşayət edilir;
+C)	verilənlərin ötürülməsi 1 ədəd xətlə olur və sinxronlaşdırma siqnalları tələb edilmir ;
+D)	verilənlərin ötürülməsi 2 ədəd xətlə olur və differensial siqnallar istifadə edilir;
+E)	verilənlərin ötürülməsi 2 ədəd xətlə olur və adi rəqəmsal siqnallar istifadə edilir; 
+C
+152.USART interfeysinin sinxron iş rejimin üstünlüyü nədir?
+A)	təsadüfi məlumatın ötürülməsi imkanı azalır;
+B)	verilənlərin ötürülməsi sürəti sinxronlaşdırma siqnalları tezliyindən asili olmur;
+C)	verilənlərin ötürülməsi üçün əlavə xətt tələb edilmir ;
+D)	maniyələrin ötürülməsi imkanı artır;
+E)	verilənlərin ötürülməsi üçün differensial siqnallar istifadə edilir 
+A
+153.USART interfeysinin asinxron iş rejimin çatışmayan cəhəti nədir?
+A)	verilənlərin ötürülməsi üçün əlavə xətlər tələb edilir;
+B)	maniyələrin ötürülməsi imkanı yoxdur ;
+C)	verilənlərin ötürülməsi üçün 2 əlaqə xətti tələb edilir ; 
+D) təsadüfi məlumatın ötürülməsi imkanı vardır;
+E) verilənlərin ötürülməsi üçün  4  əlaqə xətti tələb edilir 
+D
+154.USART interfeysinin kontrollerində CS siqnalının təyinatı nədir?
+A)	USART kontrollerini istifadəçi proqramı tərəfindən proqramlanması üçün aktivləşdirir;
+B)	USART kontrollerinin ötürücü rejimini aktivləşdirir;
+C)	USART kontrollerinin qəbuledici rejimini aktivləşdirir;
+D)	USART kontrollerinin sinxronlaşdırılması üçündür;
+E)	USART kontrollerini MP tərəfindən proqramlanması üçün aktivləşdirir; 
+E
+155.USART interfeysinin kontrollerində TxE siqnalının təyinatı nədir?
+A) USART kontrollerinin ötürücü blokunu sinxronlaşdırır; 
+B) USART kontrollerinin ötürücü rejiminə icazə verir ;
+C)	USART kontrollerini MP tərəfindən proqramlanması üçün aktivləşdirir;
+D)	USART kontrollerinin qəbuledici rejiminə icazə verir;
+E)	USART kontrollerində ötürücü blokun məlumatı ötürməyə hazır olduğunu göstərir; 
+B
+156.USART interfeysinin kontrollerində RxRDY siqnalının təyinatı nədir?
+A)	USART kontrollerinin qəbuledici rejiminə icazə verir;
+B)	USART kontrollerinin ötürücü rejiminə icazə verir ;
+C)	USART kontrollerində qəbuledici blokun məlumatı qəbul etməyə hazır olduğunu göstərir;
+D)	USART kontrollerinin ötürücü blokunu sinxronlaşdırır;
+E)	USART kontrollerində ötürücü blokun məlumatı qəbul etməyə hazır olduğunu göstərir 
+C
+157.Universal kommunikasiya interfeysinin təyinatı nədir?
+A)	uzaq məsafədən məlumatın ardıcıl ötürülməsi üçün;
+B)	uzaq məsafədən məlumatın paralel ötürülməsi üçün;
+C)	uzaq məsafədən məlumatın ardıcıl-paralel ötürülməsi üçün;
+D)	analoq siqnallarının ötürülməsi üçün;
+E)	Sin-dal siqnallarının ötürülməsi üçün
+A
+158.	USART interfeysi məlumatı hansı rejimlərdə ötürə bilər?
+A) tam dupleks;	
+B) Master-Slave ; 
+C) paralel-ardıcıl;	
+D) asinxron və sinxron; 
+E) Multi- Master
+D
+159.	USART interfeysində məlumatın sinxron rejimdə ötürülməsi üçün hansı əlaqə xətlərindən istifadə edilir?
+A) ünvan xətti,sinxro siqnallar xətti; 
+B) paralel verilənlər xətti,sinxro siqnallar xətti ;
+C)	ardıcıl verilənlər xətti,ünvan xətti;
+D)	ardıcıl verilənlər xətləri; 
+E) ardıcıl verilənlər xətti,sinxro siqnallar xətti ; 
+E
+160.USART interfeysində məlumatın bitləri hansı siqnallarla ötürülür?
+A) differensial adi siqnallarla; 
+B) mişarvari siqnallarla; 
+C) adi siqnallarla;
+D) Sin-dal siqnallarla; 
+E) xətti dəyişən siqnallarla;
+C
+161.	USART interfeysi kontrollerində verilənlərin ötürülməsi və qəbulu üçün siqnallar hansılardır?
+A) RxD -verilənlərin ötürülməsi çıxışı və TxD - verilənlərin qəbulu girişi; 
+B) TxD -verilənlərin ötürülməsi çıxışı və RxD- verilənlərin qəbulu girişi ;
+C)	TxC verilənlərin ötürülməsi çıxışı;
+D)	RxC - verilənlərin qəbulu girişi;
+E)	TxRDY verilənlərin ötürülməsi çıxışı və RxRDY- verilənlərin qəbulu girişi;
+B
+162.	USART interfeysi kontrollerində məlumat mübadiləsinin əsas funksional blokları hansılardır?
+A) verilənlər buferi ;	
+B) modemin idarəsi bloku ;	
+C)idarəedici blok; 
+D) ötürücü və qəbuledici bloklar;	
+E) sinxronlaşdırma bloku
+D
+163.	USART interfeysində məlumatın asinxron rejimdə ötürülməsi üçün hansı əlaqə xətlərindən istifadə edilir?
+A)	verilənlərin ardıcıl ötürüldüyü 2 ədəd xətlərdən ;
+B)	verilənlərin ardıcıl- paralel ötürüldüyü 1 ədəd xətdən ;
+C)	verilənlərin paralel ötürüldüyü 1 ədəd xətdən ; 
+D) verilənlərin ardıcıl ötürüldüyü 1 ədəd xətdən ;
+E) verilənlərin ardıcıl ötürüldüyü 4 ədəd xətlərdən ;
+D
+164.	USART interfeysində asinxron rejimdə ötürülən verilənlər ardıcıllığından əvvəl hansı siqnal ötürülür ?
+A) Start siqnalı;   
+B) CLK siqnalı;	
+C) Stop siqnalı;  
+D) EOP siqnalı;	
+E) DRQ siqnalı;
+A
+165.	USART interfeysində asinxron rejimdə ötürülən verilənlər ardıcıllığından sonra hansı siqnal ötürülür ?
+A) Start siqnalı; 
+B) İNTR siqnalı; 
+C) Stop siqnalı; 
+D) NMİ siqnalı; 
+E) İNTA siqnalı;
+C
+166.	USART interfeysində asinxron rejimdə ötürülən verilənlər ardıcıllığı hansl siqnallarla müşayət edilir?
+A) EOP və İNTR siqnalları ilə;	
+B) İNTR və CLK siqnalları ilə;	
+C) siqnallarla müşayət edilmir ;	
+D) DRQ və Stop siqnalları ilə;	
+E) Start və Stop
+E
+167.	OUTS əmirlərində RAM oyuğu ünvanının harada göstərildiyi nəzərdə tutulur?
+A) (EF:Dİ) registrlər cütlüyündə;	
+B) (ES:Dİ) registrlər cütlüyündə;
+C) (ES:Sİ) registrlər cütlüyündə ;	
+D)DX registrində;	
+E)(AX :DX) registrlər cütlüyündə; 
+C
+168.INS əmirlərində RAM oyuğu ünvanının harada göstərildiyi nəzərdə tutulur?
+A) (ES:Dİ) registrlər cütlüyündə;	
+B) (AX:BX) registrlər cütlüyündə
+C) (BP:Dİ) registrlər cütlüyündə;	
+D) DX registrində; 
+E) (AX :DX) registrlər cütlüyündə 
+A
+169.INS/OUTS əmirləri hansı bloklar arasında məlumatın ötürülməsi üçündür?
+A) RAM oyuqları ilə CPU arasında; 
+B) RAM oyuqları ilə akkumulyator arasında;
+C) giriş/çıxış portları arasında; 
+D) RAM oyuqları ilə giriş/çıxış portları arasında;
+E) giriş/çıxış portları ilə HD arasında
+D
+170.	USB dəstəkli qurğuların neçə iş rejimi vardır? 
+A) 4;	
+B) 2;	
+C) 7;	
+D) 6;	
+E) 1
+B
+171.	USB interfeysli qurğuların qoşulma topologiyası necədir?
+A) Ağac;	
+B) Halqavari;	
+C) Ağac- Zəncir;	
+D) Ulduz;	
+E) Zəncir; 
+A
+172.PCİ Express dəstəkli qurğular arasında əlaqə hansı tipdə qurulur?
+A) magistral ;		
+B) ümumi şinli;	
+C) Nöqtə- Nöqtə və magistral 
+D) Nöqtə- Nöqtə;	
+E) master-Slave;
+D
+173.	PCİ Express interfeysində məlumat xətlərində hansı tip siqnallar istifadə edilir ? 
+A)Sin-dal ; 
+B) differensial;	
+C) adi  ;	
+D) differensial və adi ; 
+E) adi və Sin-dal;
+B
+174.	Müasir fərdi kompüterin ana kartı üzərində hansı interfeysli genişlənmə bağlantıları istifadə edilir?
+A) PCİ və PCİ Express;	
+B) PCİ və SATA  ;	
+C) PCİ Express və SATA   ; 
+D) PCİ;	
+E) ATA və PCİ
+A
+175.	PCİ Express interfeysinin hansı fərqli cəhəti ümumi magistrala xas olan tıxac problemini həll edə bilər?
+A)	qurğular arasında Master -Slave rejimində əlaqənin yaradılması ;
+B)	qurğular arasında əlaqənin zamana görə ardıcıl olaraq yaradılması;
+C)	qurğular arasında Nöqtə- Nöqtə rejimində əlaqənin yaradılması;
+D)	qurğular arasında əlaqənin DMA rejimində qurulması;
+E)	qurğular arasında əlaqənin ümumi magistral üzrə qurulması;
+C
+176.	USB kabelində neçə ədəd məlumat xətləri var və hansı tip siqnallar ötürülür ?
+A) 4 ədəd məlumat xətti var və differinsial siqnallar ötürülür; 
+B) 2 ədəd məlumat xətti var və differinsial siqnallar ötürülür;
+C)	4 ədəd məlumat xətti var və adi siqnallar ötürülür;
+D)	4 ədəd məlumat xətti var və sinisoidal siqnallar ötürülür;
+E)	6 ədəd məlumat xətti var və differinsial siqnallar ötürülür 
+B
+177.USB 2.0 hansı rejimdə işləyir ?
+A) Tam dupleks; 
+B) Sinxron;	
+C) Asinxron; 
+D) Yarı dupleks; 
+E) Sinxron -Asinxron 
+D
+178.USB kabelində 2 əədəd məlumat naqilinin olması nə ilə izah edilir?
+A) Tam dupleks rejimdə işləməsi ilə;	
+B) Asinxron rejimdə işləməsi ilə;
+C) DMA rejimdə işləməsi ilə;	
+D) Yarı dupleks rejimdə işləməsi ilə;
+E) Kəsilmə rejimdə işləməsi ilə
+D
+179.	PCİ interfeysi neçə bitlidir və hansı tezliklərdə işləyə bilər?
+A) 64 bitli  və 66MHs tezlikdə;	
+B) 64 bitli və 33/66MHs tezlikdə;
+C) 32bitli  və 33/66MHs tezlikdə;	
+D) 32/64 bitli və 66MHs tezlikdə; 
+E) 32/64 bitli və 33/66MHs tezlikdə ;
+E
+180.	Fərdi kompüterdə PCİ interfeysi bağlantısına əsasən hansı kartlar qoyula bilər?
+A) DDR modulları kartı;	
+B) şəbəkə/DİMM kartları ;	
+C) Səs/şəbəkə/modem kartları;
+D) video kart	
+E) modem/video kartları ;
+C
+181.	PCİ şininin əsas mənfi xüsusiyyəti nədir?
+A)	məlumatın ardıcıl ötürülməsi;
+B)	digər periferiya interfeysləri üçün ümumi magistral olması; 
+C) məlumatın ardıcıl-paralel ötürülməsi;
+D)	şəbəkə texnologiyasını dəstəkləməsi;
+E)	differensial siqnalların istifadə edilməsi;
+C
+182.	Pentium təməlli və müasir kompüterlərdə video adapter üçün hansı interfeyslər olmuşdur?
+A) AGP və PCİ Exp.X16 ;	
+B) PCİ ;	
+C) AGP ;	
+D) ATA ;	
+E) SATA;
+A
+183.	PCİ Express interfeysinin təyinatı nədir?
+A) video adapter  və HD interfeysi;	
+B) genişlənmə kartları üçün; 
+C) video adapter interfeysi və genişlənmə kartları üçün interfeys;
+D) video adapter interfeysi;	
+E) genişlənmə kartları və CD  üçün;
+C
+184.	PCİ Express interfeysində məlumat hansı üsulla ötürülür?
+A) ardıcıl ;	
+B) ardıcıl-paralel;	
+C) paralel ; 
+D) asinxron;	
+E) yarı-dupleks; 
+B
+185.PCİ Express interfeysində əlaqə xətlərinin sayı neçə ola bilər?
+A) 1/4/8/16/32 bit; 
+B) 16/32 bit ; 
+C) 1/4/8/16/32 bayt ; 
+D) 4/8 bit ;
+E) 1/4 bayt;
+A
+186.İDE/ATA interfeysinin təyinatı nədir və hansı formatlarda məlumatı ötürür?
+A)	Disk qurğuları interfeysidir və 32/64bitli formatlarda məlumatı ötürür;
+B)	Disk qurğuları interfeysidir və 16/32 bitli formatlarda məlumatı ötürür;
+C)	Video interfeysidir və 32 bitli formatlarda məlumatı ötürür ; 
+D) Disk qurğuları interfeysidir və 16 bitli formatlarda məlumatı ötürür; 
+E)Yaddaş interfeysidir və 64 bitli formatlarda məlumatı ötürür;
+D
+187.İDE/ATA interfeysində məlumatın ötürülməsinin hansı üsulu istifadə edilir ?
+A) sinxron;   
+B) paralel;	
+C) paralel-ardıcıl ;	
+D) asinxron;	
+E) ardıcıl ; 
+B
+188.İDE/ATA hansı rejimlərdə işləyir?
+A) PIO və Multi-Word DMA;	
+B) kəsilmə və Multi-Word DMA;
+C) DMA və Multi-Word  DMA;   
+D) DMA və single-Word DMA;	
+E) DMA və kəsilmə; 
+C
+189.ATA/İDE-nin əsas çatışmayan cəhəti nə olmuşdur?
+A)	kabelindəki 80 ədəd naqillər arasındakı qarşılıqlı təsir yüksək tezliklərdə maniyələrə səbəb olur;
+B)	kabelindəki 80 ədəd naqillər arasındakı qarşılıqlı təsir yüksək tezliklərdə siqnalın gücünü azaldır;
+C)	kabelindəki 50 ədəd naqillər arasındakı qarşılıqlı təsir yüksək tezliklərdə maniyələrə səbəb olur;
+D)	kabelindəki azsaylı naqillərin olması yüksək tezliklərdə maniyələrə səbəb olur;
+E)	qoşulan qurğularən sayının az olması;
+A
+190.	SATA interfeysinin təyinatı nədir və ATA/İDE-dən necə fərqlənir?
+A)HD qurğuları interfeysidir və məlumatın paralel ötürməsi,sürətin yüksək olması ilə ATA/İDE- dən fərqlənir;
+B)	Video qurğuları interfeysidir və məlumatın ardıcıl ötürməsi,sürətin yüksək olması ilə ATA/İDE- dən fərqlənir;
+C)	CD qurğuları interfeysidir və məlumatın ardıcıl ötürməsi,sürətin yüksək olması ilə ATA/İDE- dən fərqlənir;
+D)	HD qurğuları interfeysidir və məlumatın ardıcıl ötürməsi,sürətin aşağı olması ilə ATA/İDE- dən fərqlənir;
+E)	HD qurğuları interfeysidir və məlumatın ardıcıl ötürməsi,sürətin yüksək olması ilə ATA/İDE- dən fərqlənir;
+E
+191.	SATA interfeysinın üstün cəhəti nədir?
+A)	kabelindəki çoxsaylı naqillər arasında qarşılıqlı təsirin olmaması işçi tezliyi artırmağa imkan verir;
+B)	kabelindəki azsaylı naqillər arasında qarşılıqlı təsirin olmaması işçi tezliyi azaltmağa imkan verir ;
+C)	kabelindəki azsaylı naqillər arasında qarşılıqlı təsirin olmaması tam dupleks rejimində işləməyə imkan verir;
+D)	kabelindəki azsaylı naqillər arasında qarşılıqlı təsirin olması işçi tezliyi artırmağa imkan verir
+E)	kabelindəki azsaylı naqillərin olması tam dupleks rejimində işləməyə imkan verir;
+B
+192.	SATA interfeysində bitlərin ötürülməsində hansı siqnallar istifadə olunur və hansı rejimi dəstəkləyir?
+A)	adi siqnallar istifadə olunur və tam dupleks rejimi dəstəkləyir;
+B)	SİN-dal siqnallar istifadə olunur və tam dupleks rejimi dəstəkləyir;
+C)	differensial siqnallar istifadə olunur və yarı dupleks rejimi dəstəkləyir; 
+D) differensial siqnallar istifadə olunur və tam dupleks rejimi dəstəkləyir;
+E) differensial siqnallar istifadə olunur və DMA rejimi dəstəkləyir;
+D
+193.	SATA kabelində neçə ədəd məlumat xətləri vardır və onların təyinatı necədir?
+A)	4 ədəd məlumat xətləri 2 cüt olmaqla məlumatın eyni zamanda 2 istiqamətli ötürməsi üçündür, hər bir cüt isə adi siqnallar üçün istifadə olunur;
+B)	4 məlumat xətləri 2 cüt olmaqla məlumatın eyni zamanda 2 istiqamətli ötürməsi üçündür
+C)	4 ədəd məlumat xətləri 2 cüt olmaqla məlumatın eyni zamanda 2 istiqamətli ötürməsi, hər bir cüt isə differensial siqnalların ötürməsi üçün istifadə olunur;
+D)	6 ədəd məlumat xətləri 3 cüt olmaqla məlumatın eyni zamanda 2 istiqamətli ötürməsi üçündür, hər bir cüt isə differensial siqnallar üçün istifadə olunur;
+E)	2 ədəd məlumat xətləri differensial siqnallar üçün istifadə olunur 
+C
+194.SCSİ interfeysinin təyinatı nədir və neçə bitli məlumatı ötürə bilər?
+A)	Skaner və xarici HD qurğularının şəbəkə şəklində əlaqələndirilməsi üçündür və 8bitli rejimdə tətbiq edilir;
+B)	daxili HD qurğularının şəbəkə şəklində əlaqələndirilməsi üçündür və 16 bitli rejimdə tətbiq edilir;
+C)	Skaner və xarici HD qurğularının şəbəkə şəklində əlaqələndirilməsi üçündür və 16 bitli rejimdə tətbiq edilir;
+D)	Skaner və xarici HD qurğularının şəbəkə şəklində əlaqələndirilməsi üçündür və 8/16 bitli rejimlərdə tətbiq edilir;
+E)	HD qurğuları üçündür və 16 bitli rejimdə tətbiq edilir 
+D
+195.Müasir HD qurğusunda hansı bağlantılar nəzərdə tutulub?
+A) güc ,SATA interfeysi bağlantıları və MASTER/SLAVE jamperləri; 
+B) güc və SATA interfeysi bağlantıları;
+C)	güc ,ATA interfeysi bağlantıları və MASTER/SLAVE jamperləri;
+D)	SATA interfeysi bağlantısı və MASTER/SLAVE jamperləri;
+E)	ATA interfeysi bağlantısı və MASTER/SLAVE jamperləri
+B
+196.LGA konstruksiyalı prosessor interfeyslərinin fərqli cəhəti və üstünlükləri nədir?
+A)	2 sırada yerləşən dəliklərdən ibarət yuva şəklindədir və üstünlüyü mexaniki cəhətdən etibarlığınin yüksək olmasıdır;
+B)	matris üzrə yerləşən silindr şəkilli kontaktlardan istifadə olunur və mexaniki cəhətdən etibarlığı yüksəkdir, CPU pinlərinin kontakt sahələrinin böyük olması siqnalların gücünü azaldır;
+C)	matris şəklində yerləşən dəliklərdən ibarət yuva şəklindədir və üstünlüyü iynəvaripinlərin az güc sırf etməsidir;
+D)	matris üzrə yerləşən silindr şəkilli kontaktlardan istifadə olunur və mexaniki cəhətdən etibarlığı yüksəkdir, CPU pinlərinin kontakt sahələrinin böyük olması siqnalların gücünü artırır;
+E) 	2 sırada yerləşən silindr şəkilli kontaktlardan istifadə olunur və mexaniki cəhətdən etibarlığı
+D
+197.Müasir kompüterlərdə hansı prosessor interfeyslərindən istifadə olunur?
+A) PGA 9XX tipli soketlərdən;	
+B) LGA 1XX tipli soketlərdən;
+C)  PPGA 9XX tipli  soketlərdən;
+D) SPGA 9XX tipli soketlərdən; 
+E) LGA 10x/11x tipli soketlərdən;
+E
+198.Ana kartın üzərində hansı interfeysləri görmək olar?
+A)	Prosessor interfeysi, sistemli PCİ şini və inteqrə edilmiş periferiya interfeysləri;
+B)	Prosessor interfeysi, FSB şini,video interfeys,yaddaş kanalı interfeysi,sistemli PCİ şini və inteqrə edilmiş periferiya interfeysləri;
+C)	Prosessor interfeysi, video interfeys, yaddaş kanalı interfeysi, sistemli PCİ və PCİ Ex şinləri və periferiya interfeysləri;
+D)	Prosessor interfeysi,sistemli şin interfeysi,video interfeys;
+E)	FSB şini, yaddaş kanalı interfeysi,sistemli PCİ şini və inteqrə edilmiş periferiya interfeysləri; 
+C
+199.Kompüterin ana kartında prosessor interfeysinin təyinatı nədir və hansı tipləri
+A)	Prosessorların xarici şinləri ilə giriş/çıxış portları arasında əlaqə yaratmaq üçündür və Soket və Slot kimi tipi olmuşdur;
+B)	Prosessorların xarici şinləri ilə digər periferiya qurğuları arasında əlaqə yaratmaq üçündür və Soket                    və                    Slot                    kimi                     tipi                    olmuşdur; 
+C) Prosessorların xarici şinləri ilə digər qurğular arasında əlaqə yaratmaq üçündür və Soket və Slot kimi tipi olmuşdur;
+D)Disk quröuları ilə prosessor arasında əlaqə yaratmaq üçündür və Soket və Slot kimi tipi olmuşdur;
+E) Prosessorların xarici şinləri ilə digər qurğular arasında əlaqə yaratmaq üçündür və Slot tipi olmuşdur
+C
+200.	Prosessor interfeyslərində digər qurğularla əlaqə üçün hansı şinlərdən istifadə olunur?
+A) CPU-nun verilənlər şinindən ;	
+B) CPU-nun ünvan şinindən;
+C) CPU-nun idarəedici şinindən;	
+D) CPU-nun verilənlər,ünvan şinlərindən; 
+E) CPU-nun verilənlər,ünvan və idarəedici şinlərindən ibarət FSB ilə;
+E
+201.	Müasir CPU interfeysində hansı tipdə kontaktlar istifadə edilir?
+A) silidr şəkilli kontaktlar ;	
+B) iynəvari kontaktlar üçün yuvalar;	
+C) lentvari kontaktlar;
+D) iynəvari və lentvari kontaktlar; 
+E) iynəvari kontaktlar;
+A
+202.çoxnüvəli prosessorlar üçün hansı interfeysləri vardır?
+A) LGA 775-dən başlayaraq; 
+B) LGA 10xx-dən başlayaraq ;
+C)	GGA 7xx-dən başlayaraq ;
+D)	PPGA 7xx-dən başlayaraq;
+E)	PGA 6xx-dən başlayaraq ;
+B
+203.32 bitli prosessorların ilk nəslində CPU interfeysi kimi hansı soketlər tətbiq edilmişdir?
+A)	iynəvari pinləri bir səthdə yerləşən PGA;
+B)	gövdələr iynəvari pinli DİP gövdələr;
+C)	iynəvari pinləri perimetr boyunca yerləşən PLCC gövdələr;
+D)	silindrik kontaktları bir səthdə yerləşən PGA gövdələr;
+E)	lentvari pinləri perimetr boyunca yerləşən TCP gövdələr;
+A
+204.	Kompüter üçün interfeys protokollarında hansı məlumatlar öz əksini tapır?
+A)	Məlumatın ötürülməsi müddəti, rejimi,sürəti;
+B)	Məlumatın ötürülməsi üsulu;
+C)	Məlumatın bit sayı, ötürülməsi üsulu,rejimi,sürəti;
+D)	Məlumatın ötürülməsi üsulu,rejimi,sürəti,ötürücü mühit;
+E)	Məlumatın ötürülməsi sürəti;
+C
+205.	Məlumatın ardıcıl və paralel ötürülməsinin fərqi nədir?
+A) Ardıcıl ötürmədə məlumattın bitləri eyni zamanda, paralel ötürmədə isə ardıcıl ötürülür ;   
+B) Ardıcıl ötürmədə məlumatın bitləri zamana görə ardıcıl,paraleldə isə eyni zamanda ötürülür;
+C)	Məlumatın ardıcıl ötürülməsi sinxron, paralel ötürməsi isə asinxron rejimdə aparılır;
+D)	Ardıcıl ötürmə yarı dupleks, paralel ötürməsi isə tam dupleks rejimdə aparılır ;
+E)	Məlumatın ardıcıl və paralel ötürülməsinin fərqi yoxdur;
+B
+206.	Müasir interfeyslərdə məlumatın ötürülməsinin ,əsasən hansı üsulu istifadə edilir?
+A) Ardıcıl və ardıcıl-paralel;	
+B) Asinxron;	
+C) Paralel;
+D) Ardıcıl və paralel;	
+E) Sinxron
+A
+207.	Paralel interfeyslərdə məlumatın faktik ötürmə tezliyi hansı səbəbdən və necə dəyişir?
+A)	dəyişmir;
+B)	çoxsaylı əlaqə xətləri arasında qarşılıqlı təsir orta səviyyədə olduğundan işçi tezlik artırıla bilər;
+C)	çoxsaylı əlaqə xətləri arasında qarşılıqlı təsirin aşağı olması səbəbindən işçi tezlik məhdudlaşmır;
+D)	çoxsaylı əlaqə xətləri arasında qarşılıqlı təsirin yüksək olması səbəbindən işçi tezlik məhdudlaşır;
+E)	azsaylı əlaqə xətləri arasında qarşılıqlı təsir olmadığından işçi tezlik artır;
+D
+208.	Kompüterdə DMA rejimi üçün CPU-nun xarici şinlərindən istifadə edildiyi halda bu şinlər hansı quruğu tərəfindən idarə edilir?
+A)  CPU və DMA kontrolleri ;	
+B) CPU ;	
+C) DMA kontrolleri ;
+D) kəsilmə kontrolleri;	
+E) RAM kontrolleri;
+C
+209.	Kompüterdə DMA intervalı bitdikdən sonra CPU-nun xarici şinləri hansı qurğulara qaytarılır və bu rejim necə adlanır?
+A)	CPU-a qaytarılır və bu ,normal rejim adlanır ;
+B)	kəsilmə kontrollerinə qaytarılır və bu ,normal rejim adlanır;
+C)	DMA kontrollerinə  qaytarılır və  bu ,normal rejim adlanır;
+D)	RAM  kontrollerinə qaytarılır və  bu ,normal rejim adlanır;
+E)	CPU-a qaytarılır və bu ,qeyri-normal rejim adlanır;
+A
+210.	Kompüterdə DMA rejimində məlumat blokları hansı şinlər vasitəsilə və hansı qurğular arasında ötürülür?
+A)	CPU-nın xarici şinləri,yaxud özəl DMA kanalları vasitəsilə RAM ilə giriş/çıxış qurğuları arasında ötürülür;
+B)	özəl DMA kanalları vasitəsilə RAM ilə giriş/çıxış qurğuları arasında ötürülür; 
+C) CPU-nın xarici şinləri vasitəsilə RAM ilə giriş/çıxış qurğuları arasında ötürülür;
+D)	RAM-nın xarici şinləri,yaxud özəl DMA kanalları vasitəsilə RAM ilə giriş/çıxış qurğuları arasında ötürülür ;
+E)	CPU-nın daxili şinləri,yaxud özəl DMA kanalları vasitəsilə RAM ilə giriş/çıxış qurğuları arasında ötürülür
+C
+211.	DMA kontrollerinin A(0-7) pinlərinin təyinatı nədir və DMA rejimində necə istifadə olunur?
+A)	MP-nin ünvan şininə bağlanılır və giriş/çıxış qurğusuna müraciət zamanı ünvan kodunu ötürür;
+B)	MP-nin ünvan şininə bağlanılır və yaddaşa müraciət zamanı cari RAM ünvanını ötürür ;
+C)	MP-nin idarəedici şininə bağlanılır və yaddaşa müraciət zamanı cari RAM ünvanını ötürür ; 
+D) MP-nin verilənlər şininə bağlanılır və yaddaşa müraciət zamanı cari RAM ünvanını ötürür ;
+E) Kəsilmə kontrollerinin	ünvan  şininə bağlanılır və	yaddaşa müraciət zamanı cari RAM ünvanını ötürür ;
+D
+212.	Kompüterdə komnukasiya interfeysinin təyinatı nədir?
+A) yaxın məsafədən məlumatın ardıcıl ötürülməsi üçün; 
+B) uzaq məsafədən məlumatın ardıcıl ötürülməsi üçün;
+C)	uzaq məsafədən məlumatın paralel ötürülməsi üçün ;
+D)	uzaq məsafədən məlumatın ardıcıl-paralel ötürülməsi üçün;
+E)	yaxın məsafədən məlumatın ardıcıl-paralel ötürülməsi üçün; 
+B
+213.Məlumatın ardıcıl ötürülməsi hansı rejimlərdə tətbiq edilə bilər?
+A) sinxron və asinxron;	
+B) sinxron və adi siqnallı; 
+C) sinxron - asinxron;
+D) sinxron və diferensial siqnallı; 
+E) asinxron,yarı-dupleks; 
+A
+214.Sinxron ötürmə zamanı ötürülən məlumat nə ilə müşayət edilir?
+A) Start siqnalı ilə;   
+B) Stop siqnalı ilə;	
+C) sinxronlaşdırıcı siqnallarla ;
+D) sinxronlaşdırıcı və Start siqnallarla;	
+E) cütlük əlaməti siqnalı ilə;
+C
+215.Məlumatın ardıcıl ötürməsini gerçəkləşdirən üniversal interfeys necə adlanır və hansı rejimlərdə işləyə bilər ?
+A) CAN ;	
+B) İİC;	
+C) SPİ;	
+D) UART;	
+E) USART; 
+E
+216.USART interfeysinin təyinatının açıqlaması necədir?
+A)	Universal Asinxron-Sinxron paralel interfeys;
+B)	Universal Sinxron ardıcıl interfeys;
+C)	Universal Asinxron ardıcıl interfeys;
+D)	Universal Sinxron -Asinxron qəbuledici-ötürücü;
+E)	İxtisaslaşmış Asinxron-Sinxron ardıcıl interfeys
+D
+217.	DMA rejiminin gerçəkləşməsi üçün CPU-nun hansı əsas siqnalları vardır ? 
+A) HOLD,HLDA;	
+B) İNT, HLDA;	
+C) HOLD,NMİ;
+D) HOLD,İOWR;	
+E) MWR, HLDA;
+A
+218.	DMA rejimində məlumatın ötürülməsi hansı kanallarla yerinə yetirilir?
+A) CPU-nın xarici şinləri;	
+B) özəl DMA kanalları;
+C) CPU-nın xarici şinləri,yaxud özəl DMA kanalları;	
+D) CPU-nın daxili şinləri;
+E) CPU-nın daxili şinləri,yaxud özəl DMA kanalları;
+C
+219.	CPU-nun xarici şinlərindən istifadə etməklə yerinə yetirilən DMA rejimində CPU- nun funksiyası nədir və digər qurğularla əlaqəsi saxlanılırmı ?
+A)    CPU    işini    dayandırır     və     digər     qurğularla     əlaqəsi     kəsilir; 
+B) daxili hesablamaları yerinə yetirir və digər qurğularla qismən əlaqə saxlayır;
+C)	daxili hesablamaları yerinə yetirir və digər qurğularla əlaqə saxlayır;
+D)	yalnız daxili hesablamaları yerinə yetirir və digər qurğularla əlaqəsi kəsilir ;
+E)	yalnız daxili hesablamaları yerinə yetirir və digər qurğularla əlaqəsi qalır;
+B
+220.Özəl DMA kanallarının istifadə edilməsinin üstünlüyü və çatışmayan cəhəti nədir?
+A)	hesablama gücü artır,lakin məlumat mübadiləsi sürəti azalır;
+B)	məlumat mübadiləsi sürəti artır,lakin hesablama gücü azalır ;
+C)	məlumat mübadiləsi ilə eyni zamanda CPU-nın digər qurğularla əlaqəsi kəsildiyindən sistemin ümumi sürəti azalır və əlavə DMA kanalları tələb edilir;
+D)	məlumat mübadiləsi müxtəlif zamanda CPU-nın digər qurğularla əlaqəsi kəsilmədiyindən sistemin ümumi sürəti artır ,lakin əlavə DMA kanalları tələb edilir;
+E)	məlumat mübadiləsi ilə eyni zamanda CPU-nın digər qurğularla əlaqəsi kəsilmədiyindən sistemin ümumi sürəti artır,lakin əlavə DMA kanalları tələb edilir
+E
+221.	DMA kontrollerinin funksiyası nədir?
+A)	məlumat mübadiləsini təşkil edir;
+B)	DMA rejiminə icazə verir və məlumat mübadiləsini təşkil edir;
+C)	DMA tələbi haqda CPU-ya məlumat verir;
+D)	DMA tələbi haqda CPU-ya məlumat verir və məlumat mübadiləsini təşkil edir ;
+E)	DMA rejiminin başlanğıcını və sonunu müəyyən edir
+D
+222.	DMA rejimləri üçün zaman intervallarının istifadə edilməsində məqsəd nədir?
+A)	Digər DMA tələblərini təxirə salmaq və CPU-nın normal iş rejiminə tezliklə qayıtmasını təmin etmək;
+B)	Digər DMA tələblərinə vaxtında cavab vermək və CPU-nın normal iş rejiminə qayıtmasını təmin etmək;
+C)	Digər DMA tələblərinə vaxtında cavab vermək və CPU-nın normal iş rejimini təxirə salmaqdır;
+D)	Hər bir DMA tələbi üzrə məlumat mübadiləsini sona qədər yerinə yetirməkdir;
+E)	DMA tələbləri üzrə məlumat mübadiləsini kəsməməkdir;
+B
+223.	Müasir kompüterlərdə DMA kontrollerinin sxemi neçə ədəd olmaqla və neçə sorğu qəbul etməklə gerçəkləşdirilir?
+A)	1 ədəd DMA sxemi və 4 ədəd DMA sorğusu;
+B)	1 ədəd DMA sxemi və 8 ədəd DMA sorğusu;
+C)	4 ədəd DMA sxemi və 8 ədəd DMA sorğusu; 
+D) 2 ədəd DMA sxemi və 8 ədəd DMA sorğusu;
+E) 4 ədəd DMA sxemi və 16 ədəd DMA sorğusu;
+D
+224.	PENTİUM əsaslı sistemlərə qədər DMA kontrolleri hansı formada gerçikləşdirilirdi?
+A) DİP gövdəli ayrıca mikrosxem ;	
+B) SPGA gövdəli ayrıca mikrosxem;
+C) RAM kontrolleri daxilinə inteqrə edilmiş;	
+D) çipset daxilinə inteqrə edilmiş;
+E) PGA gövdəli ayrıca mikrosxem;
+A
+225.	DMA kontrollerinin D(0-7) çıxışları nə üçündür və hansı qurğu ilə əlaqəlidir?
+A)	DMA -dan əmr kodunun və daxili registrlərin məzmununun MP-ə ötürülməsi üçündür və MP-nin verilənlər şininə birləşdirilir ;
+B)	MP ilə DMA arasında DMA sorğularının ötürülməsi üçündür və MP-nin verilənlər şininə birləşdirilir;
+C)	MP-dan əmr kodunun DMA-ya və daxili registrlərin məzmununun MP-ə ötürülməsi üçündür və MP-nin verilənlər şininə birləşdirilir;
+D)	MP-dan registrlərin məzmununun DMA-ya və əmr kodunun MP-ə ötürülməsi üçündür və MP-nin verilənlər şininə birləşdirilir;
+E)	MP ilə DMA arasında ünvanın ötürülməsi üçündür və MP-nin verilənlər şininə birləşdirilir
+C
+226.	DMA kontrellerinin daxili strukturunda əsas hansı bloklar vardır və onların təyinatı necədir?
+A)	4 ədəd DMA kanalları üçün bloklar, idarəedici blok və verilənlər buferi vardır;
+B)	4 ədəd DMA kanalları üçün bloklar,üstünlük dərəcəsinə görə sorğu siqnallarının seçimi bloku və verilənlər buferi;
+C)	6 ədəd DMA kanalları üçün bloklar,üstünlük dərəcəsinə görə sorğu siqnallarının seçimi bloku,idarəedici blok və verilənlər buferi ;
+D)	4 ədəd DMA kanalları üçün bloklar,üstünlük dərəcəsinə görə sorğu siqnallarının seçimi bloku,idarəedici blok və verilənlər buferi ;
+E)	4 ədəd DMA kanalları üçün bloklar,üstünlük dərəcəsinə görə sorğu siqnallarının seçimi bloku,idarəedici blok ;
+D
+227.	Kompüter arxitekturunda 8-dən yüksək kəsilmə dərəcəsi necə əldə edilir və maksimum kəsilmə dərəcəsi neçə ola bilər?
+A)	4-dən çox sayda kəsilmə kontrolleri sxemləri istifadə edilir və maksimum kəsilmə dərəcəsi 64 ola bilər;
+B)	bir ədəd kəsilmə kontrolleri sxemləri istifadə edilir və maksimum kəsilmə dərəcəsi 64 ola bilər;
+C)	bir neçə ədəd kəsilmə kontrolleri sxemləri istifadə edilir və maksimum kəsilmə dərəcəsi 16 ola bilər;
+D)	bir neçə ədəd kəsilmə kontrolleri sxemləri istifadə edilir və maksimum kəsilmə dərəcəsi 64 ola bilər;
+E)	bir neçə ədəd kəsilmə kontrolleri sxemləri istifadə edilir və maksimum kəsilmə dərəcəsi 32 ola bilər
+D
+228.	Kəsilmə kontrollerinin tək rejimində neçə ədəd və hansı sxem iştirak edir ?
+A) 2 ədəd taymer sxemi iştirak edir;	
+B) bir ədəd kəsilmə kontrolleri sxemi iştirak edir;
+C) 4 ədəd DMA kontrolleri sxemi iştirak edir ; 
+D) bir ədəd ardıcıl interfeys kontrolleri sxemi iştirak edir ;
+E) bir ədəd paralel interfeys kontrolleri sxemi tirak edir ;
+B
+229.	Kompüter arxitekturunda stek yaddaşın kəsilmənin təşkilində rolu nədir?
+A)	kəsilmiş alt proqramın vəziyyəti haqda məlumatı yadda saxlamaq;
+B)	kəsilməyə xidmət proqramını yadda saxlamaq ;
+C)	kəsilmə sorğusu haqda məlumatı yadda saxlamaq;
+D)	kəsilmə vektorlarını yadda saxlamaq;
+E)	kəsilmiş cari proqramın vəziyyəti haqda məlumatı yadda saxlamaq; 
+E
+230.Kompüter arxitekturunda istifadəçi hansı saylı kəsilmə vektorlarını yarada bilər?
+A) 32-255 ;	
+B) 0-31 ;	
+C) 15-31 ;	
+D) 1-7;	
+E) 0-3 ;
+A
+231.	Kompüter arxitekturunda virtual yaddaşa müraciətlə əlaqədar hansı tip kəsilmə vardır?
+A) ”seqment tipində səhv”;		
+B) ”səhifədə səhv”; 
+C) ”sıfıra bölmə cəhdi”; 
+D)”daşma”;	
+E) “addımlı rejim” ;
+B
+232.	Kompüter arxitekturunda giriş-çıxışı hansı rejimlərdə gerçəkləçdirilir?
+A) PİO və kaskadlı rejimlərdə;	
+B) kəsilmə və PİO rejimlərdə
+C) kəsilmə və  DMA rejimlərdə;	
+D) kaskadlı və DMA rejimlərdə;	
+E) PİO və DMA rejimlərdə;
+E
+233.	PİO rejimində CPU məlumatlarının ötürülməsində necə iştirak edir?
+A) iştirak etmir;	
+B) fasilələrlə iştirak edir;	
+C) qismən iştirak edir; 
+D) bilavasitə iştirak edir;	
+E)DMA intervalları ərzində iştirak edir;
+D
+234.	PİO rejimində məlumatın ötürülməsi hansı qurğular arasında aparıla bilər?
+A)	giriş/şıxış portları ilə RAM arasında;
+B)	giriş/şıxış portları ilə CPU-nın akkumulyatoru arasında; 
+C) giriş/şıxış portları ilə CPU-nın akkumulyatoru,yaxud RAM arasında;
+D)	giriş/şıxış portları ilə CPU-nın SPR registrləri,yaxud RAM arasında;
+E)	giriş/şıxış portları ilə CPU-nın SPR registrləri arasında;
+C
+235.	Məlumatların ötürülməsi zamanı giriş-çıxış qurğuları MP tərəfindən necə tanınır?
+A) dolayı ünvanları ilə;	
+B) indeks ünvanları ilə;
+C) seqmentin  başlanğıc ünvanları ilə;	
+D) verilənlərin ünvanları ilə ;	
+E) port ünvanları ilə;
+E
+236.	Kompüter arxitekturunda port ünvanı nədir və yaddaşın hansı hissəsində saxlanılır?
+A)        stekin       başlanğıc       və        yaddaşın       giriş/çıxış       sahəsində       yerləşir; 
+B) giriş/çıxış qurğularına uyğun RAM ünvanıdır və yaddaşın giriş/çıxış sahəsində yerləşir;
+C)	proqramın başlanğıcına uyğun uyğun RAM ünvanıdır və yaddaşın giriş/çıxış sahəsində yerləşir;
+D)	giriş/çıxış qurğularına uyğun RAM ünvanıdır və yaddaşın kəsilmə sahəsində yerləşir;
+E)	giriş/çıxış qurğularına uyğun RAM ünvanıdır və yaddaşın stek sahəsində yerləşir;
+B
+237.İN/OUT əmirlərində port ünvanları necə göstərilə bilər?
+A)	8 bitli kimi əmrin kodunda,yaxud 16 bitli kimi DX registrində;
+B)	16 bitli kimi əmrin kodunda,yaxud 8 bitli kimi DX registrində;
+C)	8 bitli kimi əmrin kodunda,yaxud DX registrində;
+D)	16 bitli kimi əmrin kodunda,yaxud DX registrində;
+E)	16 bitli kimi əmrin kodunda,yaxud 32 bitli kimi EDX registrində;
+A
+238.Kompüter arxitekturunda giriş-çıxış portlarinin ünvanları neçə bitli ola bilər?
+A) 8 bitli;	
+B) 16 vəya 32 bitli;	
+C) 16 bitli;	
+D) 32bitli;	
+E) 8 vəya 16 bitli;
+E
+239.İN/OUT əmirlərində təyinat ,yaxud mənbə kimi CPU-nun hansı registri və hansı formatda iştirak edə bilər?
+A) 8/16/32 bitli B registri;	
+B) 8/16/32 bitli C registri;	
+C) 8/16bitli A registri; 
+D) 8/16/32 bitli A registri; 
+E) 16/32 bitli A registri;
+D
+240.İN/OUT əmirləri liə hansı formatlarda məlumat ötürülə bilər?
+A) 4/16/32 bitli; 
+B) 4/8/32 bitli; 
+C) 8/16/32 bitli; 
+D) 4/8/16 bitli; 
+E) 8/16 bitli; 
+C
+241.İN AX,DX əmrinin açıqlaması nədir?
+A) 4B məlmat AX registrindən ünvanı DX-də göstərilən porta ötürülür; 
+B) Ünvanı EDX-də göstərilən portdan 2B məlmat AX registrinə ötürülür;
+C)	Ünvanı DX-də göstərilən portdan 4B məlmat AX registrinə ötürülür;
+D)	2B məlmat AX registrindən ünvanı DX-də göstərilən porta ötürülür;
+E)	Ünvanı DX-də göstərilən portdan 2B məlmat AX registrinə ötürülür 
+B
+242.İN EAX,DX əmrinin açıqlaması nədir?
+A)	Ünvanı DX-də göstərilən portdan 4B məlmat EAX registrinə ötürülür;
+B)	Ünvanı DX-də göstərilən portdan 2B məlmat EAX registrinə ötürülür;
+C)	4B məlmat EAX registrindən ünvanı DX-də göstərilən porta ötürülür;
+D)	2B məlmat EAX registrindən ünvanı DX-də göstərilən porta ötürülür;
+E)	1B məlmat EAX registrindən ünvanı DX-də göstərilən porta ötürülür 
+A
+243.OUT P8, AL əmrinin açıqlaması nədir?
+A)	AL registrindən 2B ünvanı P8 olan porta ötürülür;
+B)	AL registrindən 3B ünvanı P8 olan porta ötürülür; 
+C) AL registrindən 1B ünvanı P8 olan porta ötürülür;
+D)	ünvanı P8 olan portdan 1B məlmat AL registrinə ötürülür;
+E)	ünvanı P8 olan portdan 2B məlmat AL registrinə ötürülür; 
+C
+244.OUT DX,AX əmrinin açıqlaması necədir?
+A)	AX registrindən 1B ünvanı DX-də verilən porta çıxarılır;
+B)	AX registrindən 4B ünvanı DX-də verilən porta çıxarılır;
+C)	ünvanı DX-də verilən portdan 4B məlmat AX registrinə verilir;
+D)	ünvanı DX-də verilən portdan 2B məlmat AX registrinə verilir; 
+E) AX registrindən 2B ünvanı DX-də verilən porta çıxarılır; 
+E
+245.OUT P8,EAX əmrinin açıqlaması nədir?
+A) ünvanı DX-də verilən portdan 4B məlmat EAX registrinə verilir; 
+B) EAX registrindən 4B ünvanı P8 olan porta çıxarılır;
+C)	EAX registrindən 4B ünvanı DX-də verilən porta çıxarılır;
+D)	EAX registrindən 2B ünvanı DX-də verilən porta çıxarılır;
+E)	ünvanı DX-də verilən portdan 2B məlmat EAX registrinə verilir; 
+B
+246.İNS/OUTS əmirlərində B,W,D simvolları nəyi göstərir?
+A) əmrin uzunluğunu göstərir;	
+B)    portun     tipini     göstərir; 
+C) ötürülən məlumatın uyğun olaraq bayt, söz, 2-qat söz olduğunu göstərir ;
+D)	ötürülən məlumatın uyğun olaraq söz, bayt,2-qat söz olduğunu göstərir;
+E)	ötürülən məlumatın uyğun olaraq 2-qat söz, bayt,söz, olduğunu göstərir; 
+C
+247.İNS/OUTS əmirlərində məlumat hansı qurğular arasında ötürülür?
+A) giriş/çıxış portları ilə RAM oyuqları arasında;	
+B) giriş/çıxış portları ilə CPU arasında;
+C)	akkumulyator registri ilə giriş/çıxış portları arasında;
+D)	İP registri  ilə giriş/çıxış portları arasında;
+E)	SP registri  ilə giriş/çıxış portları arasında;
+A
+248.İNS əmirlərində RAM oyuğu ünvanının harada göstərildiyi nəzərdə tutulur?
+A) (EF:Dİ) registrlər cütlüyündə;	
+B) DX registrində;
+C) (ES:Sİ) registrlər cütlüyündə; 
+D) (ES:Dİ) registrlər cütlüyündə; 
+E)(AX :DX) registrlər cütlüyündə;
+D
+249.İNS /OUTS əmirlərində giriş-çıxış qurğularının ünvanının harada göstərildiyi nəzərdə tutulur?
+A) SP registrində;	
+B) DX registrində ; 
+C) EAX registrində;
+D) (ES:Dİ) registrlər cütlüyündə;	
+E) EDX registrində; 
+B
+250.İNS/OUTS əmirlərində ötürülən məlumatın uzunluğu neçə ola bilər?
+A) 4 B;	
+B) 2/4 B;	
+C) 1/2/4/8 B;	
+D) 1/2/4 B;	
+E) 2/4/8 B;
+C
+251.RAM ilə giriş-çıxış qurğuları arasında məlumatın ötürülməsi hansı əmirlə həyata
+A) İN/OUT;   
+B) İNS/OUTS;	
+C)İN/OUTS; 
+D) İNS/OUT; 
+E) İN/OUT, İNS/OUTS; 
+B
+252.İNS W əmrinin açılaması necədir?
+A)	DX registrində göstərilən ünvanlı portdan 2 B məlumatı RAM -nin (ES:DS) registrlər cütlüyündə göstərilən oyuğuna daxil etmək;
+B)	DX registrində göstərilən ünvanlı portdan 1 B məlumatı RAM -nin (ES:Dİ) registrlər cütlüyündə göstərilən oyuğuna daxil etmək;
+C)	AX registrində göstərilən ünvanlı portdan 2 B məlumatı RAM -nin (ES:Dİ) registrlər cütlüyündə göstərilən oyuğuna daxil etmək;
+D)	RAM -nin (ES:Dİ) registrlər cütlüyündə göstərilən oyuğundan 2 B məlumatı DX registrində göstərilən ünvanlı porta çıxarmaq;
+E)	DX registrində göstərilən ünvanlı portdan 2 B məlumatı RAM -nin (ES:Dİ) registrlər cütlüyündə göstərilən oyuğuna daxil etmək;
+E
+253.	OUTS D əmrinin açıqlaması necədir?
+A)	RAM -nin (ES:Dİ) registrlər cütlüyündə göstərilən oyuğundan 4 B məlumatı DX registrində göstərilən ünvanlı porta çıxarmaq;
+B)	DX registrində göstərilən ünvanlı portdan 4 B məlumatı RAM -nin (ES:Dİ) registrlər cütlüyündə göstərilən oyuğuna daxil etmək;
+C)	RAM -nin (EF:Sİ) registrlər cütlüyündə göstərilən oyuğundan 2 B məlumatı DX registrində göstərilən ünvanlı porta çıxarmaq;
+D)	RAM -nin (ES:Sİ) registrlər cütlüyündə göstərilən oyuğundan 4 B məlumatı DX registrində göstərilən ünvanlı porta çıxarmaq;
+E)	DX registrində göstərilən ünvanlı portdan 2 B məlumatı RAM -nin (ES:Dİ) registrlər cütlüyündə göstərilən oyuğuna daxil etmək;
+D
+254.	OUTS W əmrinin açılaması nədir?
+A)	RAM -nin (ES:Sİ) registrlər cütlüyündə göstərilən oyuğundan 2 B məlumatı DX registrində göstərilən ünvanlı porta çıxarmaq;
+B)	RAM -nin (ES:Dİ) registrlər cütlüyündə göstərilən oyuğundan 2 B məlumatı DX registrində göstərilən ünvanlı porta çıxarmaq;
+C)	DX registrində göstərilən ünvanlı portdan 4 B məlumatı RAM -nin (ES:Dİ) registrlər cütlüyündə göstərilən oyuğuna daxil etmək;
+D)	RAM -nin (EX:Dİ) registrlər cütlüyündə göstərilən oyuğundan 4 B məlumatı DX registrində göstərilən ünvanlı porta çıxarmaq;
+E)	DX registrində göstərilən ünvanlı portdan 2 B məlumatı RAM -nin (ES:Dİ) registrlər cütlüyündə göstərilən oyuğuna daxil etmək;
+A
+255.	PIO rejimində məlumatın daxil edilib çıxarılması nəyin vasitəsilə baş verir?
+A)  DMA rejimi ilə;	
+B) kəsilmə ilə;   
+C) giriş/çıxış əmrləri ilə;
+D) alt proqramlarla;	
+E) giriş/çıxış əmrləri və DMA rejimi ilə ;
+C
+256.	Müasir kompüterlərdə kəsilmə kontrolleri sxemi minimum neçə ədəd olmaqla harada yerləşir?
+A) 2 ədəd olmaqla yaddaş mikrosxemi daxilinə inteqrə edilir; 
+B) 2 ədəd olmaqla çipset mikrosxemi daxilinə inteqrə edilir;
+C)	2 ədəd olmaqla prosessor daxilinə inteqrə edilir;
+D)	10 ədəd olmaqla çipset mikrosxemi daxilinə inteqrə edilir;
+E)	2 ədəd olmaqla video adapter daxilinə inteqrə edilir;
+B
+257.	USB dəstəkli FLASH-dən məlumatın yazılıb-oxunması hansı rejimdə yerinə yetirilir və hansı qurğular arasında aparılır?
+A)	DMA rejimində yerinə yetirilir və FLASH-qurğu akkumulyator arasında aparılır;
+B)	PİO rejimində yerinə yetirilir və FLASH-qurğu ilə RAM/HD disk arasında aparılır;
+C)	DMA rejimində yerinə yetirilir və FLASH-qurğu ilə CPU arasında aparılır;
+D)	DMA rejimində yerinə yetirilir və FLASH-qurğu ilə HD disk arasında aparılır;
+E)	DMA rejimində yerinə yetirilir və FLASH-qurğu ilə ilə RAM/HD disk arasında aparılır;
+E
+258.	Prosesorda hansı məlumat şinləri vardır və müasir prosesorda onların eni necə dəyişmişdir?
+A)	verilənlər,ünvan şinlər vardır və müasir MP-lərdə verilənlər şininin eni 32/64 bit,ünvan şininin eni 32/40bitlidir;
+B)	verilənlər, idarəedici şinlər vardır və müasir MP-lərdə verilənlər şininin eni 32/64 bit;
+C)	verilənlər,ünvan, idarəedici şinlər vardır və müasir MP-lərdə verilənlər və ünvan şininin eni 32 bitdir;
+D)	verilənlər,ünvan, idarəedici şinlər vardır və müasir MP-lərdə verilənlər şininin eni 32/64 bit,ünvan şininin eni 32/40bitlidir;
+E)	verilənlər,ünvan, idarəedici şinlər vardır və müasir MP-lərdə verilənlər şininin eni 16/32bit,ünvan şininin eni 32/40bitlidir;
+D
+259.	Prosesorda ünvan şininin eni sistemdə nəyi təyin edir?
+A)	prosesora qoşula bilən sistemli yaddaş həcmini;
+B)	prosesora qoşula bilən qurğuların sayını ;
+C)	prosesora qoşula bilən keş yaddaş həcmini;
+D)	prosesora daxilindəki keş yaddaş həcmini;
+E)	prosesora emal edilən ədədlərin bit sayını;
+A
+260.	Müasir prosesora qoşulan sistemli yaddaşın həcmi hansı qiymətlərlə məhdudlaşır?
+A) prosesorun verillənlər şininin eni ilə;	
+B) prosesor kristalının layihə norması ilə; 
+C) prosesorun xarici ünvan şininin eni ilə; 
+D) prosesorun ünvan şininin eni ilə;
+E) prosesorun ünvan/verilənlər və verillənlər şinlərinin eni ilə;
+C
+261.	HM-in yaddaş qurğularında yaddaş xanasını seçmə hansı müddəti təşkil edir?
+A) 4 - 5 mikrosaniyəni;	
+B) 1 - 2 mikrosaniyəni;
+C) 7 - 8 mikrosaniyəni;	
+D) 5 - 6 mikrosaniyəni;
+E) 3 - 4 mikrosaniyəni;
+B
+262.	Birbaşa seçməli yaddaş qurğusunda müraciət olunma hansı müddəti təşkil edir?
+A) 13 millisan.;	
+B) 1 millisan.;	
+C) 3 millisan.;	
+D) 10 millisan.;	
+E) 18 millisan.;
+D
+263.	İnformasiyanın yaddaşda yerləşmə mövqeyinin təşkilinin hansı növləri vardır?
+A) ixtiyari, ardıcıl, stek və s.	
+B) paralel, ardıcıl, birbaşa və s.
+C) bilavasitə, stek, assosiativ və s.	
+D) ünvanlı, paralel, ardıcıl və s.	
+E) ünvanlı, assosiativ, stek və s.
+E
+264.	Ünvanlı yaddaş qurğularında yaddaş xanaları necə nömrələnir?
+A) yaddaş blokunun bütün xanaları seçmə ilə nömrələnir; 
+B) yaddaş blokunun bütün xanaları ardıcıl nömrələnir;
+C)	yaddaş blokunun bütün xanaları təkliyə görə nömrələnir;
+D)	yaddaş blokunun bütün xanaları cütlüyə görə nömrələnir;
+E)	yaddaş blokunun bütün xanaları paralel nömrələnir;
+B
+265.	Ünvanlı yaddaş qurğularında yaddaşın ünvanı necə qəbul edilir?
+A)	yaddaş blokunun xanalarının ardıcıl nömrələnməsinə uyğun olaraq yaddaşın ünvanı qəbul edilir;
+B)	yaddaş blokunun xanalarının paralel nömrələnməsinə uyğun ünvanı qəbul edilir;
+C)	yaddaş blokunun xanalarının cütlüyə görə nömrələnməsinə uyğun ünvanı qəbul edilir;
+D)	yaddaş blokunun xanalarının təkliyə görə nömrələnməsinə uyğun ünvanı qəbul edilir;
+E)	yaddaşın blokunun xanalarının seçmə üsulu ilə nömrələnməyə uyğun ünvanı qəbul edilir;
+A
+266.	Assosiativ YQ-lərdə axtarış necə aparılır?
+A) sorğunun koduna uyğun;	
+B) sorğunun əlamətinə uyğun;	
+C) sorğunun ünvanına uyğun;	
+D) sorğunun üstünlüyünə uyğun;	
+E) sorğunun
+B
+267.	Ünvanlı yaddaş qurğusunun hansı elementləri vardır?
+A)	ədədi hissə, assosiativ yaddaş hissəsi, ünvan hissəsi;
+B)	ünvanlı yaddaş hissəsi, ədədi hissə, stek hissəsi;
+C)	ədədi hissə, yaddaş bloku, yerli idarə qurğusu, ünvan hissəsi;
+D)	ədədi hissə, yadda. bloku, ünvanlı yaddaş hissəsi;
+E)	yerli idarə qurğusu, ünvanlı yaddaş hissəsi, stek hissəsi;
+C
+268.Ünvanlı yaddaş qurğusunun ünvan hissəsi hansı qurğulardan təşkil olunur?
+A)	əlamətlər registri, ünvan registri, yaddaşın ünvan registri;
+B)	əməliyyatlar kodu registri, əmrlər sayğacı, stek göstəricisi;
+C)	yaddaşın verilənlər registri, əməliyyat kodu registri, əməliyyatın kodu deşifratoru; 
+D) ünvan registri, ünvan kodu deşifratorunun formalaşdırıcısı;
+E) mikroproqramlı avtomat, ünvan registri, əmrlər sayğacı;
+D
+269.	Aşağıdakı hansı qurğular ünvanlı yaddaş qurğusunun ədədi hissəsini təşkil edir?
+A)	oxu gücləndiricisi, mərtəbə formalaşdırıcısı, ədədlər registri;
+B)	mərtəbə formalaşdırıcısı, ədədlər registri, ünvan registri;
+C)	yerli idarə qurğusu, ədədlər registri, ünvan registri;
+D)	oxu gücləndiricisi, yaddaş bloku, yerli idarə qurğusu;
+E)	mərtəbə formalaşdırıcısı, oxu gücləndiricisi, yaddaş bloku;
+A
+270.	Ünvanlı yaddaş qurğusunda yazmaya və oxumaya icazə siqnalları hansı qurğu vasitəsi ilə müəyyənləşdirilir?
+A) oxu gücləndiricisi ilə;	
+B) ədədlər registri ilə;
+C) yaddaş bloku ilə;	
+D) yerli idarə qurğusu ilə;	
+E) assosiativ yaddaş ilə; 
+D
+271.Əlamətə uyğun axtarışı həyata keçirmək üçün hansı qurğu və bloklardan istifadə olunur?
+A)	yaddaş bloku, maska registri, oxu gücləndiricisi;
+B)	yerli idarə qurğusu, ünvan registri, yaddaş bloku;
+C)	assosiativ əlamət registri, maska registri, yaddaş bloku, informasiya registri, kombinasiya sxemləri, müqayisə registri, idarə siqnallarını hasil edən qurğu;
+D)	idarə qurğusu, əlamət registri;
+E)	əlamət registri, əməliyyatlar bloku, akkumulyator, əmrlər sayğacı;
+C
+272.	Axtarış aparılacaq assosiativ əlamət kodu əvvəlcə hansı qurğuya daxil edilir?
+A) HMQ-nın registrinə;                                         
+B) assosiativ yaddaş qurğusunun assosiativ əlamət registrinə;
+C)	mərkəzi prosessorun əməliyyatlar blokuna;
+D)	assosiativ yaddaş qurğusunun maska registrinə;
+E)	giriş - çıxış portlarına;
+B
+273.	Assosiativ yaddaşa müraciət zamanı neçə nəticə siqnalı hasil edilir?
+A) dörd nəticə siqnalı hasil edilir;	
+B) bir nəticə siqnalı hasil edilir;
+C) yeddi nəticə siqnalı hasil edilir;	
+D) iki nəticə siqnalı hasil edilir; 
+E) üç nəticə siqnalı hasil edilir;
+E
+274.	a1,a2,a3 nəticə siqnallarının hasil olunması assosiativliyin hansı əlaməti hesab olunur?
+A) assosiativliyin nəzarət əlaməti;	
+B) assosiativliyin keyfiyyət əlamətləri;
+C) assosiativliyin mənimsəmə əlamətləri;	
+D) assosiativliyin idarə olunma əlamətləri;
+E) assosiativliyin axtarış əlamətləri;
+A
+275.	a1 nəticə siqnalına 1 mənimsədilərsə, bu halda assosativ yaddaşda hansı proses vermir?
+A)	eyni zamanda həm yazma, həm də oxuma prosesi;
+B)	yazma prosesi;	
+C) oxuma prosesi;
+D) idarə olunma prosesi;	
+E) seçmə prosesi;
+C
+276.	a2 nəticə siqnalına 1 mənimsədilərsə, bu halda assosiativ yaddaşda hansı proses baş verir?
+A) yaddaş massivindən sözlər oxunur;	
+B) yaddaş massivindən 1 söz oxunur;
+C) yaddaş massivindən 2 söz oxunur;	
+D) yaddaş massivindən söz oxunmur;
+E) yaddaş massivindən 3 söz oxunur;
+B
+277.	a3 nəticə siqnalına 1 mənimsədilərsə, bu halda assosiativ yaddaşda hansı proses baş verir?
+A) bir əlamətli söz vardır;	
+B) yaddaş massivində axtarış aparılır;
+C)        yaddaş        massivində        əlamətli        sözlər        yoxdur; 
+D) yaddaş massivindən tələb olunan əlamətli sözlər istənilən qədərdir;
+E) yaddaşda aralanma baş verir;
+D
+278.	Stek yaddaşında yazma və oxuma neçə xana üzrə aparılır?
+A) yaddaş massivinin xanaları üzrə aparılır;	
+B) 2 xana üzrə aparılır;
+C)	heç bir xanada aparılmır;
+D)	yazma və oxuma xanalarda cütlüyə görə aparılır;	
+E) 1 xana üzrə aparılır; 
+E
+279.Stek yaddaşının hər hansı (n-1) xanasında yazma zamanı hansı proses baş verir?
+A)	bütün xanalardan informasiya axını 2 xana aşağı sürüşdürülür;
+B)	bütün xanalardan informasiya axını 1 xana yuxarı sürüşdürülür; 
+C) bütün xanalardan informasiya axını 1 xana aşağı sürüşdürülür;
+D)	bütün xanalardan informasiya axını 2 xana yuxarı sürüşdürülür;
+E)	xanalarda informasiya axını sürüşdürülmür;
+C
+280.	Stek yaddaşının hər hansı (n-1) xanasında oxuma zamanı hansı proses baş verir?
+A)	informasiya axını 1 xana aşağı sürüşdürülür;
+B)	informasiya axını 2 xana yuxarı sürüşdürülür;
+C)	informasiya axını 2 xana aşağı sürüşdürülür; 
+D) informasiya axını 1 xana yuxarı sürüşdürülür;
+E) informasiya axınında sürüşmə baş vermir;
+D
+281.	Stek yaddaşında hansı məqsədlə stek göstəricisindən istifadə olunur?
+A)	yaddaşın dolu və boş olmasını yoxlamaq üçün;
+B)	yaddaşın boş olmasını yoxlamaq üçün;
+C)	yaddaşın dolu olmasını yoxlamaq üçün;
+D)	yaddaşda oxuma prosesini aparmaq üçün;
+E)	yaddaşda yazma prosesini aparmaq üçün;
+A
+282.	Stek yaddaşında stekin xanalar sayı hansı qurğuda qeyd olunur?
+A) yaddaşın özündə qeyd olunur;	
+B) ƏYQ-də qeyd olunur;
+C) stek göstəricisində yazılır;	
+D) daimi yaddaş qurğusunda qeyd olunur;
+E) stek yaddaşında xanaların sayı qeyd olunmur;
+C
+283.	Stek yaddaşında sifarişlərin sorğusuna uyğun informasiyanı oxumaq lazım gələrsə, ona neçə əlavə olunur?
+A) ona heç nə əlavə olunmur	
+B) ona 2 əlavə olunur
+C) ona 0 əlavə olunur	
+D) ona -1 əlavə olunur	
+E) ona 1 əlavə olunur
+E
+284.	Stek yaddaşı hansı prinsip əsasında işləyir?
+A) stekə ardıcıl oxuma prinsipində;	
+B) sonuncu yazıldı birinci oxundu;
+C) stekə +1 yazma prinsipində;	
+D) stekə -1 əlavə olunma prinsipində;
+E) ardıcıl yazma prinsipində;
+B
+285.	Sonuncu yazıldı birinci oxundu prinsipində işləyən stek yaddaşı hansı işləmə rejimini təmin edir?
+A) paralel yazma işləmə prinsipini; 
+B) oxuma işləmə rejimini;
+C) yazma işləmə rejimini;	
+D) yazma və oxuma işləmə rejimini;
+E) nəticənin ötürmə işləmə rejimini;
+D
+286.	Stek yaddaşı hansı qurğulardan təşkil olunur?
+A)	stek göstəricisi, xanalar massivi;
+B)	əməliyyatın kodu deşifratoru, akkumlyator;
+C)	operandlar registri, xanalar massivi;
+D)	əlamət registri, stek göstəricisi;
+E)	ünvan və əlamət registri;
+A
+287.	Aşağıda göstərilənlərdən hansıları kompyuterlərin yaddaş qurğuları hesab olunurlar?
+A) statiki yaddaş, assosiativ yaddaş;	
+B) stek yaddaş, fləş yaddaş; 
+C) xarici, daimi və əməli yaddaş qurğuları; 
+D) xarici və dinamiki yaddaş;
+E) əməli yaddaş və stek yaddaşı;
+C
+288.	Kompyuterlərin əməli yaddaş qurğularının neçə və hansı növləri vardır?
+A)	3; ikinci yaddaş, assosiativ yaddaş, statiki yaddaş;
+B)	2; ikinci yaddaş, dinamiki yaddaş;	
+C) 2; assosiativ yaddaş, daimi yaddaş;
+D) 1; statiki yaddaş;	
+E) 2; statiki və dinamiki yaddaş; 
+E
+289.Bloklarla təşkil olunan kompyuterin əsas yaddaşı hansı qurğuları özündə cəmləşdirir?
+A)	əlamət registri, əməliyyatlar bloku, ünvan registri;
+B)	idarə bloku, ünvan registri, yaddaş bankı nömrələri deşifratoru, multipleksor və dörd bankı;
+C)	mikroproqramlı avtomat əmrlər sayğacı, idarə bloku;
+D)	akkumlyator, operandlar registri mikroproqramlı avtomat;
+E)	ünvan registri, əməliyyatın kodu registri, idarə bloku;
+B
+290.	Bloklarla təşkil olunan əsas yaddaşda neçə mərtəbəli ünvandan istifadə olunur?
+A) iki mərtəbəli ünvandan;	
+B) 7 mərtəbəli ünvandan;	
+C) 4 mərtəbəli ünvandan; 
+D) 9 mərtəbəli ünvandan;	
+E) 6 mərtəbəli ünvandan;
+D
+291.	Əsas yaddaşın bloklarına paralel olaraq neçə kiçik mərtəbəli ünvan daxil olur?
+A) 7 kiçik mərtəbəli ünvan;	
+B) 5 kiçik mərtəbəli ünvan;
+C) 3 kiçik mərətəbli ünvan;	
+D) 8 kiçik mərtəbəli ünvan;
+E) 2 kiçik mərtəbəli ünvan;
+A
+292.	Əsas yaddaşda ünvanın iki böyük mərtəbəsi bankın nəyini göstərir?
+A) əsas yaddaşın nömrəsini;	
+B) ƏYQ-nin nömrəsini;
+C) DYQ-nin nömrəsini;	
+D) ünvan registrinin nömrəsini;	
+E) bankın nömrəsini;
+E
+293.	Əsas yaddaş bankının seçilməsi üçün neçə və hansı qurğulardan istifadə olunur?
+A)	2; ünvan registri, yaddaş bankı nömrələri deşifratoru;
+B)	2; yaddaş bankı nömrələri deşifratoru, informasiyanın multipleksləşməsi;
+C)	3; yaddaşın verilənlər registri, ünvan registri, əməliyyatın kodu deşiftoru;
+D)	2; informasiyanın multipleksləşməsi, verilənlər registri;
+E)	1; əmrlər registri;
+B
+294.	Funksional münasibətdə əsas yaddaşa hansı qurğu kimi baxılır?
+A) assosiativ yaddaş qurğusu kimi; 
+B) ünvanlı yaddaş qurğusu kimi; 
+C) vahid yaddaş qurğusu kimi;	
+D) ikinci yaddaş qurğusu kimi;
+E) stek yaddaş qurğusu kimi;
+C
+295.	Əsas yaddaşın tutumu necə təyin olunur?
+A) ünvanlı yaddaşın tutumu ilə;	
+B) ixtiyarı seçməli yaddaşın tutumu ilə;
+C) birbaşa seçməli yaddaşın tutumu ilə;	
+D) tərkib hissələri tutumunun cəmi ilə;
+E) ardıcıl seçməli yaddaşın tuttumu ilə;
+D
+296.	Əsas yaddaşın cəld işləməsi neçə bankın cəld işməsi ilə təyin olunur?
+A) bir bankın cəld işməsi ilə müəyyən olunur;	
+B) üç bankın cəld işləməsi ilə;
+C) iki bankın cəld işləməsi ilə;	
+D) əlaqə kanalının cəld işləməsi ilə;
+E) bankların cəld işləmələrinin cəmi ilə;
+A
+297.	HM-də istifadə olunan qurğuların qarşılıqlı əlaqəliliyi hansı qurğu ilə həyata keçirilir?
+A) giriş-çıxış qurğuları ilə;	
+B) şinlərlə;	
+C) simsiz rabitə ilə;
+D) eşilmiş cütü ilə;	
+E) optik lifli kabel ilə; 
+B
+298.HM-də istifadə olunan şinlərin hansı növləri vardır?
+A)	prosessor şini, ƏYQ şini, registr şini;
+B)	idarə qurğusu şini, ikinci yaddaş şini;
+C)	giriş şini, çıxış şini, emal şini;
+D)	daxiletmə şini, xaricetmə şini, ikinci yaddaş şini; 
+E) prosessor - yaddaş şini, giriş - çıxış şini, sistem şini;
+E
+299.	HM-in prosessor yaddaş şini hansı əlaqəliliyi təşkil edir?
+A) prosessorla giriş qurğusu arasında;	
+B) prosessorla çıxış qurğusu arasında; 
+C) mərkəzi prosessorla əsas yaddaş arasında;	
+D) HMQ ilə İQ arasında;
+E) HMQ ilə giriş qurğusu arasında;
+C
+300.	HM-in müasir mikroprosessorlarında prosessor yaddaş şininə başqa hansı ad verilir və neçə işarə olunur?
+A) ön plan şini; FSB;	
+B) arxa plan şini; FSB;	
+C) arxa plan şini; BSF;
+D) ön plan şini; SFB;	
+E) ön plan; BST;
+A
+301.	HM-in prosessoru ilə II səviyyəli keş yaddaşı əlaqələndirən şin neçə adlandırılır və o necə işarə olunur?
+A) ön plan şini; BSB;	
+B) ön plan şini; FSB;
+C) ön plan şini; BSF;	
+D) arxa plan şini; BSB;	
+E) arxa plan şini; FSB;
+D
+302.	HM-lərdə qurğulararası informasiya mübadiləsini hansı şin (arxa -BSB, yaxud ön - FSB plan şini) daha sürətlə həyata keçirir?
+A) arxa plan şini - DSD;	
+B) arxa plan şini - BSB;
+C) arxa plan şini - BSD;	
+D) ön plan şini - FSB;	
+E) ön plan - FSD;
+B
+303.	Giriş - çıxış şinin vəzifəsi nədən ibarətdir?
+A)	HMQ ilə İQ-nin birləşməsinə xidmət edir;
+B)	periferiya qurğularından verilənlərin daxil edilməsinə xidmət edir; 
+C) prosessorla GÇQ-nin birləşməsinə xidmət edir;
+D)	nəticənin HM-dən ötürülməsinə xidmət edir;
+E)	prosessorun nəzarət olmasına xidmət edir;
+C
+304.	Giriş - çıxış şinin tipik nümayəndələri hansılardır?
+A) PI SI, SCS;	
+B) BSD, SCS;	
+C) BSD, SCSI;	
+D) FSB, BSB;	
+E) PSI, SCSI;
+E
+305.	HM-in bütün qurğularının fiziki və məntiqi birləşdirilməsi üçün hansı şin xidmət göstərir?
+A) yaddaş şini	
+B) sistem şini	
+C) giriş - çıxış şini
+D) ön plan şini	
+E) arxa plan şini;
+B
+306.	Şindəki xətlər yığımını neçə və hansı funksional qrupa bölmək olar?
+A) 2; verilənlər və idarə şinləri;	
+B) 3; əmrlər,registrlər və idarə şinləri;
+C) 2; idarə və əmrlər şinləri;	
+D) 3; verilənlər, ünvan və idarə şinləri;
+E) 2; ünvan və registrlər şinləri;
+D
+307.	Universal HM-lərdə standartlaşdırılmış sistem şininin hansı növlərindən istifadə olunur?
+A) Unibus, PCİ, SCSI;	
+B) Fastbus, BSB, FSB;
+C) Unibus, Fastbus, Futurebus və s.	
+D) Unibus, FSB, SCSI	
+E) PCI, BSB, Unibus;
+C
+308.	Fərdi kompyuterlər hansı standartların şinləri əsasında yaradılır?
+A)	ISA, EİSA yaxud MSA standartlarının sistem şini;
+B)	PSI, VLBA standartlarının sistem şini;
+C)	DMA, USB standartlarının sistem şini;
+D)	PSI, VESA standartlarının sistem şini;
+E)	DMA, VESA standartlarının sistem şini;
+A
+309.	Hesablama texnikası əsasən neçə komponentə əsaslanır? 
+A) 5;	
+B) 2;	
+C) 4;	
+D) 3;	
+E) 6;
+B
+310.	Hesablama texnikası əsasən hansı komponentlərə əsaslanır?
+A)	aparat və proqram vasitələrinə;
+B)	tapşırıqların və verilənlərin idarə proqramlarına;
+C)	texniki vasitələrə və supervizora;
+D)	emaledici və sistem proqramlarına;
+E)	tətbiqi proqram təminatı və emaledici sistem proqramlarına;
+A
+311.	Proqram vasitələrinin əsasını hansı sistem təşkil edir?
+A) SİMD sistemi; 
+B) SİSD sistemi; 
+C) konveyrli sistem;
+D) hesablama sistemi;	
+E) əməliyyat sistemi;
+E
+312.	Əməliyyat sisteminin fəaliyyəti nədən ibarətdir?
+A)	verilənlərin emalı, saxlanılması və nəticənin istifadəçilərə ötürülməsi və s.;
+B)	ilkin və aralıq verilənlərin giriş qurğularına, emalı və çıxış qurğularına ötürülməsi və s.; 
+C) kompyüter qurğularının işinin idarəsi, qarşılıqlı əlaqəliliyi, proqramların ƏY-a daxili və s.;
+D)	verilənlərin və tapşırıqların idarə proqramlarının sazlanması və s;
+E)	tətbiqi proqram təminatının, sistem proqram təminatının idarə edilməsi və s.;
+C
+313.	Əməliyyat sistemi (ƏS) müəyyən funksiyaları yerinə yetirən çoxsaylı hansı modullardan ibarətdir?
+A) yaddaş modullarından; 
+B) əlavələr modullarından;
+C) çıxış modullarından; 
+D) proqram modullarından; 
+E) giriş modullarından;
+D
+314.	Hansı modullar olmadan kompyüter öz işini yerinə yetirə bilmir?
+A) ƏS-in əlavələr modulları;	
+B) ƏS-in özəyinin modulları;
+C) ƏS-in yaddaşının modulları;	
+D) ƏS-in giriş modullarından;
+E) ƏS-in çıxışı modullarından;
+B
+315.	Kompyüter işləyən müddətdə ƏS-in özəyinin modulları hansı yaddaşda olur?
+A) əsas yaddaşda (ƏY);	
+B) assosiativ yaddaşda;	
+C) əməliyyat blokunda;
+D) ünvanlı yaddaşda;	
+E) virtual yaddaşda;
+A
+316.	Əməliyyat siteminin (ƏS) konfiqurasiyasının mütləq komponentləri hansıladır?
+A)	fayl sistemi, emaledici sistem proqramramları;
+B)	əmrlər dilinin prosessoru, sistem proqam təminatı;
+C)	xarici qurğuların qrayverləri, tapşırıqlarn idarı proqramları;
+D)	fayl     sistemi,     supervizor,     verilərin     idarə      proqramları; 
+E) fayl sistemi, xarici qurğuların drayverləri, əmrlər dilinin prosessoru;
+E
+317.	Kompyüterin resursu dedikdə hansı komponenti başa düşürsünüz?
+A)	HMQ, İQ, SNB, İdarə siqnallarının formaya salınmasının məntiqi və s.;
+B)	MPr, ƏY, XY, Proqramlar və s.; 
+C) MPr, ƏY, XY, proqram və s.;
+D)	ƏY, XY, proqramlar, giriş-çıxış portları və s.;
+E)	stek yaddaşı, MPr, əməliyyat bloku və s.;
+C
+318.	Əməliyyat sistemi nə vaxt yüklənir?
+A)	yaddaşa müraciət zamanı;
+B)	verilənlərin idarə proqramları işləyən zaman;
+C)	verilənlərin emalı başlayan kimi; 
+D) kompyüterin qoşulması ilə;
+E) sistem proqramları işə müdaxilə zamanı;
+D
+319.	Funksiyalarına görə interfeysin neçə növü vardır?
+A) 6;	
+B) 4;	
+C) 3;	
+D) 5;	
+E) 2;
+B
+320.	Funksiyalarına görə interfeysin hansı növləri vardır?
+A) proqram, istifadəçi, əmrli və obyektyönlü;	
+B) əmrli, əlavəli, fayl yönəmli;
+C) istifadəçi, özəkli, paketli;	
+D) obyektyönlü, kataloqlu, vaxt miqyaslı;
+E) proqram, sənədli, real vaxt miqyaslı;
+A
+321.	Proqram interfeysi dedikdə nə başa düşülür?
+A)	qurğularası məlumatlar mübadiləsini təmin edən vasitələr çoxluğudur;
+B)	informasiyanı daxil və xaric etməni təmin edən vasitələr çoxluğudur;
+C)	texniki vasitələr səviyyəsi ilə istifadəçilərarası məlumatlar mübadiləsini təmin edər;
+D)	ilkin  və  aralıq  verilənlərlə  sistemi  təmin  edən  vasitələr  çoxluğudur; 
+E) qurğu və proqramların qarşılıqlı əlaqəsini təmin edən vasitələr çoxluğudur;
+E
+322.İstifadəçi interfeysi hansı funksiyanı icra edir?
+A)	mikroproqramlı avtomatla stek göstəricisinin əlaqəliyini təmin edir;
+B)	əməliyyat bloku ilə əlamət bloku arasında qarşılıqlı əlaqəliliyi təmin olunur; 
+C) istifadəçinin kompyüterlə qarşılıqlı əlaqəliliyini təmin edir;
+D)	texniki vasitələrlə supervizorun qarşılıqlı əlaqəliliyi təmin olunur;
+E)	emaledici proqramlarla verilənlərin emalı təmin olunur;
+C
+323.	Əmrli interfeysin funksiyası nədən ibarətdir?
+A)	tapşırıqların ötürülməsi həyata imkan verir;
+B)	verilənlərin emalını sistem daxili edilməsinə imkan verir;
+C)	supervizor işinin idarə olunmasını həyata keçirir; 
+D) əmrləri klaviaturadan daxil etməyə imkan verir;
+E) verilənlərin daxil və xaric olunmasını sürətləndir;
+D
+324.	ƏS-nin versiyasında nöqtədən soldakı rəqəmin artması nəyi göstərir?
+A) rəqəmin artması sistemdəki vasitələr çoxluğunun sayını; 
+B) rəqəmin artması sistemdə mühüm dəyişikliyin edilməsi;
+C)	rəqəmin artması istifadə olunan proqramın nömrəsini;
+D)	rəqəmin artması istifadəçinin;
+E)	rəqəmin artması kompyüterin ünvanını;
+B
+325.	ƏS-nin versiyasında nöqtədən sağdan rəqəmin artması nəyi göstərir?
+A)	sistemdə cüzi dəyişikliyin edilməsini göstərir;
+B)	sistemdə informasiya tutumunun çoxalmasını göstərir;
+C)	sistemdə əmrlərin dəyişməsini göstərir;
+D)	sistemdə əmrlərin ünvanının dəyişməsini göstərir;
+E)	sistemdə cəldişləmə sürətinin artmasını göstərir;
+A
+326.	ƏS-in versiya nömrəsinin böyük olması nəyə işarədir?
+A)	sistemdə yeni dillərdən istidəyə işarədir;
+B)	sistemin əlavələr modulundan daha çox istifadə olunmasın göstərir;
+C)	sistemdə özəyin modullarının sayının çox olmasını göstərir;
+D)	sistemin  imkanlarının   aşağı   olmasını   göstərir; 
+E) sistemin daha çox imkanlara malik olmasını göstərir;
+E
+327.	ƏS-nin təsnifatının neçə növləri vardır? 
+A) 8;	
+B) 3;	
+C) 7;	
+D) 5;	
+E) 4;
+C
+328.	ƏS-nin təsnifatının hansı növləri vardır?
+A)	istifadəçilərin, tapşırıqların, verilərin, kompyüterlərin və s. sayına görə;
+B)	məsələlərin, prosessorların, obyektlərin və s. sayına görə;
+C)	istifadəçilərin, tətbiqi proqramların, sistem proqramlarının və s. sayına görə; 
+D) istifadəçilərin, məsələlərin, prosessorun mərtəbələrinin və s. sayına görə;
+E) tapşırıqların, kompyüterlərin, məsələlərin terminalların və s. sayına görə; 
+D
+329.Sistemlə eyni vaxtda işləyən istifadəçilər hansı növləri ola bilər?
+A) biristifadəçili, NUMA;	
+B) biristifadəçili, çoxistifadəçili;
+C) çoxistifadəçili, SMP;	
+D) çoxistifadəçili, MPP;	
+E) biristifadəçili, VPP;
+B
+330.	Sistemlə eyni vaxtda işləyən istifadəçilərin neçə növü ola bilər?
+A) 2;	
+B) 6;	
+C) 3;	
+D) 5;	
+E) 4;
+A
+331.	Sistemin idarə olunması ilə eyni vaxtda icra olunan məsələrin sayı nə qədər ola bilər?
+A) 5;	
+B) 4;	
+C) 2;	
+D) 6;	
+E) 3;
+E
+332.	Sistemin idarə olunması ilə eyni vaxtda həll olunan məsələlərin hansı növləri ola bilər?
+A) birməsələli, birterminallı, SMP; 
+B) birməsələli, çoxterminallı, MPP; 
+C) birməsələli, çoxməsələli, şəbəkə; 
+D) birməsələli, CC-NUMA,VPP;
+E) çoxterminallı, çoxməsələli,VPP;
+C
+333.ƏS-in təsnifatının informasiya emalı rejiminə görə hansı növləri vardır?
+A) TER, multiproqramlı emalı;	
+B) operativ, paketli;	
+C) operativ, SİSD;	
+D) RVM, vaxt bölgülü, paketli emalı;	
+E) RVM, SİMD,
+D
+334.	Hal-hazırda geniş yayılan hansı əməliyyat sistemini ayırd etmək olar?
+A) DOS, OS/2, Netware, IBM NTI və s.; 
+B) DOS, OS/2, UNİX, Windows və s.;
+C)	UNİX, İBM NTİ və s.;
+D)	Windows, Netware, Windows 2004 və s.;
+E)	OS/2, İBM-60, İBM NTİ və s.;
+B
+335.	DOS ailəsi ƏS-ləri necə xarakterizə etmək olar?
+A)	əmrlərin köməyi ilə interfeys həyata keçirilir, struktur modulluğu müəyyən edilir, kiçik ölçülü əməli yaddaşa malik olması;
+B)	loard əmrində işlənmə emalolunmanın paralelləşməsinin təşkili;
+C)	store əmrində işləmə, informasiya saxlanmasının təşkili;
+D)	CİSC arxitekturalı strukturunun istismarı,avtomatlaşdırılmış emalın təşkili;
+E)	RİSC arxitekturunun istifadəsi, operativ emalın təşkili;
+A
+336.	DOS ailəsi ƏS-nin çatışmayan cəhətləri hansılardır?
+A)	SİMD sisteminin realizasiyasının qeyri-mümkünlüyü;
+B)	emal olunmanın paralelləşdirilməsinin çətinliyi;
+C)	MİSD sistemindən istifadə edilməməsi;
+D)	tətbiqi proqram təminatından imtinası;
+E)	müraciətdən mühafizə vasitələrinin olmaması;
+E
+337.	OS-2 əməliyyat sistemini (Əsxarakterizə edən amiləri göstərin?
+A)	sistem proqramlarının işini təmin edir, ƏS-i supervizordan mühafizə edir;
+B)	verilənlərin      idarə      proqramlarını       sazlayır,       tapşırıqları       mühafizə       edir; 
+C) tətbiqi proqramın paralel işini təmin edir, işləyən proqramları bir-birindən, ƏS-i isə işləyən proqramlardan mühafizə edir;
+D)	emaledici sistem proqramların işini, supervizorların fasiləsiz işini təmin edir;
+E)	yüksək tutuma malik yaddaşdan və proqramlardan ibarət olmaqla həm də mühafizə edir;
+C
+338.	OS-2-nin hansı modifikasiyaları vardır?
+A)	UNİX, Netware, Windows;
+B)	Windows 2000, Warp 3;
+C)	Windows NT, UNIX, Connect;
+D)	OS/2 Waro 3.0, OS/2- Warp Connect, OS/2 Warp Server;
+E)	OS/2 Warp 3.0, OS/2 Warp server, UNIX, Connect;
+D
+339.	OS-2 Warp 3.0 ƏS-in fəaliyyəti necə xarakterizə olunur?
+A)	yaddaşın tutumu optimallaşdırılıb, tətbiqi proqram təminatına uyğunlaşdırılıb;
+B)	supervizorun köməyinə imtina və informasiyanın emalı təkmilləşdirilib; 
+C) yaddaşın istifadəsi və qrafiki interfeys təkmilləşdirilməsi;
+D)	proqram modullarından istifadəyə imkan verilir;
+E)	SİMD sistemllərinə uyğunlaşmaya çıxışın olması;
+C
+340.	OS-2 ƏS-in çatəşmamazlığı nədən ibarətdir?
+A) sistem proqramlarından səviyyəli istifadə etməməsi; 
+B) az saylı tətbiqi proqramlara malik olmaması;
+C)	supervizorun köməksizliyi;
+D)	SİMD sistemlərindən imtinası ;
+E)	multiproqramlı emalın tətbiq edilməməsi;
+B
+341.	UNİX ƏS-ə aid xarakterik xüsusiyyətlər hansılardır?
+A)	paylanmış verilənlər bazasına müraciət, LŞ-işləmə, qlobal şəbəkəyə çıxış imkanının olması ;
+B)	müxtəlif kompyüterlərdən istifadə, multiproqramlı emal imakınının olması;
+C)	tətbiqi proqramlardan istifadə, SİMP sistemlərə müraciət imkanının olması;
+D)	müxtəlif sistemlərə müraciət, tətbiqi müraciət imkanının olması;
+E)	fayllara icazəsiz müraciət, sistem proqramlarından istifadə imkanının olması;
+A
+342.	Windows ƏS-nin xarakterik xüsusiyyətləri hansılardır?
+A)	çoxprosessorlu ƏS-ə malik olması, Pr resurslarının paylanması;
+B)	müxtəlif kompyüterlərdə işləməsi və müraciətinin olması;
+C)	əmrlərin istifadəsi ilə interfeysin həyata keçirilməsi və qrafiki interfeysli olması;
+D)	çoxistifadəli kiçik ölçülü əməli yaddaşlı olmasıdır; 
+E) qrafiki interfeysli, çoxməsələli olmasıdır;
+E
+343.	Proqramların icra edilməsi, fərdi kompyüter resurslarının idarə edilməsi, informasiya emalının təşkili XYQ-də informasiyanın saxlanması və disklərə xidmət işinin yerinə yetirilməsi hansı ƏS ilə yerinə yetirilir?
+A) UNIX;	
+B) OS-2;	
+C) Windows NT;	
+D) MS DOS; 
+E) Windows;
+D
+344.	Fayl sistemi, xarici qurğuların drayverləri və əmrlər prosessorundan ibarət tərkib hissəsi olan hansı ƏS-dir?
+A) IBM NTI;  
+B) UNIX;	
+C) MS DOS;  
+D) NETWARE;	
+E) OS-2;
+C
+345.	Informasiya disklərdə hansı şəkildə saxlanılır?
+A) sənəd;	
+B) fayl;	
+C) şəkil;	
+D) video;	
+E) səs;
+B
+346.	Fayllar əksər hallarda hnası diskdə yadda saxlanılır?
+A) ikilik və mətn;	
+B) qrafik və ikilik;	
+C) videofilm və mətn;
+D) sənəd və ikilik;	
+E) proqram mətni və ikilik;
+A
+347.	ƏS-lərin və başqa proqramların fayla müraciəti üçün fayllar?
+A) informasiya daşıyıcısı kimi adalandırılmalıdır; 
+B) sənəd formasina salınmalıdır;
+C) ikilik kodlarına çevrilməlidir;	
+D) işarələnməlidir;
+E) qrafiki şəklə gətirilməlidir;
+D
+348.	Fayl üzərində işarələnmə aparılmaqla faylın nəyi təyin olunur?
+A) simvolu;	
+B) ikilik forması;	
+C) mətni;	
+D) yeri;	
+E) adı;
+E
+349.	DOS ƏS-lərində faylın adı neçə hissədən ibarətdir? 
+A) 4;	
+B) 5;	
+C) 2;	
+D) 3;	
+E) 6;
+C
+350.	DOS ƏS-lərində faylın adı göstərilən hissələr bir-birindən nə ilə ayrılır?
+A) simvolla;	
+B) nöqtəilə;	
+C) vergüllə;	
+D) probelle;	
+E) rəqəmlə;
+B
+351.	DOS ƏS-ində faylın adı 1-dən neçəyə kimi simvollardan ibarət ola bilər?
+A) 1-dən 8-ə kimi;	
+B) 1-dən 2-ə kimi;	
+C) 1-dən 4-ə kimi; 
+D) 1-dən 16-a kimi; 
+E) 1-dən 32- ə kimi;
+A
+352.	DOS ƏS-ində faylın genişləndirilməsi 0-dan neçəyə kimi simvollardan ibarət ola bilər?
+A) 0-dan 16-a kimi;	
+B) 0-dan 4-ə kimi;	
+C) 0-dan 32-ə kimi;	
+D) 0-dan 3-ə kimi; 
+E) 0-dan 8-ə kimi;
+D
+353.	DOS ƏS-ində diskdə faylın adı yalnız hansı hərflərlə yazıla bilər?
+A) böyük kiril hərfləriylə;	
+B) kiçik kiril hərfləri ilə;	
+C) böyük ingilis hərfləri ilə;
+D) kiçik ingilis hərfləri ilə;	
+E) kiçik latın hərfləri ilə;
+E
+354.	Hansı əməliyyat sistemində faylın ad və genişlənməsində latın əlifbasının böyük və kiçik hərfləri, 0-dan 9-a kimi rəqəmlər və müxtəlif simvollar istifadə olunur?
+A) UNİX;	
+B) Windows NT;	
+C) DOS;	
+D) Netware;	
+E) IBM NTI;
+B
+355.	ƏS-lərin inkişafının neçə mümkün istiqamətləri vardır? 
+A) 5;	
+B) 3;	
+C) 6;	
+D) 4;	
+E) 2;
+A
+356.	ƏS-nin inkişafının birinci istiqaməti nə ilə xarakterizə olunur?
+A) mürəkkəbləşməsi ilə;	
+B) inteqrallaşdırılmış sistemlərə gətirilməsi ilə;
+C) İKT-nin tətbiqi ilə;	
+D) kompyüterlərin yığcamlılığı ilə;	
+E) sadələşdirilməsi ilə;
+A
+357.	ƏS-in inkişafının ikinci istiqaməti nə ilə xarakterizə olunur?
+A)	İKT-nin geniş miqyaslı tətbiqi;
+B)	yüksək səviyyəli dilin istifadəsi;
+C)	tətbiqi və sistem proqramlarından geniş istifadə olunması; 
+D) obyektyönlü texnologiyanın ƏS-lərdə tətbiqi;
+E) super kompyüterlərdən səmərəli istifadə;
+D
+358.	ƏS-in inkişafının üçüncü istiqaməti nə ilə xarakterizə olunur?
+A)	aparat və PT birbaşa ƏS-in inkişaf istiqamətini təyin edir;
+B)	aparat təminatında element bazasına xüsusi əhəmiyyət verilir;
+C)	super kompyüterlər yüksək səviyyəli tətbiq sahəsinə malikdir;
+D)	hibrid texnologiyalı sistemlərlə uzlaşması daha yararlıdır;
+E)	ƏS-lər və PT həmişə kompyüter aparat hissəsinin arxitektur həllini əks etdirir;
+E
+359.	ƏS HM-in hansı vasitələrinin əsasını təşkil edir?
+A) aparat vasitələrinin;	
+B) verilənlərin emal vasitələrinin;	
+C) proqram vasitələrinin;	
+D) periferiya qurğuları vasitələrinin;	
+E) tapşırıqların idarə
+C
+360.	Kompyüter qurğularının işinin idarəsi onlar arasında qarşılıqlı əlaqəliliyi, proqramların ƏY- a daxili və s. funksiyaları EHM-in hansı sistemi yerinə yetirir?
+A) verilənlərin emal sistemi(VE
+B);	B) əməliyyat sistemi(ƏS);
+C) tapşırıqların idarəsi sistemi(TİS);	
+D) texniki vasitələr sistemi(TVS);
+E) sistem proqramları sistemi(SPS);
+B
+361.	Çoxsaylı proqram modullarını HM-in hansı sistemi özündə cəmləşdirir?
+A) əməliyyat sistemi(ƏS);	
+B) supervizorlar sistemi(SS);
+C) verilənlərin idarəsi sistemi(VİS); 
+D) verilənlərin emal sistemləri(VES);
+E) tətbiqi proqramlar sistemi(TPS);
+A
+362.	ƏS-nin özəyinin modulları olmasa kompyüter öz işini icra edə bilərmi?
+A) icra edə bilər;	
+B) yalnız sorğulara cavab verə bilər;
+C) yalnız tətbiqi proqramlar işləyə bilər;	
+D) icra edə bilməz;
+E) yalnız nəticəni ötürə bilər;
+D
+363.ƏS-in özəyinin modulları əsas yaddaşda olan zaman o kompyüterin hansı vəziyyətinə təsadüf edir?
+A) kompyüterin gözləmə müddətinə;	
+B) kompyüterin təmir müddətinə;
+C) kompyüterin imtina müddətinə;	
+D) kompyüterin boşuna işləmə müddətinə; 
+E) kompyüterin tam işləmə müddətinə;
+E
+364.	Fayl sistemi, XQ-lərin drayverləri, əmrlər dilinin prosessoru HM-in hansı sisteminin konfiqurasiyasının mütləq komponentləri hesab olunur?
+A) 2000 paralel sisteminin(PS);	
+B) paralel sistemin(PS);
+C) əməliyyat sisteminin(ƏS);	
+D) konveyrli sistemin(ƏS);
+E) Star-100 hesablama sisteminin(HS);
+C
+365.	MPr, ƏY, XY, proqram və s. komponentləri dedikdə hesablama maşının(HM) nıyi başa düşülür?
+A) HM-in texniki təminatı;	
+B) HM-in resursu;	
+C) HM-in proqram təminatı ;
+D) HM-in emal sistemi;	
+E) HM-in supervizoru;
+B
+366.	Kompyüter qoşulması ilə hansı sistem yüklənir?
+A) əməliyyat sistemi;	
+B) daimi yaddaş sistemi;	
+C) ikinci yaddaş sistemi;
+D) Keş yaddaş sisetmi;	
+E) paralel emal sistemi;
+A
+367.	Proqram, istifadəçi, əmrli və obyektyönlü funksiyalarına malik olan HM-in hansı qurğusuna aid olunur?
+A) HM-in proqram təminatı sisteminə;	
+B) HM-in aparat sisteminə;
+C) HM-in verilənlərin emal sisteminə;	
+D) HM-in interfeysinə;	
+E) HM-in ƏS-inə;
+D
+368.	Qurğu və proqramların qarşılıqlı əlaqəsini təmin edən vasitələr çoxluğu kimi HM-in interfeysinin hansı növü başa düşülür?
+A) ünvan interfeysi;	
+B) ümumi şin interfeysi;
+C) sistem interfeysi;	
+D) istifadeçi interfeysi;	
+E) proqram interfeysi; 
+E
+369.İstifadəçinin kompyüterle qarşılıqlı əlaqəliliyini təmin edən vasitələr çoxluğu kimi HM-im interfeysinin hansi növü başa düşülür?
+A) proqram interfeysi;	
+B) ünvan interfeysi;	
+C) istifadəçi interfeysi;
+D) idarə interfeysi;	
+E) verilənlər interfeysi;
+C
+370.	Əmrləri klaviaturadan daxil etməyə imkan verən vasitələr çoxluğu kimi HM-in interfeysinin hansı növü başa düşülür?
+A) məlumatlar interfeysi;	
+B) əmrli interfeysi;	
+C) verilənlər interfeysi;
+D) sistem interfeysi;	
+E) idarə interfeysi;
+B
+371.	İstifadəçilərinə,məsələlərin, prosessorun mərtəbələrinin və s. sayı dedikdə HM-in hansı sisteminin təsnifat növləri hesab olunur?
+A) əməliyyat sisteminin;	
+B) star-100 sisteminin;	
+C) 2000-paralel sisteminin;
+D) İLLAC-4 sisteminin;	
+E) Hiperkub sisteminin;
+A
+372.	Biristifadəçili və çoxisitifadəçili növə malik istifadəçi sistemlə necə işləmə adlanır?
+A)	sistemin gözləmə müddətində işləmə;
+B)	sistemin boşuna işləməsi müddətində işləmə;
+C)	sistemin təmiri müddətində işləmə; 
+D) sistemlə eyni vaxtla işləmə;
+E) sistemin imtinasi zamani işləmə;
+D
+373.	RVM,vaxt bölgülü paketli emalı informasiyanın emalı rejiminin növləri HM-in hansi siteminin təsnifatı hesab olunur?
+A) verilənlərin emal sistemini(VES);	
+B) PARAQON sisteminin;
+C) MİSD sisteminin;	
+D) SİSD sisteminin ;	
+E) əməliyyat sisteminin;
+E
+374.	Müraciətdən mühafizə vasitələrinin olmaması hansı əməliyyat sisteminin çatişmayan cəhəti hesab olunur?
+A) OS-2;	
+B) IBM NTI;  
+C) DOS;	
+D) WINDOWS;	
+E) UNIX;
+C
+375.	Tətbiqi proqramların paralel işləməsini təmin edən,işləyən proqramları bir birindən, ƏS-i isə işləyən proqramlardan mühafizə edən hansı əməliyyat sistemidir?
+A) IBM-60;	
+B) OS-2;	
+C) NETWARE;	
+D) WINDOWS-2004;	
+E) UNIX;
+B
+376.	OS-2 Warp 3.0,OS-2 Warp Connect ,OS-2 Warp server hansı əməliyyat sisteminin modifikasiyasıdır?
+A) OS-2;	
+B) OS-1;	
+C) OS-3;	
+D) Windows-2008;	
+E) Windows-2004;
+A
+377.	Yaddaşdan istifadə və qrafiki interfeysin təkmilləşdirilməsi hansı əməliyyat sisteminin fəaliyyətinə xarakterikdir?
+A) UNIX;	
+B) IBM NTI;  
+C) IBM-60 ;	
+D) OS-2 Warp3.0 ;	
+E) Netware;
+D
+378.	Az saylı kompyüterlərin olması hansı əməliyyat sistemlərin çatışmamazlığıdır?
+A) Netware;	
+B) Windows;  
+C) OS-3;	
+D) OS-1;	
+E) OS-2;
+E
+379.	Paylanmış verilənlər bazasına müraciət LŞ -işləmə qlobal şəbəkəyə çıxış imkanın olması hansı əməliyyat sisteminə xarakterikdir?
+A) Windows;  
+B) Netware;	
+C) UNIX;	
+D) OS-2;	
+E) UNIX-3;
+C
+380.	Qrafiki interfeysli, çoxməsələli olmaq xüsusiyyətləri hansı əməliyyat sisteminə xarakterikdir?
+A) OS-2;	
+B) Windows; 
+C) UNIX-3 ; 
+D) IBM NTI; 
+E) Netware;
+B
+381.	Faylın adı təyin olunmaqla fayl üzərində hansı əməliyyat aparılır?
+A) işarələnmə aparılır;	
+B) simvolun təsviri verilir;	
+C) əməliyyatın tipi verilir;
+D) qrafiki təsviri verilir;	
+E) ikilik təsviri göstərilir;
+A
+382.	Faylın adı iki hissədən ibarət olan xususiyyət hansı əməliyyat sisteminə xaraktrikdir?
+A) IBM-NTI;  
+B) Windows; 
+C) Netware;	
+D) OS-2;	
+E) DOS;
+D
+383.	Faylın adı göstərilən hissələr bir birindən nöqtə ilə ayrılan xüsusiyyət hansı ƏS-ə xarakterikdir?
+A) Netware;	
+B) OS-3;	
+C) IBM-NTI; 
+D) OS-2;	
+E) DOS;
+E
+384.	Faylın adı 1-dən 8-ə kimi göstərilən simvollardan ibarət olan xüsusiyyət hansı əməliyyat sisteminə xarakterikdir?
+A) UNİX;	
+B) İBM NTİ;  
+C) DOS;	
+D) DOS-3;	
+E) DOS-2;
+C
+385.	Faylın genişləndirilməsi 0-dan 3-ə kimi göstərilən simvollardan ibarət olan xüsusiyyət hansı əməliyyat sisteminə xarakterikdir?
+A) UNİX-3;	
+B) DOS;	
+C) İBM NTİ;  
+D) Netware;	
+E) OS-2;
+B
+386.	Diskdə faylın adı yalnız kiçik latın hərfləri ilə yazılma xususiyyəti hansı əməliyyat sisteminə xarakterikdir?
+A) DOS;	
+B) Windows;  
+C) Netware;	
+D) IBM NTI; 
+E) IBM-60;
+A
+387.	Mürəkkəbləşməsi ilə xarakterizə olan xüsusiyyət əməliyyat sisteminin inkişafının hansı istiqamətidir?
+A) dördüncü;  
+B) beşinnci;	
+C) üçüncü;	
+D) birinci;	
+E) ikinci;
+D
+388.	Obyektyönlü texnologiyanın əməliyyat sistemlərində tətbiqi ilə xarakterizə olunan xüsusiyyət əmliyyat sisteminin inkişafının hansı istiqamətidir?
+A) 6;	
+B) 5;	
+C) 3;	
+D) 4;	
+E) 2;
+E
+389.	ƏS-lər və PT həmişə kompyüterin aparat hissəsinin arxetiktur həllini əks etdirən xüsusiyyət əməliyyat sisteminin inkişafının hansı istiqamətidir?
+A) 5-ci;	
+B) 4-cü;	
+C) 3-cü;	
+D) 6-cı;	
+E) 2-ci;
+C
+390.	Proqram vasitələrinin əsasını HM-in hansı sistemi təşkil edir?
+A) operativ emal sistemi ( OEB );	
+B) konveyrli sistem( KC ); 
+C) əməliyyat sistemi( ƏD );
+D) windows sistemi( WE ); 
+E) vaxt bölgülü sistem( VBA );
+C
+391.	Windows NT ƏS-i neçə mərtəbəli əməliyyat sistemidir ?
+A) 32 mərtəbəli;	
+B) 8 mərtəbəli;	
+C) 16 mərtəbəli;	
+D) 4 mərtəbəli; 
+E) 64 mərəbəli;
+A
+392.	Windows 95,98,2000 və Windows NT ƏS-lərə hansı əməliyyat sistemləri ailəsinin üzvləridir?
+A) PC DOS;	
+B) MIS DOS; 
+C) IBM NTI;  
+D) Windows ailəsinin;	
+E) UNIX;
+D
+393.	Hal hazirda UNIX ailəsindən olan şəbəkə ƏS-dən geniş yayılanı neçə mərtəbəli əməliyyat sistemidir?
+A) 64 mərtəbəli;	
+B) 128 mərtəbəli;	
+C) 16 mərtəbəli;	
+D) 8 mərtəbəli; 
+E) 32 mərtəbəli;
+E
+394.	UNIX ailəsindən olan geniş yayılmış çoxməsələli hansı əməliyyat sstemi hesab olunur?
+A) Netware;	
+B) OS/2;	
+C) UNIX Ware 2.0;	
+D) MS DOS; 
+E) DR DOS;
+C
+395.	Windows-95 neçə mərtəbəli əməliyyat sistemidir?
+A) 64 mərtəbəli;	
+B) 16 mərtəbəli;	
+C) 8 mərtəbəli;	
+D) 4 mərtəbəli; 
+E) 32 mərtəbəli;
+B
+396.	Windows-98 neçə mərtəbəli əməliyyat sistemidir?
+A) 32 mərtəbəli;	
+B) 4 mərtəbəli;	
+C) 8 mərtəbəli;	
+D) 64 mərtəbəli;	
+E) 16 mərtəbəli;
+A
+397.	Windows NT server ilk növbədə şəbəkə resurslarının hansı funksiyasını yerinə yetirmək üçündür?
+A) resusların qarşılıqlı əlaqəliliyi üçündür; 
+B) informasiyanın saxlanması üçündür;
+C) informasiyanın ötürülməsi üçündür;	
+D) idarə olunması üçündür;
+E) emal olunması üçündür;
+D
+398.	MS DOS və windows ƏS-lərinə nisbətən OS-2-nin geniş yayılmasına nə səbəb olmuşdur?
+A) Flin təsnifatından istifadə etməməsi;	
+B) SİSD sistemindən istifadə etməməsi;
+C)	az saylı emal edici proqramlara malik olması;
+D)	az saylı sistem proqramlarına malik olması;	
+E) az saylı tətbiqi proqramlara malik olması;
+E
+399.	Windows əməliyat sisteminin hans variantı yalnız sistemin idare olunması üçün nəzərdə tutulur?
+A) UNIX Ware 2.0;	
+B) UNIX;	
+C) Windows NT server;	
+D) OS-2;	
+E) MS DOS;
+C
+400.	Qoyulmuş məqsədlərdən asılı olaraq ƏS-in tərkibi necə ola bilər?
+A) Sadə;	
+B) Müxtəlif;	
+C) İerarxiyalı; 
+D) Mürəkkəb; 
+E) ağacvari;
+B
+401.	ƏS-in istifadəçi interfeysinin hansi növləri vardır?
+A) əmrlər və obyektyönlü;	
+B) birməsələli və coxməsələli;
+C) birprosessorlu və coxprosessorlu; 
+D) biristifadəçili və coxistifadəçili;	
+E) şəbəkəli və lokal;
+A
+402.	ƏS-in istifadəçi interfeysinin tipinə görə neçə növü vardır? 
+A) 6;	
+B) 4;	
+C) 5;	
+D) 2;	
+E) 3;
+D
+403.	Əməliyyat sisteminin mərtəbəliliyi hansı qurğunun mərtəbəliliyi ilə təyin olunur?
+A) idarə qurğusunun ;
+B) sürüşkən nöqtəli blokun; 
+C) HMQ-nin; 
+D) ikinci yaddaşın; 
+E) prosessorun;
+E
+404.	1,16,32, və 64 mərtəbələrinə bölünən ƏS təsnifatının hansı istiqamətinə aiddir?
+A) birinci;	
+B) səkkizinci; 
+C) üçüncü;	
+D) dördüncü; 
+E) ikinci;
+D
+405.	Mətn interfeysli növləri ƏS-in təsnifatının hansı istiqamətinə uyğun gəlir?
+A) beşinci;	
+B) ikinci;	
+C) altıncı;	
+D) dördüncü; 
+E) səkkizinci;
+A
+406.	Real vaxt miqyaslı,vaxt bölgülü və paket emalı növləri ƏS-in təsnifatınn hansı istiqamətinə aid olunur?
+A) ikinci;	
+B) altıncı;	
+C) beşinci;	
+D) üçüncü;	
+E) yeddinci;
+B
+407.	ƏS-lərin şəbəkə və lokal olmaqla iki hissəyə bölünməsi onun təsnifatının hansı istiqamətinə cavab verir?
+A) dördüncü;  
+B) ikinci;	
+C) yeddinci;	
+D) birinci;	
+E) üçüncü;
+C
+408.	Məsələnin həlli üçün bir neçə prosessor resuslarının paylanması rejiminə imkan verən coxprosessorlu ƏS-nin təsnifatının hansı istiqamətində qərarlaşır?
+A) altıncı;	
+B) beşinci;	
+C) ikinci;	
+D) səkkizinci; 
+E) üçüncü;
+E
+409.	Mövcud HS çərçivəsində eyni vaxtda bir neçə proqramın paralel yerinə yetirilməsinə imkan verən ƏS təsnifatının hansı istiqamətinə uyğun gəlir?
+A) altıncı;	
+B) dördüncü;  
+C) üçüncü;	
+D) ikinci;	
+E) beşinci;
+D
+410.	Coxistifadəçili ƏS-lə kompüterdə eyni vaxtda müxtəlif terminallarla bir neçə istifadəçinin işləməsinə imkan verən ƏS-ləri növü onun hansı əlamətinə uyğun gəlir?
+A) birinci;	
+B) altıncı;	
+C) ikinci;	
+D) üçüncü;	
+E) beşinci;
+A
+411.	MS DOS ƏS-ində qrup fayllarını işarə etmək üçün nələrdən istifadə olumalıdır?
+A) ikilik rəqəmlərdən;	
+B) şablonlardan;	
+C) mətn fayllarından;
+D) simvollardan;	
+E) latın hərflərindən;
+B
+412.	MS DOS ƏS-ində şablonda qlobal simvollardan istifadə etməklə hansı əlamətlər işarə olunur?
+A) mətn faylları və faylin adı;	
+B) faylın adı və ötürülməsi;	
+C) faylın adı və genişlənməsi;	
+D) ikilik rəqəmlər və faylın adı;	
+E) mətn faylları və
+C
+413.	MS DOS-da şablonda qlobal simvollar dedikdə hansı simvollar başa düşülür?
+A) ulduz(*) və vergül(,);	
+B) böyük(>) və kçik(<);	
+C) tire(-) və nida işarəsi(!);
+D) vergül(,) və faiz(%);	
+E) ulduz(*) və sual(?);
+E
+414.	MS DOS ƏS-də faylın adında,genişlənməsində ulduz işarəsi nəyi göstərir?
+A)	onun göstərilməsi heç bir işarə etmir;
+B)	adın sonunda xususi işarələrdən istifadə edilməsi nəzərə alınır;
+C)	adın əvvəlində xususi işarələr əlavə etmək olar;
+D)	bu mövqedən başlayaraq adın sonuna kimi ixtiyari işarə ola bilər;
+E)	eyni zamanda adın həm əvvəlində həm də sonunda xususi işarələrdən istifadə oluna bilər;
+D
+415.	MS DOS ƏS-də sual işarəsi nəyi göstərir?
+A)	bu mövqedə ixtiyari mümkün işarə ola bilər;
+B)	ixtiyari mümkün işarə ola bilməz;
+C)	yalnız istifadəçi sorğusu sistemə verildikdən sonra ;
+D)	yalniz sorğular emal olunduqdan sonra;
+E)	LİKO prinsipi istifadə edilməklə;
+A
+416.	MS DOS ƏS-ində faylın adında bir neçə sual işarəsi ola bilərmi?
+A) qəti mümkün deyil;	
+B) ola bilər;	
+C) yalnız kiçik hərflərdən istifadə olunarsa;
+D) yalnız böyük hərflərdən istifadə olunarsa;	
+E) simvolun əvvəli böyük hərflərlə başlayarsa;
+B
+417.	MS DOS ƏS-ində faylların axtarışında,yerləşdirilməsində,silinməsində və s. hansı simvollardan istifadə olunur?
+A) ikilik rəqəmlərdən;	
+B) mətn fayllarından;	
+C) qlobal simvollardan;
+D) ixtiyari simvollardan;	
+E) latın hərflərindən;
+C
+418.	Hansı ƏS-lərdə uzun adlı fayllardan istifadə oluna bilər?
+A)	Netware,Windows95/98,OS-2;
+B)	Windows 95/98,IBM NTI;
+C)	OS-2,SIMULA,UNIX;
+D)	Windows NT,SCOANIX Ware 2.1; 
+E) Windows 95/98,OS-2,Windows NT;
+E
+419.	Windows 95/98,OS-2,windows NT ƏS-lərində uzun adlı fayllarda 254 simvola kimi istifadə edilməsinə baxmayaraq nə qədər simvola istifadə edilməsi məsləhət görülür?
+A) 20-40 simvola kimi;	
+B) 10-20 simvola kimi;	
+C) 80-90 simvola kimi; 
+D) 60-70 simvola kimi;	
+E) 30-50 simvola kimi;
+D
+420.	DOS ƏS-ində DOS qurğularını işarə etmək üçün adlardan istifadə etmək olarmı?
+A) olar;	
+B) olmaz;	
+C) böyük simvollardan istifadə olunarsa;
+D) kiçik simvollardan istifadə olunarsa;	
+E) ikilik rəqəmlərdən istifadə olunarsa;
+A
+421.	DOS ƏS-ində DOS qurğularını işarə olunan adlardan faylların adlandırılmasında istifadə etmək olarmı?
+A) giriş qurğuları üçün;	
+B) olmaz;	
+C) çıxış qurğuları üçün;
+D) istifadəçi interfeysi üçün;	
+E) əlavə interfeys üçün;
+B
+422.	DOS-un qurğularını işarə etmək üçün istifadə olunan adlardan DOS-un əmrlərində informasiyanın kompüterin qurğuları ilə hansı əməliyyatında təşkilində istifadə olunur?
+A) verilənlərin idarə olunması üçün;	
+B) tapşırıqların  idarəsi  üçün; 
+C) giriş-çıxışı təşkil etmək üçün;	
+D) emal olunmanın təşkili üçün;
+E) sistemin işə başlanması üçün;
+C
+423.	DOS-un əmrlərində faylın adı yerinə PRM göstərilibsə onu necə başa düşməli?
+A) işə başlamaya işarədir;	
+B) işə imtinaya işarədir;
+C) komputerin boşuna işləməsinə işarədir; 
+D) printer;
+E) kompüterin dayanmasına işarədir;
+D
+424.	DOS qurğularının LPT1÷LPT4 kimi göstərilibsə o nəyə işarədir?
+A) ünvan şininin olmasına işarədir; 
+B) verilənlər şininin olmasına işarədir;
+C) istifadəçi interfeysinə işarədir;	
+D) sistem şininə işarədir; 
+E) 1-4 paralel portları göstərir;
+E
+425.	DOS qurğularının adı COM1-COM4 kimi göstərilibsə o nəyə işarədir?
+A)	1-4 ardıcıl potları göstərir;
+B)	məlumatların paralel daxil edilməsini göstərir;
+C)	məlumatların ardıcıl olaraq istifadəçilərə ötürülməsini göstərir;
+D)	sistemin qurğularının qarşılıqlı əlaqəliliyini göstərir;
+E)	sistemin qurğularının paralel işə salınmasşna işarədir;
+A
+426.	Dos qurğularnın adı AUX kimi göstırilibsı onu necə başa düşməli?
+A) 2 ardıcıl portuna birləşdirilən qurğu; 
+B) 1 ardıcıl portuna birləşdirilən qurğu;
+C)	4 ardıcıl portuna birləşdirilən qurğu;
+D)	3 ardıcıl portuna birləşdirilən qurğu;
+E)	bütün qurğuların fəaliyyətdə olmasına işarədir;
+B
+427.	DOS qurğularının adı CON kimi göstərilibsə onu necə başa düşməli?
+A) Giriş üçün ekran , çıxış üçün-klaviatura;		
+B) Yalnız giriş üçün ekran ; 
+C) Giriş üçün klaviatura ,çıxış üçün -ekran;	
+D) Yalnız giriş üçün klaviatura ;
+E) Yalnız çıxış üçün - ekran;
+C
+428.	Dos qurğularının adı NUL kimi göstərilmiş olarsa onu nece başa düşmeli?
+A) "İşdən aralanma"qurğu kimi ;	
+B) "İşdən imtina"qurğu kimi;
+C) "Saz işləyən"qurğu kimi;	
+D) "Boş"qurğu kimi;	
+E) "İşə başlama"qurğu kimi;
+D
+429.	DOS ƏS-ində faylların adlarının genişlənməsində hansı adlardan istifadə olunur?
+A) .COM1, .COM2, COM3; 
+B) .COM1, .COM2, COM3, COM4;
+C) .PRN, .AUX, .COM1;	
+D) .PRN, .AUX, .COM, COM2; 
+E) .PRN, .AUX, .COM, .NUL;
+E
+430.	DOS ƏS-ində faylların adlarının genişlənməsində hansı adlıardan isitifadə olunur?
+A) A;   
+B) H;  
+C) S;	
+D) R; 
+E) P;
+A
+431.	DOS ƏS-ində “sistem fayl” kimi hansı fayl atributundan istifadə olunur?
+A) R;  
+B) S;	
+C) P;	
+D) H; 
+E) A;
+B
+432.	DOS ƏS-ində “gizli fayl” kimi hansı fayl atributundan istifadə edilir?
+A) P; 
+B) R; 
+C) H; 
+D) S; 
+E) T;
+C
+433.	DOS ƏS-ində “yalnız oxunan” kimi hansı fayl atributundan istifadə olunur?
+A) M; 
+B) K; 
+C) T; 
+D) A; 
+E) R;
+E
+434.	DOS ƏS-ində kataloq xüsusi fayl kimi hansı funksiyanı yerinə yetirir?
+A)	qurğular arasında qarşılıqlı əlaqəliliyi saxlamadan imtina edir;
+B)	boşuna işləyən zaman onda olan informasiya itir;
+C)	boşuna işləmə müddətində informasiyanı qəbul etmir; 
+D) digər fayllar haqqında informçasiyanı özündə saxlayır;
+E) digər fayllar haqqında olan informasiyanı digər qurğuya ötürür;
+D
+435.	DOS ƏS-ində kataloq xüsusi fayl kimi hansı məlumatları özündə cəmləşdirir?
+A)	faylların tam adı, ölçüsü, yaradılma vaxtı, atributu və s.;
+B)	bütün qurğuların fəaliyyəti, onların qarşılıqlı əlaqəliliyi və s.;
+C)	məlumatların paralel daxili, paralel işləməsi və s.;
+D)	qurğuların 1-ci porta, 2-ci porta, 3-cü porta birləşmələri və s.;
+E)	qurğuların işdən imtina müddəti, boşuna işləmə müddəti və s.;
+A
+436.	Faylların tam adı, ölçüsü, yaradılma vaxtı atributu və s. DOS ƏS-in hansı faylında öz təsvirini tapır?
+A) “yalnız oxunan” faylda;	
+B) kataloq faylında;	
+C) “gizli faylda”;
+D) “sistem faylında”;	
+E) “arxivləşdirilmiş faylda;
+B
+437.	Digər fayllar haqqında informasiyanı özündə saxlayan DOS ƏS-in hansı faylıdır?
+A) “Gizli faylı”;	
+B) “Yalnız oxunan”faylı;	
+C) Xüsusi kataloq faylı;
+D) sistem faylı;	
+E) arxivləşdirilmiş faylı;
+C
+438.R - atributundan istifadə edən DOS ƏS -in hansı faylıdır ?
+A) “kataloq fayl”;	
+B) “arxivləşdirilmiş fayl”;	
+C) “sistem fayl”;
+D) “gizli fayl”;	
+E) “yalnız oxunan”;
+E
+439.H - atributundan istifadə edən DOS ƏS -in hansı faylıdır ?
+A) “sistem fayl”;  
+B) “kataloq fayl”; 
+C) “yalnız oxunan”;   
+D) “gizli fayl”;	
+E) “arxivləşdirilmiş fayl”;
+D
+440.S - atributundan istifadə edən DOS ƏS -in hansı faylıdır ?
+A) “sistem fayl”;	
+B) “arxivləşdirilmiş fayl”;	
+C) “gizli fayl”; 
+D) “yalnız oxunan ”; 
+E) “kataloq fayl”;
+A
+441.A - atributundan istifadə edən DOS ƏS - in hansi faylıdır ?
+A) “kataloq fayl”; 
+B) “arxivləşdirilmiş fayl”; 
+C) “yalnız oxunan” ; 
+D) “sistem fayl”; 
+E) “gizli fayl”;
+B
+442.DOS əməliyyat sistemində alt kataloq anlayışını necə başa düşürsünüz ?
+A)	Kataloqun daxilində bir neçə kataloq qeyd oluna bilər;
+B)	Kataloqun daxilində idarə proqramları qeyd olunur; 
+C) Kataloqun daxilində başqa bir kataloq qeyd olunarsa;
+D)	Kataloqun daxilində tətbiqi proqramlar qeyd olunur;
+E)	Kataloqun daxilində supervizorun fəaliyyəti qryd olunur; 
+C
+443.DOS ƏS -in diskində neçə baş kataloq olur ?
+A) 2;	
+B) 4;	
+C) 3;	
+D) 5;	
+E) 1;
+E
+444.DOS ƏS -in baş kataloqunda nələr qeyd olunur ?
+A) Fayl və tətbiqi proqramlar;	
+B) Sistem proqramları və fayl;
+C) alt kataloqlar və triqonometrik funksiyalar;	
+D) Fayl və altkataloqlar;
+E) Fayl və standart funksiyalar;
+D
+445.DOS ƏS -in formatlaşmış diskində baş kataloq varsa o proqram vasitələri ilə silinə bilərmi ?
+A) Silinə bilməz;	
+B) Asanlıqla silinə bilər;
+C) Yalnız istifadəçi interfeysi vasitəsi ilə ;   
+D) Giriş portları;	
+E) Sistem şini vasitısilə; 
+A
+446.Kompyüterdə hansı növ disklərdən istifadə olunur ?
+A) Sərt disk, plastiki disk, fləş və s. ; 
+B) Sərt disk,disket,kompakt disk və s.;
+C)	Plastiki disk,disket, maqnit diski və s.;
+D)	Disket, maqnit lenti, kompakt disk və s.;
+E)	Kompakt disk, disket, maqnit diski və s.;
+B
+447.Disklərdə yerləşən fayl və kataloqlara müraciət üçün hansı addan istifadə olunur ?
+A) Sərt disk və disketin adından ;	
+B)         Kataloqun         adından         ; 
+C) Disk aparıcısının adından;	
+D) Sərt disk və kompakt diskin adından ;
+E) Kompakt və sərt diskin adından; 
+C
+448.Disk aparıcıları necə adlandırılır ?
+A) A:,B:,E:,K: və s;	
+B) C:,D:,L:,M:və.s;	
+C) P:,R:,S:,T:və.s;
+D) A:,K:,L:,M:və.s;	
+E) A:,B:,C:,D:və.s.;
+E
+449.Disk aparıcıları həm də necə adlanır ?
+A) Məntiqi disklər adı;	
+B) Qeyri səlis disklər;	
+C) Qeyri-məntiqi disklər;
+D) Fiziki-məntiqi disklər;	
+E) Elastiki disklər; 
+A
+450.Bir neçə məntiqi diski necə yaratmaq olar ?
+A)	Kompakt diski bir neçə hissəyə bölməklə;
+B)	Disketi iki və daha çox hissəyə bölməklə;
+C)	Maqnit diskini daha çox hissələrə bölməklə;
+D)	Sərt diski (vinçestr)iki və daha çox hissəyə bölməklə;
+E)	Fləşi hissələ bölməklə;
+D
+451.	DOS- un imkanlarını hansı proqramlar genişləndirir ?
+A) Drayver və sistem proqramlar;	
+B) Drayver və rezident proqramlar;
+C) Drayver və tətbiqi proqramlar;	
+D) Rezident və emaledici proqramlar;	
+E) Heç biri;
+B
+452.	DOS- da qurğulara müraciəti 1Mbaytdan yaddaşa müraciəti genişlənməsi hesabına disklərlə daxiletmə-xaricetmə əməliyyatlarının sürətini artırmağa və sairlərini hansı proqramlarla yerinə yetirilir ?
+A)	Tapşırıqların və verilənlərin proqramları;
+B)	Tətbiqi proqramlar və drayver;
+C)	Sistem proqramları və rezident proqramlar;
+D)	Supervizor proqramları və tətbiqi proqramlar; 
+E) drayver və rezident proqramlarla;
+E
+453.	Rezident proqramlar necə sazlanır ?
+A)	DOS-un dəvəti ekranda göründükdən sonra adi proqramlar kimi;
+B)	Tətbiqi proqramlarının müraciəti zamanı adi proqramlar kimi;
+C)	DOS -un başlanğıc yüklənməsi sona çatdıqdan sonra və ekranda DOS-un dəvəti göründükdən sonra;
+D)	Əməli yaddaşın bir hissəsini tutmaqla supervizorun dəvətindən sonra;
+E)	Emaledici proqramlar işə düşmə müddətinə qədər;
+C
+454.	Drayverlərin sazlanması hansı şəkildə həyata keçirilir?
+A)	DOS-un başlanğıc yüklənməsində xüsusi fayl və əmrlərin köməyi ilə;
+B)	xüsusi tətbiqi proqramların və əmrlərin köməyi ilə;
+C)	xüsusi sistem proqramları və faylların köməyi ilə;
+D)	verilənlərin idarə proqramları və faylların köməyi ilə;
+E)	tapşırıqların idarə proqramları və əmrlərin köməyi ilə;
+A
+455.	UNİX ƏS-in vacib hissəsi onun hansı sistemidir?
+A) kataloq sistemi;	
+B) İLLİAC-IV;	
+C) Flin sistemi; 
+D) fayl sistemi; 
+E) verilənlərin emal sistemi;
+D
+456.	UNİX-in fayl sistemi hansı struktura malikdir?
+A) ağacvari;	
+B) ierarxiv;	
+C) ulduzvari;  
+D) şinvari;	
+E) qarışıq;
+B
+457.	UNİX ƏS-də ana kataloq hansı simvolla işarə olunur?
+A) !;	
+B) &;   
+C) %;  
+D) $;	
+E) “/”;
+E
+458.	UNİX-in kataloqu dedikdə nə başa düşülür?
+A)	ieraraxik çoxsəviyyəli idarə olunma kimi başa düşülür;
+B)	istifadəçinin sorğularının yerləşdiyi fayl kimi başa düşülür; 
+C) istifadəçinin ierarxiv fayl sistemində yeri başa düşülür;
+D)	supervizorun fayl sisteminə müdaxiləsi kimi başa düşülür;
+E)	emaledici proqramların fayllarla fayl sistemindəki verilənlərin emalı kimi başa düşülür;
+C
+459.	1-dən 14-ə kimi uzunluğa malik simvollar dəsti UNİX ƏS-nin hansı versiyasına aid olunur?
+A) OS-2 sistemi;	
+B) Unix sistemi;	
+C) Netware;	
+D) V Sustem sistemi;	
+E) MS DOS;
+D
+460.	Daxil edilmə axını, xaric edilmə axını və standart protokol axını hansı əməliyyat sisteminə aid olunur ?
+A) UNİX əməliyyat sisteminə;	
+B) Netware əməliyyat sisteminə;
+C) İBM NTİ əməliyyat sisteminə;	
+D) OS-2 əməliyyat sisteminə;	
+E) MS DOS əməliyyat sisteminə;
+A
+461.	UNİX əməliyyat sistemində neçə standart axın mövcuddur? 
+A) 2;	
+B) 5;	
+C) 6;	
+D) 4;	
+E) 3;
+E
+462.	UNİX ƏS -ində giriş,çıxış və səhv standart axınlar uyğun olaraq hansı nömrələnməyə malikdir ?
+A) 2,4,6;	
+B) 0,1,2;	
+C) 3,5,7;	
+D) 0,2,4;	
+E) 0,3,4;
+B
+463.Özək əsasında ƏS -in idarəsi ilə işləyən hesablama sistemi (HS) neçə ierarxik yerləşdirilmiş laydan ibarətdir ?
+A) 2;	
+B) 4;	
+C) 3;	
+D) 5;	
+E) 6;
+C
+464.Özək əsasında ƏS-in idarəsi ilə işləyən hesablama sistemi (HS) ierarxik yerləşdirilmiş hansı növ laylardan ibarətdir ?
+A)	supervizor, idarə proqramları və verilənlər bazası;
+B)	texniki vasitələr, tətbiqi proqramlar və verilənlərin idarə proqramları;
+C)	istifadəçi əlavələri, proqram təminatı və ƏS- in özəyi;
+D)	ierarxın idarə olunma səviyyələri, səviyyələrə görə protokollar; 
+E) aparatura, ƏS -in özəyi, utilitlər və.s;
+E
+465.İstənilən tip mürəkkəb sistemlərin dekompozisiya üsulunun çoxsaylı yanaşması ilə hansı nəticə alınır ?
+A)	tamamilə məhsuldarsız;
+B)	layların azaldılması ilə yeni optimal yanaşmadan istifadə ;
+C)	idarə proqramlarını bütün səviyyə və laylar üzrə istifadəsi; 
+D) universal və effektiv ;
+E) universal ancaq səmərəsiz;
+D
+466.ƏS -in çoxsaylı strukturunda hər bir lay müxtəlif funksiyalar yığımını yerinə yetirməklə hansı laya xidmət edir ?
+A) özündən yuxarıda yerləşən laya ;	
+B) özündən aşağıda yerləşən laya;
+C)	sonuncu laya.əgər məntiqi funksiyaları icra etmiş olarsa;
+D)	birinci laya;	
+E) hər bir laya xidmət etmir;
+A
+467.ƏS -in nüvəsi mürəkkəb çoxfunksiyalı olmaqla kompleks olmaqla neçə laydan ibarətdir ? 
+A) 2;	
+B) 5;	
+C) 3;	
+D) 6;	
+E) 4;
+B
+468.ƏS- in nüvəsinin çoxsaylı strukturu hansı laylardan ibarətdir ?
+A)	texniki təminat,komponentlərisupervizor, verilənlər bazası;
+B)	proqram komponentləri, ƏS-in idarə proqramları;
+C)	aparat vasitələri, maşından asılı komponentlər, özəyin baza mexanizmləri, resurslar, menecerləri və sistemli çağırış interfeysləri;
+D)	istifadəçi əlavələri, özəyin modulları, proqram modulları;
+E)	ƏS - in müxtəlif versiyaları, emal sistemləri, uzaqdan idarə olunma;
+C
+469.Mikronüvəli arxitekturanın imtiyazlı rejimində yalnız ƏS -in hansı hissəciyində işləməlidir ?
+A) utilitli ƏS -də ;	
+B) istifadəçi əlavələrində;
+C) ƏS serverlərində;  
+D) mikroözəkli ƏS- də;	
+E) istifadəçi rejimində; 
+D
+470.Mikronüvəli ƏS -in işi məşhur hansı modelə uyğun gəlir ?
+A) sifarişçi-server modelinə;	
+B) istifadəçi- sistem modelinə;
+C) istifadəçi -server modelinə;	
+D) istifadəçi əlavələri-mikronüvə modelinə;
+E) serverlər- mikronüvə modelinə;
+A
+471.	Rəqəm avtomatında çıxma əməli hansı əməliyyatlar vasitəsi ilə yerinə yetirilir?
+A) Vurma;	
+B) Bölmə;	
+C) Bölmə + sürüşdürmə;
+D) Vurma + sürüşdürmə;	
+E) Toplama.
+E
+472.	Rəqəm avtomatında vurma əməli hansı əməliyyatlar vasitəsi ilə yerinə yetirilir?
+A) Toplama + vurma;	
+B) Toplama + sürüşdürmə;
+C) Toplama + çıxma;	
+D) Vurma + sürüşdürmə;	
+E) Çıxma + sürüşdürmə.
+B
+473.	Rəqəm avtomatlarında bölmə əməli hansı əməliyyatlar vasitəsi ilə yerinə yetirilir?
+A) Vurma + sürüşdürmə;	
+B) Vurma;	
+C) Çıxma;
+D) Vurma + çıxma;	
+E) Toplama + sürüşdürmə.
+E
+474.	Rəqəm avtomatları hansı 2 hissədən ibarət olur?
+A) Yaddaş + registrlər;	
+B) Əməliyyatçı avtomat + yaddaş;
+C)	Əməliyyatçı avtomat + idarəedici avtomat;
+D)	İdarəedici avtomat + registr;	
+E) Əməliyyatçı avtomat + registr.
+C
+475.	Kombinasiya sxemi nədir?
+A)	Kombinasiya sxemində hər diskret zaman anında çıxış siqnallarının kombinasiyası həmin anda girişə verilən siqnalların kombinasiyası ilə müəyyən edilir;
+B)	Kombinasiya sxemində hər diskret zaman anında çıxış siqnallarının kombinasiyası həmin anda girişə verilən siqnalların kombinasiyası ilə müəyyən edilmir;
+C)	Kombinasiya sxemi yaddaş elementlərindən təşkil olunur;
+D)	Kombinasiya sxemi yaddaş registrlərdən təşkil olunur;
+E)	Kombinasiya sxemi yaddaş cəmləyicilərdən təşkil olunur;
+A
+476.	Rəqəm avtomatının kombinasiya sxemindən fərqli nədir?
+A)	Sonlu sayda daxili vəziyyətlərə malikdir;
+B)	Rəqəm avtomatında idarəedici qurğu olmur;
+C)	Rəqəm avtomatında əməliyyatçı avtomat olmur;
+D)	Rəqəm avtomatında cəmləyici olmur;
+E)	Rəqəm avtomatında registr olmur;
+A
+477.Əməliyyat qurğusunda əməlin icra müddəti necə təyin olunur?
+A) t = T * K; T - taktın müddəti, K - mikroproqramın icra müddəti; 
+B) t = T * K2;	
+C) t = T2 * K;	
+D) t =  T2 * K2;	
+E) T = t * K.
+A
+478.	Sərt məntiqli idarəedici avtomat nədir?
+A)	Bu avtomatın hasil etdiyi idarəedici siqnalları dəyişmək olar;
+B)	Bu avtomatın hasil etdiyi idarəedici siqnalları dəyişmək olmaz;
+C)	Registrə malik olmurlar; 
+D) Cəmləyici olmur; 
+E) Registr və cəmləyici olmur.
+B
+479.	Mikroproqramlı idarəedici avtomat nədir?
+A) Sərt məntiqə (dəyişməz) malikdir; 
+B) Mikroproqramla idarə olunur;
+C) Registrə malik olmur;	
+D) Cəmləyiciyə malik olmur;	
+E) Registr və cəmləyici olmur.
+B
+480.	Daxiletmə-xaricetmədə hansı qurğular iştirak edir?
+A)	Prosessor + daxiletmə-xaricetmə kanalı + kanalın ünvan sözü + xarici qurğu;
+B)	Prosessor + xarici qurğu;
+C)	Prosessor + daxiletmə-xaricetmə kanalı + xarici qurğu;
+D)	Prosessor + kanalın ünvan sözü;
+E)	Kanalın ünvan sözü + xarici qurğu.
+A
+481.	Daxiletmə-xaricetmə sistemlərində yaddaşla xarici qurğular arasında informasiya mübadiləsi hansı formada təşkil olunur?
+A)	Proqramla idarə olunan mübadilə vasitəsi ilə;
+B)	Yaddaşa birbaşa daxilolma yolu ilə; 
+C) 	ıki cür proqramla idarə olunan və yaddaşa birbaşa daxilolma yolu ilə;
+D)	Yaddaşın paylanması yolu ilə;
+E)	Proqramın dayandırması yolu ilə.
+C
+482.	Yaddaş və xarici qurрular arasında proqramla idarə olunan informasiya mübadiləsi hansı qurрu vasitəsi ilə həyata keçirilir?
+A) Daxiloma kontrolleri vasitəsi ilə;	
+B) Prosessor vasitəsi ilə;
+C) Registr vasitəsi ilə;	
+D) Cəmləyici vasitəsi ilə;
+E) Hesab-məntiq qurрusu vasitəsi ilə.
+A
+483.	Yaddaşa birbaşa daxilolma zamanı yaddaşla xarici qurрular arasında mübadilə hansı qurрu vasitəsi ilə həyata keçirilir?
+A) Prosessor;	
+B) Yaddaşa birbaşa daxilolma kontrolleri;
+C) Registr;	
+D) Cəmləyici;	
+E) Hesab-məntiq qurрusu.
+B
+484.	Müsbət ədədin əks kodu necə alınır?
+A) Bütün mərtəbələri əks koda çevirməklə; 
+B) Əks kod düz kodla eynidir;
+C)	Sıfır olan mərtəbələri birlə əvəz etməklə;
+D)	Bir olan mərtəbələri sıfırla əvəz etməklə; 
+E) Sonunca mərtəbəyə bir əlavə etməklə.
+B
+485.	Mənfi ədədin əks kodu necə alınır?
+A) Bütün mərtəbələri əks koda çevirməklə; 
+B) Əks kod düz kodla eynidir;
+C)	0 olan mərtəbələri birlə əvəz etməklə;
+D)	1 olan mərtəbələri sıfırla əvəz etməklə; 
+E) Sonunca mərtəbəyə bir əlavə etməklə.
+A
+486.	Müsbət ədədin tamamlayıcı kodu necə alınır?
+A) Sonuncu mərtəbəyə bir əlavə etməklə;	
+B) Tamamlayıcı kod düz kodla eynidir;
+C) Bütün mərtəbələri əks koda çevirməklə; 
+D) Bir olan mərtəbələri sıfırla əvəz etməklə;
+E) Sıfır olan mərtəbələri birlə əvəz etməklə;
+B
+487.	Mənfi ədədlərin tamamlayıcı kodu necə alınır?
+A)	Kodun bütün mərtəbələrini əksinə çevirməklə;
+B)	Əks kodun sonuncu mərtəbəsinə bir əlavə etməklə;
+C)	Düz kodun sonuncu mərtəbəsinə bir əlavə etməklə;
+D)	Bütün birləri sıfırla əvəz etməklə;
+E)	Bütün sıfırları birlə əvəz etməklə.
+B
+488.ıkilik-onluq (D) kodlar necə alınır?
+A) Onluq ədədə daxil olan rəqəmlərin dörd ikilik  işarə  iıə  göstərilməsi  ilə; 
+B) Ədədi ardıcıl olaraq 2-yə bölüb, qalıqda alınan birləri əks sırada yazmaqla;
+C)	Ədədi ardıcıl olaraq 2-yə vurub, ön mərtəbəyə çıxmış rəqəmləri ardıcıl yazmaqla;
+D)	Onluq ədədə daxil olan rəqəmlərin 2 ikilik işarə ilə göstərilməsi ilə;
+E)	Onluq ədədə daxil olan rəqəmlərin 6 ikilik işarə ilə göstərilməsi ilə.
+B
+489.	Kompüterin yaddaş qurрusu hansı qruplara bölünür?
+A)	üç qrupa bölünür - əməli yaddaş, daimi (sabit) yaddaş, xarici yaddaş.
+B)	ıki qrupa bölünür - əməli yaddaş, daimi yaddaş;
+C)	ıki qrupa bölünür - əməli uaddaş, xarici yaddaş;
+D)	ıki qrupa bölünür - daimi yaddaş, xarici yaddaş;
+E)	üç qrupa bölünür - əməli, sabit, KEş-yaddaş.
+A
+490.	Verilənlərin hansı emal sistemləri mövcuddur?
+A)	Bir emal sistemi - paylanmış;
+B)	Bir emal sistemi - mərkəzləşdirilmiş;
+C)	ıki emal sistemi - paylanmış + mərkəzləşdirilmiş;
+D)	üç emal sistemi - mərkəzləşdirilmiş, paylanmış, lokal;
+E)	üç emal sistemi - mərkəzləşdirilmiş, paylanmış, paralel.
+B
+491.	Əməliyyat sistemi nədir?
+A)	Verilənlərin emalı sistemini idarə edən və istifadəçi ilə sistem arasında qarşılıqlı əlaqə mərhələsini realizə edən proqramlar məcmunudur;
+B)	Verilənlərin emalını həyata keçirən proqramdır;
+C)	Giriş-çıxışı idarə edən proqramdır;
+D)	Xarici qurрuları idarə edən proqramdır;
+E)	Hesab əməllərini həyata keçirən proqramdır.
+A
+492.	Mikroəmr nədir?
+A)	Bir takt ərzində avtomatın işini müəyyən edən idarəedici sözdür;
+B)	Əməliyyatçı avtomatın işini idarə edir;
+C)	Registrlərin işini müəyyən edir;
+D)	Cəmləyicinin işini idarə edir;
+E)	Giriş-çıxışı idarə edir.
+A
+493.	Prosessorun funksiyası nədən ibarətdir?
+A)	Verilmiş proqrama görə informasiyanın emalını, bütün qurрuların qarşılıqlı təsirini və hesablama prosesinin idarəolunmasını təmin edir;
+B)	Hesab əməllərinin yerinə yetirilməsini təmin edir;
+C)	Giriş-çıxışın həyata keçirilməsini idarə edir;
+D)	Məntiq əməllərinin həyata keçirilməsini idarə edir;
+E)	Xarici yaddaşı idarə edir.
+A
+494.	Hesab-məntiq qurрusunun əsas daxili qurрuları hansılardır?
+A)	Registrlər qrupu, nəzarət sxemləri, əməliyyat hissəsi və idarəedici sxemlər;
+B)	ıdarəedici sxemlər;	
+C) Registrlər qrupu;
+D) Nəzarət sxemləri;	
+E) Əməliyyat qurрusu.
+A
+495.	Hesab qurрusunda sabit nöqtəli formatda ədadlər necə təsvir olunur?
+A)	Yalnız nöqtə kəsrin birinci böyük mərtəbəsindən əvvəl yerləşdirilir;
+B)	Yalnız            nöqtə            kiçik            mərtəbədən            sonra            yerləşdirilr; 
+C) ıki üsulla: nöqtə kəsrin birinci böyük mərtəbəsindən əvvəl və kiçik mərtəbədən sonra yerləşdirilir;
+D)	Nöqtə ədədin 4-cü mərtəbəsindən sonra yerləşdirilir;
+E)	Nöqtə əddədin 6-cı mərtəbəsindən sonra yerləşdirilir.
+C
+496.	Hesab qurрusunda vurmanın yerinə yetirilməsinin neçə üsulu mövcuddur? 
+A) 3;	
+B) 4;	
+C) 6;	
+D) 5;	
+E) 8.
+B
+497. Hesab qurрusunda bölmənin yerinə yetirilməsinin neçə üsulu mövcuddur? 
+A) 4;	
+B) 2;	
+C) 5;	
+D) 7;	
+E) 8.
+A
+498. Hesablama məşınının birproqramlı iş rejimi nəyə deyilir?
+A) Birproqramlı iş rejimində iki proqram eyni vaxtda yerinə yetirilir; 
+B) Birproqramlı iş rejimində yalnız bir proqram yerinə yetirilir;
+C)	Birproqramlı iş rejimində bir neçə proqram eyni vaxtda yerinə yetirilir;
+D)	Birproqramlı iş rejimində 4 proqram eyni vaxtda yerinə yetirilir;
+E)	Birproqramlı iş rejimində 8 proqram eyni vaxtda yerinə yetirilir.
+B
+499.	Supervizor proqramının funksiyası nədən ibarətdir?
+A)	Əgər məsələlər eyni bir resursu tələb edərlərsə o məsələlərin növbəsini təşkil edir;
+B)	Giriş-çıxışı idarə edir;	
+C) Hesab-məntiq qurрusunu idarə edir;
+D) Yaddaşın paylanmasını idarə edir;	
+E) Xarici qurрuları idarə edir.
+A
+500.	Multiprosessorlu hesablama sistemi nədir?
+A)	Bu sistemlərdə nisbətən sadə bir neçə (onlarla və yüzlərlə) elementar prosessordan istifadə olunur;
+B)	Bu sistemlər multipleksor kanalını idarə edir;
+C)	Bu sistemlər yalnız hesab əməllərini yerinə yetirir;
+D)	Bu sistemlərdə yalnız məntiq əməlləri yerinə yetirilir;
+E)	Bu sistemlər xarici qurрuları idarə edir.
+A

@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/com/data/LoginPage.java=UTF-8
+encoding//src/com/dataBase/DataBaseConnection.java=UTF-8
+encoding//src/com/dataBase/InsertExamResult.java=UTF-8
+encoding//src/com/dataBase/SelectQuizData.java=UTF-8
+encoding//src/com/quiz/QuizController.java=UTF-8
+encoding//src/com/rank/RankController.java=UTF-8

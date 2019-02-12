@@ -1,0 +1,1750 @@
+﻿1. İnformasiya nədir?
+A) İnformasiya faydalı məlumatdır.
+B) Məlumatlar toplusuna informasiya deyilir. 
+C) Verilənlər toplusuna informasiya deyilir.
+D) Yayım vasitələri ilə insanların qəbul etdiyi məlumatlara informasiya deyilir. 
+E) Müxtəlif cür interpretasiya olunan məlumata informasiya deyilir.
+A
+2. İnformasiya və məlumat eynidirmi?
+A) İnformasiya və məlumat oxşar amillərdir. 
+B) Məlumat həmişə informasiyadır.
+C) Məlumat və informasiya eyni amillərdir.
+D) Məlumat və informasiya müxtəlif amillərdir. 
+E) İnformasiya həmişə məlumatdır.
+E
+3. İnformasiya texnologiyası nədir?
+A) Verilənlərin toplanması, ötürülməsi və emalı üçün metod və vasitələrdən istifadə etməklə tətbiq olunan obyektin, prosesin, hadisənin vəziyyəti haqqında informasiyanın alınmasıdır.
+B) İnformasiyanın bir formadan başqa formaya çevrilməsi informasiya texnologiyasıdır.
+C) Müasir kompüterlərdən istifadə edərək informasiyanın formalaşdırılması informasiya texnologiyasıdır.
+D) Texniki vasitələr vasitəsilə ilə informasiyanın emalı informasiya texnologiyasıdır. 
+E) İnformasiyanın təhlili və lazım olan obyektə ötürülməsi informasiya texnologiyasıdır.
+A
+4. Yeni informasiya texnologiyasının informasiya texnologiyasından fərqi nədir? 
+A) Yeni texniki avadanlıqlarından istifadə olunması.
+B) Müasir kompüterlərdən istifadə olunması. 
+C) elektron avadanlıqlardan istifadə olunması.
+D) Telekommunikasiya vasitələrindən istifadə olunması. 
+E) Fərqi yoxdur.
+D
+5. Aşağıdakı əlamətlərdən hansı informasiya texnologiyasının inkişaf mərhələsinə aid deyil?
+A) İnformasiya emalı proseslərinin və məsələlərinin növünə görə. 
+B) Kompüterlərin inkişaf tarixinə görə
+C) Cəmiyyətin informasiyalaşdırılması istiqamətinə görə.
+D) Kompüter texnologiyasının verdiyi faydaya görə.
+E) Texnologiyanın instrumentari növlərinə görə.
+B
+6. Sistem dedikdə nə başa düşülür?
+A) Sistem dedikdə kommunikasiya vasitəsi ilə əlaqələndirilmiş elementlər başa düşülür.
+B) Sistem dedikdə bir-birilə qarşılıqlı əlaqələndirilmiş qurğular toplusu başa düşülür.
+C) Sistem dedikdə müəyyən məqsədə nail olmaq üçün bir-birilə əlaqələndirilmiş müxtəlif elementlərdən ibarət obyekt başa düşülür.
+D) Sistem dedikdə informasiyanın emalını təmin edən kompüter toplusu başa düşülür. 
+E) Sistem dedikdə informasiya prosesini təmin edən elementlərin toplusu başa düşülür.
+C
+7. Verilənlərin müəyyən əlamətə görə sıraya düzülməsi nə adlanır? 
+A) seçmə
+B) ümumiləşdirmə və ya qruplaşdırma 
+C) aqreqatlaşma və ya qruplaşdıra
+D) çeşidlənmə (nizamlanma)-+
+E) hesablama
+D
+8. Verilənlərin onların aid olduğu obyektlərə görə qruplara ayrılması nə adlanır? 
+A) hesablama
+B) çeşidlənmə
+C) seçmə
+D) aqreqatlaşdırma və ya birləşdirmə
+E) ümumiləşdirmə və ya qruplaşdırma
+E
+9. Obyektin oxşar xassələrini əks etdirən verilənlərin bir yerə yığılması nə adlanır? 
+A) çeşidlənmə
+B) ümumiləşdirmə və ya qruplaşdırma
+C) aqreqatlaşdırma və ya birləşdirmə 
+D) seçmə
+E) hesablama
+C
+10. Verilənlərin cəmlənməsi, hasili və ya müəyyən üsul və ya düsturla onlar üzərində hesab və məntiq əməliyyatlarının aparılması nə adlanır?
+A) verilənlərin seçilməsi	
+B) riyazi əməliyyat	
+C) proses
+D) hesablama
+E) verilənlər üzərində əməliyyat
+D
+11. İnformasiya sistemi nədir?
+A) Müəyyən məsələlərin həllini təmin edən qərarların qəbul edilməsi üçün informasiyanın toplanması, saxlanması, axtarışı, emalı və istifadəçilərə çatdırılmasını təmin edən texniki, proqram, linqvistik, metodoloji və təşkilatı vasitələrdən ibarət kompleksdir.
+B) İnformasiyanın toplanması, saxlanması, axtarışı, emalı və istifadəçilərə çatdırılması kompleksidir.
+C) Kompüterdə həll olunan və istifadəçilərin müəyyən qərarlarının qəbul edilməsi üçün əldə etdikləri informasiya çoxluğu.
+D) Kompüter, kommunikasiya vasitələri və digər texniki qurğularla proqram təminatı kompleksidir.
+E) Kompüterdə saxlanan və müxtəlif istifadəçilər tərəfindən müxtəlif məqsədlərlə istifadə olunan informasiya yığımı.
+A
+12. İnformasiya sisteminin elementləri nədir?
+A) Texniki və proqram təminatı, informasiya
+B) Kompüterlər, verilənlər toplusu və kommunikasiya vasitələri. 
+C) Kompüter və digər texniki qurğular, informasiya.
+D) Kompüterlər, kompüter şəbəkələri, insanlar, informasiya, proqram və linqvistik təminatı
+E) Verilənlər və biliklər toplusu, kompüter və kommunikasiya vasitələri.
+D
+13. İnformasiya sisteminin əsasını nə təşkil edir?
+A) biliklər bazası	
+B) verilənlər bazası	
+C) kompüter 
+D) informasiya	
+E) proqram təminatı
+B
+14. İnformasiya sisteminin inkişaf tarixi neçə mərhələyə bölünür? 
+A) 4 – (1950-1960, 1960-1970, 1970-1985, 1985 – indiyədək)
+B) 5 – (1950-1960, 1960-1970, 1970-1980, 1980-2000, 2000 – indiyədək)
+C) 3 – (1950-1970, 1970-1990, 1990 – indiyədək)
+D) 6 – (1940-1955, 1955-1965, 1965-1975, 1975-1995, 1995-2000, 2000 – indiyədək)
+E) 2 – (1950-1980, 1980 – indiyədək)
+A
+15. İnformasiya sistemində yerinə yetirilən proseslərə aşağıdakılardan hansı daxil deyil? 
+A) İnformasiyanın axtarışı.
+B) İnformasiyanın saxlanması.
+C) Əməliyyat sisteminin seçilməsi.
+D) İnformasiyanın emal edilməsi.
+E) İnformasiyanın daxil edilməsi.
+C
+16. İnformasiya sisteminin əsasını təşkil edən verilənlər bazasının yaradılması nədən başlayır?
+A) Kompüterin seçilməsində. 
+B) VBİS-in seçilməsindən.
+C) Əməliyyat sisteminin seçilməsindən
+D) Proqramlaşdırma mühitinin seçilməsindən.
+E) Predmet sahəsinin və istifadəçi sorğularının təhlilindən.
+E
+17. İdarəetmə səviyyəsi nə ilə təyin olunur?
+A) İdarəetmə səviyyəsi kompüterdən alınan informasiyanın dəqiqliyi ilə təyin olunur.
+B) İdarəetmə səviyyəsi qəbul olunan qərarların mürəkkəbliyi ilə təyin olunur.
+C) İdarəetmə səviyyəsi informasiya təminatının tamlığı ilə təyin olunur.
+D) İdarəetmə səviyyəsi həll olunan məsələlərin mürəkkəbliyi ilə təyin olunur.
+E) İdarəetmə səviyyəsi qərar qəbul edən şəxsin vəzifəsi və rütbəsi ilə təyin olunur.
+D
+18. Miqyasına görə informasiya sistemlərini hansı qruplara bölmək olar (hər üçü düzgün olan variant)?
+A) qlobal İS, milli İS, transmilli İS 
+B) lokal İS, qlobal İS, beynəlxalq İS
+C) korporativ İS, qlobal İS, beynəlxalq İS 
+D) qrup İS, korporativ İS, qlobal İS
+E) lokal İS, qrup İS, korporativ İS
+E
+19. İnformasiya resurslarının xarakterinə görə İS-ləri neçə qrupa bölmək olar?
+A) 3 – sənədli sistemlər, faktoqrafik sistemlər, sənədli – faktoqrafik sistemlər 
+B) 4 – sənədli sistemlər, kağız üzəridə sistemlər, faktoqrafik sistemlər, inteqrallaşdırılmış sistemlər
+C) 2 – sənədli sistemlər, qeyri-sənədli sistemlər
+D) 5 – sənədli sistemlər, faktoqrafik sistemlər, inteqrallaşdırılmış sistemlər, idarəetmə sistemləri, məsləhət sistemləri
+E) istənilən sayda 
+A
+20. Sənədli informasiya sisteminə hansı sistemlər daxildir (hər üçü düzgün olan)?
+A) sənəd-dövriyyəsi sistemləri, informasiya-idarəetmə sistemləri, informasiya məsləhət sistemləri
+B) informasiya-axtarış sistemləri, sənəd-dövriyyəsi sistemləri və kargüzarlığın avtomatlaşdırılması sistemləri
+C) informasiya-axtarış sistemləri, informasiya-idarəetmə sistemləri, informasiya- arayış sistemləri
+D) informasiya-axtarış sistemləri, sənəd-dövriyyəsi sistemləri, informasiya-arayış sistemləri
+E) informasiya-idarəetmə sistemləri, informasiya-axtarış sistemləri, sənəd-dövriyyəsi sistemləri
+B
+21. Faktoqrafik sistemlərə hansı sistemlər daxildir?
+A) sənəd-dövriyyəsi sistemləri, informasiya-idarəetmə sistemləri, informasiya məsləhət sistemləri
+B) informasiya-arayış sistemləri, informasiya-idarəetmə sistemləri, informasiya- məsləhət sistemləri
+C) informasiya-axtarış sistemləri, informasiya-idarəetmə sistemləri, informasiya- arayış sistemləri
+D) informasiya-axtarış sistemləri, sənəd-dövriyyəsi sistemləri, informasiya-arayış sistemləri
+E) informasiya-idarəetmə sistemləri, informasiya-axtarış sistemləri, sənəd-dövriyyəsi sistemləri
+B
+22. Sənədli-faktoqrafik sistemlər hansı sistemlərin imkanlarını özündə birləşdirir? 
+A) sənədli sistemlərin və qrup sistemlərin
+B) lokal sistemlərin və qrup sistemlərin
+C) sənədli sistemlərin və faktoqrafik sistemlərin 
+D) faktoqrafik sistemlərin və lokal sistemlərin 
+E) korporativ sistemlərin və sənədli sistemlərin
+C
+23. Aşağıdakı xassələr cütlüyünün hansı informasiya sisteminin xassələrinə aid deyil? 
+A) 1) İnformasiya sistemi (İS) müasir kompüterdə reallaşdırılmalıdır. 2) İS-in yeniləşdirilməsi konkret vaxt dövründə aparılmalıdır. 
+B) 1) İS dinamiki və inkişaf edən sistemdir 2) İS «insan – maşın» tipli verilənlərin emalı sistemidir.
+C) 1) İS-in qurulmasında sistemli yanaşmadan istifadə olunmalıdır. 2) İS dinamik və inkişaf edən sistemdir.
+D) 1) İS çıxış məhsulu qərarların qəbul edilməsi üçün istifadə edilən informasiyadır. 2) İS-in qurulmasında sistemli yanaşmadan istifadə olunmalıdır. 
+E) 1) İS-in qurulmasında sistemli yanaşmadan istifadə olunmalıdır. 2) İstənilən İS-in analizi, qurulması və idarə edilməsi sistemlərin yaradılmasının ümumi prinsipləri əsasında yerinə yetirilir.
+A
+24. İnformasiya-idarəetmə sistemləri hansı funksiyanı yerinə yetirir?
+A) Konkret tətbiq sahəsi üzrə istifadəçiləri maraqlandıran suallara cavab-arayış vermək üçün istifadə olunurlar.
+B) İnsana (qərar qəbul edən şəxs) qərarların qəbul edilməsi üçün məsləhətlər verirlər, yəni mümkün variantları təklif edirlər.
+C) İdarəetmə üçün qərarların qəbul edilməsinin informasiya təminatı funksiyasını yerinə yetirir.
+D) Müəssisə (korporasiya) daxilində sənədlərin dövriyyəsinin avtomatlaşdırılması üçün istifadə olunurlar.
+E) Həm sənədlərin, həm də faktoqrafik informasiyanın toplanıb saxlanmasını, axtarışını və lazım gəldikdə emalını yerinə yetirə bilərlər.
+C
+25. İnformasiya-arayış sistemləri nə üçün istifadə olunurlar?
+A) Konkret tətbiq sahəsi üzrə istifadəçiləri maraqlandıran suallara cavab-arayış vermək üçün istifadə olunurlar.
+B) İdarəetmə üçün qərarların qəbul edilməsinin informasiya təminatı funksiyasını yerinə yetirir.
+C) İnsana (qərar qəbul edən şəxs) qərarların qəbul edilməsi üçün məsləhətlər verirlər, yəni mümkün variantları təklif edirlər.
+D) Müəssisə (korporasiya) daxilində sənədlərin dövriyyəsinin avtomatlaşdırılması üçün istifadə olunurlar.
+E)	Həm sənədlərin, həm də faktoqrafik informasiyanın toplanıb saxlanmasını, axtarışını və lazım gəldikdə emalını yerinə yetirə bilərlər.
+A
+26. Sənəd dövriyyəsi sistemləri nə üçün istifadə olunurlar?
+A) İnsana (qərar qəbul edən şəxs) qərarların qəbul edilməsi üçün məsləhətlər verirlər, yəni mümkün variantları təklif edirlər.
+B) İdarəetmə üçün qərarların qəbul edilməsinin informasiya təminatı funksiyasını yerinə yetirir.
+C) Konkret tətbiq sahəsi üzrə istifadəçiləri maraqlandıran suallara cavab-arayış vermək üçün istifadə olunurlar.
+D) Müəssisə (korporasiya) daxilində sənədlərin dövriyyəsini avtomatlaşdırmaq üçün istifadə olunur.
+E) Həm sənədlərin, həm də faktoqrafik informasiyanın toplanıb saxlanmasını, axtarışını və lazım gəldikdə emalını yerinə yetirə bilərlər.
+D
+27. İnformasiya-məsləhət sistemləri nə üçün istifadə olunurlar?
+A) Həm sənədlərin, həm də faktoqrafik informasiyanın toplanıb saxlanmasını, axtarışını və lazım gəldikdə emalını yerinə yetirə bilərlər. 
+B) İdarəetmə üçün qərarların qəbul edilməsinin informasiya təminatı funksiyasını yerinə yetirir.
+C) İdarəetmə üçün qərarların qəbul edilməsinin informasiya təminatı funksiyasını yerinə yetirir.
+D) Müəssisə (korporasiya) daxilində sənədlərin dövriyyəsinin avtomatlaşdırılması üçün istifadə olunurlar.
+E) İnsana (qərar qəbul edən şəxsə) qərarların qəbul edilməsi üçün məsləhət verir, yəni mümkün variantları təklif edir.
+E
+28. Sənədli-faktoqrafik sistemlər nə üçün istifadə olunurlar?
+A) Həm sənədlərin, həm də faktoqrafik informasiyanın toplanıb saxlanmasını, axtarışını və lazım gəldikdə emalını yerinə yetirir
+B) İnsana (qərar qəbul edən şəxs) qərarların qəbul edilməsi üçün məsləhətlər verirlər, yəni mümkün variantları təklif edirlər.
+C) Konkret tətbiq sahəsi üzrə istifadəçiləri maraqlandıran suallara cavab-arayış vermək üçün istifadə olunurlar.
+D) Müəssisə (korporasiya) daxilində sənədlərin dövriyyəsinin avtomatlaşdırılması üçün istifadə olunurlar.
+E) İdarəetmə üçün qərarların qəbul edilməsinin informasiya təminatı funksiyasını yerinə yetirir.
+A
+29. Kargüzarlığın avtomatlaşdırılması sistemlər nə üçün istifadə olunur?
+A) İnsana (qərar qəbul edən şəxs) qərarların qəbul edilməsi üçün məsləhətlər verirlər, yəni mümkün variantları təklif edirlər.
+B) Müəssisə İnternet-İntranet platforması ilə qurulan kompüter şəbəkəsinin fəaliyyət göstərdiyi şəraitdə rəhbərliyin, funksional bölmələrin və işçilərin xidməti və şəxsi işlərini əhatə edən kargüzarlığın elektron sənədlərdən və elektron poçtdan istifadə edilməsi üçün.
+C) Konkret tətbiq sahəsi üzrə istifadəçiləri maraqlandıran suallara cavab-arayış vermək üçün istifadə olunurlar.
+D) Müəssisə (korporasiya) daxilində sənədlərin dövriyyəsinin avtomatlaşdırılması üçün istifadə olunurlar.
+E) Həm sənədlərin, həm də faktoqrafik informasiyanın toplanıb saxlanmasını, axtarışını və lazım gəldikdə emalını yerinə yetirə bilərlər.
+B
+30. Faktoqrafik sistemlər nə üçün istifadə olunur?
+A) İdarəetmə üçün qərarların qəbul edilməsinin informasiya təminatı funksiyasını yerinə yetirir.
+B) Kompüterdə verilənlərdən ibarət olan yazıların formal təsviri ilə saxlanan faktiki məlumatlarla əməliyyat aparırlar?
+C) İnsana (qərar qəbul edən şəxs) qərarların qəbul edilməsi üçün məsləhətlər verirlər, yəni mümkün variantları təklif edirlər.
+D) Konkret tətbiq sahəsi üzrə istifadəçiləri maraqlandıran suallara cavab-arayış vermək üçün istifadə olunurlar.
+E) Müəssisə (korporasiya) daxilində sənədlərin dövriyyəsinin avtomatlaşdırılması üçün istifadə olunurlar.
+B
+31. İnformasiya-axtarış sistemləri nə üçün istifadə olunurlar?
+A) Konkret tətbiq sahəsi üzrə istifadəçiləri maraqlandıran suallara cavab-arayış vermək üçün istifadə olunurlar.
+B) İdarəetmə üçün qərarların qəbul edilməsinin informasiya təminatı funksiyasını yerinə yetirir.
+C) İnsana (qərar qəbul edən şəxs) qərarların qəbul edilməsi üçün məsləhətlər verirlər, yəni mümkün variantları təklif edirlər.
+D) Təbii dildə sənədlərin toplanması və müxtəlif kriterilərə görə axtarışını təmin edirlər?
+E) Müəssisə (korporasiya) daxilində sənədlərin dövriyyəsinin avtomatlaşdırılması üçün istifadə olunurlar.
+D
+32. Sənədli sistemlər nə üçün istifadə olunurlar?
+A) Konkret tətbiq sahəsi üzrə istifadəçiləri maraqlandıran suallara cavab-arayış vermək üçün istifadə olunurlar.
+B) Həm sənədlərin, həm də faktoqrafik informasiyanın toplanıb saxlanmasını, axtarışını və lazım gəldikdə emalını yerinə yetirə bilərlər.
+C) Təbii dildə ifadə olunmuş müxtəlif sənədlərlə (monoqrafiyalar, məqalələr, dövrü nəşrlər, normativ və hüquqi sənədlər və s.) işləmək üçün istifadə olunurlar.
+D) İdarəetmə üçün qərarların qəbul edilməsinin informasiya təminatı funksiyasını yerinə yetirir.
+E) İnsana (qərar qəbul edən şəxs) qərarların qəbul edilməsi üçün məsləhətlər verirlər, yəni mümkün variantları təklif edirlər.
+C
+33. İnformasiya sisteminin (İS) altsistemi nədir?
+A). Altsistem İS-in işini bütövlükdə təmin edən əlaqəli sistemlərdən alınan informasiya təminatıdır.
+B) Altsistem İS-in fəaliyyətini tamamlayan köməkçi sistemdir.
+C) Altsistem əsas sistemdə müəyyən əlamətə görə bölünmüş və ayrılıqda fəaliyyət göstərə bilən hissəsidir.
+D) Altsistem İS-in bütövlükdə fəaliyyətinin təmin edilməsinə xidmət edən ümumi sistemin müəyyən əlamətə görə ayrılmış bir hissəsidir
+E) Altsistem müəssisənin bütövlükdə fəaliyyətini təmin edən sistemlərin hər hansı biridir.
+D
+34. İnformasiya sisteminin (İS) texniki təminatına nələr daxildir?
+A) İS-in işlənməsinə xidmət edən texniki vasitələr kompleksində və həmçinin həmin vasitələr və texnoloji proseslər üçün uyğun sənədlərdən ibarətdir.
+B) İS-in məqsədlərini və vəziyyətlərinin reallaşdırmaq, həmçinin texniki vasitələr kompleksinin normal fəaliyyətini təmin etmək üçün riyazi metodlar, modellər, alqoritmlər və proqramlar toplusudur.
+C) İS-in hazırlanması və istismarı prosesində işçilərin texniki vasitələrlə və öz aralarında qarşılıqlı əlaqələrini nizamlayan metodlar və vasitələr toplusudur. 
+D) İS-in vaxtında və lazımi informasiya ilə təmin etməkdən ibarətdir.
+E) İS-in yaradılması, hüquqi statusu və fəaliyyəti ilə bağlı hüquqi normalar toplusu başa düşülür.
+A
+35. İS-in riyazi və proqram təminatına nələr daxildir?
+A) İS-in məqsədlərini və vəzifələrini reallaşdırmaq, həmçinin texniki vasitələr kompleksinin normal fəaliyyətini təmin etmək üçün riyazi metodlar, modellər, alqoritmlər və proqramlar toplusudur.
+B) İS-in işlənməsinə xidmət edən texniki vasitələr kompleksində və həmçinin həmin vasitələr və texnoloji proseslər üçün uyğun sənədlərdən ibarətdir.
+C) İS-in hazırlanması və istismarı prosesində işçilərin texniki vasitələrlə və öz aralarında qarşılıqlı əlaqələrini nizamlayan metodlar və vasitələr toplusudur. 
+D) İS-in vaxtında və lazımi informasiya ilə təmin etməkdən ibarətdir.
+E) İS-in yaradılması, hüquqi statusu və fəaliyyəti ilə bağlı hüquqi normalar toplusu başa düşülür.
+A
+36. İS-in təşkilat təminatına nələr daxildir?
+A) İS-in məqsədlərini və vəziyyətlərinin reallaşdırmaq, həmçinin texniki vasitələr kompleksinin normal fəaliyyətini təmin etmək üçün riyazi metodlar, modellər, alqoritmlər və proqramlar toplusudur.
+B) İS-in hazırlanması və istismarı prosesində işçilərin texniki vasitələr və öz aralarında qarşılıqlı əlaqələrini nizamlayan metodlar və vasitələr toplusudur. 
+C) İS-in vaxtında və lazımi informasiya ilə təmin etməkdən ibarətdir.
+D) İS-in işlənməsinə xidmət edən texniki vasitələr kompleksində və həmçinin həmin vasitələr və texnoloji proseslər üçün uyğun sənədlərdən ibarətdir.
+E) İS-in yaradılması, hüquqi statusu və fəaliyyəti ilə bağlı hüquqi normalar toplusu başa düşülür.
+B
+37. İS-in informasiya təminatına nələr daxildir?
+A) İS-in işlənməsinə xidmət edən texniki vasitələr kompleksində və həmçinin həmin vasitələr və texnoloji proseslər üçün uyğun sənədlərdən ibarətdir.
+B) İS-in vaxtında və lazımi informasiya ilə təmin edilməsi üçün informasiyanın qəbul olunmuş üsullarla təsnifatı və kodlaşdırılması, sənədləşdirilməsinin unifikasiya edilməsi, müəssisədə dövr edən informasiya axınlarına uyğun sxemlər və VB-nin qurulma metodologiyası. 
+C) İS-in məqsədlərini və vəziyyətlərinin reallaşdırmaq, həmçinin texniki vasitələr kompleksinin normal fəaliyyətini təmin etmək üçün riyazi metodlar, modellər, alqoritmlər və proqramlar toplusudur.
+D) İS-in hazırlanması və istismarı prosesində işçilərin texniki vasitələrlə və öz aralarında qarşılıqlı əlaqələrini nizamlayan metodlar və vasitələr toplusudur. 
+E) İS-in vaxtında və lazımi informasiya ilə təmin etməkdən ibarətdir.
+B
+38. İnformasiya sisteminin proqram təminatına aşağıdakı üçlükdən (hər üçü doğru olan) hansı daxildir?
+A) Əməliyyat sistemi, proqram sənədləri, sistem proqram təminatı. 
+B) Ümumi sistem, əməliyyat sistemi, proqram sənədləri.
+C) Xüsusi proqram, sistem proqram təminatı, tətbiqi proqram təminatı. 
+D) Tətbiqi proqram təminatı, sistem proqram təminatı, ümumi sistem.
+E) Ümumi sistem, xüsusi proqram, proqram sənədləri.
+E
+39. Aşağıdakılardan hansı İS-in riyazimi təminatına aid deyil?
+A) Kütləvi xidmət, çoxluqlar və qeyri-səlis çoxluqlar nəzəriyyəsi.
+B) İdarəetmə və informasiya proseslərinin modelləşdirilməsi vasitələri. 
+C) Tipik idarəetmə məsələləri.
+D) Riyazi proqramlaşdırma və riyazi statistika məsələləri. 
+E) İnformasiyanın xüsusi metodlarla kodlaşdırılması.
+E
+40. Müəyyən əməliyyat sistemi mühitində fəaliyyət göstərən informasiya sisteminin işini neçə variantda təşkil etmək olar?
+A) 3 – (bütöv VBİS-dən istifadə etməklə, VBİS-in nüvəsi ilə işləyən tətbiq proqram vasitəsi ilə, müstəqil işləyən tətbiqi proqram vasitəsi ilə)
+B) 2 – (bütöv VBİS-də istifadə etməklə, tətbiqi proqram paketi vasitəsi ilə) 
+C) 1 – (ancaq VBİS vasitəsi ilə)
+D) 4 – (bütöv VBİS-dən istifadə etməklə, əməliyyat sistemi vasitəsi ilə, sistem proqramı vasitəsi ilə, prosedur proqramlaşdırma dili vasitəsi ilə)
+E) İstənilən sayda.
+A
+41. WINDOWS mühitində işləyə VBİS-lər cütünü (hər ikisi) göstərin.
+A) Paradox və Clipper
+B) ACCESS və Clipper
+C) ACCESS və Paradox
+D) Clipper və FoxPro
+E) ACCESS və FoxBase+
+C
+42. İS-lə əlaqə yaratmaq üçün hansı dil vasitələrindən istifadə olunur (düzgün ardıcıllığı göstərin).
+A) təbii dil, alqoritmik dil, sistem dili
+B) sorğu dili, əmrlər dili, menyu dili, təbii dil
+C) alqoritmik dil, sistem dili, sorğu dili, əmrlər dili
+D) proqram dili, alqoritmik dil, sorğu dili, əmrlər dili
+E) proqram dili, operator dili, sistem dili, sorğu dili
+B
+43. Quruluşuna və imkanlarına görə informasiya sistemləri hansı alt qruplara bölünürlər?
+A) İnformasiya axtarışı sistemləri, mürəkkəb sistemlər, inteqrallaşmış sistemlər, ekspert sistemləri.
+B) Sadə sistemlər, mürəkkəb sistemlər, beynəlxalq sistemlər, trans milli sistemlər.
+C) Adi sistemlər, mürəkkəb sistemlər, inteqrallaşdırılmış sistemlər, faktoqrafik sistemlər.
+D) Adi sistemlər, inteqrallaşdırılmış sistemlər, informasiya axtarışı və emalı sistemləri, intellektual sistemlər.
+E) Adi sistemlər, sənədi sistemlər, inteqrallaşdırılmış sistemlər, informasiya məsləhət sistemləri.
+D
+44. VBİS-in linqvistik vasitələrinə nələr daxildir? 
+A) blok sxem və proqramlaşdırma dilləri
+B) müxtəlif dillər və lüğətlər
+C) əməliyyat sistemi və tətbiqi proqram paketləri 
+D) alqoritmik dillər
+E) tətbiqi proqram paketləri 
+B
+45. VB-nin layihələndirilməsinin hansı mərhələsində VBİS-in xüsusiyyətləri nəzərə alınmır?
+A) konseptual – infoloji
+B) datoloji
+C) fiziki
+D) VBİS-in seçilməsi
+E) tətbiqi proqramlardan istifadə
+A
+46. VBİS-in əsas komponentləri hansılardır (hər üçü düzgün)?
+A) proqram təminatı, linqvistik təminat, əməliyyat sistemi 
+B) verilənlər bazası, kompüter, əməliyyat sistemi
+C) verilənlər bazası, proqram təminatı, əməliyyat sistemi
+D) verilənlər bazası, linqvistik təminat, verilənlər modeli
+E) verilənlər bazası, proqram təminatı, linqvistik təminat
+A
+47. Aşağıdakılardan hansı informasiya sisteminin fəaliyyət mərhələlərinin hüquqi təminatına aid deyil?
+A) sistemin heyətinin hüquqları, vəzifələri və məsuliyyətləri 
+B) informasiya sisteminin statusu
+C) informasiya sisteminin yaradılma qaydaları
+D) idarəetmə prosesinin ayrı-ayrı növlərinin hüquqi nizamnamələri
+E) informasiyanın hazırlanması və istifadə edilməsi qaydaları
+C
+48. Şəbəkə informasiya sistemlərinin qurulması üçün neçə tip arxitekturadan istifadə olunur?
+A) 2 – (fayl-server, kliyent-server) 
+B) 1 – (kliyent-server)
+C) 4 – (fayl-server, kliyent-server, çoxsəviyyəli, internet/intranet) 
+D) 3 – (fayl-server, kliyent-server, çoxsəviyyəli)
+E) 5 – (fayl-server, kliyent-server, çoxsəviyyəli, çoxəlaqəli, internet/intranet)
+C
+49. Hansı VBİS-lərin həm lokal, həm də şəbəkə variantları mövcuddur?
+A) Paradox, FoxPro	
+B) FoxBase+, dBasePlus	
+C) FoxBas+, Clipper 
+D) Clipper, dBasePlus	
+E) hamısının
+A
+50. Fayl-server arxitekturalı İS ilə kliyent-server İS-in fərqi nədir? 
+A) VBİS-lərin müxtəlifliyi ilə.
+B) VBİS-in proqramları funksional olaraq server və kliyent adlanan iki hissəyə bölünür.
+C) Əməliyyat sisteminin müxtəlifliyi ilə
+D) Verilənlərin şəbəkəyə daxil olan kliyentlər arasında bölüşdürülməsinin müxtəlifliyi ilə.
+E) Fərqi yoxdur
+B
+51. Server funksiyalarının çağırılıb işə salınması hansı dildə aparılır?
+A) Bütün prosedur dillərdə	
+B) Visual Basic	
+C) Delphi 
+D) Oracle sistemində	
+E) SQL
+E
+52. Aşağıdakı mühitlərdən hansı server kimi istifadə olunmur?
+A) Sybase System 10	
+B) VBA	
+C) Oracle 
+D) MS SQL server	
+E) İnformix 7.x
+B
+53. Çoxsəviyyəli arxitektura neçə səviyyədə təşkil olunur? 
+A) 5 – (aşağı, orta, yuxarı, milli, beynəlxalq)
+B) 2 – (konseptual, fiziki)
+C) 4 – (konseptual, fiziki, sorğuların emalı, tətbiq) 
+D) 3 – (aşağı, orta, yuxarı)
+E) məsələnin qoyuluşundan asılıdır
+D
+54. Kliyent-server tipli sistemlərin reallaşdırılması üçün aşağıdakı hansı proqramlaşdırma sistemləri cütlüyü istifadə olunmur?
+A) Basic, Pascal
+B) Visual, Basic, ERwin 
+C) Delphi, Visual, Basic
+D) SQL WINDOWS, CA-Visual Objects 
+E) Delphi, Power Builder
+A
+55. Aşağıdakılardan hansı şəbəkə informasiya sistemlərinin arxitekturasına aid deyil? 
+A) kliyent-server	
+B) fayl-server	
+C) şəbəkə
+D) çoxsəviyyəli	
+E) internet/intranet
+C
+56. Aşağıdakılardan hansı informasiya sistemlərinin tipik funksional komponentlərinə aid deyil?
+A) Tətbiqi məntiq və təsvir məntiqi 
+B) Verilənlər bazası ilə əməliyyatlar. 
+C) Fayl əməliyyatları.
+D) Verilənlərin idarə edilməsi məntiqi.
+E) Xarici daşıyıcıda VB-nin reallaşdırılması..
+E
+57. İntranet texnologiyası nəyə uyğun gəlir?
+A) Verilənlərin mərkəzləşdirilmiş idarə olunma texnologiyasına.
+B) Korporativ informasiya sistemi mühitinə uyğunlaşdırılmış INTERNET texnologiyasına.
+C) Mürəkkəb kompüter şəbəkəli informasiya texnologiyasına.
+D) Lokal kompüter şəbəkəsində informasiyanın emalı texnologiyasına. 
+E) Heç bir texnologiyaya uyğun gəlmir.
+B
+58. İntranet texnologiyası əsasında qurulan informasiya sisteminin kliyent-server tipli sistemlərdən fərqi nədir?
+A) İntranet sistemlər verilənlərlə deyil, istifadəçilər üçün əlverişli şəkildə təqdim edilən informasiya ilə işləyir.
+B) İntranet sistemlər yalnız mərkəzləşdirilmiş verilənlər bazasından istifadə edirlər. 
+C) İntranet sistemlər istifadəçilərin sistemə müraciəti İnternet prinsipi ilə aparılır.
+D) İntranet sistemlərdə bir yox, bir neçə VBİS-dən istifadə olunur.
+E) İntranet sistemlərdə bir yox, bir neçə verilənlər bazasından istifadə olunur.
+A
+59. İnformasiya resursları dedikdə nə başa düşülür?
+A) ayrı-ayrı sənədlər massivi, həmçinin informasiya sistemlərində toplanan sənədlər və sənədlər massivi
+B) informasiya sistemlərindən alınan informasiya
+C) istifadəçilərin sorğularını reallaşdıran alqoritmlər və proqramlar 
+D) verilənlər bazasında saxlanan verilənlərin toplusu
+E) informasiya təminatı
+A
+60. İnformasiya məhsulu nədir?
+A) maddi və qeyri-maddi formada yayılması üçün istehsalçı tərəfindən hazırlanmış informasiya toplusu
+B) İS-dən alınan informasiya əsasında qəbul olunan qərar
+C) qərar qəbuletmə üçün müxtəlif variantlara uyğun alınan informasiya 
+D) Predmet sahəsini əhatə edən verilənlər toplusu
+E) istifadəçilərin sorğularına əsasən tərtib olunmuş hesabat sənədləri
+A
+61. İnformasiya axtarış sistemilərində neçə cür sorğulardan istifadə olunur? 
+A) 5	
+B) 4	
+C) 2	
+D) 3	
+E) n
+C
+62. Aşağıdakı VBİS-lərdən hansı korporativ informasiya sistemlərində istifadə olunmur? 
+A) Oracle	
+B) Sybase System 10	
+C) ACCESS
+D) MS SQL server	
+E) İnformix 7.x 
+C
+63. İnformasiya-axtarış sistemi (İAS) nəyi təmin edir?
+A) İAS maşının daxili dilində lazımi informasiyanın əldə olunmasını təmin edir.
+B) İAS təbii dildə sənədlərin toplanmasını, saxlanmasını və müxtəlif kriterilərə görə axtarışını təmin edir
+C) İAS kompüterlə istifadəçi arasında qarşılıqlı dialoqu təmin edir.
+D) İAS kompüterdə saxlanan verilənlər əsasında hesabat sənədlərinin tərtibini təmin edir.
+E) İAS verilənlər bazasında saxlanan verilənlərin kodlaşdırılmasını təmin edir.
+B
+64. İnformasiya axtarış sisteminin (İAS) əhatə dairəsi necədir? 
+A) İAS-in əhatə dairəsini proqramçı müəyyən edir.
+B) İAS-in əhatə dairəsi aidiyyəti olduğu bütün sahəni əhatə etməlidir. 
+C) İAS-in əhatə dairəsi qeyri-məhduddur.
+D) İAS-in əhatə dairəsi konkret predmet sahəsini əhatə edir. 
+E) İAS-in əhatə dairəsi bütöv müəssisəni əhatə etməlidir.
+D
+65. Aşağıdakılardan hansı daxiletmə və qeydiyyat sisteminə, altsisteminə daxil deyil? 
+A) elektron sənədlərinin qeydiyyatı
+B) kağız sənədlərinin elektron surətlərinin hazırlanması
+C) elektron sənədlərinin çatdırılması kanallarına qoşulmanın təmini
+D) elektron sənədlərin qavranması və lazım gəldikdə formatlarının çevrilməsi 
+E) müxtəlif yayın kanallarından informasiyanın alınması
+E
+66. Aşağıdakılardan hansı indeksləşdirmə prosesinin yerinə yetirilməsi mərhələsinə aid deyil?
+A) indeksləşdirmə terminindən ibarət olan sənədin axtarış surətinin tərtib edilməsi 
+B) indeksləşdirmə obyekti kimi sənədin təhlili və məzmununun təyin edilməsi
+C) sənədlərin məzmununu xarakterinə edən anlayışların seçilməsi
+D) anlayışların ifadə edilməsi üçün indeksləşdirmə terminlərinin seçilməsi 
+E) kompüter dilinə uyğun lüğətin seçilməsi
+E
+67. İnformasiya dilləri nədir?
+A) Sənədlərin və sorğuların axtarış surətlərinin tərtib edilməsi üçün istifadə olunan xüsusi dillər.
+B) İnformasiya sistemini reallaşdırılan proqramlaşdırma dili.
+C) Kompüterin daxili quruluşunu əks etdirən və sorğunun cavabını təmin edən dil. 
+D) Proqramlaşdırma dilinin operatorları və kompüter istifadə olunan ölkənin dillərinin birliyi.
+E) Sorğuların cavabını təmin edən proqramlaşdırma dili.
+A
+68. Hansı kliyent/server prinsipi üzrə yaradılmış informasiya sisteminin komponenti deyil?
+A) VB-nin serveri	
+B)  VB-nin kliyenti	
+C) Şəbəkə 
+D)  Kommunikasiya təminatı	
+E) Əməliyyat sistemi
+E
+69. İnformasia insanlara nə üçün lazımdır?
+A) Biliyni artırmaq üçün	
+B) Ətraf mühitlə tanış olmaq üçün 
+C) Onu başqalarına ötürmək üçün	
+D) Qərar qəbul etmək üçün
+E) Gələcəkdə istifadə etmək üçün
+D
+70. Lokal informasiya sistemlərinin hansı arxitekturaları (hər üçü düz olan) mövcuddur?
+A) Bütöv VBİS-dən istifadə etməklə; VBİS nüvəsindən istifadə etməklə; müstəqil işləyən tətbiqi proqram vasitəsilə
+B) VBİS nüvəsindən istifadə etməklə; İnternetdən istifadə etməklə; Prototip yolu ilə yaratmaqla
+C) Bütöv VBİS-dən istifadə etməklə; İnternet/İntranet texnologiyası ilə; Prototip yolu ilə yaratmaqla
+D) Müstəqil işləyən tətbiqi proqram vasitəsilə; İnternetdən istifadə etməklə; Prototip yolu ilə yaratmaqla
+E) Fayl-server arxitekturası ilə; Bütöv VBİS-dən istifadə etməklə; İnternet/İntranet texnologiyası ilə;
+A
+71. Şəbəkə informasiya sistemlərinin qurulması üçün hansı arxitekturadan istifadə olunur?
+A) fayl-server arxitekturası ilə, kliyent-server arxitekturası ilə, çoxsəviyyəli arxitektura ilə, çoxəlaqəli arxitektura ilə, VBİS nüvəsi ilə;
+B) kliyent-server arxitekturas ilə, bütöv VBİS-dən istifadə etməklə; müstəqil işləyən tətbiqi proqram vasitəsilə
+C) fayl-server arxitekturası ilə, kliyent-server arxitekturası ilə; VBİS nüvəsi ilə; bütöv VBİS-dən istifadə etməklə
+D) kliyent-server arxitekturası ilə, çoxsəviyyəli arxitektura ilə; bütöv VBİS-dən istifadə etməklə; VBİS nüvəsi ilə;
+E) fayl-server arxitekturası ilə, kliyent-server arxitekturası ilə, çoxsəviyyəli arxitektura ilə, internet/intranet texnologiyası əsasında
+E
+72. İS-in riyazi təminatına aşağıdakı vasitələrdən hansı daxil deyil?
+A) Tipik idarəetmə məsələləri
+B) İdarəetmə və informasiya proseslərinin modelləşdirilməsi vasitələri 
+C) Proqnozlaşdırma üsulları
+D) Riyazi proqramlaşdırma, riyazi statistuka üsulları
+E) Kütləvi xidmət, çoxluqlar, qeyri-səlis çoxluqlar nəzəriyyələri
+C
+73. İnformasiya məhsulu nədir?
+A) Müəyyən formada saxlanan verlənlər toplusu
+B) İnsanların ətraf mühitdən aldığı verilənlər toplusu 
+C) Dövrü mətbuatdan aldığımız məlumatlar toplusu
+D) Dövrü mətbuatdan və yayım vasitələrindən aldığımız məlumatlar toplusu
+E) Maddi və ya qetri-maddi formada yayılması üçün istehsalçı tərəfindən hazırlanmış informasiya toplusudur
+E
+74. İnformasiya xidməti nə deməkdir?
+A) İnformasiya məhsulunun alınması və istifadəçiyə təqdim olunması 
+B) İnformasiya əsasında qərarların qəbul edilməsi
+C) İnformasiyanın dövrü mətbuatda yayımlanması 
+D) İnformasiyanın emal olunması
+E) İnformasiyanın istifadə qaydalarına əməl olunması
+A
+75. Aşağıdakılardan hansı informasiya sisteminin tətbiq sahələrinə aid deyil
+A) Çaylarda suyun miqdarının idarə olunması; insanların demoqrafik artımında 
+B) Mühasibat uçotunda; bank sistemində
+C) Maliyyə axınlarının idarə olunmasında; sənəd dövriyyəsində
+D) Müəssisənin operativ idarə olunmasında; Marketinqin idarə olunmasında
+E) Texnoloji prosesin idarə olunmasında; istehsalat proseslərinin idarə olunmasında
+A
+76. Şəbəkə İnformasiya sistemlərinin yaradılması üçün hansı arxitektura yoxdur? 
+A) Fayl-server	
+B) Çoxölçülü	
+C) Klient-server
+D) Çoxsəviyyəli	
+E) İnternet/İntranet texnologiyası
+B
+77. Aşağıdakı informasiya sistemlərdən hansı inteqrallaşdırılmış sistemlər sayılır? 
+A) İnformasiya - məsləhət sistemləri 
+B) Korporativ informasiya sistemləri 
+C) Sənədli-faktoqrafik
+D) İnformasiya-arayış sistemləri 
+E) İnformasiya-axtarış sistemləri
+C
+78. Aşağıdakı sistemlərindən hansı konkret mövzu sahəsinə aid sənədlərdən faktoqrafik informasiyanın çıxarılması prosesi aparılır?
+A) Ekspert sistemləri 
+B) Sənədli-faktoqrafik
+C) İnformasiya - məsləhət sistemləri 
+D) İnformasiya-arayış sistemləri
+E) Sənəd dövriyyəsi sistemləri
+B
+79. İnformasiya-arayış sistemlərində əsasən hansı sorğulardan istifadə olunur? 
+A) Sadə və mürəkkəb
+B) Səlis və qeyri-səlis
+C) Müəyyənləşdirilmiş və ixtiyari 
+D) Ümumiləşdirilmiş və  təkbir 
+E) Reqlamentli və ixtiyari
+E
+80. Sənəd dövriyyəsi sistemi hansı İS-in hansı təsnifat qrupuna aiddir? 
+A) Korporativ informasiya sistemləri
+B) Faktoqrafik sistemlər
+C) Sənədli-faktoqrafik sistemlər 
+D) Sənədli sistemlər
+E) Qrup informasiya sistemləri
+D
+81. İnformasiya-məsləhət sistemləri hansı İS-in hansı təsnifat qrupuna aiddir? 
+A) Faktoqrafik sistemlər
+B) Sənədli sistemlər
+C) Sənədli-faktoqrafik sistemlər
+D) Korporativ informasiya sistemləri 
+E) Qrup informasiya sistemləri
+A
+82. Kargüzarlığın avtomatlaşdırılması sistemləri olunması hansı İS-in hansı təsnifat qrupuna aiddir? 
+A) Sənədli-faktoqrafik sistemlər 
+B) Sənədli sistemlər
+C) Faktoqrafik sistemlər
+D) Korporativ informasiya sistemləri 
+E) Qrup informasiya sistemləri
+B
+83. İnformasiya-arayış, informasiya-idarəetmə və informasiya-məsləhət sistemləri İS-in hansı təsnifat qrupuna aiddirlər?
+A) Korporativ informasiya sistemləri 
+B) Sənədli-faktoqrafik sistemlər
+C) Sənədli sistemlər
+D) Faktoqrafik sistemlər
+E) Qrup informasiya sistemləri
+D
+84. İnformasiya-axtarış, sənəd dövriyyəsi və kargüzarlığın avtomatlaşdırılması sistemləri İS-in hansı təsnifat qrupuna aiddirlər?
+A) Korporativ informasiya sistemləri 
+B) Sənədli-faktoqrafik sistemlər
+C) Faktoqrafik sistemlər 
+D) Sənədli sistemlər
+E) Qrup informasiya sistemləri
+D
+85. Faktoqrafik sistemlərə hansı İS qrupları aiddir (hər üçü düzgün olan)?
+A) İnformasiya-arayış, informasiya-idarəetmə və informasiya-məsləhət 
+B) Lokal İS, qrup İS və korporativ İS-lər
+C) İnformasiya-axtarış, sənəd dövriyyəsi və informasiya-məsləhət
+D) Korporativ İS, informasiya-arayış sistemi və sənəd dövriyyəsi sistemi
+E) İnformasiya-axtarış, sənəd dövriyyəsi və kargüzarlığın avtomatlaşdırılması sistemləri
+A
+86. Sənədli sistemlərə hansı İS qrupları aiddir (hər üçü düzgün olan)?
+A) İnformasiya-axtarış, sənəd dövriyyəsi və kargüzarlığın avtomatlaşdırılması sistemləri
+B) Lokal İS, qrup İS və korporativ İS-lər
+C) İnformasiya-axtarış, sənəd dövriyyəsi və informasiya-məsləhət
+D) Korporativ İS, informasiya-arayış sistemi və sənəd dövriyyəsisistemi 
+E) İnformasiya-arayış, informasiya-idarəetmə və informasiya-məsləhət
+A
+87. İnformasiya sisteminin ümumi strukturuna aşağıdakılardan hansı daxil deyil?
+A) Riyazi və proqram təminatı      
+B) Texniki və proqram təminat 
+C) Nəqliyyat və enerji təminatı    
+D) Təşkilati və hüquqi təminat 
+E) Texniki və informasiya təminatı
+C
+88. İS-lərdə hansı proses yerinə yetirilmir?
+A) İnformasiyanın saxlanması	
+B) İnformasiyanın daxil edilməsi 
+C) İnformasiyanın kodlaşdırılması	
+D) İnformasiyanın axtarışı və emalı 
+E) İnformasiyanın xaric edilməsi
+C
+89. Aşağıdakılardan hansı İS-in xarakteristikalarına aid deyil?
+A) İS dinamiki və inkişaf edən sistemdir 
+B) İS staik və dəyişməz sistemdir
+C) İS-in qurulmasında sistemli yanaşmadan istifadə olunur
+D) İS-in çıxış məhsulu qəratrların qəbul edilməsi üçün istifadə olunan informasiyadır 
+E) İS “insan-maşın” tipli verilənlərin emalı sistemidir
+B
+90. Aşağıdakılardan hansı informasiya sisteminin texniki təminatına aid deyil 
+A) Təşkilati-texniki vasitələr
+B) Hər hansı modelə aid kompüterlər
+C) Kommunikasiya vasitələri (informasiyanı ötürən və qəbul edən qurğular, rabitə kanalları)
+D) İnformasiyanın toplanması, saxlanması, emalı, ötürülməsi və əks etdirilməsi üçün qurğular
+E) Muhafizə və həyacan qurğuları
+E
+91. Altsistem nədir?
+A) Altsistem ümumi sistemin müəyyən əlamətə görə ayrılmış bir hissəsidir 
+B) Altsistem xüsusi dildə yazılmış proqram kodudur
+C) Altsistem əsas sistemin nəticələrini yadda saxlayan fayldir 
+D) Altsistem altproqramın prinsipi ilə yaradılan sistem
+E) Altsistem sorğuların nəticələrini emal edən proqramdır
+A
+92. İnformasiya təminatı altsisteminin funksiyası nədən ibarətdir?
+A) İnformasiya təminatı altsisteminin vəzifəsi çıxış nəticələri təhlil etməkdir 
+B) İnformasiya təminatı altsisteminin vəzifəsi çıxış nəticəni yadda saxlamaqdan ibarətdir
+C) İnformasiya təminatı altsisteminin vəzifəsi sistemi vaxtında və lazımi informasiya ilə təmin etməkdir
+D) İnformasiya təminatı altsisteminin vəzifəsi sistemə daxil olan məlumatları çeşidləməkdir
+E) İnformasiya təminatı altsisteminin vəzifəsi şəbəkə ilə əlaqə yaradaraq informasiya əldə etməkdir
+C
+93. Verilənlər bazasının qurulma metodologiyasına əsasən VB-nin layihələndirilməsi hansı prinsiplə yerinə yetrilir?
+A) “Aşağıdan yuxarı”	
+B) ”Yuxarıdan-aşağı”	
+C) Kompleks 
+D) “Dostsayağı”	
+E) Əksəlaqəli
+B
+94. İnformasiya sisteminin fəaliyyəti mərhələlərinin hüquqi təminatıma aşağıdakılardan hansı daxil deyil?
+A) Sistemin heyyətinin hüquqları, vəzifələri və məsuliyyətləri 
+B) İnformasiya sisteminin statusu
+C) İnformasiya sisteminin xarici təsirlərdən mühafizəsi
+D) İdarəetmə prosesinin ayr-ayrı növlərinin hüquqi nizamnamələri 
+E) İnformasiyanın hazırlanması və istifadə edilməsi qaydaları
+C
+95. Bir VBİS mühitində yaradılmış VB-yə digər VBİS-dən müraciətin mümkünlüyünü nə təmin edir?
+A) Sistem proqram təminatı	
+B) CASE texnologiyası
+C) Əməliyyat sistemi	
+D) ODBC standart interfeysi 
+E) proqramçının tərtib etdiyi xüsusi proqram vasitəsilə
+D
+96. Korporativ informasiya sistemləri İS-lərin hansı təsnifat qrupuna aiddir? 
+A) Heç birinə	
+B) Mürəkkəbliyinə görə
+C) İnformasiya resurslarına görə	
+D) Predmet sahəsinə görə 
+E) Miqyasına görə
+E
+97. İnternetdə hər bir saytın nəyi var?
+A) unikal ünvanı	
+B) sahibi	
+C) məzmunu 
+D) oxşarı	
+E) müraciət parolu
+A
+98. İnformasiya sisteminin hazırlanması və istismarı prosesində işçilərin texniki vasitələrlə və öz aralarında qarşılıqlı əlaqələrini nizamlayan metodlar və vasitələr toplusu İS-in hansı təminatıdır?
+A) Hüquqi təminat
+B) Texniki təminat	
+C) Təşkilati təminatı 
+D) Proqrqm təminatı	
+E) İnformasiya təminatı
+C
+99. İS-in məqsədlərini və vəzifələrini reallaşdırmaq, həçinin texniki vasitələr kompleksinin normal fəaliyyətini təmin etmək üçün istifadə olunan riyazi metodlar, modellər, alqoritmlər və proqram lar toplusu İS-in hansı təminatlar cütlüyüdür?
+A) Riyazi və təşkilati tıminatlar	
+B) Riyazi və proqrqm təminatlar 
+C) Riyazi və hüquqi təminatlar	
+D) Riyazi və tezniki təminatlar 
+E) Riyazi və informasiya təminatlar
+B
+100. Aşağıdakılardan hansı İS-in proqram təminatının tərkib hissələridir (hər üçü düzgün olan)
+A) Ümumsistem proqrqm təminatı, xüsusi proqram təminati və proqram sənədləri 
+B) Xüsusi proqram təminati, nəqliyyat məsələləri və optimallaşdırma üsulları
+C) Ümumsistem proqrqm təminatı, kompleks proqramlaşdırma, prosedur proqramlaşdırma
+D) Proqram sənədləri, optimallaşdırma üsulları, obyektyönlü proqramlaşdırma
+E) Optimallaşdırma üsulları, kompleks proqramlaşdırma, prosedur proqramlaşdırma 
+A
+101. Verilənlərin mərkəzləşdirilmiş idarə olunmasını nə idarə edir.
+A) VBİS (Verilənlər bazasıını idarəetmə sistemi)
+B) ƏS (əməliyyat sistemi)	
+C) SPT (sistem proqram təminatı) 
+D) TPP (tətbiqi proqram paketləri)	
+E) İS (informasiya sistemi)
+A
+102. Göstərilən xarakteristikalardan hansı VB-yə aid deyil? 
+A) Verilənlərin daxili strukturunun saxlanması;
+B) Verilənlərin təkrarlanmasının minimuma endirilməsi; 
+C) VB-nin kompüterdən asılı olması
+D) Verilənlərin çoxməqsədli və birgə tətbiqi 
+E) Verilənlərin birgə idarə olunması
+C
+103. VB-ni nə idarə edir? 
+A) WINDOWS –un tətbiqi proqram paketləri
+B) Proqramçının Pascal dilində tərtib etdiyi proqram 
+C) ƏS (Əməlyyat sistemi) 
+D) VBİS (Verilənlər bazasıının idarəetmə sistemi)	
+E) Sistem proqram təminatı
+D
+104. Verilənlərin emalı hansı rejimlərdə aparıla bilər? 
+A) adi rejimdə, paket rejimində, interaktiv rejimdə
+B) paket rejimində, real zaman rejimində, interaktiv rejimdə 
+C) real zaman rejimində, kompleks rejimdə, adi rejimdə
+D) əlaqəli rejimdə, interaktiv rejimdə, paket rejimində 
+E) interaktiv rejimdə, kompleks rejimdə, adi rejimdə
+B
+105. VB-nın layihələndirilməsində əsas prinsip hansıdır?
+A) VB-nın layihələndirilməsi “hissələrə bölmə” prinsipi ilə aparılır; 
+B) VB-nın layihələndirilməsi “eynilik” prinsipi ilə aparılır;
+C) VB-nın layihələndirilməsi “müstəqillik” prinsipi ilə aparılır;
+D) VB-nın layihələndirilməsi “aşağıdan yuxarı” prinsipi ilə aparılır.
+E) VB-nın layihələndirilməsi “yuxarıdan aşağı” prinsipi əsasında iterasiya ilə aparılır; 
+E
+106. Fiziki strukturda verilənlərin əsas vahidi kimi nə götürülür?
+A) fayl	
+B) dəyişənlər
+C) məntiqi təsvir	
+D) fiziki yazı
+E) fiziki model 
+D
+107. Struktur modelləşdirilmədə neçə klassik modeldən istifadə olunur? 
+A) 4	
+B) 3	
+C) 2	
+D) 5	
+E) 6
+B
+108. VB-də əsas açarın rolu nədən ibarətdir?
+A) Açara daxil olmayan atributları təyin etmək, nisbətlər arasında əlaqə yaratmaq üçün 
+B) Faylın açılması üçün	
+C) VB-yə müraciət etmək üçün
+D) VB-yə parol qoymaq üçün	
+E) VB-dəki informasiyanın mühafizəsi üçün 
+A
+109. Kortej cədvəlin nəyidir?
+A) Cədvəlin atributu.	
+B) Cədvəlin sütunu.	
+C) Cədvəlin sətri (yazı). 
+D) Cədvəlin sahəsi.	
+E) Nisbətin mahiyyəti.
+C
+110. Domen cədvəlin nəyidir? 
+A) Cədvəlin sətri.	
+B) Cədvəlin sütunu.	
+C) Cədvəlin atributu. 
+D) Cədvəlin sahəsi.	
+E) Cədvəlin mahiyyəti.
+B
+111. VB-də nisbətlər arasında əlaqə yaratmaq üçün hansı açarlardan istifadə olunur? 
+A) əsas açardan	
+B) xarici açardan	
+C) əsas açardan və xarici açardan
+D) əsas açarın alt açarlarından	
+E) əsas açarı müəyyən edən atributdan 
+B
+112. Nisbətin əsas açarda neçə atribut iştirak edə bilər.
+A) yalnız bir	
+B) ən azı iki	
+C) bir və ya bir neçə	
+D) iki	
+E) ən çoxu iki 
+C
+113. Nisbətlər neçə səviyyədə normallaşdırılır? 
+A) 5	
+B) 4	
+C) 3	
+D) 2	
+E) 5
+E
+114. Relyasiya modelinin ən mühüm elementi nədir? 
+A) RM-in mühüm elementi nisbətdir.
+B) RM-in ən mühüm elementi nisbətin sxemidir. 
+C) RM-in ən mühüm elementi mahiyyətdir.
+D) RM-in ən mühüm elementi kortej və atributdur. 
+E) RM-in mühüm elementi domen və açardır.
+A
+115. Paylanmış VB-ləri idarəetmək üçün aşağıdakı VBİS-lərdən hansı istifadə olunur. 
+A) ACCESS və FoxPro	
+B) ACCESS	
+C) Bütün VBİS-lər
+D) Oracle	
+E) Paradox və Clipper 
+D
+116. DROP TABLE əmri hansı funksiyanı yerinə yetirir?
+A) Mövcud baza cədvəli əsasında yeni cədvəl yaratmaq üçün. 
+B) Mövcud baza cədvəlinin qiymətini dəyişdirmək üçün.
+C) Mövcud baza cədvəlinə yeni verilənlər daxil etmək üçün. 
+D) Mövcud baza cədvəlini ləğv etmək üçün.
+E) Yeni baza cədvəlinin yaradılması üçün. 
+D
+117. Sorğu dili ilə işləmək üçün nisbətin neçənci normal formada olması kifayətdir?
+A) 2-ci normal formada	
+B) 3-cü normal formada	
+C) 1-ci normal formada 
+D) 4-cü normal formada	
+E) gücləndirilmiş 3-cü normal formada
+C
+118. Aşağıdakılardan hansı reylasiya modelinin elementlərinə aid deyil.
+A) proyeksiya	
+B) nisbət	
+C) açar	
+D) domen	
+E) kortej
+A
+119. Hansı tələb verilənlər bazasına aid edilmir? 
+A) Verilənlərin izafiliyinin azaldılması
+B) Verilənlərin məntiqi və fiziki müstəqilliyi
+C) Verilənlərin bir dəfə daxil edilməsi və çox sayda istifadə olunması 
+D) Proqramlaşdırma dillərində istifadə imkanı
+E) Düzəlişlərin sadəliyi 
+D
+120. Verilənlərin minimal fraqmenti.
+A) Bit	
+B) Fayl	
+C) Yazı	
+D) Bayt	
+E) Sahə 
+E
+121. Verilənlər bazasının adminstratoru.
+A) Müəyyən müəssisənin verilənləri haqqında tam təsəvvürü olan şəxs
+B) Bütün verilənlər bazalarına müraciət hüququ olan, lakin bu verilənlər bazalarının tamlığına cavabdehliyi olmayan şəxs
+C) Bir və bir neçə verilənlər bazası haqqında tam təsəvvürü olan, bu bazaların layihə və istifadə olunmasına nəzarət edən şəxs
+D) Bir və bir neçə verilənlər bazasını layihələndirən şəxs
+E) Bir və bir neçə verilənlər bazasının istifadə olunmasına yalnız nəzarət edən şəxs
+C
+122. İndeks nədir?
+A) Yazıların yerləşdiyi yeri təyin etmək üçün istifadə olunan cədvəl 
+B) Sahələrin yerləşdiyi yeri təyin etmək üçün istifadə olunan cədvəl 
+C) Faylların yerləşdiyi yeri təyin etmək üçün istifadə olunan cədvəl
+D) Yaddaş sahəsinin yerləşdiyi yeri təyin etmək üçün istifadə olunan cədvəl
+E) Müxtəlif strukturların yerləşdiyi yeri təyin etmək üçün istifadə olunan cədvəl 
+A
+123. Domen nədir?
+A) Fayl yazılarının sayı ilə təyin olunan ölçü 
+B) Yazıların qarşılıqlı əlaqəli sahələrinin qrupu
+C) Verilənlərin elementinin identifikasiyası üçün istifadə olunan simvollar çoxluğu 
+D) Seksiya sərhədlərindən kənara çıxa bilməyən zəncir növü
+E) Bu və ya digər atributun (sahənin) eyni tipli qiymətlər çoxluğu
+E
+124. Kortej nədir?
+A) Fayl yazılarının sayı ilə təyin olunan ölçü 
+B) Nisbətin genişlənməsi olan cədvəlin sətri
+C) Verilənlərin elementinin identifikasiyası üçün istifadə olunan simvollar çoxluğu 
+D) Seksiya sərhədlərindən kənara çıxa bilməyən zəncir növü
+E) Nisbətə eyni tip sahələr toplusu 
+B
+125. Normallaşdırma nədir?
+A) İnformasiyanın silinməsi şərti ilə verilənlərdə bitlərin sayının azaldılması üsulu
+B) Elementləri bir-biri ilə göstəricilər vasitəsilə əlaqələndirilən verilənlərin təşkili üsulu 
+C) Yazıların bir-biri ilə əlaqəsi üsulunun təyin olunması
+D) Sərbəst təşkil edilmiş faylda yazı daşmalarının emalı metodu
+E) Verilənlərin mürəkkəb strukturlarının normallaşdırılmış nisbətlər şəklində təsviri 
+E
+126. LİKE məntiq əməliyyatının funksiyası nədir?
+A) Verilmiş qiymətə bərabər qiymətin tapılması üçün istifadə olunur.
+B) Verilmiş qiymətə oxşar qiymətin (qiymətlərin) tapılması üçün istifadə olunur. 
+C) Verilmiş qiymətə yaxın qiymətin tapılması üçün istifadə olunur.
+D) Verilmiş qiymətdən böyük qiymətlərin tapılması üçün istifadə olunur. 
+E) Verilmiş qiymətdən kiçik qiymətlərin tapılması üçün istifadə olunur.
+B
+127. Verilənlərin relyasiya modelinin çatışmazlığı.
+A) Verilənlər arasında biristiqamətli əlaqə
+B) Fayllarda yazıların sayına qoyulan məhdudiyyət 
+C) Verilənlərin strukturunun sərtliyi 
+D) Hər bir element üçün istinadların zəruriliyi	
+E) Çatışmazlıq yoxdur
+C
+128. Verilənlərin iyerarxik modelinin çatışmazlığı. 
+A) Verilənlər arasında biristiqamətli əlaqə
+B) Fayllarda yazıların sayına qoyulan məhdudiyyət 
+C) Verilənlərin strukturunun sərtliyi 
+D) Hər bir element üçün istinadların zəruriliyi	
+E) Çatışmarlıq yoxdur
+C
+129. Verilənlərin şəbəkə modelinin çatışmazlığı. 
+A) Verilənlər arasında biristiqamətli əlaqə
+B) Fayllarda yazıların sayına qoyulan məhdudiyyət 
+C) Verilənlərin strukturunun sərtliyi 
+D) Reallaşdırılmağın mürəkkəbliyi	
+E) Çatışmarlıq yoxdur
+D
+130. Relyasiya cəbrinə daxil olmayan operator.
+A) Birləşmə	
+B) Kəsişmə	
+C) Dekart hasil 
+D) Transponirə edilmə	
+E) Proyeksiya
+D
+131. Bir nisbət üzərində aparılan əməliyyat.
+A) Çıxma
+B) Proyeksiya	
+C) Bölmə	
+D) Birləşmə	
+E) Kəsişmə 
+B
+132. Nisbətlər üzərində birləşmə əməliyyatlarının nəticəsi
+A) İlkin nisbətlərin atributlarına və kortejləri toplusuna malik olur 
+B) Birinci nisbətin atributları çoxluğundan
+C) İlkin nisbətlərin atributlarına malik olur, hər iki ilkin nisbətlərin hər birində olan eyni kortejlərdən təşkil olunur.
+D) Eyni atributlardan ibarət olur, birinci nisbətin elə kortejlərindən təşkil olunur ki, onlar ikinci nisbətdə təkrar olunmasın
+E) İlkin nisbətlərin bütün atributlarından təşkil olunur, bu nisbətlərin bütün mümkün uyuşan kortejlərindən ibarət olur
+A
+133. Nisbətlər üzərində çıxma əməliyyatının nəticəsi
+A) İlkin nisbətlərin atributlarına və kortejləri toplusuna malik olur 
+B) Birinci nisbətin atributları çoxluğundan
+C) İlkin nisbətlərin atributlarına malik olur, hər iki ilkin nisbətlərin hər birində olan eyni kortejlərdən təşkil olunur.
+D) Eyni atributlardan ibarət olur, birinci nisbətin elə kortejlərindən təşkil olunur ki, onlar ikinci nisbətdə təkrar olunmasın
+E) İlkin nisbətlərin bütün atributlarından təşkil olunur, bu nisbətlərin bütün mümkün uyuşan kortejlərindən ibarət olur
+D
+134. Sıxılma nədir?
+A) İnformasiyanın silinməməsi şərti ilə verilənlərdə bitlərin sayının azaldılması üsulu
+B) Elementləri bir-biri ilə göstəricilər vasitəsi ilə əlaqələndirilən verilənlərin təşkili üsulu
+C) Yazıların bir-biri ilə əlaqəsi üsulunun təyin olunması
+D) Sərbəst təşkil edilmiş faylda yazı daşmalarının emalı metodu
+E) Verilənlərin mürəkkəb strukturlarının normallaşdırılmış nisbətlər şəklində təsviri 
+A
+135. Nisbətlər üzərində kəsişmə əməliyyatının nəticəsi
+A) İlkin nisbətlərin atributlarına və kortejləri toplusuna malik olur
+B) Birinci nisbətin atributları çoxluğundan ikinci nisbətin atributlarinin silinməsi
+C) İlkin nisbətlərin atributlarına malik olur, hər iki ilkin nisbətlərin hər birində olan eyni kortejlərdən təşkil olunur. 
+D) Eyni atributlardan ibarət olur, birinci nisbətin elə kortejlərindən təşkil olunur ki, onlar ikinci nisbətdə təkrar olunmasın
+E) İlkin nisbətlərin bütün atributlarından təşkil olunur, bu nisbətlərin bütün mümkün uyuşan kortejlərindən ibarət olur
+C
+136. Hansı VBİS-in funksiyalarına daxil deyil?
+A) Verilənlər bazasındakı verilənlərin idarə olunması 
+B) İstifadəçi sorğularının emal olunması
+C) Tranzaksiyaların idarə olunması
+D) Kompüterin yaddaşındakı verilənlərin idarə olunması 
+E) VB-ki dəyişmələrin idarə olunması
+D
+137. Hansı VB servislərinə aid deyil?
+A) Verilənlərin yadda saxlanılmasının idarə olunması 
+B) Verilənlərin mühafizəsinin idarə olunması
+C) Şəbəkə protokolları ilə kliyent və server arasında qarşılıqlı əlaqənin qurulması 
+D) Ehtiyat nüsxələrinin alınmasının idarə olunması
+E) Verilənlərin tamlığına nəzarətin yerinə yetirilməsi 
+C
+138. Hansı kliyent/server prinsipi üzrə yaradılmış informasiya sisteminin komponenti deyil?
+A) VB-nin serveri
+B) VB-nin kliyenti	
+C) Şəbəkə 
+D) Kommunikasiya təminatı	
+E) Əməliyyat sistemi
+E
+139. Kardinal ədədi.
+A) Nisbətdə kortejlərin sayı
+B) Nisbətdə atributların sayı 
+C) Bir atributa aid domenlərin sayı	
+D) VB-dəki nisbətlərin sayı 
+E) VB faylındakı yazılardakı sahələrin sayı
+A
+140. Hansı əlaqə cütü relyasiya modelli VB-də əlaqələr çoxluğuna aid deyil? 
+A) Birin birə, çoxun çoxa	
+B) Birin birə, bəziləri bəzilərinə
+C) Birin çoxa, çoxun birə	
+D) Birin çoxa, çoxun çoxa	
+E) Birin birə, birin çoxa 
+B
+141. Hansı əməliyyat bir nisbət üzərində aparılır?
+A) Dekart hasil	
+B) Seçmə	
+C) Birləşmə	
+D) Bitişmə	
+E) Bölmə 
+B
+142. Hansı sistem VBİS sinfinə daxil deyil?
+A) Oracle	
+B) FoxPro	
+C) Paradox	
+D) Access	
+E) Delphi 
+E
+143. Qısa şəkildə verilmiş DDL SQL-in hansı hissəsini (kateqoriyasını) göstərir?
+A) Verilənlərin təyini dili	
+B) Verilənlərin emalı dili
+C) Verilənlərə sorğu dili	
+D) Verilənlərin idarə olunması dili 
+E) Adminstrativ verilənlər əmri
+A
+144. Sorğunun təşkili zamanı HAVING açar sözü hansı açar sözlə birlikdə istifadə olunur? 
+A) FROM     
+B) WHERE     
+C) ORDER BY      
+D) GROUP BY    
+E) DISTINCT 
+D
+145. Tipi DECİMAL(4,1) şəklində göstərilmiş sütuna aşağıdakı verilənlərdən hansı yazıla bilər? 1) 16.2; 2)116.2; 3) 16.21; 4)1.16; 5)116.21
+A) Hamısı	
+B) 116.21	
+C) heç biri	
+D) 16.2, 116.2	
+E) 16.2, 16.21
+D
+146. Aşağıdakı əmrlərdən hansı verilənlərin emalı dilinin əsas əmrləri sayılır? 1) SELECT, 2) INSERT, 3) FROM, 4) UPDATE, 5)DELETE
+A) 1,4,5	
+B) 1,3,4	
+C) 2,4,5	
+D) 3,4,5	
+E) 1,2,4
+C
+147. Əgər SOY, AD, TEVELLUD, D_YERI, VAZIFE, ANKET cədvəlinin sütunlarının adıdırsa, aşağıdakı seçim operatorunun nəticəsi nə olacaq? SELECT SOY, VAZIFE,D_YERI FROM ANKET WHERE D_YERI=’GENCE’ AND VAZIFE=’TEXNOLOQ’.
+A) bütün işçilərin soyadı, adı, vəzifəsi və dogum yeri
+B) Gəncədən olan işçilərin soyadı, adı, vəzifəsi və doğum yeri 
+C) Bütün işçilərin soyadı, vəzifəsi və doğum yeri
+D) Gəncədən olan işçilərin soyadı,vəzifəsi və doğum yeri
+E) Gəncədən olan texnoloqların soyadı,vəzifəsi və doğum yeri 
+E
+148. SELECT operatorunun vacib elementi aşağıdakı təlimatlardan hansıdır?
+A) WHERE	
+B) FROM	
+C) ORDER BY	
+D) HAVING	
+E) GROUP BY
+B 
+149. SELECT operatoru SQL-in hansı bölməsinə aiddir?
+A) Verilənlərin təyini dilinə	
+B) Verilənlərin emalı dilinə
+C) Verilənlərin sorğu dilinə	
+D) Verilənlərin idarə olunma dilinə 
+E) Adminstrativ verilənlərin əmrinə
+C
+150. SELECT operatorunun aşağıdakı yazılışında hansı səhvlər var (əgər varsa)? SELECT SOV_INS, MAV FROM ANKET WHERE MAV BETWEEN 200000, 300000;
+A) Səhv yoxdur
+B) 200000 və 300000 arasında AND açar sözü yoxdur 
+C) 200000 və 300000 arasında OR açar sözü yoxdur 
+D) 200000 və 300000 dırnaq arasında yazılmalıdır
+E) 200000 və 300000 arasında interval (..) buraxılıb 
+B
+151. Aşağıdakı funksiyalardan hansı sətirlərin sayını tapmaq üçün istifadə olunur? 
+A) Sum	
+B) Count	
+C) AVG	
+D) MAX	
+E) MIN
+B
+152. DISTINCT təlimatı sorğularda istifadə zamanı nəyə yol verilmir?
+A) Verilənlərin nizamlanmasına	
+B) NULL qiymətlərinin nəzəzrə alınmasına 
+C) Təkrarlanan sətirlərin sorguda istifadə olunmasına
+D) Boş buraxılmış sətirlərin istifadəsinə	
+E) Verilənlərin qruplaşdırılmasına 
+C
+153. MAX, MIN funksiyalarında istifadə zamanı nələr ləğv edilir?
+A) boş sahələr	
+B) NULL qiyməti	
+C) Eyni qiymətlər 
+D) Simvol tipli qiymətlər	
+E) “0”-lar
+B
+154. Aşağıdakı SECECT operatorunun istifadəsində neçə səhv var (səhv varsa)? SELECT SUM(MAVACIB ), SOYAD FROM ANKET GROUP BY 1 AND 2; (ANKET cədvəlin adı, MAVACIB və SOYAD sütunların adıdır) 
+A) 1	
+B) 2	
+C) 3	
+D) səhv yoxdur	
+E) 4
+B
+155. Verilmiş sütunun bütün qiymətlərində 3-cü mövqedən başlayaraq 2 simvol seçmək üçün aşağıdakı funksiyalardan hansını istifadə etmək lazımdır?
+A) REPLACE	
+B) LTRIM	
+C) RTRIM	
+D) SUBSTR	
+E) INSTR 
+D
+156. SQL-in standart funksiyaları sırasına triqonometrik fuksiyalardan hansılar daxildir?
+A) SIN(X), COS(X)	
+B) SIN(X), COS(X), ATAN(X)
+C) SIN(X), COS(X),TAN(X), ATAN(X)
+D) SIN(X), COS(X),TAN(X)	
+E) SIN(X), COS(X), ARCTAN(X) 
+D
+157. SELECT SOYAD, MAVACIB FROM ANKET Where MAVACIB LIKE 1%200; Sorğusu nəyi axtarıb seçir?
+A) məvacibi 200-ə bərabər olan işçiləri 
+B) məvacibində 200-rəqəm iştirak edən işçiləri 
+C) məvacibi 200-lə başlayan işçiləri	
+D) məvacibi 200-lə qurtaran işçiləri
+E) məvacibi 200-dən fərqlənən işçiləri 
+B
+158. İki SELECT operatorunun hər ikisinin nəticəsində iştirak edən sətirləri seçmək üçün istifadə olunan əmr hansıdır?
+A) EXEPT	
+B) UNION	
+C) ORDER BY	
+D) UNION ALL	
+E) INSERTSECT 
+E
+159. SELECT TAB_N, SOYAD, AD, VEZIFE, MAVACIB FROM ANKET, EMEK_HAQQI WHERE ANKET.TAB_N=EMEK_HAQQI.TAB_N AND(ANKET.VAZIFE=’MUHENDIS’ AND ANKET.MAVACIB>=500000; sorğusunun cavabı nə olacaq?
+A) bütün mühəndislərin siyahısı
+B) ANKET cədvəlində olan və əmək haqqı 500000-dən çox olan mühəndislərin siyahısı 
+C) Tabel nömrələri ANKET və EMEK HAQQI cədvəllərinin hər ikisində eyni olan və əmək haqqı 500000-dən çox olan mühəndislər
+D) əmək haqqı 500000-dən çox olan bütün işçilərin siyahısı 
+E) əmək haqqı 500000 olan mühəndislərin siyahısı
+C
+160. Aşağıdakı verilənlər tiplərindən hansılar SQL-də istifadə olunur? 1) sətirlər (simvol), 2) pul, 3) tarix və vaxt, 4) ədəd, 5) şəkil 
+A) 1,2,3	
+B) 2,3,5	
+C) 1,3,5
+D) 2,4,5	
+E) 1,3,4
+E
+161. Hansı Access VBİS-in obyekti və ya idarəetmə elementi deyil?
+A) cədvəl	
+B) çoxluq
+C) sorğu	
+D) forma	
+E) hesabat
+B 
+162. Hansı proqramlaşdırma dili Access VBİS-də verilənlər bazasının avtomatlaşdırılmış emalını həyata keçirməyə və əlavələr yaratmağa imkan verir?
+A) Turbo Pascal for Windows	
+B) Visual Basic 
+C) SQL	
+D) Paradox	
+E) Foxpro
+B
+163. Access VBİS-də hesabatların yaradılması zamanı hansı parametrdən istifadə olunur?
+A) Hesabatın başlığı 
+B) Verilənlərin oblastı	
+C) Yuxarı kolontitul 
+D) Həcm	
+E) Aşağı kolontitul
+D
+164. Access VBİS-də makrosun tərkibinə nə daxildir?
+A) Hər hansı hadisəyə uyğun olaraq yerinə yetiriləcək əməliyyatların təsviri 
+B) Access VBİS-in əsas paramertləri
+C) Hesabatların yaradılması üçün parametrlərin qiymətləri 
+D) Access VBİS-inimkanları haqqında məlumatların təsviri
+E) Verilənlər bazasına olan sorğu dilləri haqqında məlumatlar 
+A
+165. Access VBİS-də fayl sahələri üçün hansı tipdən istifadə olunur?
+A) mətn tipi
+B) tarix/vaxt tipi	
+C) pul tipi	
+D) çoxluq tipi	
+E) məntiqi tip 
+D
+166. Hansı cüt Access VBİS-də cədvəllərin strukturu üçün əsas parametr götürülür?
+A) sahənin adı, verilənlərin tipi	
+B) Unikallıq, ölçü
+C) Vaciblik, açar sahə	
+D) Sətirlərin sayı, sütunların sayı 
+E) Onluq rəqəmlərin sayı, qiymətə qoyulan şərt
+D
+167. DROP TABLE <baza cədvəlinin adı>; əmri nə üçün istifadə olunur?
+A) Mövcud baza cədvəlini ləğv etmək üçün.
+B) Mövcud baza cədvəlinin qiymətini dəyişdirmək üçün.
+C) Mövcud baza cədvəlinə yeni verilənlər daxil etmək üçün. 
+D) Mövcud baza cədvəli əsasında yeni cədvəl yaratmaq üçün. 
+E) Yeni baza cədvəlinin yaradılması üçün.
+A
+168. Minimal və maksimal qitmətlər aralığına düşən qiymətləri axtarmaq üçün hansı funksiyadan istifadə olunur?
+A) MIN, MAX	
+B) AVG	
+C) BETWEEN	
+D) UNIQUE	
+E) IN 
+C
+169. SELECT operatorunu məcburi elementi hansı operatordur?
+A) WHERE	
+B) GROUP BY	
+C) ORDER BY	
+D) FROM 
+E) HAVİNG 
+D
+170. SQL sorğu dili başqa proqramlaşdırma dilindən əsasən nə ilə fərqlənir?
+A) Konstruktur imkanlara malik olması ilə.
+B) Sadə olması ilə. 
+C) Verilənlərin seçiminə imkan verməsi ilə.
+D) Mürəkkəb sorğulara cavabı təmin etməsi ilə. 
+E) Qeyri-prosedur dil olması ilə 
+E
+171. SQL-də şərti hansı təlimatla vermək olar?
+A) WHERE	
+B) İF	
+C) İİF	
+D) ORDER BY	
+E) QROUP BY 
+A
+172. COUNT funksiyasından təkrarlanmayan sətirləri saymaq üçün hansı təlimatdan istifadə olunur?
+A) *	
+B) ALL	
+C) DİSTİNCT	
+D) NOT NULL	
+E) NULL 
+C
+173.MAX və MİN yekun funksiyalarından istifadə zamanı hansı təlimatdan istifadə etmək əhəmiyyətsizdir?
+A) AVG	
+B) COUNT
+C) *	
+D) DİSTİNCT	
+E) SUM 
+D
+174.İNSERT əmri hansı funksiyanı yerinə yetirir?
+A) Verilənlərin dəyişdirilməsi	
+B) Verilənlərin silinməsi 
+C) Yeni verilənlərin daxil edilməsi
+D) Boş sətirin əlavə edilməsi	
+E) Verilənlərin seçilməsi 
+C
+175. Verilənlərin dəyişdirilməsi üçün hansı operatordan istifadə olunur?
+A) İNSERT	
+B) SELECT	
+C) DELETE	
+D) UPDATE	
+E) ALTER 
+D
+176.  Aşağıdakı operatorlardan hansı sətirdə bir neçə verilmiş simvolun (və ya sözün) başqa simvollarla (və ya sözlə) əvəz olunması üçün istifadə olunur?
+A) SUBSTR	
+B) İNSTR	
+C) TRANSLATE	
+D) RTRİM	
+E) REPLACE 
+E
+177. Verilənlərin mərkəzləşdirilmiş idarə olunmasını nə idarə edir.
+A) ƏS (əməliyyat sistemi)	
+B) VBIS (Verilənlər bazasını idarəetmə sistemi) 
+C) SPT (sistem proqram təminatı) 
+D) TPP (tətbiqi proqram paketləri)
+E) İS (informasiya sistemi) 
+B
+178. Göstərilən xarakteristikalardan hansı VB-yə aid deyil?
+A) VB-nin toxunulmazlığı və sabitliyi
+B) Verilənlərin daxili strukturunun saxlanması;
+C) Verilənlərin təkrarlanmasının minimuma endirilməsi; 
+D) Verilənlərin çoxməqsədli və birgə tətbiqi
+E) Verilənlərin birgə idarə olunması 
+A
+179. NOT NULL məhdudluğu nə üçün təyin edilir?
+A) Bu məhdudluq təyin olunan sütuna NULL qiyməti yazıla bilməz 
+B) Bu məhdudluq təyin olunan sütun açar ola bilməz
+C) Bu məhdudluq təyin olunan sütuna 0 yazıla bilməz
+D) Bu məhdudluq təyin olunan sütuna nəyinsə yazılması vacib deyil 
+E) Bu məhdudluq təyin olunan sütun boş qala bilməz
+A
+180. Paylanmış VB-ləri idarəetmək üçün aşağıdakı VBIS-lərdən hansı istifadə olunur.
+A) Bütün VBIS-lər	
+B) ACCESS və FoxPro	
+C) ACCESS
+D) Oracle
+E) Paradox və Clipper
+D
+181. VB-də xarici açarın rolu nədən ibarətdir?
+A) Faylın açılması üçün	
+B) Nisbətlər arasında əlaqə yaratmaq üçün 
+C) VB-yə müraciət etmək üçün	
+D) VB-yə parol qoymaq üçün
+E) VB-dəki informasiyanın mühafizəsi üçün 
+B
+182. VB-də cədvəlin sətri nə adlanır?
+A) Domen	
+B) Atribut	
+C) Nisbət	
+D) Kortej	
+E) Mahiyyər 
+D
+183. VB-də cədvəlin sütunu nə adlanır?
+A) Domen	
+B) Atribut	
+C) Nisbət	
+D) Mahiyyər	
+E) Kortej 
+A
+184. VB –də xarici açardan nə üçün istifadə olunur?
+A) Verilənləri çeşidləmək üçün	
+B) Sürətli axtarış üçün 
+C) Nisbətlər arasında əlaqə yaratmaq üşün
+D) Nisbətləri normallaşdırmaq üçün	
+E) Atributları təyin etmək üçün 
+C
+185. MS ACCESS 2000-də cədvəldəki indekslərin maksimal sayı nə qədər ola bilər? 
+A) 8	
+B) 16	
+C) 4	
+D) 2	
+E) 32
+E
+186. Aşağıdakılardan hansı relyasiya modelinin elementi deyi?
+A) Nisbət	
+B) Nisbətin sxemi	
+C) Mahiyyət	
+D) Nüsxələmə 
+E) Domen və kortej 
+D
+187. Nisbətin birinci normal normal formada olması nə üçün kifayətdir?
+A) Verilənlərin emalı üçün	
+B) Tamlığın təmini üçün 
+C) Tranzaksiyaların yerinə yetirilməsi üçün
+D) Verilənlərin təshih edilməsi üçün	
+E) Sorğu dili ilə işləmək üçün
+E 
+188. Aşağıdakılardan hansı verilənlər bazasının konsepsiyalarına aid deyil?
+A) Verilənlərin aktuallığı	
+B) Verilənlərin tamlığı	
+C) Mərkəzliş idarə olunma 
+D) Izafiliyin minimum olması 
+E) Axtarış imkanları
+A
+189. Aşağıdakı funksiyalardan hansı sətrin əvvəlinə simvollar və ya boşluqlar əlavə etmək üçün istifadə olunur.
+A) RPAD	
+B) LTRİM	
+C) LPAD	
+D) RTRİM	
+E) İNSERT 
+C
+190. Aşağıdakı funksiyalardan hansı sətirdəki simvolların sayını müəyyənləşdirmək üçün istifadə olunur?
+A) SUM	
+B) COUNT	
+C) MAX	
+D) LENGTH	
+E) AVG 
+D
+191. Verilənlər bazasının layihələndirilməsi hansı prinsiplə yerinə yetrilir?
+A) “eynilik”
+B) “müstəqillik”	
+C) “hissələrə bölmə” 
+D) “aşağıdan yuxarı”	
+E) “yuxarıdan aşağı”
+E
+192. VBIS (Verilənlər bazasının idarəetmə sistemi) nəyi idarə edir?
+A) Verilənlər bazasını	
+B) Sistem proqram təminatını 
+C) Proqramçının HTML dilində tərtib etdiyi proqramı
+D) WINDOWS –un tətbiqi proqram paketlərini	
+E) Servis proqramlarını 
+A
+193. CREATE TABLE <baza cədvəlinin adı> əmri nə üçün istifadə olunur?
+A) Mövcud baza cədvəlinin qiymətini dəyişdirmək üçün. 
+B) Mövcud baza cədvəlini ləğv etmək üçün.
+C) Mövcud baza cədvəlinə yeni verilənlər daxil etmək üçün. 
+D) Mövcud baza cədvəli əsasında yeni cədvəl yaratmaq üçün. 
+E) Yeni baza cədvəlinin yaradılması üçün.
+E
+194. Verilmiş qrupda ədəd tipli sütundakı qiymətlərin orta qiymətin tapmaq üçün hansı funksiyadan istifadə olunur?
+A) MIN, MAX	
+B) AVG	
+C) UNIQUE	
+D) BETWEEN	
+E) IN 
+B
+195. FoxBase+ sistemi hansı VBİS-lərlə uyuşma imkanına malikdir?
+A) FoxPro və Access	
+B) Oracle və Paradox	
+C) Access və Paradox
+D) Bütün VBİS-lərlə
+E) dBaseIV və Clipper	
+E
+196. Verilənlərin şəbəkə modelində hansı funksional asılılıqlar var?
+A) 1:M; M:1	
+B) 1:M; M:1; N:M	
+C) 1:1; 1:M; M:1; M:N
+D) 1:1; 1:M; M:1
+E) 1:1; M:N	
+C
+197. Aşağıdakı cütlüklərdən hansı verilənlərin struktur modelləşdirilməsinə aid deyil?
+A) şəbəkə modeli və relyasiya modeli	
+B) iyerarxik model və şəbəkə modeli 
+C) relyasiya modeli və obyektyönlü model
+D) fiziki model və məntiqi model	
+E) iyerarxik model və relyasiya modeli 
+D
+198. SELECT <sütununun identifikatoru> AS <sütunun adı> FROM <cədvəl> əmri hansı funksiyanı yerinə yetirir?
+A) Nəticəvi cədvəlin sütunlarına adlar vermək üçün. 
+B) Cədvəlin sütunlarının adlarını dəyişdirmək üçün. 
+C) Cədvəllərin adlarını birləşdirmək üçün.
+D) Mövcud cədvəl əsasında yeni cədvəl almaq üçün.
+E) Nəticəvi cədvəlin sütunlarını yeni adlar ekrana çıxarmaq üçün. 
+A
+199. FoxBase+, Clipper və FoxPro dilləri proqramlaşdırma dili kimi hansı dildən istifadə edirlər?
+A) C++	
+B) Pascal	
+C) Visual Basic	
+D) Delphi	
+E) dBase 
+E
+200. DELETE əmrin neçə sətrin silinməsinə imkan verir?
+A) yalnız bir
+B) məhdud sayda	
+C) bir və ya bir neçə 
+D) ən azı iki	
+E) 100-ə qədər
+C
+201. VB-də xarici açarın rolu nədən ibarətdir?
+A) VB-yə müraciət etmək üçün	
+B) Faylın açılması üçün 
+C) Nisbətlər arasında əlaqə yaratmaq üçün
+D) VB-yə parol qoymaq üçün	
+E) VB-dəki informasiyanın mühafizəsi üçün 
+C
+202. VB-də nisbətlər arasında əlaqə yaratmaq üçün hansı ağardan istifadə olunur?
+A) əsas açarın alt açarlardan		
+B) əsas açardan	
+C) əsas açardan və xarici açardan 
+D) xarici açardan	
+E) əsas açarı müəyyən edən atributdan
+C
+203. İNSERT əmri cədvəlin neçə sətrinə yeni verilənlərin əlavə olunmasına imkan verir?
+A) bir və ya bir neçə 
+B) heç bir sətrin	
+C) yalnız bir 
+D) iki sətrin
+E) VBİS-dən asılı olaraq müxtəlif sayda
+A
+204. Aşağıdakı əmrlərdən hansı mövcud cədvəldən istifadə edərək yeni cədvəlin yaradılmasına imkan verir?
+A) heç biri 
+B) SELECT	
+C) İNSERT İNTO 
+D) CREATE TABLE	
+E) UPDATE
+E
+205. Nisbətin əsas açarda neçə atribut iştirak edə bilər?
+A) bir və ya bir neçə	
+B) yalnız bir	
+C) ən azı iki	
+D) iki	
+E) ən çoxu iki 
+A
+206. Cədvələ yeni verilənləri başqa cədvəldən daxili etmək üçün hansı əmrdən istifadə olunur?
+A) İNSERT	
+B) CREATE TABLE	
+C) UPDATE 
+D) İNTO TABLE 
+E) İN
+D
+207. CREATE İNDEX SOY_İDX ON TƏLƏBƏ (SOYAD ); əmri hansı funksiyanı yerinə yetirir?
+A) Çeşidlənmiş “Soyad” faylı yaradır.
+B) TƏLƏBƏ faylına “Soyad” atributunu daxil edir.
+C) TƏLƏBƏ faylına təkrarlanan sətirlərin daxil edilməsinə icazə vermir. 
+D) TƏLƏBƏ faylının verilənlərini tələbənin soyadına görə çeşidləyir.
+E) Çeşidlənmiş TƏLƏBƏ faylı yaradır. 
+D
+208. Əsasən nisbətlərin normallaşdırılması neçənci normal formaya qədər aparılır? 
+A) 2-ci	
+B) 4-cü	
+C) 3-cü	
+D) 5-ci	
+E) 6-cı
+C
+209. Aşağıdakı əmrlərin hansı cədvəlin dəyişdirilməsi üçün istifadə olunur?
+A) CREATE DOMAİN 
+B) ALTER TABLE	
+C) CREATE TABLE 
+D) ALTER DOMAİN	
+E) DROP TABLE
+D
+210. SQL-də hansı skalyar tipli verilənlər nəzərə alınıb (hər üçü düzgün olanı göstərir)? 
+A) simvol sətirləri, ədədi sətirlər, tarix və vaxt
+B) simvol sətirləri, yazılar, məntiqi sətirlər 
+C) simvol sətirləri, prosedura, ədədi sətirlər 
+D) ədədi sətirlər, prosedura, məntiqi sətirlər 
+E) ədədi sətirlər, tarix və vaxt, prosedura
+A
+211. R nisbətində Y atributunun X-dən funksional asılılığı hansıdır?
+A) x→y	
+B) f(x0→y	
+C) y→f:x	
+D) x→f:y	
+E) f:x→y 
+E
+212. Relyasiya modelli nisbətlərdə hansı funksional asılılıqlar var?
+A) birin-çoxa (1:M); çoxun-birə (M:1).
+B) çoxun-çoxa (M:N) və çoxun-birə (M:1).
+C) birin-birə (1:1); birin-çoxa (1:M); çoxun-birə (M:1).
+D) birin-çoxa (1:M); çoxun-çoxa (M:N); çoxun-birə (M:1).
+E) birin-birə (1:1); birin-çoxa (1:M); çoxun-birə (M:1); çoxun-çoxa (M:N). 
+E
+213. CREATE UNİQUE İNDEX SOY_İDX ON TƏLƏBƏ (SOY_İNS): proqramının nəticəsi nə olacaq?
+A) TƏLƏBƏ faylındakı verilənlər TƏLƏBƏların soyadlarına və inisiallarına görə çeşidlənməklə yanaşı, eyni soyad və inisialın təkrar daxilinə yol verilmir.
+B) TƏLƏBƏ faylındakı verilənlər TƏLƏBƏların soyadlarına və inisiallarına görə çeşidlənəcək.
+C) TƏLƏBƏ faylına eyni soyad və inisialın təkrar daxil edilməsinə yol verilmir. 
+D) TƏLƏBƏ faylındakı eyni soyad və inisiallar aşkarlanır.
+E) TƏLƏBƏ faylı əsasında yeni SOY_İDX adlı çeşidlənmiş fayl yardır. 
+E
+214. Aşağıdakı hansı R nisbətində Y-in x-dan çox mənalı asılılığını göstərir.
+A) f:X←←X	
+B) f:X←←→→Y	
+C) f:Y→→Y	
+D) f:X←→Y	
+E) f:X→→Y 
+E
+215. Aşağıdakılardan hansı VB-nın xarakteristikalarına aid deyil?
+A) Verilənlərin təkrarlanmasının minimum olması; 
+B) Verilənlərin əməliyyat sistemindən asılı olması;
+C) Verilənlərin onları emal edən proqramdan asılı olmaması;
+D) Verilənləri axtarıb tapmaq, onları dəyişdirmək və yeniləşdirmək üçün ümumi idarəetmə üsullarından və vasitələrindən istifadə olunması;
+E) Verilənlər elə strukturlaşdırılmalıdır ki, gələcəkdə VB-nin tətbiq sahəsinin genişləndirilməsi mümkün olsun.
+B
+216. VB-nin layihələndirilməsinin mərhələlərini göstərin.
+A) VBİS-in seçilməsi və fiziki	
+B) məntiqi və fiziki
+C) mövzu sahəsinin araşdırılması və konseptual layihələndirmə 
+D) konseptual və infoloji	
+E) infoloji və datoloji
+E
+217. M:N (çoxun-çoxa) asılılığını əks etdirən işarələnmə hansıdır?
+A) X←→Y	
+B) X→→Y	
+C) Y→→X	
+D) X←←Y	
+E) X←←→→Y 
+E
+218. CREATE SECURİTY RULEP1 CRANT RETRİEVE (TABEL_N, AYLIQ_İSH_G, AOM) ON MAVACİB TO MAMED; proqram kodunun nəticəsi nə olacaq?
+A) MAMED adlı istifadəçi MAVACİB cədvəlində tabel nömrəsi (TABEL_N) aylıq iş günü (AYLIQ_İSH_G) və aylıq orta məvacib (AOM) atributların baxa bilər.
+B) MAMED adlı istifadəçi MAVACİB cədvəlində tabel nömrəsi, aylıq-iş günü və aylıq orta məvacib atributlarında dəyişdirmə əməliyyatı apara bilər.
+C) MAMED adlı istifadəçi MAVACİB cədvəlində tabel nömrəsi, aylıq iş günü və aylıq orta məvacib atributlarına baxmağa qadağa qoyur.
+D) MAMED adlı istifadəçi tabel nömrəsi, aylıq iş günü və aylıq orta məvacib atributlarından ibarət MAVACİB cədvəli yaradır.
+E) MAMED adlı istifadəçi MAVACİB cədvəlində tabel nömrəsi, aylıq iş günü və aylıq orta məvacib atributlarına baxa bilər, onları dəyişdirə və silə bilər.
+A
+219. Hansı normal formada nisbət bütün normal formalara malik olur?
+A) Əgər nisbət 5-ci normal formadadırsa (5nf) o həmdə 4-cü, 3-cü, 2-ci və 1-ci normal formalardır
+B) Əgər nisbət 3-cü gücləndirilmiş (Boys-Kodd normal forması) normal formasındadırsa onda o bütün normal formalardadır.
+C) Nisbət tələb olunan səviyyəyə qədər normallaşdırılıbsa, onda o bütün normal formadadır.
+D) Əgər VB-ni reallaşdırmasında 3-cü normal forma qaneedicisidirsə, onda o bütün normal formalardadır.
+E) Heç vaxt nisbət bütün normal formalarda ola bilməz. 
+A
+220. Nisbətin 4-cü normal formaya gətirilməsi zərurəti nə vaxt yaranır?
+A) Əgər nisbətdə əks asılılıq varsa, onda o 4-cü normal formaya gətirilir. 
+B) Nisbətdə anomaliya varsa, onda o 4-cü normal formaya gətirilir.
+C) Nisbətdə funksional asılılıq varsa, onda o 4-cü normal formaya gətirilir. 
+D) Nisbətdə qeyri müəyyənlik varsa, o 4-cü normal formaya gətirilir.
+E) Əgər nisbətdə çoxmənalı asılılıq varsa, onda nisbətin sxemi 4-cü normal formaya gətirilir.
+E
+221. MS ACCESS “Miqdar” və “Qiymət” sahələrində asılı olan “Ümumi dəyər” sahəsinin qiymətini hesablamaq üçün aşağıdakı ifadələrdən hansı düzgündür?
+A) Ümumi dəyər: [Miqdar]* [Qiymət]	
+B) Ümumi dəyər: = Miqdar*Qiymət 
+C) Ümumi dəyər = [Miqdar]* [Qiymət]	
+D) Ümumi dəyər: Miqdar*Dəyər
+E) Ümumi dəyər: = [Miqdar]* [Qiymət] 
+A
+222. İNSERT İNTO TƏLƏBƏ 1 (SOY-İS, QRUP, TAVALLUD, DOGUM YERİ, İDMAN- NOV) FROM TƏLƏBƏ WHERE DOGUM YERİ = “GƏNCƏ” proqram kodunun nəticəsi ə olacaq?
+A) Gəncədən olan tələbələrdən ibarət yeni TƏLƏBƏ 1 cədvəli yaradılır. 
+B) Gəncədən olan tələbələrın siyahısı ekrana çıxarılır.
+C) Doğum yeri Gəncə olan tələbələr haqqında verilənlərin dəyişdirilməsinə icazə verilir.
+D) Doğum yeri Gəncə olan tələbələr haqqında verilənlər TƏLƏBƏ cədvəlindən TƏLƏBƏ 1 cədvəlinə yazılır.
+E) TƏLƏBƏ 1 faylının verilənləri TƏLƏBƏ faylının verilənləri ilə müqayisə olunur. 
+D
+223. CREATE UNİQUE İNDEX indeksin_adı ON cədvəlin_adı (sütunun_adı); nəyin yazılış sintaksisidir?
+A) Xarici açarın yazılış sintaksisi	
+B) Adi indeksin yazılış sintaksisi 
+C) Əsas açarın yazılış sintaksisi	
+D) Unikal indeksin sintaksisi
+E) Mürəkkəb indeksin sintaksisi 
+D
+224. SQL-də verilənlərin emalı dilinin əsas operatorları hansılardır?
+A) SELECT, HAVİNG, UPDATE, DELETE 
+B) SELECT, FROM, WHERE, HAVING
+C) SELECT, INSERT, HAVING, GROUP BY
+D) SELECT, GROUP BY, ORDER BY, HAVING 
+E) SELECT, INSERT, UPDATE, DELETE
+E
+225. SELECT DISTINCT sütunun 1, sütun 2, ..., sütun n FROM cədvəl; əmrində verilənlərin necə seçilməsi nəzərdə tutulur?
+A) NULL qiyməti olmayan sətirlərdən verilənlərin seçimini 
+B) Bütün sətirlərin verilənlərinin seçimi
+C) Təkrarlanan sətirlərin olmaması ilə verilənlərin seçimi 
+D) Boş yazı olmayan sətirlərdən verilənlərin seçimini
+E) Təkrarlanan sətirlərdən verilənlərin seçimi 
+C
+226. Aşağıdakı təlimatladan hansı “əsas açarın” təyini üçün istifadə olunur?
+A) FOREİGN KEY 
+B) UNİON KEY
+C) UNİQUE KEY
+D) heç biri	
+E) PRİMARY KEY
+C
+227. Aşağıdakı proqram kodu nəyi müəyyənləşdirir? SELECT SOY_İNİSİAL, TAVLLUD, QRUP, İDMAN_NOV FROM TƏLƏBƏ WHERE IDMAN_NOV IS NULL; 
+A) hansı tələbələrin idmanla məşğul olmadıqlarını 
+B) hansı tələbələrin idmanla məşğul olduqlarını
+C) hansı qrupun tələbələrn idmanla məşğul olmadıqlarını 
+D) hansı qrupun tələbələrin idmanla məşğul olduqlarını 
+E) “İdman-nov” sahəsi NULL olan sətirləri 
+A
+228. Sorğu zamanı cədvəlin bütün sütunlarını seçmək üçün aşağıdakı təlimatlardan hansını istifadə etmək lazımdır?
+A) DİSTİNCT	
+B) ALL	
+C) * və ya ALL	
+D) *	
+E) heç biri 
+D
+229. Mürəkkəb sorğuların tərtibi zamanı hansı operatorlardan istifadə olunur?
+A) SELECT ALL	
+B) UNİQUE	
+C) UNİON	
+D) SELECT *	
+E) heç biri 
+C
+230. Aşağıdakı proqram kodu nəyi müəyyənləşdirir? SELECT COUNT (*) FROM TƏLƏBƏ;
+A) TƏLƏBƏ cədvəlində NULL qiymətli sütunların sayını 
+B) TƏLƏBƏ cədvəlindən bütün sütunları seçilməsi
+C) TƏLƏBƏ cədvəlində olan boş sütunların sayını
+D) TƏLƏBƏ cədvəlində təkrarlanmayan sətirlərin sayını 
+E) TƏLƏBƏ cədvəlində neçə yazının olduğunu
+E
+231. Aşağıdakı proqram kodu nəyi müəyyən edir? SELECT SOY_İNİSİAL, KOD_İXT, DOGUM_YERİ FROM TƏLƏBƏ WHERE KOD_IXT = 050655 AND DOGUM_YERI IN (“BAKI”, “SUMQAYIT”, “GƏNCƏ”);
+A) “050655” ixtisasında oxuyan doğum yeri Bakı, Sumqayıt və Gəncə olan TƏLƏBƏ- lərı
+B) Doğum yeri Bakı, Sumqayıt və Gəncə olan TƏLƏBƏ-lərı
+C) “050655” ixtisasında oxumayan Bakı, Sumqayıt və Gəncə şəhərlərindən birində anadan olan TƏLƏBƏ-lərı
+D) Bakı, Gəncə və Sumqayıt şəhərlərinə göndəriləcək TƏLƏBƏ-lərı
+E) “050655” ixtisasında oxuyan Bakı, Sumqayıt və Gəncə şəhərlərinə göndəriləcək TƏLƏBƏlar
+A
+232. Aşağıdakı proqram kodunun hansı soyadının sonundan “ov” şəkilçisini silir? 
+A) SELECT UPPER (SOY_İNİSİAL, “OV”) FROM TƏLƏBƏ;
+B) SELECT LTRİM (SOY_İNİSİAL, “OV”) FROM TƏLƏBƏ;
+C) SELECT İNSTR (SOY_İNİSİAL, “OV”) FROM TƏLƏBƏ
+D) SELECT SUBSTR (SOY_İNİSİAL, “OV”)FROM TƏLƏBƏ;
+E) SELECT RTRİM (SOY_İNİSİAL, “OV”) FROM TƏLƏBƏ;
+E
+233. Aşağıdakı funksiyalardan hansı NULL qiymətinin əvəzinə başqa qiymətlər ardıcıllığı əlavə etmək üçün istifadə olunur?
+A) RPAD	
+B) İS NULL	
+C) İNSERT	
+D) TPAD	
+E) NVL 
+E
+234. LTRİM və RTRİM funksiyalar cütlüyü hansı funksiyaları yerinə yetirir?
+A) Uyğun olaraq verilmiş sətrin əvvəlindən və sonundan alt sətri seçib silmək üçün istifadə olunurlar.
+B) Uyğun olaraq registrləri aşağıdan yuxarı (kiçik hərfdən böyüyə) və əksinə çevirmək üçün istifadə olunurlar.
+C) Uyğun olaraq verilmiş sətrin əvvəlinə və sonuna alt sətri əlavə etmək üçün istifadə olunurlar.
+D) Uyğun olaraq verilmiş sətri sol və sağ tərəfə nizamlamaq üçün istifadə olunurlar. 
+E) Uyğun olaraq verilmiş sətrin əvvəlində və sonundan boşluqları (“	”) silmək üçün istifadə olunurlar.
+A
+235. COUNT və SUM funksiyalarının fərqi nədir?
+A) SUM sətirlərin sayını tapır, COUNT isə ədəd tipli sütundakı qiymətləri cəmləyir. 
+B) Fərqi yoxdur.
+C) COUNT bütün sətirlərin sayını tapır, SUM isə NULL qiymətləri istisna olmaqla sətirlərin sayını tapır.
+D) COUNT funksiyası sətirdəki simvolları sayır, SUM isə sütundakı simvolları sayır. 
+E) COUNT cədvəlindəki sətirlərin sayını tapır, SUM isə ədəd tipli sütundakı qiymətləri cəmləyir.
+E
+236. SELECT LPAD (SOY_İNS, 20, “.”) SOY-İNS FROM TƏLƏBƏ; proqram kodunun nəticəsi nə olacaq?
+A) Soyad və inisial yazılacaq sətrə 20 “.” əlavə edəcək.
+B) Ümumi uzunluğu 20 simvol olmaqla soyad və inisialın ardınca boş qalan mövqelərə “.”-lər əlavə edəcək.
+C) Ümumi uzunluğu 20 simvol olmaqla soyad və inisialın əvvəlində “.”-lər əlavə edəcək.
+D) Soyad və inisialın əvvəlində 20 “.” əlavə edəcək. 
+E) Soyad və inisialın sonuna 20 “.” əlavə edəcək.
+C
+237. Mövcud təhlükəsizlik qaydasını ləğv olunması üçün hansı təlimatdan istifadə olunur? 
+A) DESTROY SECURİTY RULE <qayda>
+B) DELETE SECURİTY RULE <qayda> 
+C) RESTROY SECURİTY RULE <qayda> 
+D) DROP SECURİTY RULE <qayda>	
+E) ALTER SECURİTY RULE <qayda>
+C
+238 . ANKET cədvəlində SOYAD və AD sahələrinin uzunluqlarının cəmini tapmaq üçün aşağıdakı proqram kodlarının hansı düzgündür?
+A) SELECT LENGTH (SUM (SOYAD+AD )) TOTAL FROM ANKET;
+B) SELECT LENGTH (SOYAD )+LENGTH (AD ) TOTAL FROM ANKET;
+C) SELECT SUM (SOYAD )+ SUM (AD ) TOTAL FROM ANKET;
+D) SELECT SUM (LENGTH (SOYAD+AD )) TOTAL
+E) SELECT SUM (LENGTH (SOYAD )+LENGTH(AD )) TOTAL FROM ANKET;
+E
+239. Təhlükəsizlik qaydaları ümumi halda neçə komponentdən ibarətdir? 
+A) 3	
+B) 4	
+C) 7	
+D) 6	
+E) 5
+B
+240. CREATE SECURİTY RULE QAYDA 2 CRRANT RETRİVE, İNSERT, UPDATE, DELETE ON ANKET WHERE DOGIL<=1950 TO ƏLİ, VƏLİ; proqram kodu hansı təhlükəsizlik qaydasını müəyyən edir?
+A) ƏLİ və VƏLİ adlı istifadəçilərə ANKET cədvəlinin DOGİL<=1950 olan kortejləri üzərində axtarış, daxiletmə, dəyişdirmə və silmə əməliyyatlarını aparmağa.
+B) ƏLİ və VƏLİ adlı istifadəçilərə ANKET cədvəlinin DOGİL<=1950 olan kortejlərin üzərində ancaq daxiletmə əməliyyatını aparmağa.
+C) ƏLİ və VƏLİ adlı istifadəçilər ANKET cədvəlində bütün yazılarda DOGİL atributuna 1950-dən kiçik illər yazmağı.
+D) ƏLİ və VƏLİ adlı istifadəçilər ANKET cədvəlində bütün yazılarda DOGİL atributuna 1950-dən böyük illər yazmağı.
+E) ƏLİ və VƏLİ adlı istifadəçilərə DOGİL<=1950-dən başqa bütün kortejləri üzərində axtarış, daxiletmə, dəyişdirmə və silmə əməliyyatlarını aparmağa.
+A
+241. RESTROY SECURİTY RULE GG; proqram kodunun nəticəsinə olacaq?
+A) GG qaydası yaradılacaq.	
+B) GG qaydası dəyişdiriləcək. 
+C) GG qaydası təsdiqlənəcək.   
+D) GG qaydası ləğv olunacaq. 
+E) GG qaydası bərpa olunacaq.
+D
+242. DATA tipli verilənlərin buraxıla bilən qiymətlər aralığı hansıdır?
+A) 0001-01-01-dən 9999-01-01 qədər 
+B) 1001-01-01-dən 9999-12-31 qədər 
+C) 0000-01-01-dən 9999-12-31 qədər 
+D) 0001-01-01-dən 9001-12-31 qədər 
+E) 0001-01-01-dən 9999-12-31 qədər
+C
+243. SELECT DİSTİNCT sütun 1, sütun 2, ..., sütun n FROM cədvəl; əmrində verilənlərin necə silinməsi nəzərdə tutulur?
+A) Təkrarlanmayan verilənlərin seçimi. 
+B) Bütün sətirlərin verilənlərinin seçimi.
+C) NULL qiyməti olmayan sətirlərdən verilənlərin seçimi.
+D) Boş yazısı olmayan sətirlərdən verilənlərin seçimini.
+E) Təkrarlanan sətirlərdən verilənlərin seçimi. 
+A
+244. Cədvəlin yaradılması zamanı NOT NULL məhdudluğu nəyi göstərir?
+A) Göstərilən sütun üçün cədvəlin bütün sətirlərinə “0”-ın yazılmasına icazə verilmədiyini
+B) Göstərilən sütun üçün cədvəlin bütün sətirlərinə “0” yazmaq lazım olduğunu
+C) Göstərilən sütun üçün cədvəlin bütün sətirlərdə qiymətlərin olmasının vacibliyini 
+D) Göstərilən sütun üçün cədvəlin bütün sətirlərinə “0”-dan başqa istənilən qiymətin yazılmasının mümkünlüyünü
+E) Göstərilən sütun üçün cədvəlin bütün sətirlərinə “0” yox “	” (boşluq) yazmaq lazım olduğunu
+C
+245. ORDER BY təlimatı sorğuda nə üçün istifadə olunur?
+A) ORDER BY təlimatı nəticəvi funksiyaları birləşdirmək üçün istifadə olunur. 
+B) ORDER BY təlimatı SELECT operatorunda təkrarlanan qiymətləri bir qrupda birləşdirmək üçün istifadə olunur.
+C) ORDER BY təlimatı seçilərək sütunların adını göstərmək üçün istifadə olunur. 
+D) ORDER BY təlimatı SQL-də şərti ifadəni vermək üçün istifadə olunur.
+E) ORDER BY təlimatı sorğuda çıxış nəticəni nizamlamaq üçün istifadə olunur.
+E
+246. MAX və MİN yekun funksiyalarından istifadə zamanı hansı təlimatdan istifadə etmək əhəmiyyətsizdir?
+A) DİSTİNCT	
+B) AVG	
+C) COUNT	
+D) *	
+E) SUM 
+A
+247. Aşağıdakı işarələr nəyi göstərir? X→→Y və X←←Y
+A) tam funksional asılılığı	
+B) “çoxun-çoxa” (M:N) çoxmənalı asılılığı
+C) R nisbətindən “birin-çoxa” (1:M), “çoxun-birə” (M:1) çoxmənalı asılılığı
+D) əks əlaqəli asılılığı	
+E) çoxmənalı asılılığın əksini 
+C
+248. Aşağıdakı əlavələr üçlüyündən hansı MS ACCESS-ə aid deyil?
+A) Cədvəllər, Modullar, Hesabatlar	
+B) Cədvəllər, Sorğular, Formalar
+C) Hesabatlar, Modullar, Makroslar	
+D) Proqramlar, Qrafiklər, Hiperistinadlar 
+E) Formalar, Hesabatlar, Modullar
+D
+249. POWER riyazi funksiyası nə üçün istifadə olunur?
+A) Kvadrat kökalma üçün.
+B) Ədədi yuvarlaqlaşdırmaq üçün.
+C) Ədədi qüvvətə yüksəltmə üçün.
+D) Ədədin tam hissəsini ayırmaq üçün. 
+E) Ədədə yuxarıdan yaxın olan tam ədədi tapmaq üçün.
+C
+250. Aşağıdakı funksiyalardan hansılar SQL-də istifadə olunurlar. 1) SİN	2) COS	3) TAN	4) COTAN 5) ATAN
+A) 1, 2, 3	
+B) 1, 2, 5	
+C) 1, 2	
+D) 1, 2, 4	
+E) 2, 3, 5
+A
