@@ -24,7 +24,7 @@ import javafx.scene.control.Label;
 import javafx.stage.Stage;
 
 public class LoginPage implements Initializable {
-	String[] data;
+	public static String[] data;
 
 	@FXML
 	private JFXSpinner slider;

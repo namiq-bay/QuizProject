@@ -1,4 +1,4 @@
-#enterBtn{
+#sendBtn{
     -fx-background-color: 
         #090a0c,
         linear-gradient(#38424b 0.0%, #1f2429 20.0%, #191d22 100.0%),
@@ -13,6 +13,14 @@
     -fx-font-size: 16.0px;
     -fx-padding: 10.0 20.0 10.0 20.0;
 }
-#enterBtn{
+#sendBtn {
     -fx-effect: dropshadow( one-pass-box , rgba(0.0,0.0,0.0,0.9) , 1.0, 0.0 , 0.0 , 1.0 );
+}
+
+
+.text-input {
+    -fx-text-fill: White;
+   }
+.text-input:focused {
+    -fx-prompt-text-fill: #4d4d4d;
 }

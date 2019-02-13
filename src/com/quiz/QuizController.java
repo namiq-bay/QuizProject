@@ -470,9 +470,9 @@ public class QuizController implements Initializable{
 	void aboutAction(ActionEvent event) {
 		try {
 			Stage stage = new Stage();
-			Parent root = FXMLLoader.load(getClass().getResource("/application/About.fxml"));
+			Parent root = FXMLLoader.load(getClass().getResource("/com/mail/MailController.fxml"));
 			stage.setScene(new Scene(root));
-			// root.getStylesheets().add(getClass().getResource("application.css").toExternalForm());
+			root.getStylesheets().add(getClass().getResource("/com/mail/style.css").toExternalForm());
 			stage.setResizable(false);
 			stage.setTitle("Əlaqə");
 			stage.show();
