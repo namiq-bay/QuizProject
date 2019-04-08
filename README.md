@@ -1,4 +1,6 @@
-# QuizProject_v2
+#QuizProject_v2
+
+**Multiple Choice Questions random or ordered**
 
 **Used technologies:**
 - Java 1.8
