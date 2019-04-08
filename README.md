@@ -1,10 +1,11 @@
 # QuizProject_v2
 
 **Used technologies:**
-_Java 1.8
-JavaFX
-CSS
-MySql DB_
+- Java 1.8
+- JavaFX GUI
+- CSS
+- MySql DB
+
 
 ![screenshot_20190407_201616](https://user-images.githubusercontent.com/26883189/55696928-0830b900-5974-11e9-8a63-3a36264a3f30.png)
 
